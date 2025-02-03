@@ -1,0 +1,41 @@
+2024-12-31 19:14:00.464 [info] Started local extension host with pid 120514.
+2024-12-31 19:14:00.626 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-12-31 19:14:00.626 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-12-31 19:14:03.114 [info] [perf] Render performance baseline is 23ms
+2024-12-31 19:14:03.391 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-12-31 19:14:03.392 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-12-31 19:14:03.396 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-12-31 19:14:05.995 [error] Timed out waiting for authentication provider to register
+2024-12-31 19:14:14.340 [error] Error: Unable to write file '/home/something.py' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/something.py')
+    at Uot.writeFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3109:62844)
+    at async Uot.createFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3109:62240)
+    at async Promise.all (index 0)
+    at async Object.e [as settled] (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:31:79223)
+    at async Y2e.doCreateFileOrFolder (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:504:8729)
+    at async Dve.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2105:9609)
+    at async UJe.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2105:12518)
+    at async KJe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2105:18503)
+    at async KJe.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2105:18160)
+    at async JJe.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2105:20104)
+2024-12-31 19:14:14.356 [error] Unable to write file '/home/something.py' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/something.py'): Error: Unable to write file '/home/something.py' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/something.py')
+    at Uot.writeFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3109:62844)
+    at async Uot.createFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3109:62240)
+    at async Promise.all (index 0)
+    at async Object.e [as settled] (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:31:79223)
+    at async Y2e.doCreateFileOrFolder (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:504:8729)
+    at async Dve.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2105:9609)
+    at async UJe.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2105:12518)
+    at async KJe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2105:18503)
+    at async KJe.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2105:18160)
+    at async JJe.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2105:20104)
+2024-12-31 19:15:50.076 [error] Invalid debug adapter: Error: Invalid debug adapter
+    at mVt.p (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:748:95)
+    at mVt.$acceptDAExit (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:748:35)
+    at Fdt.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3145:41680)
+    at Fdt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3145:41458)
+    at Fdt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3145:40546)
+    at Fdt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3145:39783)
+    at aee.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3145:38444)
+    at x.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:748)
+    at x.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:967)
+    at K6.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:762:10348)

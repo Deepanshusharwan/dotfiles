@@ -1,0 +1,15 @@
+2025/02/01-16:09:26.074 3a7f Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/01-16:09:26.074 3a7f Recovering log #231
+2025/02/01-16:09:26.076 3a7f Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000231.log 
+2025/02/02-12:24:28.918 3a7f Level-0 table #236: started
+2025/02/02-12:24:28.932 3a7f Level-0 table #236: 1287019 bytes OK
+2025/02/02-12:24:28.937 3a7f Delete type=0 #231
+2025/02/02-12:24:28.938 3a7f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/02/02-12:24:28.938 3a7f Manual compaction at level-1 from (begin) .. (end); will stop at '\x004\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 82233 : 1
+2025/02/02-12:24:28.939 3a7f Compacting 1@1 + 1@2 files
+2025/02/02-12:24:28.945 3a7f Generated table #237@1: 324 keys, 52375 bytes
+2025/02/02-12:24:28.945 3a7f Compacted 1@1 + 1@2 files => 52375 bytes
+2025/02/02-12:24:28.948 3a7f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/02-12:24:28.948 3a7f Delete type=2 #233
+2025/02/02-12:24:28.948 3a7f Delete type=2 #236
+2025/02/02-12:24:28.949 3a7f Manual compaction at level-1 from '\x004\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 82233 : 1 .. (end); will stop at (end)

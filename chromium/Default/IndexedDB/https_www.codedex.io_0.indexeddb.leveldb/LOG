@@ -1,0 +1,6 @@
+2025/01/18-11:19:28.428 6ef Creating DB /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.codedex.io_0.indexeddb.leveldb since it was missing.
+2025/01/18-11:19:28.432 6ef Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.codedex.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/18-11:19:28.540 6fe Level-0 table #5: started
+2025/01/18-11:19:28.542 6fe Level-0 table #5: 1358 bytes OK
+2025/01/18-11:19:28.545 6fe Delete type=0 #3
+2025/01/18-11:19:28.545 6fe Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

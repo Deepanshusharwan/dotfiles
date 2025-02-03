@@ -1,0 +1,6 @@
+2025/02/02-22:40:06.162 75c1 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_reimagined-space-rotary-phone-4jgpjgr45gwpfj6pj.github.dev_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-22:40:06.162 75c1 Recovering log #30
+2025/02/02-22:40:06.168 75c1 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_reimagined-space-rotary-phone-4jgpjgr45gwpfj6pj.github.dev_0.indexeddb.leveldb/000030.log 
+2025/02/02-23:00:38.727 75c2 Level-0 table #35: started
+2025/02/02-23:00:38.745 75c2 Level-0 table #35: 872011 bytes OK
+2025/02/02-23:00:38.749 75c2 Delete type=0 #30

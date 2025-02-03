@@ -1,0 +1,36 @@
+2024-12-31 23:21:24.225 [info] Extension host with pid 149139 started
+2024-12-31 23:21:24.225 [info] Skipping acquiring lock for /home/deepanshu/.config/Code - OSS/User/workspaceStorage/4b95c4efdd35bf174aa3e1a3fed0e972.
+2024-12-31 23:21:24.360 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-31 23:21:24.381 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-12-31 23:21:24.654 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-31 23:21:24.711 [error] Activating extension ms-python.debugpy failed due to an error:
+2024-12-31 23:21:24.711 [error] Error: Extension 'ms-python.debugpy' CANNOT use API proposal: portsAttributes.
+Its package.json#enabledApiProposals-property declares:  but NOT portsAttributes.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.debugpy
+	at L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:113:16650)
+	at Object.registerPortAttributesProvider (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:157:55936)
+	at t.registerDebugger (/home/deepanshu/.vscode-oss/extensions/ms-python.debugpy-2024.14.0-linux-x64/dist/extension.js:2:846294)
+	at e.activate (/home/deepanshu/.vscode-oss/extensions/ms-python.debugpy-2024.14.0-linux-x64/dist/extension.js:2:1095248)
+	at Pw.kb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:15214)
+	at Pw.jb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:14921)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:13079
+	at async K0.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:4447)
+	at async K0.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:4410)
+	at async K0.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:3866)
+2024-12-31 23:21:24.742 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-31 23:21:24.782 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-31 23:21:24.841 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-31 23:21:24.892 [info] Eager extensions activated
+2024-12-31 23:21:24.921 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-31 23:21:24.925 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-31 23:21:25.764 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:113:16650)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:157:39656)
+	at C.activate (/home/deepanshu/.vscode-oss/extensions/ms-python.python-2024.22.1-universal/out/client/extension.js:2:932762)
+	at /home/deepanshu/.vscode-oss/extensions/ms-python.python-2024.22.1-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/deepanshu/.vscode-oss/extensions/ms-python.python-2024.22.1-universal/out/client/extension.js:2:2447)
+2024-12-31 23:21:32.450 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-31 23:21:32.467 [info] Extension host with pid 149139 exiting with code 0
