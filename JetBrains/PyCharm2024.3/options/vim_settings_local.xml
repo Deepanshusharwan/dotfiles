@@ -1,0 +1,85 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">dQ==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="python_projects-1ca18d34">
+      <jump line="0" column="0" filename="$USER_HOME$/python_projects/students.csv" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/python_projects/students.py" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/python_projects/students.py" protocol="file" />
+      <jump line="7" column="31" filename="$USER_HOME$/python_projects/students.py" protocol="file" />
+      <jump line="15" column="15" filename="$USER_HOME$/python_projects/students.py" protocol="file" />
+      <jump line="16" column="18" filename="$USER_HOME$/python_projects/students.py" protocol="file" />
+      <jump line="11" column="15" filename="$USER_HOME$/python_projects/students.py" protocol="file" />
+      <jump line="14" column="11" filename="$USER_HOME$/python_projects/students.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/python_projects/students.py" protocol="file" />
+      <jump line="6" column="47" filename="$USER_HOME$/python_projects/students.py" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/python_projects/students.py" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/python_projects/students.py" timestamp="1737173251717">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/python_projects/students.csv" timestamp="1737172582647">
+        <mark key="&quot;" line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/python_projects/week_6.py" timestamp="1737172583415">
+        <mark key="&quot;" line="0" column="4" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ZHByaW50KGdldF9uYW1lKHN0dWRlbnRzW10pKQo=</text>
+      </register>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">KA==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">aQo=</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">aQo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">c3R1ZGVudCA9IAo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ZGQ7bGtlamY7b2FpandmZW87aWFqb2VmaWphb2l3ZmplO293aWphZWY7b2lqZTt3aWphO3dpZmVqO29haWZqdztmb2lqO2lqO2lqaWVmO2Fpam9pamE7b2phO3dlb2ZpO2oK</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ZGQ7bGtlamY7b2FpandmZW87aWFqb2VmaWphb2l3ZmplO293aWphZWY7b2lqZTt3aWphO3dpZmVqO29haWZqdztmb2lqO2lqO2lqaWVmO2Fpam9pamE7b2phO3dlb2ZpO2oK</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dQ==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">KA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">YQ==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

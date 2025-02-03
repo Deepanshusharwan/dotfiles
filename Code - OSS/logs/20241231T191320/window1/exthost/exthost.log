@@ -1,0 +1,20 @@
+2024-12-31 19:13:21.752 [info] Extension host with pid 120091 started
+2024-12-31 19:13:21.795 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-31 19:13:21.823 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-31 19:13:21.898 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-31 19:13:21.929 [info] Eager extensions activated
+2024-12-31 19:13:21.930 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-31 19:13:21.932 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-31 19:13:26.405 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-31 19:13:46.084 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+2024-12-31 19:13:47.402 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:113:16650)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:157:39656)
+	at C.activate (/home/deepanshu/.vscode-oss/extensions/ms-python.python-2024.22.1-universal/out/client/extension.js:2:932762)
+	at /home/deepanshu/.vscode-oss/extensions/ms-python.python-2024.22.1-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/deepanshu/.vscode-oss/extensions/ms-python.python-2024.22.1-universal/out/client/extension.js:2:2447)
+2024-12-31 19:13:55.618 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-31 19:13:55.629 [info] Extension host with pid 120091 exiting with code 0

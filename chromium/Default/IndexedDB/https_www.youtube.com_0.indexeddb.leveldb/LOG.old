@@ -1,0 +1,12 @@
+2025/02/01-15:09:15.926 7c8 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/01-15:09:15.926 7c8 Recovering log #227
+2025/02/01-15:09:15.932 7c8 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000227.log 
+2025/02/01-15:09:16.145 7c9 Level-0 table #232: started
+2025/02/01-15:09:16.160 7c9 Level-0 table #232: 1669882 bytes OK
+2025/02/01-15:09:16.164 7c9 Delete type=0 #227
+2025/02/01-15:09:17.623 7c9 Compacting 1@1 + 1@2 files
+2025/02/01-15:09:17.627 7c9 Generated table #233@1: 317 keys, 73635 bytes
+2025/02/01-15:09:17.627 7c9 Compacted 1@1 + 1@2 files => 73635 bytes
+2025/02/01-15:09:17.630 7c9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/01-15:09:17.630 7c9 Delete type=2 #229
+2025/02/01-15:09:17.630 7c9 Delete type=2 #232
