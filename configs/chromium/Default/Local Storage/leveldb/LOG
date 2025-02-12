@@ -1,0 +1,42 @@
+2025/02/11-19:07:51.797 4 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/11-19:07:51.800 4 Recovering log #809
+2025/02/11-19:07:51.800 4 Reusing old log /home/deepanshu/.config/chromium/Default/Local Storage/leveldb/000809.log 
+2025/02/11-19:08:57.799 4 Level-0 table #813: started
+2025/02/11-19:08:57.804 4 Level-0 table #813: 29460 bytes OK
+2025/02/11-19:08:57.809 4 Delete type=0 #809
+2025/02/11-19:08:57.810 4 Compacting 4@0 + 1@1 files
+2025/02/11-19:08:57.836 4 Generated table #814@0: 1811 keys, 1453332 bytes
+2025/02/11-19:08:57.836 4 Compacted 4@0 + 1@1 files => 1453332 bytes
+2025/02/11-19:08:57.839 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/11-19:08:57.840 4 Delete type=2 #803
+2025/02/11-19:08:57.840 4 Delete type=2 #805
+2025/02/11-19:08:57.840 4 Delete type=2 #807
+2025/02/11-19:08:57.840 4 Delete type=2 #810
+2025/02/11-19:08:57.840 4 Delete type=2 #813
+2025/02/11-19:10:57.798 5 Level-0 table #816: started
+2025/02/11-19:10:57.806 5 Level-0 table #816: 27676 bytes OK
+2025/02/11-19:10:57.812 5 Delete type=0 #812
+2025/02/11-19:31:48.364 5 Level-0 table #818: started
+2025/02/11-19:31:48.371 5 Level-0 table #818: 46044 bytes OK
+2025/02/11-19:31:48.376 5 Delete type=0 #815
+2025/02/11-20:01:02.290 5 Level-0 table #820: started
+2025/02/11-20:01:02.298 5 Level-0 table #820: 28870 bytes OK
+2025/02/11-20:01:02.303 5 Delete type=0 #817
+2025/02/11-20:20:00.948 4 Level-0 table #822: started
+2025/02/11-20:20:00.980 4 Level-0 table #822: 42955 bytes OK
+2025/02/11-20:20:00.988 4 Delete type=0 #819
+2025/02/11-20:20:00.989 4 Compacting 4@0 + 1@1 files
+2025/02/11-20:20:01.015 4 Generated table #823@0: 1823 keys, 1456516 bytes
+2025/02/11-20:20:01.015 4 Compacted 4@0 + 1@1 files => 1456516 bytes
+2025/02/11-20:20:01.018 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/11-20:20:01.020 4 Delete type=2 #814
+2025/02/11-20:20:01.020 4 Delete type=2 #816
+2025/02/11-20:20:01.020 4 Delete type=2 #818
+2025/02/11-20:20:01.020 4 Delete type=2 #820
+2025/02/11-20:20:01.020 4 Delete type=2 #822
+2025/02/11-20:56:09.862 5 Level-0 table #825: started
+2025/02/11-20:56:09.871 5 Level-0 table #825: 41762 bytes OK
+2025/02/11-20:56:09.878 5 Delete type=0 #821
+2025/02/11-20:58:06.508 5 Level-0 table #827: started
+2025/02/11-20:58:06.539 5 Level-0 table #827: 32155 bytes OK
+2025/02/11-20:58:06.543 5 Delete type=0 #824
