@@ -1,0 +1,8 @@
+{
+    "version": "2.1.0",
+    "autoload": {
+        "AT Translated Set 2 keyboard": "new preset",
+        "Video Bus": "new preset",
+        "CX 2.4G Receiver": "external_keyboard_red"
+    }
+}

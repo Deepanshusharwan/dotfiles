@@ -1,0 +1,9 @@
+2025/02/11-19:07:51.927 74bd Reusing MANIFEST /home/deepanshu/.config/chromium/Default/shared_proto_db/MANIFEST-000001
+2025/02/11-19:07:51.927 74bd Recovering log #12
+2025/02/11-19:07:51.927 74bd Reusing old log /home/deepanshu/.config/chromium/Default/shared_proto_db/000012.log 
+2025/02/11-19:45:12.377 74bd Compacting 1@1 + 1@2 files
+2025/02/11-19:45:12.383 74bd Generated table #15@1: 289 keys, 29951 bytes
+2025/02/11-19:45:12.383 74bd Compacted 1@1 + 1@2 files => 29951 bytes
+2025/02/11-19:45:12.386 74bd compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/11-19:45:12.386 74bd Delete type=2 #10
+2025/02/11-19:45:12.386 74bd Delete type=2 #13

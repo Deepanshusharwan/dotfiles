@@ -1,0 +1,149 @@
+<application>
+  <component name="AILicenseTypeStorage">
+    <option name="licenseId" value="77L5LPDJB0" />
+    <option name="selectedType" value="PRO" />
+  </component>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="Vcs.Show.Shelf" />
+      <option value="GitHub.MainMenu" />
+      <option value="ChangeLaf" />
+      <option value="LocalHistory" />
+      <option value="WelcomeScreen.Plugins" />
+      <option value="ToggleZenMode" />
+      <option value="CreateLauncherScript" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,csv-data-editor&quot;: &quot;text-editor&quot;,
+    &quot;csv-text-editor,csv-table-editor&quot;: &quot;csv-text-editor&quot;
+  }
+}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="26.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT&quot;: &quot;0&quot;,
+    &quot;AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES&quot;: &quot;true&quot;,
+    &quot;AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR&quot;: &quot;false&quot;,
+    &quot;AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR&quot;: &quot;false&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN&quot;: &quot;true&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN&quot;: &quot;true&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT&quot;: &quot;1&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES&quot;: &quot;false&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN&quot;: &quot;true&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER&quot;: &quot;true&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN&quot;: &quot;true&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN&quot;: &quot;true&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN&quot;: &quot;false&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS&quot;: &quot;true&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR&quot;: &quot;false&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS&quot;: &quot;false&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR&quot;: &quot;true&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR&quot;: &quot;false&quot;,
+    &quot;BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR&quot;: &quot;true&quot;,
+    &quot;DISTRACTION.MODE.ENTER.VALUE&quot;: &quot;false&quot;,
+    &quot;InstalledPluginsSearchHistory&quot;: &quot;catpucchin\ncatpucchi\ncatpucch\ncatpucc\ncatpuc&quot;,
+    &quot;KEYMAP&quot;: &quot;generat\ncode\nadd line\nnew line\nnew file&quot;,
+    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;5&quot;,
+    &quot;LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators&quot;: &quot;PY-243.22562.220&quot;,
+    &quot;MarketplacePluginsSearchHistory&quot;: &quot;cat\nca\ncatp\ncatpu\ncatpuc&quot;,
+    &quot;PluginConfigurable.selectionTab&quot;: &quot;1&quot;,
+    &quot;PyCharm.InitialConfiguration&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V2&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V3&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V4&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V5&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V6&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V7&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V8&quot;: &quot;true&quot;,
+    &quot;PyCharm.Pipenv.Path&quot;: &quot;/home/deepanshu/github_repos/my_repositories&quot;,
+    &quot;RunOnceActivity.VFSInitializationConditionsToFusReporter&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.llm.show.ai.promotion.window.on.start&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.endpoints.tab.on.search.everywhere.enabled&quot;: &quot;true&quot;,
+    &quot;SettingsSearchHistory&quot;: &quot;command\nca\ngpg\npip\nkey&quot;,
+    &quot;WelcomeFeature.SHORT_WELCOME_GUIDE_SHOWN&quot;: &quot;true&quot;,
+    &quot;ai.promo.window.was.actually.shown&quot;: &quot;true&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;enter_selection_count&quot;: &quot;4&quot;,
+    &quot;evlsprt.243&quot;: &quot;1945bc7ac40&quot;,
+    &quot;evlsprt3.243&quot;: &quot;7&quot;,
+    &quot;experimental.ui.on.first.startup&quot;: &quot;true&quot;,
+    &quot;experimental.ui.used.version&quot;: &quot;243.22562.220&quot;,
+    &quot;experimentalFeature.terminal.shell.command.handling&quot;: &quot;false&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;4&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;6&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;got.it.tooltip.ai.assistant.commit.message.editor.options.prompt.customization&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.new.terminal.promotion.243&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.settings.sync.in.settings&quot;: &quot;1&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;ideavim.statistics.timestamp&quot;: &quot;1737171760023&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/deepanshu/github_repos/my_repositories/codecrafters/codecrafters-redis-python&quot;,
+    &quot;llm.installer.auto.activation.executed&quot;: &quot;true&quot;,
+    &quot;llm.installer.last.toolwindow.state&quot;: &quot;AI_ASSISTANT&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;org.intellij.images.editor.actions.BackgroundImageDialog#recent&quot;: &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/Screenshot From 2025-01-24 00-26-41.png&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Dark&quot;,
+    &quot;python.new.interpreter.fav.manager&quot;: &quot;VIRTUALENV&quot;,
+    &quot;python.new.interpreter.fav.method&quot;: &quot;CREATE_NEW&quot;,
+    &quot;python.new.interpreter.fav.mode&quot;: &quot;PROJECT_VENV&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;PY-243.22562.220&quot;,
+    &quot;tab_selection_count&quot;: &quot;1&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;5.4.3&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;completion.ml.templates.used&quot;: [
+      &quot;.if&quot;
+    ],
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/deepanshu/github_repos/my_repositories/codecrafters/codecrafters-redis-python&quot;,
+      &quot;/home/deepanshu/python_projects/cs50p/week_6&quot;,
+      &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell&quot;,
+      &quot;/home/deepanshu/github_repos/my_repositories/Small-projects&quot;,
+      &quot;/home/deepanshu&quot;,
+      &quot;/home/deepanshu/cohort/week_2&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="week_2-history" project-path="/home/deepanshu/cohort/week_2" last-access-time="1737528399217" />
+      <command-history-file filename="python_projects-history" project-path="/home/deepanshu/python_projects" last-access-time="1737697990791" />
+      <command-history-file filename="Small-projects-history1" project-path="/home/deepanshu/github_repos/my_repositories/Small-projects" last-access-time="1737193948983" />
+      <command-history-file filename="Turtle-shell-history" project-path="/home/deepanshu/github_repos/my_repositories/Turtle-shell" last-access-time="1739264794432" />
+      <command-history-file filename="codecrafters-shell-python-history" project-path="/home/deepanshu/github_repos/my_repositories/codecrafters-shell-python" last-access-time="1738302978386" />
+      <command-history-file filename="Small-projects-history" project-path="/home/deepanshu/github_repos/my_repositories/Small-projects" last-access-time="1737194314129" />
+      <command-history-file filename="week_6-history" project-path="/home/deepanshu/python_projects/cs50p/week_6" last-access-time="1737723583213" />
+    </command-history-files>
+  </component>
+</application>

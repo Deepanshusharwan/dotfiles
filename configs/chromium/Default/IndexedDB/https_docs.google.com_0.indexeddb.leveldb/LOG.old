@@ -1,0 +1,7 @@
+2025/02/11-11:29:06.808 1091 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/11-11:29:06.808 1091 Recovering log #3
+2025/02/11-11:29:06.810 1091 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2025/02/11-11:30:38.508 1092 Level-0 table #5: started
+2025/02/11-11:30:38.513 1092 Level-0 table #5: 621651 bytes OK
+2025/02/11-11:30:38.516 1092 Delete type=0 #3
+2025/02/11-11:30:38.517 1092 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

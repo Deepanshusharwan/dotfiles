@@ -1,7 +1,0 @@
-2025/01/28-19:01:20.392 cf36 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/01/28-19:01:20.393 cf36 Recovering log #156
-2025/01/28-19:01:20.393 cf36 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000156.log 
-2025/01/28-19:01:20.410 cf37 Level-0 table #162: started
-2025/01/28-19:01:20.411 cf37 Level-0 table #162: 813 bytes OK
-2025/01/28-19:01:20.414 cf37 Delete type=0 #156
-2025/01/28-19:01:20.415 cf28 Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
