@@ -1,6 +1,45 @@
-2025/02/11-19:06:39.941 72b3 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2025/02/11-19:06:39.942 72b3 Recovering log #700
-2025/02/11-19:06:39.942 72b3 Reusing old log /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000700.log 
-2025/02/11-19:07:18.318 72b5 Level-0 table #704: started
-2025/02/11-19:07:18.342 72b5 Level-0 table #704: 4971432 bytes OK
-2025/02/11-19:07:18.345 72b5 Delete type=0 #700
+2025/02/12-22:13:55.222 dee2 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2025/02/12-22:13:55.222 dee2 Recovering log #732
+2025/02/12-22:13:55.222 dee2 Reusing old log /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000732.log 
+2025/02/12-22:14:33.461 dee3 Level-0 table #736: started
+2025/02/12-22:14:33.482 dee3 Level-0 table #736: 4210817 bytes OK
+2025/02/12-22:14:33.485 dee3 Delete type=0 #732
+2025/02/12-22:15:30.364 dee4 Level-0 table #738: started
+2025/02/12-22:15:30.406 dee4 Level-0 table #738: 8461913 bytes OK
+2025/02/12-22:15:30.409 dee4 Delete type=0 #735
+2025/02/12-22:15:30.411 dee4 Compacting 4@0 + 3@1 files
+2025/02/12-22:15:30.420 dee4 Generated table #739@0: 4 keys, 2325969 bytes
+2025/02/12-22:15:30.443 dee4 Generated table #740@0: 6 keys, 2644352 bytes
+2025/02/12-22:15:30.463 dee4 Generated table #741@0: 2 keys, 2310174 bytes
+2025/02/12-22:15:30.507 dee4 Generated table #742@0: 2 keys, 4540378 bytes
+2025/02/12-22:15:30.519 dee4 Generated table #743@0: 8 keys, 1139062 bytes
+2025/02/12-22:15:30.519 dee4 Compacted 4@0 + 3@1 files => 12959935 bytes
+2025/02/12-22:15:30.522 dee4 compacted to: files[ 0 5 5 0 0 0 0 ]
+2025/02/12-22:15:30.522 dee4 Delete type=2 #723
+2025/02/12-22:15:30.522 dee4 Delete type=2 #724
+2025/02/12-22:15:30.522 dee4 Delete type=2 #727
+2025/02/12-22:15:30.522 dee4 Delete type=2 #731
+2025/02/12-22:15:30.522 dee4 Delete type=2 #733
+2025/02/12-22:15:30.522 dee4 Delete type=2 #736
+2025/02/12-22:15:30.522 dee4 Delete type=2 #738
+2025/02/12-22:15:30.527 dee4 Compacting 1@1 + 1@2 files
+2025/02/12-22:15:30.538 dee4 Generated table #744@1: 16 keys, 1141360 bytes
+2025/02/12-22:15:30.538 dee4 Compacted 1@1 + 1@2 files => 1141360 bytes
+2025/02/12-22:15:30.540 dee4 compacted to: files[ 0 4 5 0 0 0 0 ]
+2025/02/12-22:15:30.541 dee4 Delete type=2 #696
+2025/02/12-22:15:30.541 dee4 Delete type=2 #743
+2025/02/12-22:15:30.541 dee4 Compacting 1@1 + 1@2 files
+2025/02/12-22:15:30.553 dee4 Generated table #745@1: 6 keys, 2342839 bytes
+2025/02/12-22:15:30.553 dee4 Compacted 1@1 + 1@2 files => 2342839 bytes
+2025/02/12-22:15:30.556 dee4 compacted to: files[ 0 3 5 0 0 0 0 ]
+2025/02/12-22:15:30.556 dee4 Delete type=2 #697
+2025/02/12-22:15:30.556 dee4 Delete type=2 #739
+2025/02/13-19:45:29.667 dee4 Level-0 table #747: started
+2025/02/13-19:45:29.689 dee4 Level-0 table #747: 4270558 bytes OK
+2025/02/13-19:45:29.695 dee4 Delete type=0 #737
+2025/02/13-19:46:33.159 dee4 Level-0 table #749: started
+2025/02/13-19:46:33.182 dee4 Level-0 table #749: 4386190 bytes OK
+2025/02/13-19:46:33.186 dee4 Delete type=0 #746
+2025/02/13-19:46:36.533 dee3 Level-0 table #751: started
+2025/02/13-19:46:36.565 dee3 Level-0 table #751: 4620981 bytes OK
+2025/02/13-19:46:36.568 dee3 Delete type=0 #748

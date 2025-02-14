@@ -1,27 +1,23 @@
-2025/02/11-19:07:52.032 74bc Reusing MANIFEST /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2025/02/11-19:07:52.033 74bc Recovering log #703
-2025/02/11-19:07:52.036 74bc Reusing old log /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000703.log 
-2025/02/11-19:08:48.944 74be Level-0 table #707: started
-2025/02/11-19:08:48.990 74be Level-0 table #707: 7561505 bytes OK
-2025/02/11-19:08:48.994 74be Delete type=0 #703
-2025/02/11-19:08:48.995 74be Compacting 4@0 + 3@1 files
-2025/02/11-19:08:49.009 74be Generated table #708@0: 4 keys, 2323993 bytes
-2025/02/11-19:08:49.030 74be Generated table #709@0: 7 keys, 2711798 bytes
-2025/02/11-19:08:49.048 74be Generated table #710@0: 2 keys, 2307993 bytes
-2025/02/11-19:08:49.108 74be Generated table #711@0: 2 keys, 4715577 bytes
-2025/02/11-19:08:49.120 74be Generated table #712@0: 7 keys, 1057952 bytes
-2025/02/11-19:08:49.120 74be Compacted 4@0 + 3@1 files => 13117313 bytes
-2025/02/11-19:08:49.123 74be compacted to: files[ 0 5 5 0 0 0 0 ]
-2025/02/11-19:08:49.123 74be Delete type=2 #692
-2025/02/11-19:08:49.123 74be Delete type=2 #693
-2025/02/11-19:08:49.123 74be Delete type=2 #694
-2025/02/11-19:08:49.123 74be Delete type=2 #699
-2025/02/11-19:08:49.123 74be Delete type=2 #701
-2025/02/11-19:08:49.123 74be Delete type=2 #704
-2025/02/11-19:08:49.123 74be Delete type=2 #707
-2025/02/11-19:08:49.126 74be Compacting 1@1 + 1@2 files
-2025/02/11-19:08:49.141 74be Generated table #713@1: 8 keys, 2762902 bytes
-2025/02/11-19:08:49.141 74be Compacted 1@1 + 1@2 files => 2762902 bytes
-2025/02/11-19:08:49.144 74be compacted to: files[ 0 4 5 0 0 0 0 ]
-2025/02/11-19:08:49.144 74be Delete type=2 #640
-2025/02/11-19:08:49.144 74be Delete type=2 #709
+2025/02/13-20:29:01.913 f5da Reusing MANIFEST /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2025/02/13-20:29:01.914 f5da Recovering log #750
+2025/02/13-20:29:01.914 f5da Reusing old log /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000750.log 
+2025/02/13-20:29:40.176 f5db Level-0 table #754: started
+2025/02/13-20:29:40.190 f5db Level-0 table #754: 4392202 bytes OK
+2025/02/13-20:29:40.193 f5db Delete type=0 #750
+2025/02/13-20:29:40.194 f5db Compacting 4@0 + 3@1 files
+2025/02/13-20:29:40.204 f5db Generated table #755@0: 4 keys, 2326566 bytes
+2025/02/13-20:29:40.224 f5db Generated table #756@0: 7 keys, 2698504 bytes
+2025/02/13-20:29:40.261 f5db Generated table #757@0: 11 keys, 2191397 bytes
+2025/02/13-20:29:40.264 f5db Generated table #758@0: 3 keys, 82192 bytes
+2025/02/13-20:29:40.264 f5db Compacted 4@0 + 3@1 files => 7298659 bytes
+2025/02/13-20:29:40.267 f5db compacted to: files[ 0 4 5 0 0 0 0 ]
+2025/02/13-20:29:40.268 f5db Delete type=2 #740
+2025/02/13-20:29:40.268 f5db Delete type=2 #741
+2025/02/13-20:29:40.268 f5db Delete type=2 #742
+2025/02/13-20:29:40.268 f5db Delete type=2 #747
+2025/02/13-20:29:40.268 f5db Delete type=2 #749
+2025/02/13-20:29:40.268 f5db Delete type=2 #751
+2025/02/13-20:29:40.268 f5db Delete type=2 #754
+2025/02/13-20:30:37.062 f5dd Level-0 table #760: started
+2025/02/13-20:30:37.104 f5dd Level-0 table #760: 8079894 bytes OK
+2025/02/13-20:30:37.107 f5dd Delete type=0 #753

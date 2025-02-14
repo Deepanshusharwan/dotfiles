@@ -8,7 +8,7 @@ vim.g.mapleader = " "
 vim.cmd [[highlight LineNr guifg=#ADD8E6 guibg=#2E2E2E]]
 
 -- fatty cursor
-vim.opt.guicursor = ""
+--vim.opt.guicursor = ""
 
 -- Enable line numbers
 vim.o.number = true

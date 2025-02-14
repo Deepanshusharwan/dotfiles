@@ -21,7 +21,7 @@ return {
       -- Delete buffer
       vim.keymap.set('n', '<leader>bd', ':bdelete<CR>', { desc = 'Delete Buffer' })
       --to search from help meun
-      -- vim.keymap.set('n', '<leader>vh', builtin.help_tags, {})
+      vim.keymap.set('n', '<leader>vh', builtin.help_tags, {})
     end
   },
   {

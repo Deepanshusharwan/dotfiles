@@ -1,21 +1,12 @@
-2025/02/11-19:45:04.979 74bc Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/11-19:45:04.980 74bc Recovering log #246
-2025/02/11-19:45:04.985 74bc Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000246.log 
-2025/02/11-19:45:17.406 74bd Level-0 table #251: started
-2025/02/11-19:45:17.424 74bd Level-0 table #251: 1581714 bytes OK
-2025/02/11-19:45:17.428 74bd Delete type=0 #246
-2025/02/11-19:46:11.880 74be Compacting 1@1 + 1@2 files
-2025/02/11-19:46:11.889 74be Generated table #252@1: 313 keys, 45203 bytes
-2025/02/11-19:46:11.889 74be Compacted 1@1 + 1@2 files => 45203 bytes
-2025/02/11-19:46:11.892 74be compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/11-19:46:11.892 74be Delete type=2 #248
-2025/02/11-19:46:11.892 74be Delete type=2 #251
-2025/02/11-19:48:36.481 74bd Level-0 table #254: started
-2025/02/11-19:48:36.499 74bd Level-0 table #254: 1019894 bytes OK
-2025/02/11-19:48:36.503 74bd Delete type=0 #250
-2025/02/11-20:00:06.401 74bc Compacting 1@1 + 1@2 files
-2025/02/11-20:00:06.413 74bc Generated table #255@1: 355 keys, 50869 bytes
-2025/02/11-20:00:06.413 74bc Compacted 1@1 + 1@2 files => 50869 bytes
-2025/02/11-20:00:06.416 74bc compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/11-20:00:06.417 74bc Delete type=2 #252
-2025/02/11-20:00:06.417 74bc Delete type=2 #254
+2025/02/14-08:51:39.227 f5dd Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/14-08:51:39.227 f5dd Recovering log #257
+2025/02/14-08:51:39.227 f5dd Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000257.log 
+2025/02/14-09:02:43.803 f5db Level-0 table #262: started
+2025/02/14-09:02:43.821 f5db Level-0 table #262: 1122407 bytes OK
+2025/02/14-09:02:43.824 f5db Delete type=0 #257
+2025/02/14-09:03:57.335 f5da Compacting 1@1 + 1@2 files
+2025/02/14-09:03:57.342 f5da Generated table #263@1: 322 keys, 41337 bytes
+2025/02/14-09:03:57.343 f5da Compacted 1@1 + 1@2 files => 41337 bytes
+2025/02/14-09:03:57.345 f5da compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/14-09:03:57.346 f5da Delete type=2 #259
+2025/02/14-09:03:57.346 f5da Delete type=2 #262
