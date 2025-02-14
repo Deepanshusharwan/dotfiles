@@ -1,25 +1,14 @@
-2025/02/11-19:42:23.589 74bc Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/11-19:42:23.589 74bc Recovering log #314
-2025/02/11-19:42:23.589 74bc Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000314.log 
-2025/02/11-19:42:23.589 74bc Delete type=2 #312
-2025/02/11-19:42:23.619 74bc Level-0 table #319: started
-2025/02/11-19:42:23.621 74bc Level-0 table #319: 2313 bytes OK
-2025/02/11-19:42:23.623 74bc Delete type=0 #314
-2025/02/11-19:42:23.624 74cb Manual compaction at level-0 from '\x00U\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00V\x00\x00\x00' @ 0 : 0; will stop at '\x00U\x00\x00\x05' @ 6246 : 1
-2025/02/11-19:42:23.624 74cb Compacting 1@0 + 1@1 files
-2025/02/11-19:42:23.625 74cb Generated table #320@0: 25 keys, 1580 bytes
-2025/02/11-19:42:23.625 74cb Compacted 1@0 + 1@1 files => 1580 bytes
-2025/02/11-19:42:23.628 74cb compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/02/11-19:42:23.628 74cb Delete type=2 #319
-2025/02/11-19:42:23.628 74bc Manual compaction at level-0 from '\x00U\x00\x00\x05' @ 6246 : 1 .. '\x00V\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/02/11-19:43:07.087 74be Level-0 table #322: started
-2025/02/11-19:43:07.089 74be Level-0 table #322: 2300 bytes OK
-2025/02/11-19:43:07.092 74be Delete type=2 #316
-2025/02/11-19:43:07.092 74be Delete type=0 #318
-2025/02/11-19:43:07.092 74bc Manual compaction at level-0 from '\x00V\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00W\x00\x00\x00' @ 0 : 0; will stop at '\x00V\x00\x00\x05' @ 6303 : 1
-2025/02/11-19:43:07.093 74bc Compacting 1@0 + 1@1 files
-2025/02/11-19:43:07.094 74bc Generated table #323@0: 32 keys, 1647 bytes
-2025/02/11-19:43:07.094 74bc Compacted 1@0 + 1@1 files => 1647 bytes
-2025/02/11-19:43:07.097 74bc compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/02/11-19:43:07.097 74bc Delete type=2 #322
-2025/02/11-19:43:07.097 74bc Manual compaction at level-0 from '\x00V\x00\x00\x05' @ 6303 : 1 .. '\x00W\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/14-09:33:39.476 f5db Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/14-09:33:39.476 f5db Recovering log #345
+2025/02/14-09:33:39.476 f5db Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000345.log 
+2025/02/14-09:33:39.477 f5db Delete type=2 #343
+2025/02/14-09:33:39.494 f5e1 Level-0 table #350: started
+2025/02/14-09:33:39.496 f5e1 Level-0 table #350: 2311 bytes OK
+2025/02/14-09:33:39.498 f5e1 Delete type=0 #345
+2025/02/14-09:33:39.498 f5da Manual compaction at level-0 from '\x00]\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00^\x00\x00\x00' @ 0 : 0; will stop at '\x00]\x00\x00\x05' @ 6738 : 1
+2025/02/14-09:33:39.498 f5da Compacting 1@0 + 1@1 files
+2025/02/14-09:33:39.500 f5da Generated table #351@0: 52 keys, 2063 bytes
+2025/02/14-09:33:39.500 f5da Compacted 1@0 + 1@1 files => 2063 bytes
+2025/02/14-09:33:39.502 f5da compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/14-09:33:39.503 f5da Delete type=2 #350
+2025/02/14-09:33:39.503 f5da Manual compaction at level-0 from '\x00]\x00\x00\x05' @ 6738 : 1 .. '\x00^\x00\x00\x00' @ 0 : 0; will stop at (end)

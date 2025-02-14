@@ -1,3 +1,3 @@
-2025/02/11-19:07:52.179 74bd Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/11-19:07:52.179 74bd Recovering log #27
-2025/02/11-19:07:52.184 74bd Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000027.log 
+2025/02/13-20:29:02.022 f5db Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/13-20:29:02.022 f5db Recovering log #27
+2025/02/13-20:29:02.029 f5db Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000027.log 
