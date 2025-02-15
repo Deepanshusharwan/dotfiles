@@ -1,6 +1,0 @@
-2025/02/07-23:36:02.721 64b Creating DB /home/deepanshu/.config/chromium/Default/IndexedDB/https_youtrack.jetbrains.com_0.indexeddb.leveldb since it was missing.
-2025/02/07-23:36:02.724 64b Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_youtrack.jetbrains.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/07-23:36:11.523 64c Level-0 table #5: started
-2025/02/07-23:36:11.525 64c Level-0 table #5: 885 bytes OK
-2025/02/07-23:36:11.528 64c Delete type=0 #3
-2025/02/07-23:36:11.529 64c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
