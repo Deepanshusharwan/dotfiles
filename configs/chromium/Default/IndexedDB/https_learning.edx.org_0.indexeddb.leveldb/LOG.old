@@ -1,7 +1,0 @@
-2025/02/04-21:14:13.239 7109 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_learning.edx.org_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/04-21:14:13.239 7109 Recovering log #3
-2025/02/04-21:14:13.241 7109 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_learning.edx.org_0.indexeddb.leveldb/000003.log 
-2025/02/04-21:14:53.447 710a Level-0 table #5: started
-2025/02/04-21:14:53.449 710a Level-0 table #5: 3320 bytes OK
-2025/02/04-21:14:53.451 710a Delete type=0 #3
-2025/02/04-21:14:53.452 710a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
