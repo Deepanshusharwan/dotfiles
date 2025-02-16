@@ -1,34 +1,150 @@
 <application>
-  <component name="FileEditorProviderManager">{}</component>
+  <component name="AILicenseTypeStorage">
+    <option name="selectedType" value="PRO" />
+  </component>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="Vcs.Show.Shelf" />
+      <option value="GitHub.MainMenu" />
+      <option value="ChangeLaf" />
+      <option value="LocalHistory" />
+      <option value="WelcomeScreen.Plugins" />
+      <option value="ToggleZenMode" />
+      <option value="CreateLauncherScript" />
+    </ids>
+  </component>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyUnresolvedReferencesInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,csv-data-editor&quot;: &quot;text-editor&quot;,
+    &quot;csv-text-editor,csv-table-editor&quot;: &quot;csv-text-editor&quot;
+  }
+}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
   <component name="NotRoamableUiSettings">
-    <option name="fontSize" value="28.0" />
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="26.0" />
     <option name="presentationModeIdeScale" value="1.75" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "false",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "DISTRACTION.MODE.ENTER.VALUE": "false",
     "GeneralSettings.initiallyConfigured": "true",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
-    "MarketplacePluginsSearchHistory": "live\nli\ngi\ngit\ndocke",
+    "InstalledPluginsSearchHistory": "catpucchin\ncatpucchi\ncatpucch\ncatpucc\ncatpuc",
+    "KEYMAP": "generat\ncode\nadd line\nnew line\nnew file",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "PY-243.22562.220",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "PY-243.22562.220",
+    "MarketplacePluginsSearchHistory": "cat\nca\ncatp\ncatpu\ncatpuc",
+    "PluginConfigurable.selectionTab": "1",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "PyCharm.Pipenv.Path": "/home/deepanshu/github_repos/my_repositories",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "RunOnceActivity.pycharm.endpoints.tab.on.search.everywhere.enabled": "true",
     "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
-    "SettingsSearchHistory": "vm",
+    "SettingsSearchHistory": "memory\nview mode\ncommand\nca\ngpg",
+    "WelcomeFeature.SHORT_WELCOME_GUIDE_SHOWN": "true",
+    "ai.promo.window.was.actually.shown": "true",
     "ask.about.ctrl.y.shortcut.v2": "true",
-    "evlsprt3.243": "6",
+    "enter_selection_count": "4",
+    "evlsprt.243": "1945bc7ac40",
+    "evlsprt3.243": "7",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "243.22562.222",
-    "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "26.0",
-    "fontSizeToResetEditor": "26.0",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "4",
+    "fileTypeChangedCounter": "6",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.ai.assistant.commit.message.editor.options.prompt.customization": "1",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
     "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1739541019799",
     "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/deepanshu/python_projects/pandas_tutorial",
     "llm.installer.auto.activation.executed": "true",
-    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "llm.installer.last.toolwindow.state": "AI_ASSISTANT",
     "migrated.non.roamable.values.from.general.settings": "true",
+    "org.intellij.images.editor.actions.BackgroundImageDialog#recent": "/home/deepanshu/github_repos/my_repositories/Turtle-shell/Screenshot From 2025-01-24 00-26-41.png",
     "previousColorScheme": "_@user_Dark",
+    "python.new.interpreter.fav.manager": "VIRTUALENV",
+    "python.new.interpreter.fav.method": "CREATE_NEW",
+    "python.new.interpreter.fav.mode": "PROJECT_VENV",
     "registry.to.advanced.settings.migration.build": "WS-243.22562.222",
+    "tab_selection_count": "1",
     "ts.lib.d.ts.version": "5.4.3"
   },
   "keyToStringList": {
+    "completion.ml.templates.used": [
+      ".if"
+    ],
+    "file.chooser.recent.files": [
+      "/home/deepanshu/github_repos/clones/complete-pandas-tutorial",
+      "/home/deepanshu/python_projects/pandas_tutorial",
+      "/home/deepanshu/github_repos/my_repositories/codecrafters/codecrafters-redis-python",
+      "/home/deepanshu/python_projects/cs50p/week_6",
+      "/home/deepanshu/github_repos/my_repositories/Turtle-shell",
+      "/home/deepanshu/github_repos/my_repositories/Small-projects",
+      "/home/deepanshu",
+      "/home/deepanshu/cohort/week_2"
+    ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
       "com.intellij.docker.dockerFile.DockerFileTypeDetector",
@@ -40,4 +156,17 @@
     ]
   }
 }]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="complete-pandas-tutorial-history1" project-path="/home/deepanshu/github_repos/clones/complete-pandas-tutorial" last-access-time="1739512671814" />
+      <command-history-file filename="week_2-history" project-path="/home/deepanshu/cohort/week_2" last-access-time="1737528399217" />
+      <command-history-file filename="python_projects-history" project-path="/home/deepanshu/python_projects" last-access-time="1737697990791" />
+      <command-history-file filename="Small-projects-history1" project-path="/home/deepanshu/github_repos/my_repositories/Small-projects" last-access-time="1737193948983" />
+      <command-history-file filename="Turtle-shell-history" project-path="/home/deepanshu/github_repos/my_repositories/Turtle-shell" last-access-time="1739556264297" />
+      <command-history-file filename="codecrafters-shell-python-history" project-path="/home/deepanshu/github_repos/my_repositories/codecrafters-shell-python" last-access-time="1738302978386" />
+      <command-history-file filename="pandas_tutorial-history" project-path="/home/deepanshu/python_projects/pandas_tutorial" last-access-time="1739283679359" />
+      <command-history-file filename="Small-projects-history" project-path="/home/deepanshu/github_repos/my_repositories/Small-projects" last-access-time="1737194314129" />
+      <command-history-file filename="week_6-history" project-path="/home/deepanshu/python_projects/cs50p/week_6" last-access-time="1737723583213" />
+    </command-history-files>
+  </component>
 </application>

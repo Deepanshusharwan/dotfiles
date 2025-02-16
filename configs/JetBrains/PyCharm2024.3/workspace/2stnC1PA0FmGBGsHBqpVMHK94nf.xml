@@ -7,21 +7,21 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="1ib167hzgs76u" />
+    <leaf ideFingerprint="3rksp3by5e9h9" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
   </component>
-  <component name="FileTypeUsageLocalSummary"><![CDATA[{
-  "data": {
-    "Python": {
-      "usageCount": 1,
-      "lastUsed": 1739283610724
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;Python&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1739283610724
     }
   }
-}]]></component>
-  <component name="IdeDocumentHistory"><![CDATA[{
-  "changedPaths": [
-    "/home/deepanshu/python_projects/pandas_tutorial/main.py"
+}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/deepanshu/python_projects/pandas_tutorial/main.py&quot;
   ]
-}]]></component>
+}</component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -37,7 +37,41 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pandas_tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/python_projects/pandas_tutorial}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="pandas_tutorial" />
+            <item name="pandas_tutorial" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="pandas_tutorial" />
+              <item name="dir{file:///home/deepanshu/python_projects/pandas_tutorial}" type="462c0819:PsiDirectoryNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -52,13 +86,13 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="726000" />
+    <option name="totallyTimeSpent" value="766000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32994187" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5008681" visible="true" weight="0.32994187" />
       <window_info id="Commit" order="1" weight="0.25" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="2" sideWeight="0.49913195" side_tool="true" weight="0.32994187" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
@@ -75,15 +109,17 @@
       <unified_weights bottom="0.3303942" left="0.32994187" />
     </layoutV2>
     <recentWindows>
-      <value>Terminal</value>
       <value>Project</value>
+      <value>Structure</value>
+      <value>Terminal</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state x="648" y="238" key="FileChooserDialogImpl" timestamp="1739284332029">
-      <screen x="0" y="0" width="1440" height="810" />
+    <state x="778" y="286" key="FileChooserDialogImpl" timestamp="1739595322391">
+      <screen x="0" y="0" width="1728" height="972" />
     </state>
     <state x="648" y="238" key="FileChooserDialogImpl/0.0.1440.810@0.0.1440.810" timestamp="1739284332029" />
+    <state x="778" y="286" key="FileChooserDialogImpl/0.0.1728.972@0.0.1728.972" timestamp="1739595322391" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">

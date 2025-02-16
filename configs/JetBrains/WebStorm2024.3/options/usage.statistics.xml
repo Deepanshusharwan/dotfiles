@@ -1,6 +1,9 @@
 <application>
   <component name="UsagesStatistic">
-    <system-event-id recorder="MP" id="20" />
-    <system-event-id recorder="FUS" id="461" />
+    <system-event-id recorder="MP" id="507" />
+    <system-event-id recorder="FUS" id="138289" />
+    <system-event-id recorder="LLMC" id="10081" />
+    <system-event-id recorder="IJ_MAP" id="169" />
+    <system-event-id recorder="ML" id="12729" />
   </component>
 </application>

@@ -42,29 +42,29 @@
     </select>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="1ib167hzgs76u" SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file>
+    <leaf ideFingerprint="3rksp3by5e9h9" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/main.py">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="784">
-              <caret line="380" column="144" selection-start-line="380" selection-start-column="144" selection-end-line="380" selection-end-column="144" />
+            <state relative-caret-position="808">
+              <caret line="438" column="19" selection-start-line="438" selection-start-column="19" selection-end-line="438" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
         <tab><![CDATA[{"tabTitle":"main.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
-      <file current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
-            <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
-              <first_editor relative-caret-position="88">
-                <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/.config/keybindings.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"keybindings.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
     </leaf>
   </component>
@@ -75,20 +75,20 @@
       "lastUsed": 1737655283144
     },
     "Ini": {
-      "usageCount": 2,
-      "lastUsed": 1737655283052
+      "usageCount": 6,
+      "lastUsed": 1739556264500
     },
     "Markdown": {
-      "usageCount": 24,
-      "lastUsed": 1739264508903
+      "usageCount": 27,
+      "lastUsed": 1739556265703
     },
     "Image": {
       "usageCount": 2,
       "lastUsed": 1737723239654
     },
     "PLAIN_TEXT": {
-      "usageCount": 2,
-      "lastUsed": 1737662276450
+      "usageCount": 4,
+      "lastUsed": 1739556264566
     },
     "TOML": {
       "usageCount": 1,
@@ -103,17 +103,25 @@
       "lastUsed": 1737658896788
     },
     "Python": {
-      "usageCount": 21,
-      "lastUsed": 1739264508311
+      "usageCount": 32,
+      "lastUsed": 1739595299977
     },
     "RPM SPEC": {
       "usageCount": 1,
       "lastUsed": 1737662305929
+    },
+    "DIFF": {
+      "usageCount": 2,
+      "lastUsed": 1739562265043
     }
   }
 }]]></component>
   <component name="GitBranchesPopupTreeState">
     <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
       <path>
         <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
         <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
@@ -122,15 +130,17 @@
     <select />
   </component>
   <component name="GitSEFilterConfiguration">{}</component>
-  <component name="IdeDocumentHistory"><![CDATA[{
-  "changedPaths": [
-    "/home/deepanshu/github_repos/my_repositories/Turtle-shell/turtle-shell.sh",
-    "/home/deepanshu/github_repos/my_repositories/Turtle-shell/pyvenv.cfg",
-    "/home/deepanshu/github_repos/my_repositories/Turtle-shell/main.spec",
-    "/home/deepanshu/github_repos/my_repositories/Turtle-shell/app/main.py",
-    "/home/deepanshu/github_repos/my_repositories/Turtle-shell/README.md"
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/turtle-shell.sh&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/pyvenv.cfg&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/main.spec&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/README.md&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/app/.config/keybindings.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/requirement.txt&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/app/main.py&quot;
   ]
-}]]></component>
+}</component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -143,13 +153,13 @@
       <summary usageCount="1" lastUsage="1737658896788" />
     </language>
     <language id="Ini">
-      <summary usageCount="2" lastUsage="1737655283054" />
+      <summary usageCount="6" lastUsage="1739556264502" />
     </language>
     <language id="Markdown">
-      <summary usageCount="24" lastUsage="1739264508903" />
+      <summary usageCount="27" lastUsage="1739556265703" />
     </language>
     <language id="Python">
-      <summary usageCount="21" lastUsage="1739264508314" />
+      <summary usageCount="32" lastUsage="1739595299977" />
     </language>
     <language id="RpmSpec">
       <summary usageCount="1" lastUsage="1737662305929" />
@@ -158,7 +168,7 @@
       <summary usageCount="2" lastUsage="1737655283144" />
     </language>
     <language id="TEXT">
-      <summary usageCount="2" lastUsage="1737662276450" />
+      <summary usageCount="4" lastUsage="1739556264566" />
     </language>
     <language id="TOML">
       <summary usageCount="1" lastUsage="1737658890730" />
@@ -185,18 +195,8 @@
             <path>
               <item name="Turtle-shell" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/include}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Turtle-shell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/turtle-shell}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Turtle-shell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/turtle-shell}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/turtle-shell/dist}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/app/.config}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,8 +227,44 @@
                     <entry key="filePath" value="$PROJECT_DIR$/app" />
                   </map>
                 </attributes>
-                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="app" />
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="app" />
                 <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/app}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/.config" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text=".config" />
+                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/app/.config}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/.config/__init__.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                    <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/.config/keybindings.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="keybindings.py" />
+                    <item name="keybindings.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/__init__.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                  <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
                 <presentation>
                   <attributes>
                     <map>
@@ -265,15 +301,6 @@
                 </attributes>
                 <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="include" />
                 <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/include}" type="462c0819:PsiDirectoryNode" />
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/include/python3.13" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="python3.13" />
-                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/include/python3.13}" type="462c0819:PsiDirectoryNode" />
-                </presentation>
               </presentation>
               <presentation>
                 <attributes>
@@ -301,42 +328,6 @@
                 </attributes>
                 <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="turtle-shell" />
                 <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/turtle-shell}" type="462c0819:PsiDirectoryNode" />
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/turtle-shell/build" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
-                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/turtle-shell/build}" type="462c0819:PsiDirectoryNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/turtle-shell/dist" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="dist" />
-                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/Turtle-shell/turtle-shell/dist}" type="462c0819:PsiDirectoryNode" />
-                  <presentation>
-                    <attributes>
-                      <map>
-                        <entry key="filePath" value="$PROJECT_DIR$/turtle-shell/dist/main" />
-                      </map>
-                    </attributes>
-                    <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="main" />
-                    <item name="main" type="ab9368bb:PsiFileNode" />
-                  </presentation>
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/turtle-shell/main.spec" />
-                    </map>
-                  </attributes>
-                  <data isLeaf="true" text="main.spec" />
-                  <item name="main.spec" type="ab9368bb:PsiFileNode" />
-                </presentation>
               </presentation>
               <presentation>
                 <attributes>
@@ -355,6 +346,24 @@
                 </attributes>
                 <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
                 <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/__init__.py" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ascii-art.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="ascii-art.txt" />
+                <item name="ascii-art.txt" type="ab9368bb:PsiFileNode" />
               </presentation>
               <presentation>
                 <attributes>
@@ -422,6 +431,15 @@
               <presentation>
                 <attributes>
                   <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/requirement.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="requirement.txt" />
+                <item name="requirement.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
                     <entry key="filePath" value="$PROJECT_DIR$/turtle-shell.sh" />
                   </map>
                 </attributes>
@@ -447,7 +465,7 @@
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
-      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="Turtle-shell-history">
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/app" commandHistoryFileName="Turtle-shell-history">
         <shellCommand>
           <arg value="/usr/bin/bash" />
           <arg value="-i" />
@@ -456,30 +474,70 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20632000" />
+    <option name="totallyTimeSpent" value="37841000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
       <window_info id="Merge Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.60242873" weight="0.12645349" />
-      <window_info id="Commit" order="1" weight="0.16059028" />
-      <window_info active="true" id="Pull Requests" order="2" visible="true" weight="0.12645349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60242873" visible="true" weight="0.1752907" />
+      <window_info id="Commit" order="1" weight="0.1752907" />
+      <window_info id="Pull Requests" order="2" weight="0.1752907" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.16059028" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
       <window_info anchor="bottom" id="HfCacheToolWindow" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.47925532" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.55473685" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.26919088" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.26968086" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.5544606" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.27334026" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
-      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.32129627" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.27334026" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.5357884" />
+      <window_info anchor="bottom" id="Run" order="9" show_stripe_button="false" weight="0.27334026" />
+      <window_info anchor="right" id="PR AI Assistant" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="SciView" show_stripe_button="false" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994187" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <window_info anchor="right" id="documentation.v2" order="6" side_tool="true" weight="0.32994187" />
+      <unified_weights bottom="0.5544606" left="0.1752907" right="0.32994187" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60242873" visible="true" weight="0.12645349" />
+      <window_info id="Commit" order="1" weight="0.12645349" />
+      <window_info active="true" id="Pull Requests" order="2" weight="0.12645349" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.16059028" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="HfCacheToolWindow" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.23184648" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33661824" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.5357884" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.5357884" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.33661824" />
       <window_info anchor="right" id="PR AI Assistant" show_stripe_button="false" />
       <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
       <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
@@ -491,66 +549,107 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Plots" order="5" weight="0.1" />
-      <unified_weights bottom="0.47925532" left="0.12645349" right="0.33003473" />
-    </layoutV2>
+      <unified_weights bottom="0.5357884" left="0.12645349" right="0.33003473" />
+    </layout-to-restore>
     <recentWindows>
-      <value>Version Control</value>
-      <value>Pull Requests</value>
-      <value>Terminal</value>
       <value>Project</value>
+      <value>Commit</value>
       <value>Problems View</value>
+      <value>Version Control</value>
+      <value>Debug</value>
+      <value>Pull Requests</value>
+      <value>documentation.v2</value>
+      <value>Terminal</value>
       <value>Run</value>
       <value>Notifications</value>
-      <value>Commit</value>
+      <value>TODO</value>
       <value>Structure</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="169" width="2304" height="1370" key="DiffContextDialog" timestamp="1737723566483">
-      <screen x="0" y="0" width="2880" height="1620" />
+    <state x="494" y="159" key="#Inspections" timestamp="1739547722655">
+      <screen x="0" y="0" width="1440" height="810" />
     </state>
+    <state x="494" y="159" key="#Inspections/0.0.1440.810@0.0.1440.810" timestamp="1739547722655" />
+    <state width="716" height="80" key="DebuggerActiveHint" timestamp="1739543160603">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="716" height="80" key="DebuggerActiveHint/0.0.1440.810@0.0.1440.810" timestamp="1739543160603" />
+    <state x="139" y="85" width="1152" height="685" maximized="true" key="DiffContextDialog" timestamp="1739562639521">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state x="139" y="85" width="1152" height="685" maximized="true" key="DiffContextDialog/0.0.1440.810@0.0.1440.810" timestamp="1739562639521" />
     <state x="278" y="169" width="2304" height="1370" key="DiffContextDialog/0.0.2880.1620@0.0.2880.1620" timestamp="1737723566483" />
-    <state width="2716" height="437" key="GridCell.Tab.0.bottom" timestamp="1738082043235">
-      <screen x="0" y="0" width="2880" height="1620" />
+    <state width="1638" height="221" key="GridCell.Tab.0.bottom" timestamp="1739562639369">
+      <screen x="0" y="0" width="1440" height="810" />
     </state>
+    <state width="1638" height="221" key="GridCell.Tab.0.bottom/0.0.1440.810@0.0.1440.810" timestamp="1739562639369" />
     <state width="2716" height="437" key="GridCell.Tab.0.bottom/0.0.2880.1620@0.0.2880.1620" timestamp="1738082043235" />
-    <state width="2716" height="437" key="GridCell.Tab.0.center" timestamp="1738082043234">
-      <screen x="0" y="0" width="2880" height="1620" />
+    <state width="1638" height="221" key="GridCell.Tab.0.center" timestamp="1739562639369">
+      <screen x="0" y="0" width="1440" height="810" />
     </state>
+    <state width="1638" height="221" key="GridCell.Tab.0.center/0.0.1440.810@0.0.1440.810" timestamp="1739562639369" />
     <state width="2716" height="437" key="GridCell.Tab.0.center/0.0.2880.1620@0.0.2880.1620" timestamp="1738082043234" />
-    <state width="2716" height="437" key="GridCell.Tab.0.left" timestamp="1738082043234">
-      <screen x="0" y="0" width="2880" height="1620" />
+    <state width="1638" height="221" key="GridCell.Tab.0.left" timestamp="1739562639369">
+      <screen x="0" y="0" width="1440" height="810" />
     </state>
+    <state width="1638" height="221" key="GridCell.Tab.0.left/0.0.1440.810@0.0.1440.810" timestamp="1739562639369" />
     <state width="2716" height="437" key="GridCell.Tab.0.left/0.0.2880.1620@0.0.2880.1620" timestamp="1738082043234" />
-    <state width="2716" height="437" key="GridCell.Tab.0.right" timestamp="1738082043235">
-      <screen x="0" y="0" width="2880" height="1620" />
+    <state width="1638" height="221" key="GridCell.Tab.0.right" timestamp="1739562639369">
+      <screen x="0" y="0" width="1440" height="810" />
     </state>
+    <state width="1638" height="221" key="GridCell.Tab.0.right/0.0.1440.810@0.0.1440.810" timestamp="1739562639369" />
     <state width="2716" height="437" key="GridCell.Tab.0.right/0.0.2880.1620@0.0.2880.1620" timestamp="1738082043235" />
-    <state x="0" y="80" key="SettingsEditor" timestamp="1738953050718">
+    <state width="1638" height="221" key="GridCell.Tab.1.bottom" timestamp="1739562639366">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1638" height="221" key="GridCell.Tab.1.bottom/0.0.1440.810@0.0.1440.810" timestamp="1739562639366" />
+    <state width="1638" height="221" key="GridCell.Tab.1.center" timestamp="1739562639366">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1638" height="221" key="GridCell.Tab.1.center/0.0.1440.810@0.0.1440.810" timestamp="1739562639366" />
+    <state width="1638" height="221" key="GridCell.Tab.1.left" timestamp="1739562639366">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1638" height="221" key="GridCell.Tab.1.left/0.0.1440.810@0.0.1440.810" timestamp="1739562639366" />
+    <state width="1638" height="221" key="GridCell.Tab.1.right" timestamp="1739562639366">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="1638" height="221" key="GridCell.Tab.1.right/0.0.1440.810@0.0.1440.810" timestamp="1739562639366" />
+    <state x="0" y="80" key="SettingsEditor" timestamp="1739557889830">
       <screen x="0" y="0" width="1440" height="810" />
     </state>
     <state x="0" y="80" key="SettingsEditor.ideScale=90" timestamp="1738952294531">
       <screen x="0" y="0" width="1440" height="810" />
     </state>
     <state x="0" y="80" key="SettingsEditor.ideScale=90/0.0.1440.810@0.0.1440.810" timestamp="1738952294531" />
-    <state x="0" y="80" key="SettingsEditor/0.0.1440.810@0.0.1440.810" timestamp="1738953050718" />
-    <state x="635" y="293" width="1600" height="1078" key="Vcs.Push.Dialog.v2" timestamp="1738152814968">
-      <screen x="0" y="0" width="2880" height="1620" />
+    <state x="0" y="80" key="SettingsEditor/0.0.1440.810@0.0.1440.810" timestamp="1739557889830" />
+    <state x="318" y="147" width="1600" height="1078" key="Vcs.Push.Dialog.v2" timestamp="1739562594829">
+      <screen x="0" y="0" width="1440" height="810" />
     </state>
     <state x="635" y="293" key="Vcs.Push.Dialog.v2.ideScale=90" timestamp="1738304638349">
       <screen x="0" y="0" width="2880" height="1620" />
     </state>
     <state x="635" y="293" key="Vcs.Push.Dialog.v2.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738304638349" />
+    <state x="318" y="147" key="Vcs.Push.Dialog.v2/0.0.1440.810@0.0.1440.810" timestamp="1739562594829" />
     <state x="381" y="176" key="Vcs.Push.Dialog.v2/0.0.1728.972@0.0.1728.972" timestamp="1737823927876" />
     <state x="635" y="293" width="1600" height="1078" key="Vcs.Push.Dialog.v2/0.0.2880.1620@0.0.2880.1620" timestamp="1738152814968" />
+    <state width="860" height="482" key="XDebugger.FullValuePopup" timestamp="1739543351548">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state width="860" height="482" key="XDebugger.FullValuePopup/0.0.1440.810@0.0.1440.810" timestamp="1739543351548" />
     <state x="1033" y="665" width="804" height="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1737695429619">
       <screen x="0" y="0" width="2880" height="1620" />
     </state>
     <state x="1033" y="665" width="804" height="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2880.1620@0.0.2880.1620" timestamp="1737695429619" />
-    <state x="0" y="0" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1739264777929">
+    <state x="617" y="198" key="git4idea.branch.GitSmartOperationDialog" timestamp="1739560950891">
       <screen x="0" y="0" width="1440" height="810" />
     </state>
-    <state x="0" y="0" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1440.810@0.0.1440.810" timestamp="1739264777929" />
+    <state x="617" y="198" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.810@0.0.1440.810" timestamp="1739560950891" />
+    <state x="0" y="0" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1739543705287">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state x="0" y="0" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1440.810@0.0.1440.810" timestamp="1739543705287" />
     <state x="1009" y="592" width="1258" height="558" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1737658747526">
       <screen x="0" y="0" width="2880" height="1620" />
     </state>
@@ -559,10 +658,10 @@
       <screen x="0" y="0" width="2880" height="1620" />
     </state>
     <state x="768" y="362" key="run.anything.popup/0.0.2880.1620@0.0.2880.1620" timestamp="1738154362994" />
-    <state x="0" y="0" width="792" height="1313" key="search.everywhere.popup" timestamp="1738952924060">
+    <state x="0" y="0" width="792" height="1313" key="search.everywhere.popup" timestamp="1739539666996">
       <screen x="0" y="0" width="1440" height="810" />
     </state>
-    <state x="0" y="0" width="792" height="1313" key="search.everywhere.popup/0.0.1440.810@0.0.1440.810" timestamp="1738952924060" />
+    <state x="0" y="0" width="792" height="1313" key="search.everywhere.popup/0.0.1440.810@0.0.1440.810" timestamp="1739539666996" />
     <state x="766" y="0" width="1531" height="2625" key="search.everywhere.popup/0.0.2880.1620@0.0.2880.1620" timestamp="1738080378950" />
   </component>
   <component name="editorHistoryManager">
@@ -587,13 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyvenv.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="4" column="95" selection-start-line="4" selection-start-column="95" selection-end-line="4" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/turtle-shell.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -605,20 +697,41 @@
     <entry file="file://$PROJECT_DIR$/img.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/main.py">
+    <entry file="file://$PROJECT_DIR$/env/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirement.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
-          <caret line="380" column="144" selection-start-line="380" selection-start-column="144" selection-end-line="380" selection-end-column="144" />
+        <state relative-caret-position="132">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="95" selection-start-line="4" selection-start-column="95" selection-end-line="4" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.config/keybindings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="438" column="19" selection-start-line="438" selection-start-column="19" selection-end-line="438" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

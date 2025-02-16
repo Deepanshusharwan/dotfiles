@@ -84,49 +84,81 @@
         </entry>
         <entry key="$USER_HOME$/github_repos/my_repositories/Turtle-shell">
           <value>
-            <RecentProjectMetaInfo frameTitle="Turtle-shell [~/github_repos/my_repositories/Turtle-shell] – /home/deepanshu/github_repos/my_repositories/Turtle-shell/README.md" projectWorkspaceId="2s0wj2fFjRojm9PPTILDdZzTfSk">
-              <option name="activationTimestamp" value="1739265135740" />
+            <RecentProjectMetaInfo frameTitle="Turtle-shell [~/github_repos/my_repositories/Turtle-shell] – /home/deepanshu/github_repos/my_repositories/Turtle-shell/app/main.py" projectWorkspaceId="2s0wj2fFjRojm9PPTILDdZzTfSk">
+              <option name="activationTimestamp" value="1739595306454" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PY-243.22562.220" />
-              <option name="buildTimestamp" value="1734509820000" />
+              <option name="build" value="PY-243.24978.54" />
+              <option name="buildTimestamp" value="1739396100000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="5" />
               </option>
-              <frame x="22" y="46" width="1450" height="820" extendedState="6" />
+              <frame x="20" y="20" width="1720" height="964" extendedState="6" />
               <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1739264508196" />
+              <option name="projectOpenTimestamp" value="1739595299977" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/python_projects/pandas_tutorial">
           <value>
             <RecentProjectMetaInfo frameTitle="pandas_tutorial [~/python_projects/pandas_tutorial]" projectWorkspaceId="2stnC1PA0FmGBGsHBqpVMHK94nf">
-              <option name="activationTimestamp" value="1739284333388" />
+              <option name="activationTimestamp" value="1739595323079" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PY-243.22562.220" />
-              <option name="buildTimestamp" value="1734509820000" />
+              <option name="build" value="PY-243.24978.54" />
+              <option name="buildTimestamp" value="1739396100000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
               <frame x="20" y="20" width="1720" height="964" extendedState="6" />
               <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1739283608364" />
+              <option name="projectOpenTimestamp" value="1739595307576" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/python_projects/others">
+          <value>
+            <RecentProjectMetaInfo frameTitle="others [~/python_projects/others] – /home/deepanshu/python_projects/others/main.py" projectWorkspaceId="2t5JDp7BNaXgJw9xQSyArNrmImw">
+              <option name="activationTimestamp" value="1739636329106" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-243.24978.54" />
+              <option name="buildTimestamp" value="1739396100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="20" y="20" width="1720" height="964" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1739635884492" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/github_repos/clones/google-books-downloader">
+          <value>
+            <RecentProjectMetaInfo frameTitle="google-books-downloader [~/github_repos/clones/google-books-downloader] – /home/deepanshu/github_repos/clones/google-books-downloader/gbd.py" projectWorkspaceId="2t5LdwEQzWSaNyT1eX6HEotHo14">
+              <option name="activationTimestamp" value="1739637772349" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-243.24978.54" />
+              <option name="buildTimestamp" value="1739396100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="164" y="20" width="1720" height="964" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1739637080471" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/github_repos/clones/complete-pandas-tutorial">
           <value>
-            <RecentProjectMetaInfo frameTitle="complete-pandas-tutorial [~/github_repos/clones/complete-pandas-tutorial] – /home/deepanshu/github_repos/clones/complete-pandas-tutorial/.gitignore" opened="true" projectWorkspaceId="2stofSpyzbPVXy8tVTepNx7O8tt">
-              <option name="activationTimestamp" value="1739332563682" />
+            <RecentProjectMetaInfo frameTitle="complete-pandas-tutorial [~/github_repos/clones/complete-pandas-tutorial] – /home/deepanshu/github_repos/clones/complete-pandas-tutorial/notebook.ipynb" projectWorkspaceId="2stofSpyzbPVXy8tVTepNx7O8tt">
+              <option name="activationTimestamp" value="1739688652142" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PY-243.22562.220" />
-              <option name="buildTimestamp" value="1734509820000" />
+              <option name="build" value="PY-243.24978.54" />
+              <option name="buildTimestamp" value="1739396100000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
               <frame x="20" y="20" width="1720" height="964" extendedState="6" />
               <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1739286452419" />
+              <option name="projectOpenTimestamp" value="1739687864327" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
