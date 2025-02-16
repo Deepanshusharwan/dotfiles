@@ -4,12 +4,14 @@
       <map>
         <entry key="$USER_HOME$/cohort/week_2" value="true" />
         <entry key="$USER_HOME$/github_repos/clones/complete-pandas-tutorial" value="true" />
+        <entry key="$USER_HOME$/github_repos/clones/google-books-downloader" value="true" />
         <entry key="$USER_HOME$/github_repos/my_repositories/Small-projects" value="true" />
         <entry key="$USER_HOME$/github_repos/my_repositories/Turtle-shell" value="true" />
         <entry key="$USER_HOME$/github_repos/my_repositories/codecrafters-shell-python" value="true" />
         <entry key="$USER_HOME$/github_repos/my_repositories/codecrafters/codecrafters-redis-python" value="true" />
         <entry key="$USER_HOME$/python_projects" value="true" />
         <entry key="$USER_HOME$/python_projects/cs50p/week_6" value="true" />
+        <entry key="$USER_HOME$/python_projects/pandas_tutorial" value="true" />
       </map>
     </option>
   </component>

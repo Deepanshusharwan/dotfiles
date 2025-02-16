@@ -1,0 +1,94 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="26.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "false",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "DISTRACTION.MODE.ENTER.VALUE": "false",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "RunOnceActivity.rust.enable.attach.dialog": "true",
+    "RunOnceActivity.rust.find.settings.fix": "true",
+    "RunOnceActivity.rust.first.ide.run": "true",
+    "ai.promo.window.was.actually.shown": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "evlsprt3.243": "6",
+    "experimental.ui.used.version": "243.23654.180",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/deepanshu/rust_projects/guessing_game",
+    "llm.installer.auto.activation.executed": "true",
+    "llm.installer.last.toolwindow.state": "AI_ASSISTANT",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "RR-243.23654.180",
+    "ts.lib.d.ts.version": "5.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/deepanshu/rust_projects/guessing_game"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="complete-pandas-tutorial-history1" project-path="/home/deepanshu/github_repos/clones/complete-pandas-tutorial" last-access-time="1739595326058" />
+      <command-history-file filename="week_2-history" project-path="/home/deepanshu/cohort/week_2" last-access-time="1737528399217" />
+      <command-history-file filename="python_projects-history" project-path="/home/deepanshu/python_projects" last-access-time="1737697990791" />
+      <command-history-file filename="Small-projects-history1" project-path="/home/deepanshu/github_repos/my_repositories/Small-projects" last-access-time="1737193948983" />
+      <command-history-file filename="Turtle-shell-history" project-path="/home/deepanshu/github_repos/my_repositories/Turtle-shell" last-access-time="1739556264297" />
+      <command-history-file filename="codecrafters-shell-python-history" project-path="/home/deepanshu/github_repos/my_repositories/codecrafters-shell-python" last-access-time="1738302978386" />
+      <command-history-file filename="pandas_tutorial-history" project-path="/home/deepanshu/python_projects/pandas_tutorial" last-access-time="1739595307575" />
+      <command-history-file filename="Small-projects-history" project-path="/home/deepanshu/github_repos/my_repositories/Small-projects" last-access-time="1737194314129" />
+      <command-history-file filename="week_6-history" project-path="/home/deepanshu/python_projects/cs50p/week_6" last-access-time="1737723583213" />
+      <command-history-file filename="guessing_game-history" project-path="/home/deepanshu/rust_projects/guessing_game" last-access-time="1739601139698" />
+    </command-history-files>
+  </component>
+</application>

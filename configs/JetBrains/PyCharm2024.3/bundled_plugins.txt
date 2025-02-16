@@ -52,8 +52,6 @@ com.intellij.lang.puppet|Deployment
 
 com.intellij.lang.qml|Languages
 
-com.intellij.llmInstaller|Other Tools
-
 com.intellij.microservices.ui|Microservices
 
 com.intellij.ml.inline.completion|null
