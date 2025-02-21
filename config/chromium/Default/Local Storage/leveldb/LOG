@@ -1,6 +1,0 @@
-2025/02/21-10:30:05.587 4 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2025/02/21-10:30:05.592 4 Recovering log #1077
-2025/02/21-10:30:05.592 4 Reusing old log /home/deepanshu/.config/chromium/Default/Local Storage/leveldb/001077.log 
-2025/02/21-10:30:28.595 5 Level-0 table #1081: started
-2025/02/21-10:30:28.603 5 Level-0 table #1081: 72188 bytes OK
-2025/02/21-10:30:28.607 5 Delete type=0 #1077

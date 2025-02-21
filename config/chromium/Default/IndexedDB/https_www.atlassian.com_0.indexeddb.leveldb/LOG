@@ -1,6 +1,0 @@
-2025/02/11-20:55:09.692 74bd Creating DB /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb since it was missing.
-2025/02/11-20:55:09.696 74bd Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/11-20:59:37.699 74bd Level-0 table #5: started
-2025/02/11-20:59:37.704 74bd Level-0 table #5: 29929 bytes OK
-2025/02/11-20:59:37.710 74bd Delete type=0 #3
-2025/02/11-20:59:37.711 74bd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

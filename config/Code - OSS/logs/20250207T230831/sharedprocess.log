@@ -1,9 +1,0 @@
-2025-02-07 23:08:32.781 [info] Deleted uninstalled extension from disk ms-python.debugpy /home/deepanshu/.vscode-oss/extensions/ms-python.debugpy-2024.14.0-linux-x64
-2025-02-07 23:08:32.799 [info] Deleted uninstalled extension from disk ms-python.python /home/deepanshu/.vscode-oss/extensions/ms-python.python-2024.23.0-dev-universal
-2025-02-07 23:08:32.815 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/deepanshu/.vscode-oss/extensions/ms-python.debugpy-2024.14.0-linux-x64.544bcc7e.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/deepanshu/.vscode-oss/extensions/ms-python.debugpy-2024.14.0-linux-x64.544bcc7e.vsctmp'
-    at Gm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
-    at xs (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
-    at Vr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
-    at Vr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
-    at async wh.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
-    at async fh.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
