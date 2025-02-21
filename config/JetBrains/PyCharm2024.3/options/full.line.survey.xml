@@ -1,9 +1,0 @@
-<application>
-  <component name="FeedbackSurveyState">
-    <languageToSessions>
-      <entry language="JupyterPython" sessions-count="127" />
-      <entry language="Python" sessions-count="25" />
-    </languageToSessions>
-    <option name="acceptedCompletionsCnt" value="62" />
-  </component>
-</application>
