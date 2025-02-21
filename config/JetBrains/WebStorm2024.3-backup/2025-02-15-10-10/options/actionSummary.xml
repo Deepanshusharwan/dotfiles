@@ -1,0 +1,58 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CloseProject">
+      <i c="1" l="1739594232670" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="1" l="1739594242261" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="35" l="1736686565722" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1736686640123" />
+    </e>
+    <e n="EditorEnter">
+      <i c="2" l="1739594324988" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1739594323567" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1739594216228" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1739594222153" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1738999402182" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1738999405719" />
+    </e>
+    <e n="WelcomeScreen.Configure.Import">
+      <i c="1" l="1739594389859" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1736686501430" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1738999416328" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1739594226623" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1736686624530" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="2" l="1739594377576" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="1" l="1736686523173" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1736686644505" />
+    </e>
+  </component>
+</application>

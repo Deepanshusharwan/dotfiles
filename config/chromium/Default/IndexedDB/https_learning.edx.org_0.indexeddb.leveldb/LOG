@@ -1,0 +1,15 @@
+2025/02/14-09:44:17.497 f5da Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_learning.edx.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/14-09:44:17.497 f5da Recovering log #4
+2025/02/14-09:44:17.497 f5da Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_learning.edx.org_0.indexeddb.leveldb/000004.log 
+2025/02/14-09:44:58.356 f5db Level-0 table #8: started
+2025/02/14-09:44:58.358 f5db Level-0 table #8: 705 bytes OK
+2025/02/14-09:44:58.361 f5db Delete type=0 #4
+2025/02/14-09:44:58.362 f5db Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/02/14-09:44:58.362 f5db Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00a\x00x\x00i\x00o\x00s\x00-\x00c\x00a\x00c\x00h\x00e\x00:\x001\x005\x002\x000\x009\x004\x002\x006\x008\x001' @ 264 : 1
+2025/02/14-09:44:58.362 f5db Compacting 1@1 + 1@2 files
+2025/02/14-09:44:58.365 f5db Generated table #9@1: 28 keys, 733 bytes
+2025/02/14-09:44:58.365 f5db Compacted 1@1 + 1@2 files => 733 bytes
+2025/02/14-09:44:58.368 f5db compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/14-09:44:58.368 f5db Delete type=2 #5
+2025/02/14-09:44:58.369 f5db Delete type=2 #8
+2025/02/14-09:44:58.369 f5db Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00a\x00x\x00i\x00o\x00s\x00-\x00c\x00a\x00c\x00h\x00e\x00:\x001\x005\x002\x000\x009\x004\x002\x006\x008\x001' @ 264 : 1 .. (end); will stop at (end)

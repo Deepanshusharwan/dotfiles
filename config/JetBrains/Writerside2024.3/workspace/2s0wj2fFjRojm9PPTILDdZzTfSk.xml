@@ -1,0 +1,74 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Turtle-shell" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2tce69zeipnpo">
+      <file current-in-tab="true">
+        <entry file="mock:///Getting Started with Writerside">
+          <provider editor-type-id="html-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Getting Started with Writerside","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,69,10,23,103,101,110,101,114,97,108,47,105,110,102,111,114,109,97,116,105,111,110,46,115,118,103,18,21,101,120,112,117,105,47,115,116,97,116,117,115,47,105,110,102,111,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-72,-17,-61,21,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1739595643415
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Writerside" order="2" weight="0.20029071" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Writerside Preview" order="3" weight="0.3" />
+      <unified_weights left="0.20029071" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Writerside" order="2" visible="true" weight="0.20029071" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Writerside Preview" order="3" weight="0.3" />
+      <unified_weights left="0.20029071" />
+    </layout-to-restore>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="704" height="696" key="search.everywhere.popup" timestamp="1739595679290">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state x="0" y="0" width="704" height="696" key="search.everywhere.popup/0.0.1440.810@0.0.1440.810" timestamp="1739595679290" />
+  </component>
+</project>
