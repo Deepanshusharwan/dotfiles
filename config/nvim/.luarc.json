@@ -1,0 +1,13 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "��██████╔╝",
+        "╚████╔╝",
+        "██║██║",
+        "╚═╝"
+    ],
+    "runtime.unicodeName": true,
+    "diagnostics.disable": [
+        "undefined-global"
+    ]
+}

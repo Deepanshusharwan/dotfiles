@@ -1,0 +1,21 @@
+2025/02/18-14:59:31.154 12a4c Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/18-14:59:31.154 12a4c Recovering log #314
+2025/02/18-14:59:31.160 12a4c Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000314.log 
+2025/02/18-14:59:33.375 12a4a Level-0 table #319: started
+2025/02/18-14:59:33.388 12a4a Level-0 table #319: 1356214 bytes OK
+2025/02/18-14:59:33.391 12a4a Delete type=0 #314
+2025/02/18-14:59:33.966 12a4a Compacting 1@1 + 1@2 files
+2025/02/18-14:59:33.974 12a4a Generated table #320@1: 351 keys, 88576 bytes
+2025/02/18-14:59:33.974 12a4a Compacted 1@1 + 1@2 files => 88576 bytes
+2025/02/18-14:59:33.977 12a4a compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/18-14:59:33.977 12a4a Delete type=2 #316
+2025/02/18-14:59:33.977 12a4a Delete type=2 #319
+2025/02/18-15:01:31.977 12a4a Level-0 table #322: started
+2025/02/18-15:01:31.996 12a4a Level-0 table #322: 1267735 bytes OK
+2025/02/18-15:01:32.001 12a4a Delete type=0 #318
+2025/02/18-15:16:13.380 12a4c Compacting 1@1 + 1@2 files
+2025/02/18-15:16:13.389 12a4c Generated table #323@1: 372 keys, 54719 bytes
+2025/02/18-15:16:13.389 12a4c Compacted 1@1 + 1@2 files => 54719 bytes
+2025/02/18-15:16:13.392 12a4c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/18-15:16:13.392 12a4c Delete type=2 #320
+2025/02/18-15:16:13.392 12a4c Delete type=2 #322
