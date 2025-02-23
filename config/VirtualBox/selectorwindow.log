@@ -1,0 +1,21 @@
+00:00:00.276130 VirtualBox GUI VM Selector Window 7.1.6 r167084 linux.amd64 (Jan 27 2025 07:52:25) release log
+00:00:00.276131 Log opened 2025-02-16T02:12:39.029072000Z
+00:00:00.276132 Build Type: release
+00:00:00.276133 OS Product: Linux
+00:00:00.276133 OS Release: 6.12.13-1-lts
+00:00:00.276134 OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 08 Feb 2025 15:16:04 +0000
+00:00:00.276151 DMI Product Name: Vivobook_ASUSLaptop K5504VA_S5504VA
+00:00:00.276155 DMI Product Version: 1.0       
+00:00:00.276158 Firmware type: UEFI
+00:00:00.276560 Secure Boot: Disabled
+00:00:00.276588 Host RAM: 15621MB (15.2GB) total, 13614MB (13.2GB) available
+00:00:00.276590 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.276590 Process ID: 22399
+00:00:00.276590 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.276615 Qt version: 6.8.2
+00:00:00.277070 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.278170 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.278180 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.856409 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 863x478 x 800x800
+00:09:06.626675 GUI: UICommon: Handling aboutToQuit request..
+00:09:07.418429 GUI: UICommon: aboutToQuit request handled!

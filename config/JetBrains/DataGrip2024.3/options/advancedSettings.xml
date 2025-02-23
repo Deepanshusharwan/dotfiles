@@ -1,0 +1,9 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="se.endpoints.search" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
