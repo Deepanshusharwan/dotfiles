@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditCustomVmOptions">
+      <i c="1" l="1739595562511" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="10" l="1739595570690" />
+    </e>
+    <e n="EditorEnter">
+      <i c="2" l="1739595602137" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1739595603115" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1739595674024" />
+    </e>
+    <e n="ToggleZenMode">
+      <i c="1" d="1" l="1739595679302" k="1739595679302" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1739595630340" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1739595679279" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1739595917652" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1739595558593" />
+    </e>
+  </component>
+</application>

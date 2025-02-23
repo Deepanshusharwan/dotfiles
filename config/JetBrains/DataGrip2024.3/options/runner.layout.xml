@@ -1,0 +1,14 @@
+<application>
+  <component name="RunnerLayoutSettings">
+    <runner id="Session">
+      <ViewImpl>
+        <option name="ID" value="Input" />
+        <option name="placeInGrid" value="center" />
+      </ViewImpl>
+      <TabImpl />
+      <General>
+        <option name="isTabLabelsHidden" value="false" />
+      </General>
+    </runner>
+  </component>
+</application>

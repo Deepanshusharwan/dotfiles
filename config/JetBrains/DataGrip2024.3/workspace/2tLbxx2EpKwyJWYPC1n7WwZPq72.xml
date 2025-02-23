@@ -1,0 +1,194 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="test" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="27itpxsmvgsh0" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hi.sql">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"hi.sql","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,72,10,13,105,99,111,110,115,47,115,113,108,46,115,118,103,18,19,105,99,111,110,115,47,101,120,112,117,105,47,115,113,108,46,115,118,103,26,21,99,111,109,46,105,110,116,101,108,108,105,106,46,100,97,116,97,98,97,115,101,40,-37,-17,-93,-40,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "SQL": {
+      "usageCount": 3,
+      "lastUsed": 1740159081190
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/deepanshu/sql_projects/test/hi.sql"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="SQL">
+      <summary usageCount="3" lastUsage="1740159081191" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="dir{file:///home/deepanshu/sql_projects/test}" type="377199ff:AttachableProjectViewPane$1$1$1" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+            <item name="test" type="e2ad676d:AttachableProjectViewPane$1$1" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+              <item name="dir{file:///home/deepanshu/sql_projects/test}" type="377199ff:AttachableProjectViewPane$1$1$1" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/hi.sql" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/sql.svg" iconPlugin="com.intellij.database" isLeaf="true" text="hi.sql" />
+                <item name="hi.sql" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="@localhost [3]: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="@localhost [3]: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="f13cf2da:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="MySQL: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="MySQL: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="f13cf2da:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" order="0" sideWeight="0.49903846" side_tool="true" weight="0.16366279" />
+      <window_info id="Commit" order="1" weight="0.16366279" />
+      <window_info active="true" content_ui="combo" id="Database" order="2" sideWeight="0.50096154" visible="true" weight="0.16366279" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3303095" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3303095" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967984" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.78890043" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.3303095" />
+      <window_info anchor="bottom" id="Services" order="7" weight="0.3303095" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="0" sideWeight="0.50096154" visible="true" weight="0.32994187" />
+      <window_info anchor="right" id="AIAssistant" order="1" sideWeight="0.50096154" weight="0.32994187" />
+      <window_info anchor="right" id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Notifications" order="3" sideWeight="0.49903846" side_tool="true" weight="0.32994187" />
+      <unified_weights bottom="0.78890043" left="0.16366279" right="0.32994187" />
+    </layoutV2>
+    <recentWindows>
+      <value>Database</value>
+      <value>Project</value>
+      <value>TODO</value>
+      <value>Notifications</value>
+      <value>AIAssistant</value>
+      <value>Bookmarks</value>
+      <value>Debug</value>
+      <value>Services</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>Commit</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1740168594076">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="460" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1728.972@0.0.1728.972" timestamp="1740168594076" />
+    <state x="0" y="0" width="712" height="181" key="search.everywhere.popup" timestamp="1740135524986">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="0" y="0" width="712" height="181" key="search.everywhere.popup/0.0.1728.972@0.0.1728.972" timestamp="1740135524986" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/62ec4875-197c-4c03-9ddd-acf588b408f7/console.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/35b8fbc9-63cf-4aa1-95db-2706efea3f11/console.sql" />
+    <entry file="file://$PROJECT_DIR$/hi.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
