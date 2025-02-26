@@ -1,0 +1,19 @@
+#!/usr/bin/bash
+
+read -p "Enter 'c' to enter clones dir or 'm' to enter my_repositories: " folder
+
+cd ~/github_repos || { echo "Directory 'github_repos' not found"; exit 1; }
+
+if [ "$folder" == "c" ]; then
+    cd clones || { echo "Directory 'clones' not found"; exit 1; }
+
+elif [ "$folder" == "m" ]; then
+    cd my_repositories || { echo "Directory 'my_repositories' not found"; exit 1; }
+
+else
+    echo "Invalid input. Please enter 'c' or 'm'."
+    exit 1
+fi
+
+$SHELL  # Starts a new shell session
+
