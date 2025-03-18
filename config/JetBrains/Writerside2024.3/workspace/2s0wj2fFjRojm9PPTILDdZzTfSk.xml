@@ -1,0 +1,62 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Turtle-shell" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2tce69zeipnpo" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;WebPreview&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1739595643415
+    }
+  }
+}</component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Structure" show_stripe_button="false" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Writerside" order="2" visible="true" weight="0.20005807" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Writerside Preview" order="3" weight="0.3" />
+      <unified_weights left="0.20005807" />
+    </layoutV2>
+    <recentWindows>
+      <value>Writerside</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="636" y="225" key="FileChooserDialogImpl" timestamp="1740394107543">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state x="636" y="225" key="FileChooserDialogImpl/0.0.1440.810@0.0.1440.810" timestamp="1740394107543" />
+    <state x="0" y="0" width="704" height="696" key="search.everywhere.popup" timestamp="1739595679290">
+      <screen x="0" y="0" width="1440" height="810" />
+    </state>
+    <state x="0" y="0" width="704" height="696" key="search.everywhere.popup/0.0.1440.810@0.0.1440.810" timestamp="1739595679290" />
+  </component>
+</project>

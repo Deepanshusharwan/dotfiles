@@ -1,0 +1,692 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="DjangoProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoStructureTreeState">
+    <expand>
+      <path>
+        <item name="" type="3984a99b:DjangoRootNode" />
+        <item name="Admin" type="e5baca86:DjangoComponentGroupWithAppsNode" />
+      </path>
+      <path>
+        <item name="" type="3984a99b:DjangoRootNode" />
+        <item name="Admin" type="e5baca86:DjangoComponentGroupWithAppsNode" />
+        <item name="hello" type="b4c9fa0b:DjangoAppWithComponentsNode" />
+      </path>
+      <path>
+        <item name="" type="3984a99b:DjangoRootNode" />
+        <item name="Models" type="e5baca86:DjangoComponentGroupWithAppsNode" />
+      </path>
+      <path>
+        <item name="" type="3984a99b:DjangoRootNode" />
+        <item name="Models" type="e5baca86:DjangoComponentGroupWithAppsNode" />
+        <item name="demoapp" type="b4c9fa0b:DjangoAppWithComponentsNode" />
+      </path>
+      <path>
+        <item name="" type="3984a99b:DjangoRootNode" />
+        <item name="Views" type="e5baca86:DjangoComponentGroupWithAppsNode" />
+      </path>
+      <path>
+        <item name="" type="3984a99b:DjangoRootNode" />
+        <item name="Views" type="e5baca86:DjangoComponentGroupWithAppsNode" />
+        <item name="demoapp" type="b4c9fa0b:DjangoAppWithComponentsNode" />
+      </path>
+      <path>
+        <item name="" type="3984a99b:DjangoRootNode" />
+        <item name="Views" type="e5baca86:DjangoComponentGroupWithAppsNode" />
+        <item name="hello" type="b4c9fa0b:DjangoAppWithComponentsNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2cmq7bwbu8n5k" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/djangoproject/djangoproject/settings.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1804">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"settings.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/djangoproject/polls/models.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"models.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/djangoproject/djangoproject/urls.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="359">
+              <caret line="24" column="1" selection-start-line="24" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <element signature="e#651#683#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"urls.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PLAIN_TEXT": {
+      "usageCount": 5,
+      "lastUsed": 1741098010355
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1740566132496
+    },
+    "TOML": {
+      "usageCount": 2,
+      "lastUsed": 1740800689816
+    },
+    "Python": {
+      "usageCount": 52,
+      "lastUsed": 1742275301136
+    },
+    "SQL": {
+      "usageCount": 2,
+      "lastUsed": 1741108260754
+    },
+    "Database Element": {
+      "usageCount": 7,
+      "lastUsed": 1741108264277
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/manage.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/demoapp/views.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/hello/views.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/DjangoProject/settings.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/browser/browser.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/networking/server.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/networking/browser.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/networking/commented/browser.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/django_for_everybody/djangoproject/mysite/mysite/wsgi.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/polls/url.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/polls/views.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/DjangoProject/urls.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject/polls/urls.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject/djangoproject/urls.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject/polls/views.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject/djangoproject/settings.py&quot;,
+    &quot;/home/deepanshu/.config/JetBrains/PyCharm2024.3/consoles/db/9a36d437-4c94-4624-9e5d-a6dbd329aa8b/console.sql&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject/polls/models.py&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="52" lastUsage="1742275301136" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="2" lastUsage="1741108260754" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="5" lastUsage="1741098010355" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="2" lastUsage="1740800689818" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DjangoProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DjangoProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DjangoProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject/djangoproject}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DjangoProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject/polls}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="DjangoProject" />
+            <item name="DjangoProject" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="DjangoProject" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.venv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".venv" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject/.venv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/djangoproject" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="djangoproject" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/djangoproject/djangoproject" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="djangoproject" />
+                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject/djangoproject}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/djangoproject/__init__.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                    <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/djangoproject/asgi.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="asgi.py" />
+                    <item name="asgi.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/djangoproject/settings.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="settings.py" />
+                    <item name="settings.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/djangoproject/urls.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="urls.py" />
+                    <item name="urls.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/djangoproject/wsgi.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="wsgi.py" />
+                    <item name="wsgi.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/djangoproject/polls" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="polls" />
+                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject/polls}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/polls/migrations" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="migrations" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/DjangoProject/djangoproject/polls/migrations}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/polls/__init__.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                    <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/polls/admin.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="admin.py" />
+                    <item name="admin.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/polls/apps.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="apps.py" />
+                    <item name="apps.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/polls/models.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="models.py" />
+                    <item name="models.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/polls/tests.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="tests.py" />
+                    <item name="tests.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/polls/urls.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="urls.py" />
+                    <item name="urls.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/djangoproject/polls/views.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="views.py" />
+                    <item name="views.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/djangoproject/db.sqlite3" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/dbms.svg" iconPlugin="com.intellij.database" isLeaf="true" text="db.sqlite3" />
+                  <item name="db.sqlite3" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/djangoproject/manage.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="manage.py" />
+                  <item name="manage.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/db.sqlite3" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="db.sqlite3" />
+                <item name="db.sqlite3" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Django Server.DjangoProject" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="db: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="db: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="f13cf2da:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/djangoproject" commandHistoryFileName="DjangoProject-history">
+        <shellCommand>
+          <arg value="/usr/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42451000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47383177" visible="true" weight="0.21457607" />
+      <window_info id="Commit" order="1" weight="0.21457607" />
+      <window_info id="Django.Structure" order="2" sideWeight="0.5261682" side_tool="true" weight="0.21457607" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.307971" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.36368477" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.36368477" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.38561076" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.65993786" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33013937" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.1344367" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.36368477" left="0.21457607" right="0.1344367" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5878553" visible="true" weight="0.21457607" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Django.Structure" order="2" sideWeight="0.4121447" side_tool="true" weight="0.21457607" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.5274327" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32971013" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.5274327" left="0.21457607" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Database</value>
+      <value>Services</value>
+      <value>Commit</value>
+      <value>Django.Structure</value>
+      <value>Problems View</value>
+      <value>Find</value>
+      <value>Notifications</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="129" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1741102044440">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="461" y="129" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1728.972@0.0.1728.972" timestamp="1741102044440" />
+    <state x="649" y="239" key="FileChooserDialogImpl" timestamp="1742275674182">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="649" y="239" key="FileChooserDialogImpl/0.0.1728.972@0.0.1728.972" timestamp="1742275674182" />
+    <state width="1147" height="299" key="GridCell.Tab.0.bottom" timestamp="1741108293499">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1147" height="299" key="GridCell.Tab.0.bottom/0.0.1728.972@0.0.1728.972" timestamp="1741108293499" />
+    <state width="1147" height="299" key="GridCell.Tab.0.center" timestamp="1741108293499">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1147" height="299" key="GridCell.Tab.0.center/0.0.1728.972@0.0.1728.972" timestamp="1741108293499" />
+    <state width="1147" height="299" key="GridCell.Tab.0.left" timestamp="1741108293498">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1147" height="299" key="GridCell.Tab.0.left/0.0.1728.972@0.0.1728.972" timestamp="1741108293498" />
+    <state width="1147" height="299" key="GridCell.Tab.0.right" timestamp="1741108293499">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1147" height="299" key="GridCell.Tab.0.right/0.0.1728.972@0.0.1728.972" timestamp="1741108293499" />
+    <state x="362" y="104" key="SettingsEditor" timestamp="1740567248101">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="362" y="104" key="SettingsEditor/0.0.1728.972@0.0.1728.972" timestamp="1740567248101" />
+    <state x="461" y="203" key="Vcs.Push.Dialog.v2" timestamp="1741100780037">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="461" y="203" key="Vcs.Push.Dialog.v2/0.0.1728.972@0.0.1728.972" timestamp="1741100780037" />
+    <state x="0" y="0" key="run.anything.popup" timestamp="1741100918496">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="0" y="0" key="run.anything.popup/0.0.1728.972@0.0.1728.972" timestamp="1741100918496" />
+    <state x="0" y="0" width="790" height="181" key="search.everywhere.popup" timestamp="1741108204199">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="0" y="0" width="790" height="181" key="search.everywhere.popup/0.0.1728.972@0.0.1728.972" timestamp="1741108204199" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile" />
+    <entry file="file://$PROJECT_DIR$/demoapp/views.py" />
+    <entry file="file://$PROJECT_DIR$/manage.py" />
+    <entry file="file://$PROJECT_DIR$/demoapp/apps.py" />
+    <entry file="file://$PROJECT_DIR$/DjangoProject/settings.py" />
+    <entry file="file://$PROJECT_DIR$/hello/apps.py" />
+    <entry file="file://$PROJECT_DIR$/Pipfile.lock" />
+    <entry file="file://$PROJECT_DIR$/DjangoProject/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/networking/server.py" />
+    <entry file="file://$PROJECT_DIR$/networking/commented/browser.py" />
+    <entry file="file://$PROJECT_DIR$/django_for_everybody/requirements42.txt" />
+    <entry file="file://$PROJECT_DIR$/django_for_everybody/djangoproject/mysite/mysite/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/hello/views.py" />
+    <entry file="file://$PROJECT_DIR$/polls/views.py" />
+    <entry file="file://$PROJECT_DIR$/polls/url.py" />
+    <entry file="file://$PROJECT_DIR$/hello/admin.py" />
+    <entry file="file://$PROJECT_DIR$/polls/admin.py" />
+    <entry file="file://$PROJECT_DIR$/DjangoProject/urls.py" />
+    <entry file="file://$PROJECT_DIR$/networking/browser.py" />
+    <entry file="file://$PROJECT_DIR$/djangoproject/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djangoproject/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d986b3b9-6028-4972-bd11-43f227bf85a2/schema/main/table/auth_permission">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1741105719986" presentationMode="TABLE" projectRestartId="69bade65-bf6a-4bee-8072-ce840b9117be" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d986b3b9-6028-4972-bd11-43f227bf85a2/schema/main/table/auth_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1741105721156" presentationMode="TABLE" projectRestartId="69bade65-bf6a-4bee-8072-ce840b9117be" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d986b3b9-6028-4972-bd11-43f227bf85a2/schema/main/table/auth_user_groups">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1741105722207" presentationMode="TABLE" projectRestartId="69bade65-bf6a-4bee-8072-ce840b9117be" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d986b3b9-6028-4972-bd11-43f227bf85a2/schema/main/table/sqlite_master">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1741105724571" presentationMode="TABLE" projectRestartId="69bade65-bf6a-4bee-8072-ce840b9117be" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="rowid" position="-1" numberDisplayType="NUMBER" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d986b3b9-6028-4972-bd11-43f227bf85a2/schema/main/table/django_session">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1741105723354" presentationMode="TABLE" projectRestartId="69bade65-bf6a-4bee-8072-ce840b9117be" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9a36d437-4c94-4624-9e5d-a6dbd329aa8b/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d986b3b9-6028-4972-bd11-43f227bf85a2/schema/main/table/auth_group">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1741108264179" presentationMode="TABLE" projectRestartId="69bade65-bf6a-4bee-8072-ce840b9117be" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djangoproject/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djangoproject/djangoproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djangoproject/djangoproject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="24" column="1" selection-start-line="24" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#651#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
