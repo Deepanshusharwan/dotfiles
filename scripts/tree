@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+
+# Check if Python script exists
+PYTHON_SCRIPT="/home/deepanshu/scripts/python_files/tree/tree.py"
+if [ ! -f "$PYTHON_SCRIPT" ]; then
+    echo "Error: $PYTHON_SCRIPT not found!"
+    exit 1
+fi
+
+# Run the Python script with the provided directory argument (if any)
+if [ $# -eq 0 ]; then
+    python3 "$PYTHON_SCRIPT"
+else
+    python3 "$PYTHON_SCRIPT" "$1"
+fi
+#!/bin/bash
+
+
