@@ -37,38 +37,7 @@
         "id": "pulse_output_capture",
         "versioned_id": "pulse_output_capture",
         "settings": {
-            "device_id": "default"
-        },
-        "mixers": 255,
-        "sync": 0,
-        "flags": 0,
-        "volume": 1.0,
-        "balance": 0.5,
-        "enabled": true,
-        "muted": false,
-        "push-to-mute": false,
-        "push-to-mute-delay": 0,
-        "push-to-talk": false,
-        "push-to-talk-delay": 0,
-        "hotkeys": {
-            "libobs.mute": [],
-            "libobs.unmute": [],
-            "libobs.push-to-mute": [],
-            "libobs.push-to-talk": []
-        },
-        "deinterlace_mode": 0,
-        "deinterlace_field_order": 0,
-        "monitoring_type": 0,
-        "private_settings": {}
-    },
-    "AuxAudioDevice2": {
-        "prev_ver": 520093697,
-        "name": "Mic/Aux 2",
-        "uuid": "d365f57e-3ab0-4410-ada0-2764f3c4c458",
-        "id": "pulse_input_capture",
-        "versioned_id": "pulse_input_capture",
-        "settings": {
-            "device_id": "default"
+            "device_id": "bluez_output.3C_B0_ED_99_09_70.1.monitor"
         },
         "mixers": 255,
         "sync": 0,
