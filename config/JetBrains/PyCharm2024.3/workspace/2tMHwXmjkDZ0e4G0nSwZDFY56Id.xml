@@ -1,0 +1,1351 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="CS50p-solutions" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="18s0cdyau0x1r" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Image": {
+      "usageCount": 2,
+      "lastUsed": 1740158323390
+    },
+    "Markdown": {
+      "usageCount": 7,
+      "lastUsed": 1740399510528
+    },
+    "Python": {
+      "usageCount": 58,
+      "lastUsed": 1740399615557
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments/1-indoorVoice/indoor.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments/2-playbackSpeed/playback.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments/3-makingFaces/faces.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments/4-einstein/einsten.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments/5-tipCalculator/tip.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments/1-deepThought/deep.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments/2-homeFederalSavingsBank/bank.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments/3-fileExtensions/extensions.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments/4-mathInterpreter/interpreter.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments/5-mealTime/meal.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/02-loops/assignments/1-camelCase/camel.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/02-loops/assignments/2-cokeMachine/coke.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/02-loops/assignments/3-justSettingUpMyTwttr/twttr.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/02-loops/assignments/4-vanityPlates/plates.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/02-loops/assignments/5-nutritionFacts/nutrition.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/03-exceptions/assignments/1-fuelGauge/fuel.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/03-exceptions/assignments/2-felipesTaqueria/taqueria.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/03-exceptions/assignments/3-groceryList/grocery.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/03-exceptions/assignments/4-outdated/outdated.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/1-emojize/emojize.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/2-frankIanAndGlensLetters/figlet.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/3-adieuAdieu/adieu.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/4-guessingGame/game.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/5-littleProfessor/professor.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/6-bitcoinPriceIndex/bitcoin.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/05-unitTests/assignments/1-testTwttr/test_twttr.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/05-unitTests/assignments/2-testBank/test_bank.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/05-unitTests/assignments/3-testPlates/test_plates.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/05-unitTests/assignments/4-testFuel/test_fuel.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/06-fileIO/assignments/1-linesOfCode/lines.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/06-fileIO/assignments/2-pizzaPy/pizza.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/06-fileIO/assignments/4-scourgify/scourgify.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/06-fileIO/assignments/5-CS50PShirt/shirt.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/07-regularExpressions/assignments/1-numb3rs/numb3rs.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/07-regularExpressions/assignments/1-numb3rs/test_numb3rs.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/07-regularExpressions/assignments/2-watchOnYoutube/watch.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/07-regularExpressions/assignments/3-working9To5/working.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/07-regularExpressions/assignments/3-working9To5/test_working.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/07-regularExpressions/assignments/4-regularUmExpressions/test_um.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/07-regularExpressions/assignments/4-regularUmExpressions/um.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/07-regularExpressions/assignments/5-responseValidation/response.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/1-seasonsOfLove/seasons.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/1-seasonsOfLove/test_seasons.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/2-cookieJar/jar.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/2-cookieJar/test_jar.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/3-CS50Shirtificate/shirtificate.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/CS50p-solutions/README.md&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="7" lastUsage="1740399510528" />
+    </language>
+    <language id="Python">
+      <summary usageCount="58" lastUsage="1740399615557" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/1-emojize}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/2-frankIanAndGlensLetters}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/3-adieuAdieu}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/4-guessingGame}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/5-littleProfessor}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/6-bitcoinPriceIndex}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/05-unitTests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/1-seasonsOfLove}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/2-cookieJar}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/3-CS50Shirtificate}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/09-etCetera}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/09-etCetera}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/09-etCetera/project}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="CS50p-solutions" />
+            <item name="CS50p-solutions" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="CS50p-solutions" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="00-functionsVariables" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables/assignments" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="assignments" />
+                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables/assignments/1-indoorVoice" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="1-indoorVoice" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments/1-indoorVoice}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables/assignments/2-playbackSpeed" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="2-playbackSpeed" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments/2-playbackSpeed}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables/assignments/3-makingFaces" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="3-makingFaces" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments/3-makingFaces}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables/assignments/4-einstein" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="4-einstein" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments/4-einstein}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables/assignments/5-tipCalculator" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="5-tipCalculator" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/00-functionsVariables/assignments/5-tipCalculator}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables/1-hello.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="1-hello.py" />
+                  <item name="1-hello.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables/2-calculator.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="2-calculator.py" />
+                  <item name="2-calculator.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables/README.md" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                  <item name="README.md" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/00-functionsVariables/slides.pdf" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="slides.pdf" />
+                  <item name="slides.pdf" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/01-conditionals" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="01-conditionals" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/assignments" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="assignments" />
+                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/assignments/1-deepThought" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="1-deepThought" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments/1-deepThought}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/assignments/2-homeFederalSavingsBank" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="2-homeFederalSavingsBank" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments/2-homeFederalSavingsBank}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/assignments/3-fileExtensions" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="3-fileExtensions" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments/3-fileExtensions}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/assignments/4-mathInterpreter" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="4-mathInterpreter" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments/4-mathInterpreter}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/assignments/5-mealTime" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="5-mealTime" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/01-conditionals/assignments/5-mealTime}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/1-compare.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="1-compare.py" />
+                  <item name="1-compare.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/2-grade.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="2-grade.py" />
+                  <item name="2-grade.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/3-parity.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="3-parity.py" />
+                  <item name="3-parity.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/4-house.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="4-house.py" />
+                  <item name="4-house.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/README.md" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                  <item name="README.md" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/01-conditionals/slides.pdf" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="slides.pdf" />
+                  <item name="slides.pdf" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/02-loops" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="02-loops" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/02-loops}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/03-exceptions" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="03-exceptions" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/03-exceptions}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/04-libraries" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="04-libraries" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="assignments" />
+                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/1-emojize" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="1-emojize" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/1-emojize}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/1-emojize/emojize.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="emojize.py" />
+                      <item name="emojize.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/1-emojize/README.md" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                      <item name="README.md" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/2-frankIanAndGlensLetters" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="2-frankIanAndGlensLetters" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/2-frankIanAndGlensLetters}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/2-frankIanAndGlensLetters/figlet.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="figlet.py" />
+                      <item name="figlet.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/2-frankIanAndGlensLetters/README.md" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                      <item name="README.md" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/3-adieuAdieu" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="3-adieuAdieu" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/3-adieuAdieu}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/3-adieuAdieu/adieu.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="adieu.py" />
+                      <item name="adieu.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/3-adieuAdieu/README.md" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                      <item name="README.md" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/4-guessingGame" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="4-guessingGame" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/4-guessingGame}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/4-guessingGame/game.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="game.py" />
+                      <item name="game.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/4-guessingGame/README.md" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                      <item name="README.md" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/5-littleProfessor" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="5-littleProfessor" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/5-littleProfessor}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/5-littleProfessor/professor.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="professor.py" />
+                      <item name="professor.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/5-littleProfessor/README.md" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                      <item name="README.md" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/6-bitcoinPriceIndex" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="6-bitcoinPriceIndex" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/04-libraries/assignments/6-bitcoinPriceIndex}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/6-bitcoinPriceIndex/bitcoin.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="bitcoin.py" />
+                      <item name="bitcoin.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/04-libraries/assignments/6-bitcoinPriceIndex/README.md" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                      <item name="README.md" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/04-libraries/README.md" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                  <item name="README.md" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/05-unitTests" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="05-unitTests" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/05-unitTests}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/05-unitTests/assignments" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="assignments" />
+                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/05-unitTests/assignments}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/05-unitTests/README.md" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                  <item name="README.md" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/06-fileIO" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="06-fileIO" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/06-fileIO}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/07-regularExpressions" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="07-regularExpressions" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/07-regularExpressions}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="08-objectOrientedProgramming" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="assignments" />
+                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments/1-seasonsOfLove" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="1-seasonsOfLove" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/1-seasonsOfLove}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments/1-seasonsOfLove/seasons.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="seasons.py" />
+                      <item name="seasons.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments/1-seasonsOfLove/test_seasons.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="test_seasons.py" />
+                      <item name="test_seasons.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments/2-cookieJar" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="2-cookieJar" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/2-cookieJar}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments/2-cookieJar/jar.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="jar.py" />
+                      <item name="jar.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments/2-cookieJar/test_jar.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="test_jar.py" />
+                      <item name="test_jar.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments/3-CS50Shirtificate" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="3-CS50Shirtificate" />
+                    <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/08-objectOrientedProgramming/assignments/3-CS50Shirtificate}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments/3-CS50Shirtificate/shirtificate.pdf" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="shirtificate.pdf" />
+                      <item name="shirtificate.pdf" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments/3-CS50Shirtificate/shirtificate.png" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="shirtificate.png" />
+                      <item name="shirtificate.png" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/assignments/3-CS50Shirtificate/shirtificate.py" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="shirtificate.py" />
+                      <item name="shirtificate.py" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/08-objectOrientedProgramming/README.md" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                  <item name="README.md" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/09-etCetera" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="09-etCetera" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/09-etCetera}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/09-etCetera/project" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="project" />
+                  <item name="dir{file:///home/deepanshu/github_repos/my_repositories/CS50p-solutions/09-etCetera/project}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/09-etCetera/project/project.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="project.py" />
+                    <item name="project.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/09-etCetera/project/README.md" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                    <item name="README.md" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/09-etCetera/project/requirements.txt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="requirements.txt" />
+                    <item name="requirements.txt" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/09-etCetera/project/test_project.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="test_project.py" />
+                    <item name="test_project.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/09-etCetera/README.md" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                  <item name="README.md" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CS50P.pdf" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="CS50P.pdf" />
+                <item name="CS50P.pdf" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CS50P.png" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="CS50P.png" />
+                <item name="CS50P.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="nodes/ppLib.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="scope/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python tests.pytest in test_plates.py" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="CS50p-solutions-history">
+        <shellCommand>
+          <arg value="/usr/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4400000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18786295" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33074534" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.33074534" left="0.18786295" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/00-functionsVariables/assignments/2-playbackSpeed/playback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-functionsVariables/assignments/3-makingFaces/faces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-functionsVariables/assignments/4-einstein/einsten.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-functionsVariables/assignments/5-tipCalculator/README.md" />
+    <entry file="file://$PROJECT_DIR$/00-functionsVariables/assignments/5-tipCalculator/tip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-conditionals/assignments/1-deepThought/deep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-conditionals/assignments/2-homeFederalSavingsBank/bank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-conditionals/assignments/3-fileExtensions/extensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-conditionals/assignments/4-mathInterpreter/interpreter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-conditionals/assignments/5-mealTime/meal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-loops/assignments/1-camelCase/camel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-loops/assignments/2-cokeMachine/coke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-loops/assignments/3-justSettingUpMyTwttr/README.md" />
+    <entry file="file://$PROJECT_DIR$/02-loops/assignments/3-justSettingUpMyTwttr/twttr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-loops/assignments/5-nutritionFacts/nutrition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-loops/assignments/4-vanityPlates/plates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-exceptions/assignments/1-fuelGauge/fuel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-exceptions/assignments/3-groceryList/grocery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-exceptions/assignments/4-outdated/outdated.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-exceptions/assignments/2-felipesTaqueria/taqueria.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-unitTests/assignments/1-testTwttr/test_twttr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-unitTests/assignments/2-testBank/test_bank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-unitTests/assignments/3-testPlates/test_plates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-unitTests/assignments/4-testFuel/test_fuel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-fileIO/assignments/1-linesOfCode/lines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-fileIO/assignments/2-pizzaPy/pizza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-fileIO/assignments/4-scourgify/scourgify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-fileIO/assignments/5-CS50PShirt/shirt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-regularExpressions/assignments/1-numb3rs/test_numb3rs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#1#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-regularExpressions/assignments/2-watchOnYoutube/watch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-regularExpressions/assignments/3-working9To5/working.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-regularExpressions/assignments/3-working9To5/test_working.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-regularExpressions/assignments/4-regularUmExpressions/test_um.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-regularExpressions/assignments/4-regularUmExpressions/um.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#1#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-regularExpressions/assignments/5-responseValidation/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#1#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-regularExpressions/img/cs50pWeek7Slide8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-regularExpressions/assignments/1-numb3rs/numb3rs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-objectOrientedProgramming/assignments/1-seasonsOfLove/test_seasons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-objectOrientedProgramming/assignments/2-cookieJar/jar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-objectOrientedProgramming/assignments/2-cookieJar/test_jar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-objectOrientedProgramming/assignments/3-CS50Shirtificate/shirtificate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-etCetera/README.md" />
+    <entry file="file://$PROJECT_DIR$/08-objectOrientedProgramming/assignments/1-seasonsOfLove/seasons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#1#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="308">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <folding>
+              <element signature="e#1280#1361#0#Markdown" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-libraries/assignments/1-emojize/emojize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-libraries/assignments/2-frankIanAndGlensLetters/figlet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#1#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-libraries/assignments/3-adieuAdieu/adieu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-libraries/assignments/4-guessingGame/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-libraries/assignments/5-littleProfessor/professor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-libraries/assignments/6-bitcoinPriceIndex/bitcoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-etCetera/project/project.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

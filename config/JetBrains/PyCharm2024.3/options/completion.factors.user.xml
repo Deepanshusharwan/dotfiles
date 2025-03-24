@@ -1,0 +1,398 @@
+<application>
+  <component name="ApplicationUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="19-02-2025">
+        <observation name="cancelled" value="561.0" />
+        <observation name="explicitSelect" value="13.0" />
+        <observation name="typedSelect" value="54.0" />
+      </dailyData>
+      <dailyData date="21-02-2025">
+        <observation name="cancelled" value="56.0" />
+        <observation name="explicitSelect" value="1.0" />
+        <observation name="typedSelect" value="31.0" />
+      </dailyData>
+      <dailyData date="22-02-2025">
+        <observation name="cancelled" value="132.0" />
+        <observation name="explicitSelect" value="9.0" />
+        <observation name="typedSelect" value="46.0" />
+      </dailyData>
+      <dailyData date="23-02-2025">
+        <observation name="cancelled" value="510.0" />
+        <observation name="explicitSelect" value="37.0" />
+        <observation name="typedSelect" value="117.0" />
+      </dailyData>
+      <dailyData date="26-02-2025">
+        <observation name="cancelled" value="142.0" />
+        <observation name="explicitSelect" value="31.0" />
+        <observation name="typedSelect" value="27.0" />
+      </dailyData>
+      <dailyData date="27-02-2025">
+        <observation name="cancelled" value="160.0" />
+        <observation name="explicitSelect" value="6.0" />
+        <observation name="typedSelect" value="96.0" />
+      </dailyData>
+      <dailyData date="28-02-2025">
+        <observation name="cancelled" value="6.0" />
+      </dailyData>
+      <dailyData date="01-03-2025">
+        <observation name="cancelled" value="2023.0" />
+        <observation name="explicitSelect" value="11.0" />
+        <observation name="typedSelect" value="66.0" />
+      </dailyData>
+      <dailyData date="04-03-2025">
+        <observation name="cancelled" value="124.0" />
+        <observation name="explicitSelect" value="20.0" />
+        <observation name="typedSelect" value="63.0" />
+      </dailyData>
+      <dailyData date="19-03-2025">
+        <observation name="cancelled" value="189.0" />
+        <observation name="explicitSelect" value="18.0" />
+        <observation name="typedSelect" value="101.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="18-02-2025">
+        <observation name="BASIC" value="170.0" />
+      </dailyData>
+      <dailyData date="19-02-2025">
+        <observation name="BASIC" value="144.0" />
+      </dailyData>
+      <dailyData date="21-02-2025">
+        <observation name="BASIC" value="53.0" />
+      </dailyData>
+      <dailyData date="22-02-2025">
+        <observation name="BASIC" value="89.0" />
+      </dailyData>
+      <dailyData date="23-02-2025">
+        <observation name="BASIC" value="308.0" />
+      </dailyData>
+      <dailyData date="26-02-2025">
+        <observation name="BASIC" value="99.0" />
+      </dailyData>
+      <dailyData date="27-02-2025">
+        <observation name="BASIC" value="157.0" />
+      </dailyData>
+      <dailyData date="01-03-2025">
+        <observation name="BASIC" value="137.0" />
+      </dailyData>
+      <dailyData date="04-03-2025">
+        <observation name="BASIC" value="121.0" />
+      </dailyData>
+      <dailyData date="19-03-2025">
+        <observation name="BASIC" value="239.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="19-02-2025">
+        <observation name="count" value="628.0" />
+      </dailyData>
+      <dailyData date="21-02-2025">
+        <observation name="count" value="88.0" />
+      </dailyData>
+      <dailyData date="22-02-2025">
+        <observation name="count" value="187.0" />
+      </dailyData>
+      <dailyData date="23-02-2025">
+        <observation name="count" value="664.0" />
+      </dailyData>
+      <dailyData date="26-02-2025">
+        <observation name="count" value="200.0" />
+      </dailyData>
+      <dailyData date="27-02-2025">
+        <observation name="count" value="262.0" />
+      </dailyData>
+      <dailyData date="28-02-2025">
+        <observation name="count" value="6.0" />
+      </dailyData>
+      <dailyData date="01-03-2025">
+        <observation name="count" value="2100.0" />
+      </dailyData>
+      <dailyData date="04-03-2025">
+        <observation name="count" value="207.0" />
+      </dailyData>
+      <dailyData date="19-03-2025">
+        <observation name="count" value="308.0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="18-02-2025">
+        <observation name="0" value="21.0" />
+        <observation name="1" value="2.0" />
+        <observation name="2" value="1.0" />
+        <observation name="3" value="2.0" />
+      </dailyData>
+      <dailyData date="19-02-2025">
+        <observation name="0" value="11.0" />
+        <observation name="1" value="2.0" />
+      </dailyData>
+      <dailyData date="21-02-2025">
+        <observation name="0" value="1.0" />
+      </dailyData>
+      <dailyData date="22-02-2025">
+        <observation name="0" value="8.0" />
+        <observation name="1" value="1.0" />
+      </dailyData>
+      <dailyData date="23-02-2025">
+        <observation name="0" value="34.0" />
+        <observation name="1" value="3.0" />
+      </dailyData>
+      <dailyData date="26-02-2025">
+        <observation name="0" value="30.0" />
+        <observation name="1" value="1.0" />
+      </dailyData>
+      <dailyData date="27-02-2025">
+        <observation name="0" value="6.0" />
+      </dailyData>
+      <dailyData date="01-03-2025">
+        <observation name="0" value="11.0" />
+      </dailyData>
+      <dailyData date="04-03-2025">
+        <observation name="0" value="19.0" />
+        <observation name="1" value="1.0" />
+      </dailyData>
+      <dailyData date="19-03-2025">
+        <observation name="0" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="18-02-2025">
+        <observation name="total" value="24.0" />
+        <observation name="withMnemonics" value="6.0" />
+      </dailyData>
+      <dailyData date="19-02-2025">
+        <observation name="total" value="12.0" />
+        <observation name="withMnemonics" value="2.0" />
+      </dailyData>
+      <dailyData date="21-02-2025">
+        <observation name="total" value="1.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="22-02-2025">
+        <observation name="total" value="8.0" />
+        <observation name="withMnemonics" value="3.0" />
+      </dailyData>
+      <dailyData date="23-02-2025">
+        <observation name="total" value="27.0" />
+        <observation name="withMnemonics" value="13.0" />
+      </dailyData>
+      <dailyData date="26-02-2025">
+        <observation name="total" value="24.0" />
+        <observation name="withMnemonics" value="1.0" />
+      </dailyData>
+      <dailyData date="27-02-2025">
+        <observation name="total" value="5.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="01-03-2025">
+        <observation name="total" value="8.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="04-03-2025">
+        <observation name="total" value="13.0" />
+        <observation name="withMnemonics" value="1.0" />
+      </dailyData>
+      <dailyData date="19-03-2025">
+        <observation name="total" value="17.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="18-02-2025">
+        <observation name="1" value="2.0" />
+        <observation name="10" value="1.0" />
+        <observation name="2" value="3.0" />
+        <observation name="3" value="6.0" />
+        <observation name="4" value="8.0" />
+        <observation name="5" value="1.0" />
+        <observation name="6" value="4.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+      <dailyData date="19-02-2025">
+        <observation name="1" value="1.0" />
+        <observation name="10" value="1.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="4.0" />
+        <observation name="4" value="2.0" />
+        <observation name="5" value="2.0" />
+        <observation name="6" value="1.0" />
+      </dailyData>
+      <dailyData date="21-02-2025">
+        <observation name="2" value="1.0" />
+      </dailyData>
+      <dailyData date="22-02-2025">
+        <observation name="1" value="1.0" />
+        <observation name="10" value="1.0" />
+        <observation name="3" value="5.0" />
+        <observation name="6" value="1.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="23-02-2025">
+        <observation name="0" value="5.0" />
+        <observation name="1" value="5.0" />
+        <observation name="10" value="2.0" />
+        <observation name="12" value="1.0" />
+        <observation name="18" value="1.0" />
+        <observation name="2" value="5.0" />
+        <observation name="3" value="7.0" />
+        <observation name="4" value="2.0" />
+        <observation name="5" value="2.0" />
+        <observation name="6" value="4.0" />
+        <observation name="7" value="2.0" />
+        <observation name="9" value="1.0" />
+      </dailyData>
+      <dailyData date="26-02-2025">
+        <observation name="0" value="1.0" />
+        <observation name="1" value="6.0" />
+        <observation name="12" value="4.0" />
+        <observation name="14" value="3.0" />
+        <observation name="2" value="3.0" />
+        <observation name="3" value="4.0" />
+        <observation name="4" value="5.0" />
+        <observation name="5" value="2.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+      <dailyData date="27-02-2025">
+        <observation name="1" value="1.0" />
+        <observation name="2" value="3.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+      <dailyData date="01-03-2025">
+        <observation name="1" value="3.0" />
+        <observation name="2" value="4.0" />
+        <observation name="3" value="3.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+      <dailyData date="04-03-2025">
+        <observation name="0" value="2.0" />
+        <observation name="1" value="5.0" />
+        <observation name="2" value="7.0" />
+        <observation name="3" value="2.0" />
+        <observation name="4" value="2.0" />
+        <observation name="6" value="1.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+      <dailyData date="19-03-2025">
+        <observation name="0" value="1.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="4.0" />
+        <observation name="4" value="8.0" />
+        <observation name="5" value="2.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixMatchingType">
+      <dailyData date="18-02-2025">
+        <observation name="GREEDY" value="2.0" />
+        <observation name="GREEDY_WITH_CASE" value="2.0" />
+        <observation name="START_WITH" value="19.0" />
+      </dailyData>
+      <dailyData date="19-02-2025">
+        <observation name="START_WITH" value="10.0" />
+        <observation name="WORDS_FIRST_CHAR" value="1.0" />
+      </dailyData>
+      <dailyData date="21-02-2025">
+        <observation name="START_WITH" value="1.0" />
+      </dailyData>
+      <dailyData date="22-02-2025">
+        <observation name="START_WITH" value="8.0" />
+      </dailyData>
+      <dailyData date="23-02-2025">
+        <observation name="GREEDY" value="2.0" />
+        <observation name="START_WITH" value="23.0" />
+      </dailyData>
+      <dailyData date="26-02-2025">
+        <observation name="GREEDY_WITH_CASE" value="2.0" />
+        <observation name="START_WITH" value="16.0" />
+        <observation name="WORDS_FIRST_CHAR" value="1.0" />
+      </dailyData>
+      <dailyData date="27-02-2025">
+        <observation name="START_WITH" value="5.0" />
+      </dailyData>
+      <dailyData date="01-03-2025">
+        <observation name="START_WITH" value="8.0" />
+      </dailyData>
+      <dailyData date="04-03-2025">
+        <observation name="START_WITH" value="11.0" />
+      </dailyData>
+      <dailyData date="19-03-2025">
+        <observation name="START_WITH" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="templatesUsage">
+      <dailyData date="18-02-2025">
+        <observation name="totalStartingWithPrefix" value="20.0" />
+      </dailyData>
+      <dailyData date="19-02-2025">
+        <observation name="totalStartingWithPrefix" value="11.0" />
+      </dailyData>
+      <dailyData date="21-02-2025">
+        <observation name="totalStartingWithPrefix" value="1.0" />
+      </dailyData>
+      <dailyData date="22-02-2025">
+        <observation name="totalStartingWithPrefix" value="6.0" />
+      </dailyData>
+      <dailyData date="23-02-2025">
+        <observation name="totalStartingWithPrefix" value="24.0" />
+      </dailyData>
+      <dailyData date="26-02-2025">
+        <observation name="totalStartingWithPrefix" value="30.0" />
+      </dailyData>
+      <dailyData date="27-02-2025">
+        <observation name="totalStartingWithPrefix" value="6.0" />
+      </dailyData>
+      <dailyData date="01-03-2025">
+        <observation name="totalStartingWithPrefix" value="11.0" />
+      </dailyData>
+      <dailyData date="04-03-2025">
+        <observation name="totalStartingWithPrefix" value="19.0" />
+      </dailyData>
+      <dailyData date="19-03-2025">
+        <observation name="totalStartingWithPrefix" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="18-02-2025">
+        <observation name="average" value="224.523614" />
+        <observation name="count" value="487.0" />
+      </dailyData>
+      <dailyData date="19-02-2025">
+        <observation name="average" value="240.969512" />
+        <observation name="count" value="328.0" />
+      </dailyData>
+      <dailyData date="21-02-2025">
+        <observation name="average" value="249.507463" />
+        <observation name="count" value="67.0" />
+      </dailyData>
+      <dailyData date="22-02-2025">
+        <observation name="average" value="224.724359" />
+        <observation name="count" value="156.0" />
+      </dailyData>
+      <dailyData date="23-02-2025">
+        <observation name="average" value="263.692187" />
+        <observation name="count" value="640.0" />
+      </dailyData>
+      <dailyData date="26-02-2025">
+        <observation name="average" value="220.734375" />
+        <observation name="count" value="128.0" />
+      </dailyData>
+      <dailyData date="27-02-2025">
+        <observation name="average" value="190.544118" />
+        <observation name="count" value="204.0" />
+      </dailyData>
+      <dailyData date="01-03-2025">
+        <observation name="average" value="258.944134" />
+        <observation name="count" value="179.0" />
+      </dailyData>
+      <dailyData date="04-03-2025">
+        <observation name="average" value="202.819444" />
+        <observation name="count" value="288.0" />
+      </dailyData>
+      <dailyData date="19-03-2025">
+        <observation name="average" value="287.353383" />
+        <observation name="count" value="399.0" />
+      </dailyData>
+    </factor>
+  </component>
+</application>

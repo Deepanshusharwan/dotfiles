@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 21 16:36:22 IST 2025
+@default-alibaba-https\://maven.aliyun.com/repository/public/.lastUpdated=1740135982024
+@default-central-https\://repo1.maven.org/maven2/.lastUpdated=1740135982022
+@default-jboss.community-https\://repository.jboss.org/nexus/content/repositories/public/.lastUpdated=1740135982023
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact com.google.auth\:google-auth-library-oauth2-http\:pom\:1.19.0 from/to alibaba (https\://maven.aliyun.com/repository/public/)\: The operation was cancelled.
+https\://repo1.maven.org/maven2/.error=Could not transfer artifact com.google.auth\:google-auth-library-oauth2-http\:pom\:1.19.0 from/to central (https\://repo1.maven.org/maven2/)\: The operation was cancelled.
+https\://repository.jboss.org/nexus/content/repositories/public/.error=Could not transfer artifact com.google.auth\:google-auth-library-oauth2-http\:pom\:1.19.0 from/to jboss.community (https\://repository.jboss.org/nexus/content/repositories/public/)\: The operation was cancelled.
