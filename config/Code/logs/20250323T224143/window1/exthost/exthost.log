@@ -1,0 +1,10 @@
+2025-03-23 22:41:44.673 [info] Extension host with pid 70729 started
+2025-03-23 22:41:44.673 [info] Skipping acquiring lock for /home/deepanshu/.config/Code/User/workspaceStorage/8aa22b2c6ddc70157f22cfdf0d29f082.
+2025-03-23 22:41:44.735 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-23 22:41:44.799 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-03-23 22:41:44.809 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-23 22:41:44.839 [info] Eager extensions activated
+2025-03-23 22:41:44.841 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-23 22:41:44.843 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-23 22:41:54.840 [info] Extension host terminating: renderer closed the MessagePort
+2025-03-23 22:41:54.854 [info] Extension host with pid 70729 exiting with code 0
