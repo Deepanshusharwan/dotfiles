@@ -1,0 +1,32 @@
+2025-02-07 23:32:25.178 [info] [main] Log level: Info
+2025-02-07 23:32:25.178 [info] [main] Validating found git in: "git"
+2025-02-07 23:32:25.178 [info] [main] Using git "2.48.1" from "git"
+2025-02-07 23:32:25.178 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-07 23:32:25.178 [info] > git rev-parse --show-toplevel [3ms]
+2025-02-07 23:32:25.178 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-02-07 23:32:25.178 [info] [Model][openRepository] Opened repository: /home/deepanshu/github_repos/my_repositories/Turtle-shell
+2025-02-07 23:32:25.179 [info] > git rev-parse --show-toplevel [2ms]
+2025-02-07 23:32:25.179 [info] > git config --get commit.template [6ms]
+2025-02-07 23:32:25.191 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-02-07 23:32:25.204 [info] > git status -z -uall [8ms]
+2025-02-07 23:32:25.204 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-02-07 23:32:25.213 [info] > git rev-parse --show-toplevel [23ms]
+2025-02-07 23:32:25.222 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2025-02-07 23:32:25.229 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-02-07 23:32:25.234 [info] > git rev-parse --show-toplevel [12ms]
+2025-02-07 23:32:25.234 [info] > git config --get commit.template [16ms]
+2025-02-07 23:32:25.273 [info] > git rev-parse --show-toplevel [34ms]
+2025-02-07 23:32:25.273 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [40ms]
+2025-02-07 23:32:25.295 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2025-02-07 23:32:25.305 [info] > git status -z -uall [5ms]
+2025-02-07 23:32:25.305 [info] > git rev-parse --show-toplevel [10ms]
+2025-02-07 23:32:25.311 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-02-07 23:32:25.315 [info] > git rev-parse --show-toplevel [5ms]
+2025-02-07 23:32:25.324 [info] > git rev-parse --show-toplevel [2ms]
+2025-02-07 23:32:25.330 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-07 23:32:25.335 [info] > git rev-parse --show-toplevel [1ms]
+2025-02-07 23:32:25.336 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-07 23:32:25.503 [info] > git show --textconv :app/main.py [7ms]
+2025-02-07 23:32:25.505 [info] > git ls-files --stage -- /home/deepanshu/github_repos/my_repositories/Turtle-shell/app/main.py [4ms]
+2025-02-07 23:32:25.522 [info] > git cat-file -s 2afc0fff8d72e61441c1545cc818df891549facf [12ms]
+2025-02-07 23:32:25.711 [info] > git check-ignore -v -z --stdin [2ms]
