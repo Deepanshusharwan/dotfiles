@@ -1,0 +1,757 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="others" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoStructureTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2cmq7bwbu8n5k" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Pipfile.lock","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/mysite/__init__.py">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"__init__.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysite/asgi.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"asgi.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"settings.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"urls.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/mysite/wsgi.py">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"wsgi.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/nb.ipynb">
+          <provider editor-type-id="jupyter-editor" selected="true">
+            <state relative-caret-position="26">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+              <folding>
+                <element signature="e#4#25#0#JupyterPython" expanded="true" />
+              </folding>
+              <jupyter>
+                <cells>
+                  <cell>
+                    <outputs scrollingEnabled="true" />
+                  </cell>
+                  <cell>
+                    <outputs scrollingEnabled="true" />
+                  </cell>
+                  <cell>
+                    <outputs scrollingEnabled="true" />
+                  </cell>
+                </cells>
+              </jupyter>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"nb.ipynb","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-46,1,10,65,105,99,111,110,115,47,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,110,111,116,101,98,111,111,107,115,46,106,117,112,121,116,101,114,47,106,117,112,121,116,101,114,78,111,116,101,98,111,111,107,46,115,118,103,18,71,105,99,111,110,115,47,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,110,111,116,101,98,111,111,107,115,46,106,117,112,121,116,101,114,47,101,120,112,117,105,47,106,117,112,121,116,101,114,78,111,116,101,98,111,111,107,46,115,118,103,26,27,99,111,109,46,105,110,116,101,108,108,105,106,46,110,111,116,101,98,111,111,107,115,46,99,111,114,101,34,31,105,110,116,101,108,108,105,106,46,110,111,116,101,98,111,111,107,115,46,106,117,112,121,116,101,114,46,99,111,114,101,40,-46,-87,-61,-19,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#84#93#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"manage.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 33,
+      "lastUsed": 1740565396867
+    },
+    "Requirements.txt": {
+      "usageCount": 3,
+      "lastUsed": 1740545282374
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 8,
+      "lastUsed": 1740565396873
+    },
+    "Jupyter": {
+      "usageCount": 6,
+      "lastUsed": 1740565396827
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1740562660233
+    },
+    "SQL": {
+      "usageCount": 1,
+      "lastUsed": 1740565137797
+    },
+    "Database Element": {
+      "usageCount": 1,
+      "lastUsed": 1740565150956
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/deepanshu/python_projects/others/main.py&quot;,
+    &quot;/home/deepanshu/python_projects/others/requirements.txt&quot;,
+    &quot;/home/deepanshu/python_projects/others/Pipfile.lock&quot;,
+    &quot;/home/deepanshu/github_repos/clones/complete-pandas-tutorial/notebook2.ipynb&quot;,
+    &quot;/home/deepanshu/python_projects/others/manage.py&quot;,
+    &quot;/home/deepanshu/python_projects/others/nb.ipynb&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="3258939a-fa2e-4415-b855-5f03c528c2ae" />
+  <component name="LanguageUsageStatistics">
+    <language id="Jupyter">
+      <summary usageCount="6" lastUsage="1740565396829" />
+    </language>
+    <language id="Python">
+      <summary usageCount="33" lastUsage="1740565396867" />
+    </language>
+    <language id="Requirements">
+      <summary usageCount="3" lastUsage="1740545282374" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1740565137797" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="8" lastUsage="1740565396873" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="others" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/python_projects/others}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="others" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/python_projects/others}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/python_projects/others/mysite}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="others" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/python_projects/others}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/python_projects/others/polls}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="others" />
+            <item name="others" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="others" />
+              <item name="dir{file:///home/deepanshu/python_projects/others}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/mysite" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="mysite" />
+                <item name="dir{file:///home/deepanshu/python_projects/others/mysite}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/mysite/__init__.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                  <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/mysite/asgi.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="asgi.py" />
+                  <item name="asgi.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/mysite/settings.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="settings.py" />
+                  <item name="settings.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/mysite/urls.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="urls.py" />
+                  <item name="urls.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/mysite/wsgi.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="wsgi.py" />
+                  <item name="wsgi.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/polls" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="polls" />
+                <item name="dir{file:///home/deepanshu/python_projects/others/polls}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/polls/migrations" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="migrations" />
+                  <item name="dir{file:///home/deepanshu/python_projects/others/polls/migrations}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/polls/__init__.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                  <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/polls/admin.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="admin.py" />
+                  <item name="admin.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/polls/apps.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="apps.py" />
+                  <item name="apps.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/polls/models.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="models.py" />
+                  <item name="models.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/polls/tests.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="tests.py" />
+                  <item name="tests.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/polls/views.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="views.py" />
+                  <item name="views.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/db.sqlite3" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="db.sqlite3" />
+                <item name="db.sqlite3" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/manage.py" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="manage.py" />
+                <item name="manage.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/nb.ipynb" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.notebooks.jupyter.core" iconPath="icons/org.jetbrains.plugins.notebooks.jupyter/expui/jupyterNotebook.svg" iconPlugin="com.intellij.notebooks.core" isLeaf="true" text="nb.ipynb" />
+                <item name="nb.ipynb" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Pipfile" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/newui/toml.svg" iconPlugin="org.toml.lang" isLeaf="true" text="Pipfile" />
+                <item name="Pipfile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Pipfile.lock" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="Pipfile.lock" />
+                <item name="Pipfile.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Django Server.others" />
+      <element setting="Python.others" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="others-history1">
+        <shellCommand>
+          <arg value="/usr/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10331000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6522095" visible="true" weight="0.18960512" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Django.Structure" order="2" sideWeight="0.3477905" side_tool="true" visible="true" weight="0.18960512" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.29554868" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.43062967" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.43115944" />
+      <window_info anchor="bottom" id="Jupyter" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" show_stripe_button="false" weight="0.4310166" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33013937" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.25638792" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.29554868" left="0.18960512" right="0.25638792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Notifications</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Python Console</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="152" key="#Notifications" timestamp="1740562887269">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="530" y="152" key="#Notifications/0.0.1728.972@0.0.1728.972" timestamp="1740562887269" />
+    <state x="0" y="12" width="806" height="681" key="#Run/Debug_Configuration_Templates" timestamp="1740565190957">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="0" y="12" width="806" height="681" key="#Run/Debug_Configuration_Templates/0.0.1728.972@0.0.1728.972" timestamp="1740565190957" />
+    <state x="461" y="142" width="800" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1740565588448">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="461" y="142" width="800" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1728.972@0.0.1728.972" timestamp="1740565588448" />
+    <state x="158" y="0" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1740565056667">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="158" y="0" key="#com.intellij.ide.macro.MacrosDialog/0.0.1728.972@0.0.1728.972" timestamp="1740565056667" />
+    <state x="649" y="239" key="FileChooserDialogImpl" timestamp="1740565312389">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="649" y="239" key="FileChooserDialogImpl/0.0.1728.972@0.0.1728.972" timestamp="1740565312389" />
+    <state width="1640" height="374" key="GridCell.Tab.0.bottom" timestamp="1740545628234">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1640" height="374" key="GridCell.Tab.0.bottom/0.0.1728.972@0.0.1728.972" timestamp="1740545628234" />
+    <state width="1640" height="374" key="GridCell.Tab.0.center" timestamp="1740545628234">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1640" height="374" key="GridCell.Tab.0.center/0.0.1728.972@0.0.1728.972" timestamp="1740545628234" />
+    <state width="1640" height="374" key="GridCell.Tab.0.left" timestamp="1740545628233">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1640" height="374" key="GridCell.Tab.0.left/0.0.1728.972@0.0.1728.972" timestamp="1740545628233" />
+    <state width="1640" height="374" key="GridCell.Tab.0.right" timestamp="1740545628234">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1640" height="374" key="GridCell.Tab.0.right/0.0.1728.972@0.0.1728.972" timestamp="1740545628234" />
+    <state width="1638" height="373" key="GridCell.Tab.1.bottom" timestamp="1739844822479">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1638" height="373" key="GridCell.Tab.1.bottom/0.0.1728.972@0.0.1728.972" timestamp="1739844822479" />
+    <state width="1638" height="373" key="GridCell.Tab.1.center" timestamp="1739844822479">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1638" height="373" key="GridCell.Tab.1.center/0.0.1728.972@0.0.1728.972" timestamp="1739844822479" />
+    <state width="1638" height="373" key="GridCell.Tab.1.left" timestamp="1739844822479">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1638" height="373" key="GridCell.Tab.1.left/0.0.1728.972@0.0.1728.972" timestamp="1739844822479" />
+    <state width="1638" height="373" key="GridCell.Tab.1.right" timestamp="1739844822479">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1638" height="373" key="GridCell.Tab.1.right/0.0.1728.972@0.0.1728.972" timestamp="1739844822479" />
+    <state x="0" y="0" width="546" height="139" key="ProcessPopupWindow" timestamp="1740562586717">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="0" y="0" width="546" height="139" key="ProcessPopupWindow/0.0.1728.972@0.0.1728.972" timestamp="1740562586717" />
+    <state x="362" y="104" key="SettingsEditor" timestamp="1740565364880">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="362" y="104" key="SettingsEditor/0.0.1728.972@0.0.1728.972" timestamp="1740565364880" />
+    <state x="0" y="0" width="672" height="712" key="run.anything.popup" timestamp="1740545624342">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="0" y="0" width="672" height="712" key="run.anything.popup/0.0.1728.972@0.0.1728.972" timestamp="1740545624342" />
+    <state x="0" y="0" width="796" height="390" key="search.everywhere.popup" timestamp="1740563455513">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="0" y="0" width="796" height="390" key="search.everywhere.popup/0.0.1728.972@0.0.1728.972" timestamp="1740563455513" />
+    <state x="591" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1740562980580">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="591" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1728.972@0.0.1728.972" timestamp="1740562980580" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$USER_HOME$/github_repos/clones/complete-pandas-tutorial/notebook2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor">
+        <state relative-caret-position="-216">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+          <jupyter>
+            <cells>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+            </cells>
+          </jupyter>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://a9fb64d8-33f8-4ec5-bc37-3e9aa3f864f4/schema/main/table/sqlite_master" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ab18974e-9754-4790-9a25-31a977c831f8/console.sql" />
+    <entry file="file://$PROJECT_DIR$/nb.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor">
+        <state relative-caret-position="26">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <element signature="e#4#25#0#JupyterPython" expanded="true" />
+          </folding>
+          <jupyter>
+            <cells>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+            </cells>
+          </jupyter>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#84#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/asgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

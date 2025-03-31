@@ -1,0 +1,45 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "/img/logos/color/128.png",
+         "16": "/img/logos/color/16.png",
+         "256": "/img/logos/color/256.png",
+         "32": "/img/logos/color/32.png",
+         "48": "/img/logos/color/48.png",
+         "64": "/img/logos/color/64.png"
+      },
+      "default_popup": "/overlay/overlay.html",
+      "default_title": "__MSG_extensionName__"
+   },
+   "background": {
+      "service_worker": "/background/background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "/content/content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en_US",
+   "description": "__MSG_extensionDescription__",
+   "homepage_url": "https://chrispederick.com/work/web-developer/",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "/img/logos/color/128.png",
+      "16": "/img/logos/color/16.png",
+      "256": "/img/logos/color/256.png",
+      "32": "/img/logos/color/32.png",
+      "48": "/img/logos/color/48.png",
+      "64": "/img/logos/color/64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDqzooK0Nk6479vcXm/kYwHuAZ1FNqe+xQlSJLkRtZnXxxVuWcWJenL526c9PjW71/LgJA8AqtGS9MD59fT4LTfNY5yyTvX0yRFpd8aGADfVGDRPLp8qas+v5LIw2TaGF2Fn281yi5PnxTLUtWuscFfUNU95quxIwvPYkEjASnnNwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extensionName__",
+   "options_page": "/options/options.html",
+   "permissions": [ "browsingData", "contentSettings", "cookies", "history", "scripting", "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.1",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "/embedded/css/*.css", "/embedded/js/dashboard/dashboard.js", "/features/css/*.css", "/img/transparent.png", "/lib/bootstrap/bootstrap.css", "/lib/bootstrap/bootstrap.js", "/lib/reset.css", "/svg/logos/color/logo.svg" ],
+      "use_dynamic_url": true
+   } ]
+}

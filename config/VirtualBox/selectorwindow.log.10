@@ -1,21 +1,22 @@
-00:00:00.312813 VirtualBox GUI VM Selector Window 7.1.6 r167084 linux.amd64 (Jan 27 2025 07:52:25) release log
-00:00:00.312816 Log opened 2025-03-19T19:04:25.731921000Z
-00:00:00.312817 Build Type: release
-00:00:00.312819 OS Product: Linux
-00:00:00.312820 OS Release: 6.12.18-1-lts
-00:00:00.312821 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 07 Mar 2025 18:50:18 +0000
-00:00:00.312850 DMI Product Name: Vivobook_ASUSLaptop K5504VA_S5504VA
-00:00:00.312858 DMI Product Version: 1.0       
-00:00:00.312863 Firmware type: UEFI
-00:00:00.313309 Secure Boot: Disabled
-00:00:00.313349 Host RAM: 15621MB (15.2GB) total, 12721MB (12.4GB) available
-00:00:00.313352 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:00.313353 Process ID: 90422
-00:00:00.313353 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.313385 Qt version: 6.8.2
-00:00:00.314084 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
-00:00:00.317640 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:00.317668 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:00:00.770627 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1486x836
-00:00:10.776041 GUI: UICommon: Handling aboutToQuit request..
-00:00:11.354388 GUI: UICommon: aboutToQuit request handled!
+00:00:00.253472 VirtualBox GUI VM Selector Window 7.1.6 r167084 linux.amd64 (Jan 27 2025 07:52:25) release log
+00:00:00.253476 Log opened 2025-03-23T17:26:33.901576000Z
+00:00:00.253477 Build Type: release
+00:00:00.253480 OS Product: Linux
+00:00:00.253482 OS Release: 6.12.19-1-lts
+00:00:00.253483 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 13 Mar 2025 15:20:33 +0000
+00:00:00.253519 DMI Product Name: Vivobook_ASUSLaptop K5504VA_S5504VA
+00:00:00.253530 DMI Product Version: 1.0       
+00:00:00.253537 Firmware type: UEFI
+00:00:00.254096 Secure Boot: Disabled
+00:00:00.254150 Host RAM: 15621MB (15.2GB) total, 12981MB (12.6GB) available
+00:00:00.254155 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.254156 Process ID: 72556
+00:00:00.254157 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.254197 Qt version: 6.8.2
+00:00:00.255655 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.270106 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.630874 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.799210 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 863x485 x 800x800
+00:00:04.799281 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 863x485 x 800x800
+00:00:17.819811 GUI: UICommon: Handling aboutToQuit request..
+00:00:19.071055 GUI: UICommon: aboutToQuit request handled!

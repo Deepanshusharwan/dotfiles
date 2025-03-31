@@ -1,0 +1,28 @@
+2025/03/30-13:27:13.787 a6e Reusing MANIFEST /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2025/03/30-13:27:13.788 a6e Recovering log #1447
+2025/03/30-13:27:13.791 a6e Reusing old log /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/001447.log 
+2025/03/30-13:28:10.776 a6e Level-0 table #1451: started
+2025/03/30-13:28:10.830 a6e Level-0 table #1451: 9234746 bytes OK
+2025/03/30-13:28:10.833 a6e Delete type=0 #1447
+2025/03/30-18:34:22.281 a6f Level-0 table #1453: started
+2025/03/30-18:34:22.299 a6f Level-0 table #1453: 5382095 bytes OK
+2025/03/30-18:34:22.304 a6f Delete type=0 #1450
+2025/03/30-18:34:22.305 a6f Compacting 4@0 + 3@1 files
+2025/03/30-18:34:22.316 a6f Generated table #1454@0: 4 keys, 2301597 bytes
+2025/03/30-18:34:22.344 a6f Generated table #1455@0: 7 keys, 2847972 bytes
+2025/03/30-18:34:22.379 a6f Generated table #1456@0: 12 keys, 2082000 bytes
+2025/03/30-18:34:22.379 a6f Compacted 4@0 + 3@1 files => 7231569 bytes
+2025/03/30-18:34:22.382 a6f compacted to: files[ 0 3 5 0 0 0 0 ]
+2025/03/30-18:34:22.382 a6f Delete type=2 #1440
+2025/03/30-18:34:22.382 a6f Delete type=2 #1441
+2025/03/30-18:34:22.382 a6f Delete type=2 #1442
+2025/03/30-18:34:22.382 a6f Delete type=2 #1445
+2025/03/30-18:34:22.382 a6f Delete type=2 #1448
+2025/03/30-18:34:22.382 a6f Delete type=2 #1451
+2025/03/30-18:34:22.382 a6f Delete type=2 #1453
+2025/03/30-18:35:18.781 a6e Level-0 table #1458: started
+2025/03/30-18:35:18.825 a6e Level-0 table #1458: 6764960 bytes OK
+2025/03/30-18:35:18.828 a6e Delete type=0 #1452
+2025/03/30-22:00:10.113 a71 Level-0 table #1460: started
+2025/03/30-22:00:10.183 a71 Level-0 table #1460: 6863653 bytes OK
+2025/03/30-22:00:10.187 a71 Delete type=0 #1457

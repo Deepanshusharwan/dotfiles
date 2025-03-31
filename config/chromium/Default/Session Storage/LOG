@@ -1,0 +1,21 @@
+2025/03/30-13:27:13.651 4 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/Session Storage/MANIFEST-000001
+2025/03/30-13:27:13.652 4 Recovering log #431
+2025/03/30-13:27:13.652 4 Reusing old log /home/deepanshu/.config/chromium/Default/Session Storage/000431.log 
+2025/03/30-19:15:32.059 4 Level-0 table #435: started
+2025/03/30-19:15:32.063 4 Level-0 table #435: 22571 bytes OK
+2025/03/30-19:15:32.067 4 Delete type=0 #431
+2025/03/30-19:15:32.068 4 Compacting 4@0 + 1@1 files
+2025/03/30-19:15:32.080 4 Generated table #436@0: 22236 keys, 383756 bytes
+2025/03/30-19:15:32.081 4 Compacted 4@0 + 1@1 files => 383756 bytes
+2025/03/30-19:15:32.083 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/30-19:15:32.084 4 Delete type=2 #423
+2025/03/30-19:15:32.084 4 Delete type=2 #426
+2025/03/30-19:15:32.084 4 Delete type=2 #429
+2025/03/30-19:15:32.084 4 Delete type=2 #432
+2025/03/30-19:15:32.084 4 Delete type=2 #435
+2025/03/30-22:34:31.320 4 Level-0 table #438: started
+2025/03/30-22:34:31.328 4 Level-0 table #438: 23561 bytes OK
+2025/03/30-22:34:31.334 4 Delete type=0 #434
+2025/03/31-10:12:51.051 4 Level-0 table #440: started
+2025/03/31-10:12:51.077 4 Level-0 table #440: 69314 bytes OK
+2025/03/31-10:12:51.082 4 Delete type=0 #437

@@ -1,5 +1,5 @@
 {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "autoload": {
         "AT Translated Set 2 keyboard": "laptop_keyboard",
         "Video Bus": "new preset",

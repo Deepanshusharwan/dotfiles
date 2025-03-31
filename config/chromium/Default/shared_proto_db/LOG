@@ -1,0 +1,6 @@
+2025/03/30-13:27:13.694 a71 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/shared_proto_db/MANIFEST-000001
+2025/03/30-13:27:13.695 a71 Recovering log #27
+2025/03/30-13:27:13.696 a71 Reusing old log /home/deepanshu/.config/chromium/Default/shared_proto_db/000027.log 
+2025/03/30-21:54:09.112 a6f Level-0 table #33: started
+2025/03/30-21:54:09.120 a6f Level-0 table #33: 119455 bytes OK
+2025/03/30-21:54:09.124 a6f Delete type=0 #27

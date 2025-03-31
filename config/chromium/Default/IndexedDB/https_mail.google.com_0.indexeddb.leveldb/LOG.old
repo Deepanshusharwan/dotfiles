@@ -1,0 +1,9 @@
+2025/03/20-11:49:38.097 781 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/20-11:49:38.098 781 Recovering log #41
+2025/03/20-11:49:38.099 781 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000041.log 
+2025/03/20-11:49:42.468 783 Compacting 1@1 + 1@2 files
+2025/03/20-11:49:42.473 783 Generated table #44@1: 86 keys, 32084 bytes
+2025/03/20-11:49:42.473 783 Compacted 1@1 + 1@2 files => 32084 bytes
+2025/03/20-11:49:42.475 783 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/20-11:49:42.476 783 Delete type=2 #40
+2025/03/20-11:49:42.476 783 Delete type=2 #42

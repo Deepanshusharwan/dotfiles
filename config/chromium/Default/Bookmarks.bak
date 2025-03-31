@@ -1,0 +1,146 @@
+{
+   "checksum": "7aaf7905e6df6eb2cbc7233654330f2e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13381218503964368",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13381218598745365",
+            "date_last_used": "13383755025350852",
+            "guid": "1b2fd37c-df67-4af9-9fee-ff31c860cc35",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Model Downloads - april-asr Documentation",
+            "type": "url",
+            "url": "https://abb128.github.io/april-asr/models.html"
+         }, {
+            "date_added": "13381655438964653",
+            "date_last_used": "0",
+            "guid": "ac4fe886-974a-45ea-9a80-64414461d947",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Catalog | CodeCrafters",
+            "type": "url",
+            "url": "https://app.codecrafters.io/catalog"
+         }, {
+            "date_added": "13382693424444676",
+            "date_last_used": "0",
+            "guid": "61303d3f-7726-4edc-ab89-fdfb82114539",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[Kanagawa] Neovim, Obsidian, Chrome/Brave, Kitty, Tmux : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/10qovte/kanagawa_neovim_obsidian_chromebrave_kitty_tmux/?rdt=33089"
+         }, {
+            "date_added": "13382695821420058",
+            "date_last_used": "0",
+            "guid": "eb4e077c-0ffc-4e90-9ede-e3bc808b7bd9",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Install OBS Studio in Arch Linux",
+            "type": "url",
+            "url": "https://www.jeremymorgan.com/tutorials/linux/how-to-install-obs-arch-linux/"
+         }, {
+            "date_added": "13382878548875929",
+            "date_last_used": "0",
+            "guid": "52837e45-e445-4c94-a16c-5d34677007ed",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Master tutorial – Hyprland Wiki",
+            "type": "url",
+            "url": "https://wiki.hyprland.org/Getting-Started/Master-Tutorial/#force-apps-to-use-wayland"
+         }, {
+            "date_added": "13383083086932731",
+            "date_last_used": "0",
+            "guid": "61d81919-0676-4fc4-b9fe-34f79d5604da",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Resume – FlowCV",
+            "type": "url",
+            "url": "https://app.flowcv.com/resume/content"
+         }, {
+            "date_added": "13383986931513108",
+            "date_last_used": "0",
+            "guid": "a1e86256-c24c-489a-bd1f-0d4221ee3fcd",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub Stats Generator | Omsimos",
+            "type": "url",
+            "url": "https://github-stats.omsimos.com/"
+         }, {
+            "date_added": "13384795631444309",
+            "date_last_used": "0",
+            "guid": "ba26e8cc-482f-49f1-bb62-6fb3e5a68dba",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PyQt6 Signals, Slots and Events - pyqtSignal, pyqtSlot, Mouse Events & Context menus",
+            "type": "url",
+            "url": "https://www.pythonguis.com/tutorials/pyqt6-signals-slots-events/#menu"
+         }, {
+            "date_added": "13385010101091804",
+            "date_last_used": "0",
+            "guid": "f2a817f3-3612-4574-b5bf-fccfe0fc81ff",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IBM Full Stack Software Developer Professional Certificate | Coursera",
+            "type": "url",
+            "url": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer"
+         }, {
+            "date_added": "13385010117849368",
+            "date_last_used": "0",
+            "guid": "b1841947-707b-4978-80ea-ba3f29b4567d",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Django for Everybody | Coursera",
+            "type": "url",
+            "url": "https://www.coursera.org/specializations/django"
+         } ],
+         "date_added": "13381218503964370",
+         "date_last_used": "0",
+         "date_modified": "13385010117849368",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13381218503964371",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
