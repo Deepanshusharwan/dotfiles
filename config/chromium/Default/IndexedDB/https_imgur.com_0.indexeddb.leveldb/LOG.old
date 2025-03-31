@@ -1,3 +1,0 @@
-2025/01/25-14:52:31.209 5785 Creating DB /home/deepanshu/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb since it was missing.
-2025/01/25-14:52:31.213 5785 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/01/25-14:52:31.228 578a Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

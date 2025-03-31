@@ -1,7 +1,0 @@
-2025/02/24-17:31:43.255 18ba Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/24-17:31:43.255 18ba Recovering log #3
-2025/02/24-17:31:43.258 18ba Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000003.log 
-2025/02/24-17:47:27.150 18bb Level-0 table #5: started
-2025/02/24-17:47:27.155 18bb Level-0 table #5: 32773 bytes OK
-2025/02/24-17:47:27.158 18bb Delete type=0 #3
-2025/02/24-17:47:27.158 18bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
