@@ -1,6 +1,0 @@
-2025/03/19-19:18:28.196 2e40 Creating DB /home/deepanshu/.config/chromium/Default/WebStorage/111/IndexedDB/indexeddb.leveldb since it was missing.
-2025/03/19-19:18:28.200 2e40 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/WebStorage/111/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/03/19-19:18:46.669 2e40 Level-0 table #5: started
-2025/03/19-19:18:46.673 2e40 Level-0 table #5: 9058 bytes OK
-2025/03/19-19:18:46.676 2e40 Delete type=0 #3
-2025/03/19-19:18:46.676 2e40 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

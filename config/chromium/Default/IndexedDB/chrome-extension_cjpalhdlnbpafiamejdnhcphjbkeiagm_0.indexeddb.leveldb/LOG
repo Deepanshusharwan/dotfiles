@@ -1,6 +1,0 @@
-2025/03/30-13:27:13.982 a71 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/30-13:27:13.982 a71 Recovering log #61
-2025/03/30-13:27:13.987 a71 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000061.log 
-2025/03/30-21:59:03.359 a6f Level-0 table #65: started
-2025/03/30-21:59:03.370 a6f Level-0 table #65: 2155932 bytes OK
-2025/03/30-21:59:03.373 a6f Delete type=0 #61
