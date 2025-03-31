@@ -9,7 +9,11 @@
                 "folderUri": "file:///home/deepanshu/cohort"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1743241161311"
+            }
+        ]
     },
     "windowControlHeight": 35,
     "profileAssociations": {
@@ -17,12 +21,13 @@
             "file:///home/deepanshu/cohort/du_feeslip": "__default__profile__",
             "file:///home/deepanshu/cohort": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1743241161311": "__default__profile__"
+        }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/deepanshu/cohort",
-            "backupPath": "/home/deepanshu/.config/Code/Backups/6bdde4338fca9da1e27b667414692bf2",
+            "backupPath": "/home/deepanshu/.config/Code/Backups/1743241161311",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -57,7 +62,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 213,
+            "sideBarWidth": 0,
             "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false

@@ -1,0 +1,635 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="codecrafters-shell-python" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1qf5afyt03sn4" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/main.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="942">
+              <caret line="451" column="87" selection-end-line="457" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"main.py","foregroundColor":-2316959,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"dca561"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-99,1,10,-102,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,100,101,101,112,97,110,115,104,117,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,80,121,67,104,97,114,109,50,48,50,52,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,48,46,49,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,112,121,116,104,111,110,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/os">
+          <provider editor-type-id="LargeFileEditorProvider" selected="true">
+            <state caret-page-number="283" caret-page-symbol-offset="79" />
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"os","foregroundColor":-9339780,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"717c7c"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-100,1,10,-103,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,100,101,101,112,97,110,115,104,117,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,80,121,67,104,97,114,109,50,48,50,52,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,48,46,49,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,95,102,105,108,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/subprocess">
+          <provider editor-type-id="LargeFileEditorProvider" selected="true">
+            <state caret-page-number="0" caret-page-symbol-offset="0" />
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"subprocess","foregroundColor":-9339780,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"717c7c"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-100,1,10,-103,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,100,101,101,112,97,110,115,104,117,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,80,121,67,104,97,114,109,50,48,50,52,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,48,46,49,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,95,102,105,108,101,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Shell Script": {
+      "usageCount": 17,
+      "lastUsed": 1737605127393
+    },
+    "TOML": {
+      "usageCount": 3,
+      "lastUsed": 1737596201419
+    },
+    "Markdown": {
+      "usageCount": 11,
+      "lastUsed": 1737593182246
+    },
+    "Python": {
+      "usageCount": 34,
+      "lastUsed": 1738264953186
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1737255449333
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 20,
+      "lastUsed": 1738264953217
+    },
+    "Ini": {
+      "usageCount": 3,
+      "lastUsed": 1737596203332
+    },
+    "GitIgnore file": {
+      "usageCount": 2,
+      "lastUsed": 1737594471157
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1737594475401
+    },
+    "YAML": {
+      "usageCount": 2,
+      "lastUsed": 1738089423825
+    }
+  }
+}]]></component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/.gitattributes&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/.gitignore&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/.codecrafters/compile.sh&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/.bash_scripts/compile.sh&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/README.md&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/Turtle-shell/app/main.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/codecrafters-shell-python/codecrafters.yml&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/codecrafters-shell-python/app/main.py&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="2" lastUsage="1737594471157" />
+    </language>
+    <language id="Ini">
+      <summary usageCount="3" lastUsage="1737596203332" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="11" lastUsage="1737593182246" />
+    </language>
+    <language id="Python">
+      <summary usageCount="34" lastUsage="1738264953188" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="17" lastUsage="1737605127394" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="20" lastUsage="1738264953217" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="3" lastUsage="1737596201419" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1737594475401" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="2" lastUsage="1738089423825" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codecrafters-shell-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/codecrafters-shell-python}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codecrafters-shell-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/codecrafters-shell-python}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/codecrafters-shell-python/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="codecrafters-shell-python" />
+            <item name="codecrafters-shell-python" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data isLeaf="false" text="codecrafters-shell-python" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/codecrafters-shell-python}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.codecrafters" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".codecrafters" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/codecrafters-shell-python/.codecrafters}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="app" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/codecrafters-shell-python/app}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/main.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/mocha_python.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="main.py" />
+                  <item name="main.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/os" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="os" />
+                  <item name="os" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/subprocess" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="subprocess" />
+                  <item name="subprocess" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/sys" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="sys" />
+                  <item name="sys" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bin" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="bin" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/codecrafters-shell-python/bin}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/include" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="include" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/codecrafters-shell-python/include}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lib" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="lib" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/codecrafters-shell-python/lib}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lib64" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="lib64" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/codecrafters-shell-python/lib64}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitattributes" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitattributes" />
+                <item name=".gitattributes" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/codecrafters.yml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="codecrafters.yml" />
+                <item name="codecrafters.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Pipfile" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Pipfile" />
+                <item name="Pipfile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Pipfile.lock" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Pipfile.lock" />
+                <item name="Pipfile.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pyvenv.cfg" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="pyvenv.cfg" />
+                <item name="pyvenv.cfg" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/your_program.sh" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="your_program.sh" />
+                <item name="your_program.sh" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="codecrafters-shell-python-history">
+        <shellCommand>
+          <arg value="/usr/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78731000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5694723" weight="0.22760417" />
+      <window_info id="Commit" order="1" sideWeight="0.53840685" weight="0.22760417" />
+      <window_info id="Structure" order="2" sideWeight="0.43052772" side_tool="true" weight="0.22760417" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="HfCacheToolWindow" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.38796297" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.4361111" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.4361111" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.38796297" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.38796297" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.4361111" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.4361111" />
+      <window_info anchor="bottom" id="Find" order="9" show_stripe_button="false" weight="0.4780864" />
+      <window_info anchor="right" id="PR AI Assistant" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="SciView" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.33003473" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.4361111" left="0.22760417" right="0.33003473" />
+    </layoutV2>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Database</value>
+      <value>Project</value>
+      <value>Structure</value>
+      <value>Commit</value>
+      <value>Find</value>
+      <value>Python Console</value>
+      <value>Python Packages</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="240" width="1350" height="1122" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=90" timestamp="1738302414639">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="485" y="240" width="1350" height="1122" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738302414639" />
+    <state x="889" y="359" width="848" height="990" key="FileChooserDialogImpl" timestamp="1737593170985">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="889" y="359" width="848" height="990" key="FileChooserDialogImpl/0.0.2880.1620@0.0.2880.1620" timestamp="1737593170985" />
+    <state width="2716" height="183" key="GridCell.Tab.0.bottom" timestamp="1738171185158">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.0.bottom.ideScale=90" timestamp="1738304539663">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.0.bottom.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738304539663" />
+    <state width="2716" height="183" key="GridCell.Tab.0.bottom/0.0.2880.1620@0.0.2880.1620" timestamp="1738171185158" />
+    <state width="2716" height="183" key="GridCell.Tab.0.center" timestamp="1738171185158">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.0.center.ideScale=90" timestamp="1738304539663">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.0.center.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738304539663" />
+    <state width="2716" height="183" key="GridCell.Tab.0.center/0.0.2880.1620@0.0.2880.1620" timestamp="1738171185158" />
+    <state width="2716" height="183" key="GridCell.Tab.0.left" timestamp="1738171185158">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.0.left.ideScale=90" timestamp="1738304539663">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.0.left.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738304539663" />
+    <state width="2716" height="183" key="GridCell.Tab.0.left/0.0.2880.1620@0.0.2880.1620" timestamp="1738171185158" />
+    <state width="2716" height="183" key="GridCell.Tab.0.right" timestamp="1738171185158">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.0.right.ideScale=90" timestamp="1738304539663">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.0.right.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738304539663" />
+    <state width="2716" height="183" key="GridCell.Tab.0.right/0.0.2880.1620@0.0.2880.1620" timestamp="1738171185158" />
+    <state width="2716" height="626" key="GridCell.Tab.1.bottom" timestamp="1738097189568">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.1.bottom.ideScale=90" timestamp="1738304539663">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.1.bottom.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738304539663" />
+    <state width="2716" height="626" key="GridCell.Tab.1.bottom/0.0.2880.1620@0.0.2880.1620" timestamp="1738097189568" />
+    <state width="2716" height="626" key="GridCell.Tab.1.center" timestamp="1738097189568">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.1.center.ideScale=90" timestamp="1738304539663">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.1.center.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738304539663" />
+    <state width="2716" height="626" key="GridCell.Tab.1.center/0.0.2880.1620@0.0.2880.1620" timestamp="1738097189568" />
+    <state width="2716" height="626" key="GridCell.Tab.1.left" timestamp="1738097189568">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.1.left.ideScale=90" timestamp="1738304539663">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.1.left.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738304539663" />
+    <state width="2716" height="626" key="GridCell.Tab.1.left/0.0.2880.1620@0.0.2880.1620" timestamp="1738097189568" />
+    <state width="2716" height="626" key="GridCell.Tab.1.right" timestamp="1738097189568">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.1.right.ideScale=90" timestamp="1738304539663">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state width="2736" height="633" key="GridCell.Tab.1.right.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738304539663" />
+    <state width="2716" height="626" key="GridCell.Tab.1.right/0.0.2880.1620@0.0.2880.1620" timestamp="1738097189568" />
+    <state x="100" y="100" width="2680" height="1420" maximized="true" key="MergeDialog" timestamp="1737594794858">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="100" y="100" width="2680" height="1420" maximized="true" key="MergeDialog/0.0.2880.1620@0.0.2880.1620" timestamp="1737594794858" />
+    <state x="1876" y="1262" width="962" height="277" key="ProcessPopupWindow" timestamp="1737605773242">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="1876" y="1262" width="962" height="277" key="ProcessPopupWindow/0.0.2880.1620@0.0.2880.1620" timestamp="1737605773242" />
+    <state x="446" y="95" width="1988" height="1474" key="SettingsEditor" timestamp="1738171183351">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="166" y="111" key="SettingsEditor.ideScale=90" timestamp="1738176889030">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="166" y="111" key="SettingsEditor.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738176889030" />
+    <state x="446" y="95" width="1988" height="1474" key="SettingsEditor/0.0.2880.1620@0.0.2880.1620" timestamp="1738171183351" />
+    <state x="635" y="293" width="1600" height="1078" key="Vcs.Push.Dialog.v2" timestamp="1737593242106">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="635" y="293" width="1600" height="1078" key="Vcs.Push.Dialog.v2/0.0.2880.1620@0.0.2880.1620" timestamp="1737593242106" />
+    <state x="911" y="237" width="1048" height="1190" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1737594574748">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="911" y="237" width="1048" height="1190" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2880.1620@0.0.2880.1620" timestamp="1737594574748" />
+    <state x="0" y="337" key="com.intellij.webcore.packaging.PackagingErrorDialog.DimensionServiceKey" timestamp="1737210239300">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="0" y="337" key="com.intellij.webcore.packaging.PackagingErrorDialog.DimensionServiceKey/0.0.2880.1620@0.0.2880.1620" timestamp="1737210239300" />
+    <state x="100" y="100" width="2680" height="1420" maximized="true" key="lvcs.dialog.size.ideScale=90" timestamp="1738301963433">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="100" y="100" width="2680" height="1420" maximized="true" key="lvcs.dialog.size.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738301963433" />
+    <state x="766" y="0" width="1531" height="2625" key="search.everywhere.popup" timestamp="1738171219723">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="766" y="0" width="1531" height="2625" key="search.everywhere.popup.ideScale=90" timestamp="1738301687397">
+      <screen x="0" y="0" width="2880" height="1620" />
+    </state>
+    <state x="766" y="0" width="1531" height="2625" key="search.everywhere.popup.ideScale=90/0.0.2880.1620@0.0.2880.1620" timestamp="1738301687397" />
+    <state x="766" y="0" width="1531" height="2625" key="search.everywhere.popup/0.0.2880.1620@0.0.2880.1620" timestamp="1738171219723" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/lib/python3.13/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="897" selection-start-line="897" selection-end-line="897" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bash_scripts/run.sh" />
+    <entry file="file://$PROJECT_DIR$/bin/activate">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bash_scripts/compile.sh" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/your_program.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python3.13/site-packages/pip/_vendor/certifi/cacert.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="51" column="2" selection-start-line="51" selection-end-line="51" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python3.13/site-packages/pip/_internal/utils/temp_dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecrafters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib64/python3.13/site-packages/setuptools/_distutils/zosccompiler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="103" column="6" selection-start-line="103" selection-start-column="6" selection-end-line="103" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="942">
+          <caret line="451" column="87" selection-end-line="457" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/os">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="283" caret-page-symbol-offset="79" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/subprocess">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="0" caret-page-symbol-offset="0" />
+      </provider>
+    </entry>
+  </component>
+</project>

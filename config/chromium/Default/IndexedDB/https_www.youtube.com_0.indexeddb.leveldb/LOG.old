@@ -1,0 +1,26 @@
+2025/03/30-18:28:13.189 a71 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/30-18:28:13.189 a71 Recovering log #436
+2025/03/30-18:28:13.197 a71 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000436.log 
+2025/03/30-18:28:13.197 a71 Delete type=2 #435
+2025/03/30-18:28:14.434 a6f Level-0 table #441: started
+2025/03/30-18:28:14.444 a6f Level-0 table #441: 1109535 bytes OK
+2025/03/30-18:28:14.447 a6f Delete type=0 #436
+2025/03/30-18:29:12.435 a6f Level-0 table #443: started
+2025/03/30-18:29:12.439 a6f Level-0 table #443: 86907 bytes OK
+2025/03/30-18:29:12.442 a6f Delete type=0 #440
+2025/03/30-18:29:12.443 a6f Manual compaction at level-0 from (begin) .. (end); will stop at '\x009\x01\x1f\x03\xcd,\xc9\x7f\xc4^yB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 200582 : 1
+2025/03/30-18:29:12.443 a6f Compacting 1@0 + 1@1 files
+2025/03/30-18:29:12.451 a6f Generated table #444@0: 882 keys, 43940 bytes
+2025/03/30-18:29:12.451 a6f Compacted 1@0 + 1@1 files => 43940 bytes
+2025/03/30-18:29:12.453 a6f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/30-18:29:12.453 a6f Delete type=2 #441
+2025/03/30-18:29:12.454 a6f Delete type=2 #443
+2025/03/30-18:29:12.454 a6f Manual compaction at level-0 from '\x009\x01\x1f\x03\xcd,\xc9\x7f\xc4^yB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 200582 : 1 .. (end); will stop at (end)
+2025/03/30-18:29:12.454 a6f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00:\x02\x1f\x03\x00\x00F\x19r^yB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 200496 : 1
+2025/03/30-18:29:12.454 a6f Compacting 1@1 + 1@2 files
+2025/03/30-18:29:12.457 a6f Generated table #445@1: 302 keys, 58906 bytes
+2025/03/30-18:29:12.457 a6f Compacted 1@1 + 1@2 files => 58906 bytes
+2025/03/30-18:29:12.459 a6f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/30-18:29:12.459 a6f Delete type=2 #438
+2025/03/30-18:29:12.459 a6f Delete type=2 #444
+2025/03/30-18:29:12.460 a6f Manual compaction at level-1 from '\x00:\x02\x1f\x03\x00\x00F\x19r^yB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 200496 : 1 .. (end); will stop at (end)

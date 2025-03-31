@@ -1,0 +1,48 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="28.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "GeneralSettings.initiallyConfigured": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "MarketplacePluginsSearchHistory": "live\nli\ngi\ngit\ndocke",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
+    "SettingsSearchHistory": "vm",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "evlsprt3.243": "6",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.22562.222",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "26.0",
+    "fontSizeToResetEditor": "26.0",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/deepanshu/.config/JetBrains/PyCharm2024.3",
+    "llm.installer.auto.activation.executed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "WS-243.22562.222",
+    "ts.lib.d.ts.version": "5.4.3",
+    "webstorm.hide.welcome.screen.promo": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/deepanshu/.config/JetBrains/PyCharm2024.3"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

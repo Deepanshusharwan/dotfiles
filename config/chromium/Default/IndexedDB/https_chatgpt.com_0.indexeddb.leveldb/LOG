@@ -1,0 +1,15 @@
+2025/03/30-19:21:08.219 a6e Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/30-19:21:08.219 a6e Recovering log #63
+2025/03/30-19:21:08.221 a6e Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000063.log 
+2025/03/31-10:09:45.902 a6f Level-0 table #68: started
+2025/03/31-10:09:45.908 a6f Level-0 table #68: 261824 bytes OK
+2025/03/31-10:09:45.910 a6f Delete type=0 #63
+2025/03/31-10:09:45.911 a6f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/03/31-10:09:45.911 a6f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01 \x01\x1d\x00u\x00s\x00e\x00r\x00-\x00O\x00O\x00w\x00N\x00q\x00s\x00x\x004\x00P\x00f\x00D\x007\x002\x00q\x00d\x00q\x00o\x00f\x000\x00A\x006\x00L\x002\x009\x00\x01$\x006\x007\x00e\x009\x004\x00c\x004\x00b\x00-\x000\x000\x002\x000\x00-\x008\x000\x000\x00d\x00-\x008\x00f\x008\x004\x00-\x006\x007\x00a\x00f\x00b\x002\x00f\x001\x007\x005\x008\x00b' @ 9365 : 1
+2025/03/31-10:09:45.911 a6f Compacting 1@1 + 1@2 files
+2025/03/31-10:09:45.920 a6f Generated table #69@1: 275 keys, 370263 bytes
+2025/03/31-10:09:45.920 a6f Compacted 1@1 + 1@2 files => 370263 bytes
+2025/03/31-10:09:45.922 a6f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/31-10:09:45.923 a6f Delete type=2 #65
+2025/03/31-10:09:45.923 a6f Delete type=2 #68
+2025/03/31-10:09:45.923 a6f Manual compaction at level-1 from '\x00\x03\x01 \x01\x1d\x00u\x00s\x00e\x00r\x00-\x00O\x00O\x00w\x00N\x00q\x00s\x00x\x004\x00P\x00f\x00D\x007\x002\x00q\x00d\x00q\x00o\x00f\x000\x00A\x006\x00L\x002\x009\x00\x01$\x006\x007\x00e\x009\x004\x00c\x004\x00b\x00-\x000\x000\x002\x000\x00-\x008\x000\x000\x00d\x00-\x008\x00f\x008\x004\x00-\x006\x007\x00a\x00f\x00b\x002\x00f\x001\x007\x005\x008\x00b' @ 9365 : 1 .. (end); will stop at (end)
