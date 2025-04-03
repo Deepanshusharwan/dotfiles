@@ -1,1 +1,0 @@
-CREATE TABLE `payment_methods` (;

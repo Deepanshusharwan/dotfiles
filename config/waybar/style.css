@@ -34,8 +34,9 @@ button:hover {
     border-top: 2px solid @mauve;
 }
 
-#workspaces button {
+#workspaces button.unfocused{
     padding: 0 4px;
+    color: @subtext0
 }
 
 #workspaces button.focused {
