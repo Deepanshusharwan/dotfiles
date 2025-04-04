@@ -1,5 +1,0 @@
-2025-03-23 22:41:57.075 [info] update#setState idle
-2025-03-23 22:42:27.076 [info] update#setState checking for updates
-2025-03-23 22:42:27.164 [info] update#setState idle
-2025-03-23 22:55:43.254 [info] Extension host with pid 71185 exited with code: 0, signal: unknown.
-2025-03-23 22:55:43.290 [error] Blocked vscode-file request vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/editor/common/services/editorSimpleWorkerMain.js#TextEditorWorker
