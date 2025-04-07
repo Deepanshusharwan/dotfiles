@@ -1,0 +1,58 @@
+2025-03-18 10:27:57.992 [info] [main] Log level: Info
+2025-03-18 10:27:57.992 [info] [main] Validating found git in: "git"
+2025-03-18 10:27:57.992 [info] [main] Using git "2.48.1" from "git"
+2025-03-18 10:27:57.992 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-18 10:27:57.992 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-18 10:27:57.992 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2025-03-18 10:27:57.992 [info] [Model][openRepository] Opened repository: /home/deepanshu/github_repos/my_repositories/Turtle-shell
+2025-03-18 10:27:57.992 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-18 10:27:57.993 [info] > git config --get commit.template [6ms]
+2025-03-18 10:27:58.004 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-18 10:27:58.009 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-03-18 10:27:58.009 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-18 10:27:58.024 [info] > git status -z -uall [5ms]
+2025-03-18 10:27:58.024 [info] > git rev-parse --show-toplevel [11ms]
+2025-03-18 10:27:58.029 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-03-18 10:27:58.054 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-03-18 10:27:58.060 [info] > git rev-parse --show-toplevel [31ms]
+2025-03-18 10:27:58.065 [info] > git config --get --local branch.main.vscode-merge-base [6ms]
+2025-03-18 10:27:58.070 [info] > git config --get commit.template [18ms]
+2025-03-18 10:27:58.071 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-03-18 10:27:58.076 [info] > git rev-parse --show-toplevel [11ms]
+2025-03-18 10:27:58.076 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-18 10:27:58.098 [info] > git merge-base refs/heads/main refs/remotes/origin/main [23ms]
+2025-03-18 10:27:58.105 [info] > git diff --name-status -z --diff-filter=ADMR fb10c3837f6128f229ecb2c112e9a2469419a2dc...refs/remotes/origin/main [2ms]
+2025-03-18 10:27:58.105 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-03-18 10:27:58.120 [info] > git status -z -uall [10ms]
+2025-03-18 10:27:58.120 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-03-18 10:27:58.286 [info] > git show --textconv :app/main.py [5ms]
+2025-03-18 10:27:58.287 [info] > git ls-files --stage -- app/main.py [1ms]
+2025-03-18 10:27:58.292 [info] > git cat-file -s 1768f2633ccc994e124876517d29a0ae0d5164e7 [1ms]
+2025-03-18 10:27:58.501 [info] > git check-ignore -v -z --stdin [1ms]
+2025-03-18 10:31:33.227 [info] [main] Log level: Info
+2025-03-18 10:31:33.227 [info] [main] Validating found git in: "git"
+2025-03-18 10:31:33.227 [info] [main] Using git "2.48.1" from "git"
+2025-03-18 10:31:33.227 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-18 10:31:33.227 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-18 10:31:33.246 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2025-03-18 10:31:33.257 [info] [Model][openRepository] Opened repository: /home/deepanshu/github_repos/my_repositories/Turtle-shell
+2025-03-18 10:31:33.297 [info] > git config --get commit.template [11ms]
+2025-03-18 10:31:33.300 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-18 10:31:33.311 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-03-18 10:31:33.312 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-18 10:31:33.339 [info] > git status -z -uall [5ms]
+2025-03-18 10:31:33.339 [info] > git rev-parse --show-toplevel [17ms]
+2025-03-18 10:31:33.343 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-18 10:31:33.365 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-03-18 10:31:33.370 [info] > git rev-parse --show-toplevel [27ms]
+2025-03-18 10:31:33.376 [info] > git config --get --local branch.main.vscode-merge-base [6ms]
+2025-03-18 10:31:33.381 [info] > git config --get commit.template [16ms]
+2025-03-18 10:31:33.382 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-18 10:31:33.382 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-18 10:31:33.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [6ms]
+2025-03-18 10:31:33.393 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-03-18 10:31:33.394 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2025-03-18 10:31:33.405 [info] > git status -z -uall [4ms]
+2025-03-18 10:31:33.405 [info] > git diff --name-status -z --diff-filter=ADMR fb10c3837f6128f229ecb2c112e9a2469419a2dc...refs/remotes/origin/main [7ms]
+2025-03-18 10:31:33.406 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-18 10:32:34.830 [info] > git check-ignore -v -z --stdin [1ms]
