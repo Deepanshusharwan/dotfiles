@@ -1,6 +1,0 @@
-2025/04/04-20:06:17.082 18879 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/04-20:06:17.083 18879 Recovering log #46
-2025/04/04-20:06:17.094 18879 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000046.log 
-2025/04/04-20:06:21.090 1887a Level-0 table #51: started
-2025/04/04-20:06:21.118 1887a Level-0 table #51: 2998765 bytes OK
-2025/04/04-20:06:21.124 1887a Delete type=0 #46

@@ -1,6 +1,0 @@
-2025/04/07-06:17:56.317 1c132 Creating DB /home/deepanshu/.config/chromium/Default/IndexedDB/https_theianext-0-labs-prod-misc-tools-us-east-0.labs.cognitiveclass.ai_0.indexeddb.leveldb since it was missing.
-2025/04/07-06:17:56.321 1c132 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_theianext-0-labs-prod-misc-tools-us-east-0.labs.cognitiveclass.ai_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/07-11:43:45.569 1c133 Level-0 table #5: started
-2025/04/07-11:43:45.576 1c133 Level-0 table #5: 78927 bytes OK
-2025/04/07-11:43:45.579 1c133 Delete type=0 #3
-2025/04/07-11:43:45.579 1c133 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

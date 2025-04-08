@@ -1,6 +1,0 @@
-2025/04/08-20:23:32.473 1dbc Creating DB /home/deepanshu/.config/chromium/Default/WebStorage/131/IndexedDB/indexeddb.leveldb since it was missing.
-2025/04/08-20:23:32.477 1dbc Reusing MANIFEST /home/deepanshu/.config/chromium/Default/WebStorage/131/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/04/08-20:23:45.145 1daf Level-0 table #5: started
-2025/04/08-20:23:45.147 1daf Level-0 table #5: 1200 bytes OK
-2025/04/08-20:23:45.150 1daf Delete type=0 #3
-2025/04/08-20:23:45.150 1daf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
