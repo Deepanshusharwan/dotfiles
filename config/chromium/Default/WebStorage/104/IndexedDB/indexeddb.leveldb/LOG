@@ -1,0 +1,15 @@
+2025/04/05-12:08:15.982 1c132 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/WebStorage/104/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/04/05-12:08:15.982 1c132 Recovering log #18
+2025/04/05-12:08:15.985 1c132 Reusing old log /home/deepanshu/.config/chromium/Default/WebStorage/104/IndexedDB/indexeddb.leveldb/000018.log 
+2025/04/05-12:09:16.750 1c133 Level-0 table #24: started
+2025/04/05-12:09:16.759 1c133 Level-0 table #24: 483558 bytes OK
+2025/04/05-12:09:16.762 1c133 Delete type=0 #18
+2025/04/05-12:09:16.763 1c133 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/04/05-12:09:16.763 1c133 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x90N\xccJ`yB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 22731 : 1
+2025/04/05-12:09:16.763 1c133 Compacting 1@1 + 1@2 files
+2025/04/05-12:09:16.768 1c133 Generated table #25@1: 132 keys, 30821 bytes
+2025/04/05-12:09:16.769 1c133 Compacted 1@1 + 1@2 files => 30821 bytes
+2025/04/05-12:09:16.771 1c133 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/05-12:09:16.771 1c133 Delete type=2 #21
+2025/04/05-12:09:16.772 1c133 Delete type=2 #24
+2025/04/05-12:09:16.772 1c133 Manual compaction at level-1 from '\x00\x06\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x90N\xccJ`yB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 22731 : 1 .. (end); will stop at (end)

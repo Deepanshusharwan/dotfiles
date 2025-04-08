@@ -1,0 +1,36 @@
+2025/04/07-21:12:20.322 4 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/Session Storage/MANIFEST-000001
+2025/04/07-21:12:20.323 4 Recovering log #494
+2025/04/07-21:12:20.324 4 Reusing old log /home/deepanshu/.config/chromium/Default/Session Storage/000494.log 
+2025/04/08-10:23:52.631 5 Level-0 table #498: started
+2025/04/08-10:23:52.637 5 Level-0 table #498: 43462 bytes OK
+2025/04/08-10:23:52.641 5 Delete type=0 #494
+2025/04/08-10:23:52.641 5 Compacting 4@0 + 1@1 files
+2025/04/08-10:23:52.652 5 Generated table #499@0: 25264 keys, 462020 bytes
+2025/04/08-10:23:52.652 5 Compacted 4@0 + 1@1 files => 462020 bytes
+2025/04/08-10:23:52.654 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/08-10:23:52.655 5 Delete type=2 #487
+2025/04/08-10:23:52.655 5 Delete type=2 #489
+2025/04/08-10:23:52.655 5 Delete type=2 #492
+2025/04/08-10:23:52.655 5 Delete type=2 #495
+2025/04/08-10:23:52.655 5 Delete type=2 #498
+2025/04/08-10:44:17.206 4 Level-0 table #501: started
+2025/04/08-10:44:17.214 4 Level-0 table #501: 30044 bytes OK
+2025/04/08-10:44:17.218 4 Delete type=0 #497
+2025/04/08-15:13:08.516 4 Level-0 table #503: started
+2025/04/08-15:13:08.524 4 Level-0 table #503: 28101 bytes OK
+2025/04/08-15:13:08.530 4 Delete type=0 #500
+2025/04/08-20:20:57.383 5 Level-0 table #505: started
+2025/04/08-20:20:57.390 5 Level-0 table #505: 40032 bytes OK
+2025/04/08-20:20:57.397 5 Delete type=0 #502
+2025/04/08-20:53:48.988 4 Level-0 table #507: started
+2025/04/08-20:53:48.998 4 Level-0 table #507: 100409 bytes OK
+2025/04/08-20:53:49.003 4 Delete type=0 #504
+2025/04/08-20:53:49.003 4 Compacting 4@0 + 1@1 files
+2025/04/08-20:53:49.028 4 Generated table #508@0: 25691 keys, 605627 bytes
+2025/04/08-20:53:49.028 4 Compacted 4@0 + 1@1 files => 605627 bytes
+2025/04/08-20:53:49.031 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/08-20:53:49.031 4 Delete type=2 #499
+2025/04/08-20:53:49.031 4 Delete type=2 #501
+2025/04/08-20:53:49.031 4 Delete type=2 #503
+2025/04/08-20:53:49.031 4 Delete type=2 #505
+2025/04/08-20:53:49.031 4 Delete type=2 #507

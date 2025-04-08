@@ -1,0 +1,56 @@
+2025/04/07-21:12:20.474 1dae Reusing MANIFEST /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2025/04/07-21:12:20.474 1dae Recovering log #1620
+2025/04/07-21:12:20.474 1dae Reusing old log /home/deepanshu/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/001620.log 
+2025/04/07-22:12:58.802 1daf Level-0 table #1630: started
+2025/04/07-22:12:58.824 1daf Level-0 table #1630: 5016153 bytes OK
+2025/04/07-22:12:58.828 1daf Delete type=0 #1620
+2025/04/07-22:13:55.617 1db0 Level-0 table #1632: started
+2025/04/07-22:13:55.668 1db0 Level-0 table #1632: 9512479 bytes OK
+2025/04/07-22:13:55.671 1db0 Delete type=0 #1629
+2025/04/08-10:47:11.687 1daf Level-0 table #1634: started
+2025/04/08-10:47:11.733 1daf Level-0 table #1634: 6898196 bytes OK
+2025/04/08-10:47:11.736 1daf Delete type=0 #1631
+2025/04/08-11:46:16.447 1daf Level-0 table #1636: started
+2025/04/08-11:46:16.473 1daf Level-0 table #1636: 4206980 bytes OK
+2025/04/08-11:46:16.476 1daf Delete type=0 #1633
+2025/04/08-11:46:16.476 1daf Compacting 4@0 + 3@1 files
+2025/04/08-11:46:16.484 1daf Generated table #1637@0: 4 keys, 2315441 bytes
+2025/04/08-11:46:16.500 1daf Generated table #1638@0: 4 keys, 2313276 bytes
+2025/04/08-11:46:16.532 1daf Generated table #1639@0: 11 keys, 1912044 bytes
+2025/04/08-11:46:16.532 1daf Compacted 4@0 + 3@1 files => 6540761 bytes
+2025/04/08-11:46:16.535 1daf compacted to: files[ 0 3 5 0 0 0 0 ]
+2025/04/08-11:46:16.535 1daf Delete type=2 #1622
+2025/04/08-11:46:16.535 1daf Delete type=2 #1624
+2025/04/08-11:46:16.535 1daf Delete type=2 #1625
+2025/04/08-11:46:16.535 1daf Delete type=2 #1630
+2025/04/08-11:46:16.535 1daf Delete type=2 #1632
+2025/04/08-11:46:16.535 1daf Delete type=2 #1634
+2025/04/08-11:46:16.535 1daf Delete type=2 #1636
+2025/04/08-11:47:13.295 1db0 Level-0 table #1641: started
+2025/04/08-11:47:13.348 1db0 Level-0 table #1641: 8190547 bytes OK
+2025/04/08-11:47:13.351 1db0 Delete type=0 #1635
+2025/04/08-13:06:46.810 1daf Level-0 table #1643: started
+2025/04/08-13:06:46.826 1daf Level-0 table #1643: 4205775 bytes OK
+2025/04/08-13:06:46.829 1daf Delete type=0 #1640
+2025/04/08-13:07:48.309 1db0 Level-0 table #1645: started
+2025/04/08-13:07:48.363 1db0 Level-0 table #1645: 7315445 bytes OK
+2025/04/08-13:07:48.366 1db0 Delete type=0 #1642
+2025/04/08-20:35:59.030 1daf Level-0 table #1647: started
+2025/04/08-20:35:59.049 1daf Level-0 table #1647: 4329627 bytes OK
+2025/04/08-20:35:59.053 1daf Delete type=0 #1644
+2025/04/08-20:35:59.054 1daf Compacting 4@0 + 3@1 files
+2025/04/08-20:35:59.069 1daf Generated table #1648@0: 4 keys, 2317306 bytes
+2025/04/08-20:35:59.091 1daf Generated table #1649@0: 5 keys, 2693665 bytes
+2025/04/08-20:35:59.115 1daf Generated table #1650@0: 12 keys, 2096731 bytes
+2025/04/08-20:35:59.115 1daf Compacted 4@0 + 3@1 files => 7107702 bytes
+2025/04/08-20:35:59.117 1daf compacted to: files[ 0 3 5 0 0 0 0 ]
+2025/04/08-20:35:59.117 1daf Delete type=2 #1637
+2025/04/08-20:35:59.117 1daf Delete type=2 #1638
+2025/04/08-20:35:59.117 1daf Delete type=2 #1639
+2025/04/08-20:35:59.117 1daf Delete type=2 #1641
+2025/04/08-20:35:59.117 1daf Delete type=2 #1643
+2025/04/08-20:35:59.117 1daf Delete type=2 #1645
+2025/04/08-20:35:59.117 1daf Delete type=2 #1647
+2025/04/08-20:36:55.765 1dbc Level-0 table #1652: started
+2025/04/08-20:36:55.808 1dbc Level-0 table #1652: 7943375 bytes OK
+2025/04/08-20:36:55.812 1dbc Delete type=0 #1646

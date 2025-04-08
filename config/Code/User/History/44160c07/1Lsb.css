@@ -1,0 +1,20 @@
+
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: green;
+}
+p {
+    color: gray;
+
+}
+
+a {
+    position: absolute;
+    right: 50px;
+    color: red;
+}
+
+#one {
+    
+}
