@@ -1,0 +1,9 @@
+2025/04/08-21:18:30.170 15378 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/08-21:18:30.171 15378 Recovering log #221
+2025/04/08-21:18:30.171 15378 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000221.log 
+2025/04/08-21:21:36.991 15377 Compacting 1@1 + 1@2 files
+2025/04/08-21:21:36.998 15377 Generated table #224@1: 133 keys, 28295 bytes
+2025/04/08-21:21:36.998 15377 Compacted 1@1 + 1@2 files => 28295 bytes
+2025/04/08-21:21:37.001 15377 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/08-21:21:37.002 15377 Delete type=2 #220
+2025/04/08-21:21:37.002 15377 Delete type=2 #222

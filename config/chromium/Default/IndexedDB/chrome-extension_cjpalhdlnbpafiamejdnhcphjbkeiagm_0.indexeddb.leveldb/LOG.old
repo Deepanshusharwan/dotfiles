@@ -1,0 +1,9 @@
+2025/04/07-21:12:20.699 1daf Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/07-21:12:20.700 1daf Recovering log #69
+2025/04/07-21:12:20.702 1daf Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000069.log 
+2025/04/08-13:06:46.114 1dbc Compacting 1@1 + 1@2 files
+2025/04/08-13:06:46.120 1dbc Generated table #74@1: 64 keys, 170551 bytes
+2025/04/08-13:06:46.120 1dbc Compacted 1@1 + 1@2 files => 170551 bytes
+2025/04/08-13:06:46.123 1dbc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/08-13:06:46.123 1dbc Delete type=2 #59
+2025/04/08-13:06:46.123 1dbc Delete type=2 #72
