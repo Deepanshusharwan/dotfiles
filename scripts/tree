@@ -1,19 +1,45 @@
-#!/usr/bin/env bash
+#!/usr/bin/env python3
 
 
-# Check if Python script exists
-PYTHON_SCRIPT="/home/deepanshu/scripts/python_files/tree/tree.py"
-if [ ! -f "$PYTHON_SCRIPT" ]; then
-    echo "Error: $PYTHON_SCRIPT not found!"
-    exit 1
-fi
+import os
+import sys
 
-# Run the Python script with the provided directory argument (if any)
-if [ $# -eq 0 ]; then
-    python3 "$PYTHON_SCRIPT"
-else
-    python3 "$PYTHON_SCRIPT" "$1"
-fi
-#!/bin/bash
 
+def print_dir(directory,prefix=''):
+    items = sorted(os.listdir(directory))
+    total_directories = 0
+    total_files = 0
+
+    for index, item in enumerate(items):
+        path = os.path.join(directory, item)
+        if index == len(items)-1:
+            connector = "└─"
+        else:
+            connector = "├─"
+        print(f"{prefix}{connector} {item}")
+
+        if os.path.isdir(path):
+            if index == len(items)-1:
+                new_prefix = prefix + "    "
+            else:
+                new_prefix = prefix + "│   "
+            total_subdir, total_subfiles = print_dir(path,new_prefix)
+            total_files += total_subfiles
+            total_directories += total_subdir + 1
+        else:
+            total_files += 1
+    return total_directories, total_files
+
+
+if len(sys.argv) == 1:
+    total_directories, total_files= print_dir('.')
+    print("Total directories:", total_directories)
+    print("Total files:", total_files)
+
+else:
+    directory = f"./{sys.argv[1]}"
+    total_directories, total_files = print_dir(directory)
+    print("Total directories:", total_directories)
+    print("Total files:", total_files)
+    #  ├─  ─ │ └─
 
