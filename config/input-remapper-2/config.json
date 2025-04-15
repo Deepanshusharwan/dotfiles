@@ -3,6 +3,7 @@
     "autoload": {
         "AT Translated Set 2 keyboard": "laptop_keyboard",
         "Video Bus": "new preset",
-        "CX 2.4G Receiver": "external_keyboard_red"
+        "CX 2.4G Receiver": "external_keyboard_red",
+        "AULA-F75 5.0 KB ": "aula f 75"
     }
 }
