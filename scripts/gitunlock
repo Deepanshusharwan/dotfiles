@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+
+import os
+
+path = "./.git"
+file_path = "./.git/index.lock"
+
+if os.path.isfile(file_path):
+    os.remove(file_path)
+    print(f"{os.getcwd()}/.git/index.lock has been deleted")
+else:
+    print(f"couldn't find the file names index.lock inside {os.getcwd()}/.git/")
+
