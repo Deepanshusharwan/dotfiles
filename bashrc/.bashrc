@@ -16,6 +16,7 @@ eval "$(starship init bash)"
 export PATH="$PATH:/home/deepanshu/.local/bin"
 
 export PATH="$PATH:/home/deepanshu/scripts"
+export PATH="$PATH:/home/deepanshu/scripts/jetbrains"
 . "$HOME/.cargo/env"
 
 
@@ -34,15 +35,3 @@ function y() {
 
 
 
-
-
-# Import colorscheme from 'wal' asynchronously
-# &   # Run the process in the background.
-# ( ) # Hide shell job control messages.
-(cat ~/.cache/wal/sequences &)
-
-# Alternative (blocks terminal for 0-3ms)
-cat ~/.cache/wal/sequences
-
-# To add support for TTYs this line can be optionally added.
-source ~/.cache/wal/colors-tty.sh
