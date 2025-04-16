@@ -1,6 +1,11 @@
 #!/usr/bin/bash
 
-# okay so this will do update three things the wallpaper , scripts, config, bashrc
+# okay so this script deletes everything from the dotfiles repo and then adds the stuff back to it 
+# it uploads the files from the .config , scripts , wallpaper and .bashrc and then pushes them to git
+# by default the commit message is the date and time of the date followed by update 
+# but it can be customized by using the c option 
+
+echo "WELCOME TO THE DOTPLOAD SCRIPT"
 
 
 # so first of all delete everything inside the folders
