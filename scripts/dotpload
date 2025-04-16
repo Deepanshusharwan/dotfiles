@@ -85,6 +85,7 @@ else
   cd "$repo_path"
   git add .
   git commit -m " $(date) update"
+  git push orign main
   
 fi
 
