@@ -1,19 +1,40 @@
 #!/usr/bin/bash
 
-read -p "Enter 'c' to enter clones dir or 'm' to enter my_repositories: " folder
+if [ $# -eq 0 ]; then
+  read -p "Enter 'c' to enter clones dir or 'm' to enter my_repositories: " folder
+  cd ~/github_repos || { echo "Directory 'github_repos' not found"; exit 1; }
 
-cd ~/github_repos || { echo "Directory 'github_repos' not found"; exit 1; }
-
-if [ "$folder" == "c" ]; then
+  if [ "$folder" == "c" ]; then
     cd clones || { echo "Directory 'clones' not found"; exit 1; }
+    echo "Switched to clones directory."
 
-elif [ "$folder" == "m" ]; then
-    cd my_repositories || { echo "Directory 'my_repositories' not found"; exit 1; }
+  elif [ "$folder" == "m" ]; then
+    cd my_repositories || { echo "Directory 'my repositories' not found"; exit 1; }
+    echo "Switched to my_repositories."
+
+  else 
+    echo "Invalid input. Please enter 'c' or 'm'"
+    exit 1
+
+  fi 
+  $SHELL
 
 else
-    echo "Invalid input. Please enter 'c' or 'm'."
+  cd ~/github_repos || { echo "Directory 'github_repos' not found"; exit 1; }
+
+  if [ "$1" == 'c' ];then
+    cd clones || { echo "Directory 'clones' not found"; exit 1; }
+    echo "Switched to the clones directory."
+
+  elif [ "$1" == 'm' ]; then
+    cd my_repositories || { echo "Directory 'my repositories' not found"; exit 1; }
+    echo "Switched to the my_repositories directory."
+
+  else
+    echo "Invalid command. Please enter 'c' or 'm' "
     exit 1
+  fi 
+
+  $SHELL
+
 fi
-
-$SHELL  # Starts a new shell session
-
