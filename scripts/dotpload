@@ -27,7 +27,7 @@ rm -r "$repo_path/scripts" || echo "scripts directory does not exist"
 echo "Creating directory config"
 mkdir "$repo_path/config"
 
-echo "Creating dirtory bashrc"
+echo "Creating directory bashrc"
 mkdir "$repo_path/bashrc"
 
 echo "Creating directory wallpapers"
@@ -71,7 +71,29 @@ echo "Deleting BraveSoftware"
 rm -r "$repo_path/config/BraveSoftware"
 
 
+# if there is a command line argument then the following works
 
+
+if [ $# -eq 1 ]; then
+  if [ $1 == "c" ]; then
+    cd "$repo_path"
+    git add .
+    git commit -m "$(date)"
+    git push orign main
+
+  elif [ $1 == "cm" ]; then
+    cd "$repo_path"
+    git add .
+    read -p "Please enter you commit message: " message
+    git commit -m "$message"
+    git push orign main
+  fi
+
+
+
+
+  
+fi
 
 
 
