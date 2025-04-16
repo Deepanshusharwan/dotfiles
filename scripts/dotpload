@@ -1,0 +1,77 @@
+#!/usr/bin/bash
+
+# okay so this will do update three things the wallpaper , scripts, config, bashrc
+
+
+# so first of all delete everything inside the folders
+
+set -e
+
+repo_path="$HOME/github_repos/my_repositories/dotfiles"
+
+echo "Deleting the config directory."
+rm -r "$repo_path/config" || echo "config directory does not exist"
+
+echo "Deleting the bashrc directory."
+rm -r "$repo_path/bashrc" || echo "bashrc directory does not exist"
+
+echo "Deleting the wallpapers directory."
+rm -r "$repo_path/wallpapers" || echo "wallpapers directory does not exist"
+
+echo "Deleting the scripts directory."
+rm -r "$repo_path/scripts" || echo "scripts directory does not exist"
+
+
+# next we will make the directories again
+
+echo "Creating directory config"
+mkdir "$repo_path/config"
+
+echo "Creating dirtory bashrc"
+mkdir "$repo_path/bashrc"
+
+echo "Creating directory wallpapers"
+mkdir "$repo_path/wallpapers"
+
+echo "Creating directory scripts"
+mkdir "$repo_path/scripts"
+
+
+# now we will cp everything from the apt dirs
+
+echo "Copying the configuration files to dotfiles/config."
+cp -r "$HOME/.config/"* "$repo_path/config"
+
+echo "Copyig the .bashrc file to dotfiles/bashrc"
+cp "$HOME/.bashrc" "$repo_path/bashrc"
+
+echo "Copying the wallpapers to the dotfile/wallpapers"
+cp -r "$HOME/Pictures/wallpaper/"* "$repo_path/wallpapers"
+
+echo "Copying the scripts to dotfiles/scripts"
+cp -r "$HOME/scripts/"* "$repo_path/scripts"
+
+
+#now we will delete some sensitive files
+
+
+echo "Deleting google-chrome-beta"
+rm -r "$repo_path/config/google-chrome-beta"
+echo "Deleting chromium"
+rm -r "$repo_path/config/chromium"
+echo "Deleting dconf"
+rm -r "$repo_path/config/dconf"
+echo "Deleting google-chrome"
+rm -r "$repo_path/config/google-chrome"
+echo "Deleting google-chrome-unstable"
+rm -r "$repo_path/config/google-chrome-unstable"
+echo "Deleting JetBrains"
+rm -r "$repo_path/config/JetBrains"
+echo "Deleting BraveSoftware"
+rm -r "$repo_path/config/BraveSoftware"
+
+
+
+
+
+
