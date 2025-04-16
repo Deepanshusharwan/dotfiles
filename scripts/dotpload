@@ -40,16 +40,16 @@ mkdir "$repo_path/scripts"
 # now we will cp everything from the apt dirs
 
 echo "Copying the configuration files to dotfiles/config."
-cp -r "$HOME/.config/"* "$repo_path/config"
+cp -r "$HOME/.config/." "$repo_path/config"
 
 echo "Copyig the .bashrc file to dotfiles/bashrc"
 cp "$HOME/.bashrc" "$repo_path/bashrc"
 
 echo "Copying the wallpapers to the dotfile/wallpapers"
-cp -r "$HOME/Pictures/wallpaper/"* "$repo_path/wallpapers"
+cp -r "$HOME/Pictures/wallpaper/." "$repo_path/wallpapers"
 
 echo "Copying the scripts to dotfiles/scripts"
-cp -r "$HOME/scripts/"* "$repo_path/scripts"
+cp -r "$HOME/scripts/." "$repo_path/scripts"
 
 
 #now we will delete some sensitive files
