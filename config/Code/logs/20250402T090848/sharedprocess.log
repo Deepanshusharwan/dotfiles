@@ -1,0 +1,6 @@
+2025-04-02 09:24:46.217 [info] Getting Manifest... ritwickdey.liveserver
+2025-04-02 09:24:46.256 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/deepanshu/.vscode/extensions/extensions.json","path":"/home/deepanshu/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"}}
+2025-04-02 09:24:49.439 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 800ms.
+2025-04-02 09:24:50.401 [info] Extracted extension to file:///home/deepanshu/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-04-02 09:24:50.501 [info] Renamed to /home/deepanshu/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2025-04-02 09:24:50.510 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/deepanshu/.vscode/extensions/extensions.json
