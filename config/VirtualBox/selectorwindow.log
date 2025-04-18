@@ -1,27 +1,26 @@
-00:00:00.334800 VirtualBox GUI VM Selector Window 7.1.6 r167084 linux.amd64 (Jan 27 2025 07:52:25) release log
-00:00:00.334802 Log opened 2025-04-14T10:21:04.047140000Z
-00:00:00.334802 Build Type: release
-00:00:00.334804 OS Product: Linux
-00:00:00.334804 OS Release: 6.12.23-1-lts
-00:00:00.334805 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 10 Apr 2025 13:28:36 +0000
-00:00:00.334828 DMI Product Name: Vivobook_ASUSLaptop K5504VA_S5504VA
-00:00:00.334832 DMI Product Version: 1.0       
-00:00:00.334835 Firmware type: UEFI
-00:00:00.335289 Secure Boot: Disabled
-00:00:00.335321 Host RAM: 15621MB (15.2GB) total, 12775MB (12.4GB) available
-00:00:00.335323 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:00.335323 Process ID: 30269
-00:00:00.335323 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.335347 Qt version: 6.9.0
-00:00:00.335894 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
-00:00:00.344617 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:00.687810 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:00:05.324886 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 863x485 x 800x800
-00:00:05.324996 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 863x485 x 800x800
-00:00:12.299371 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:01:58.084046 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:10:02.460965 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:24:42.573791 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:24:51.981313 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:39:53.031015 GUI: UICommon: Handling aboutToQuit request..
-00:39:53.300671 GUI: UICommon: aboutToQuit request handled!
+00:00:00.386728 VirtualBox GUI VM Selector Window 7.1.8 r168469 linux.amd64 (Apr 15 2025 18:05:05) release log
+00:00:00.386730 Log opened 2025-04-18T06:40:38.922846000Z
+00:00:00.386731 Build Type: release
+00:00:00.386735 OS Product: Linux
+00:00:00.386736 OS Release: 6.12.23-1-lts
+00:00:00.386737 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 10 Apr 2025 13:28:36 +0000
+00:00:00.386772 DMI Product Name: Vivobook_ASUSLaptop K5504VA_S5504VA
+00:00:00.386785 DMI Product Version: 1.0       
+00:00:00.386793 Firmware type: UEFI
+00:00:00.387260 Secure Boot: Disabled
+00:00:00.387323 Host RAM: 15621MB (15.2GB) total, 13070MB (12.7GB) available
+00:00:00.387327 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.387328 Process ID: 4282
+00:00:00.387328 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.387373 Qt version: 6.9.0
+00:00:00.388238 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.402566 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.753699 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.834014 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 863x485 x 800x800
+00:00:04.834083 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 863x485 x 800x800
+00:00:13.760541 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:14.046764 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:20.380047 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:15.834954 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:21:27.598671 GUI: UICommon: Handling aboutToQuit request..
+00:21:28.380387 GUI: UICommon: aboutToQuit request handled!
