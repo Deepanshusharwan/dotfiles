@@ -79,7 +79,7 @@ rm -r "$repo_path/config/BraveSoftware"
 
 echo ""
 echo "All the files have been moved successfully"
-echo "Starting git protocols."
+echo "Starting git protocols..."
 echo ""
 echo ""
 
