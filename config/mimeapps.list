@@ -1,7 +1,0 @@
-[Added Associations]
-x-scheme-handler/sms=org.gnome.Shell.Extensions.GSConnect.desktop;
-x-scheme-handler/tel=org.gnome.Shell.Extensions.GSConnect.desktop;
-application/octet-stream=nvim.desktop;
-
-[Default Applications]
-x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
