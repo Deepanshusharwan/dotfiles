@@ -48,7 +48,7 @@ mkdir "$repo_path/scripts"
 echo "Copying the configuration files to dotfiles/config."
 cp -r "$HOME/.config/." "$repo_path/config"
 
-echo "Copyig the .bashrc file to dotfiles/bashrc"
+echo "Copying the .bashrc file to dotfiles/bashrc"
 cp "$HOME/.bashrc" "$repo_path/bashrc"
 
 echo "Copying the wallpapers to the dotfile/wallpapers"
