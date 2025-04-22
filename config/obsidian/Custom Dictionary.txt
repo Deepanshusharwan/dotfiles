@@ -1,0 +1,4 @@
+linux
+sudo
+systemd
+checksum_v1 = 3e40ed40f3193914cf0fa14a5aad91a4
