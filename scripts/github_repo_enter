@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 if [ $# -eq 0 ]; then
   read -p "Enter 'c' to enter clones dir or 'm' to enter my_repositories: " folder
