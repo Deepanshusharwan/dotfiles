@@ -1,0 +1,53 @@
+#!/usr/bin/env bash
+
+#this is script is written to automate the updation of the docs to github
+
+echo ""
+echo "WELCOME TO THE DOCPLOAD SCRIPT"
+echo ""
+
+set -e 
+repo_path="$HOME/github_repos/my_repositories/docs"
+
+# lets delete everything inside the folders
+
+echo "Deleting the vaults directory"
+rm -r "$repo_path/vaults" || echo "vaults directory does not exist"
+
+# lets create the dirs again
+
+echo "Creating the vaults directory"
+mkdir "$repo_path/vaults"
+
+
+# now to copy all the vaults and documents
+
+echo "Copying the vaults to docs/vaults"
+cp -r "$HOME/Documents/vaults/." "$repo_path/vaults"
+
+echo ""
+echo "All the files have been moved successfully"
+echo "Starting git protocols..."
+echo ""
+echo ""
+
+
+
+# if there is a command line argument then the following works
+if [ $# -eq 1 ]; then
+  cd "$repo_path"
+  git add .
+  read -p "Please enter you commit message: " message
+  git commit -m "$message"
+  git push origin main
+
+else
+  cd "$repo_path"
+  git add .
+  git commit -m " $(date) update"
+  git push origin main
+  
+fi
+
+
+

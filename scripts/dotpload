@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # okay so this script deletes everything from the dotfiles repo and then adds the stuff back to it 
 # it uploads the files from the .config , scripts , wallpaper and .bashrc and then pushes them to git
@@ -9,12 +9,11 @@ echo ""
 echo "WELCOME TO THE DOTPLOAD SCRIPT"
 echo ""
 
-# so first of all delete everything inside the folders
-
 set -e
-
 repo_path="$HOME/github_repos/my_repositories/dotfiles"
 
+
+# so first of all delete everything inside the folders
 echo "Deleting the config directory."
 rm -r "$repo_path/config" || echo "config directory does not exist"
 
@@ -84,8 +83,6 @@ echo ""
 echo ""
 
 # if there is a command line argument then the following works
-
-
 if [ $# -eq 1 ]; then
   cd "$repo_path"
   git add .
