@@ -5,7 +5,7 @@
 # by default the commit message is the date and time of the date followed by update 
 # but it can be customized by using the c option 
 
-echo ""
+echo "-------------------------------------------------------------------------"
 echo "WELCOME TO THE DOTPLOAD SCRIPT"
 echo ""
 
@@ -99,4 +99,5 @@ else
 fi
 
 
+echo "-------------------------------------------------------------------------"
 
