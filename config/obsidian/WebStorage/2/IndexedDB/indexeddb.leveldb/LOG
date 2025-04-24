@@ -1,0 +1,6 @@
+2025/04/23-18:16:23.805 fab Creating DB /home/deepanshu/.config/obsidian/WebStorage/2/IndexedDB/indexeddb.leveldb since it was missing.
+2025/04/23-18:16:23.810 fab Reusing MANIFEST /home/deepanshu/.config/obsidian/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/04/23-18:16:28.578 fa6 Level-0 table #5: started
+2025/04/23-18:16:28.580 fa6 Level-0 table #5: 8296 bytes OK
+2025/04/23-18:16:28.583 fa6 Delete type=0 #3
+2025/04/23-18:16:28.583 fa6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
