@@ -1,4 +1,16 @@
+DNS
+Tailscale
+VPN
+asar
+dns
+ip
 linux
+pacman
+pc
 sudo
 systemd
-checksum_v1 = 3e40ed40f3193914cf0fa14a5aad91a4
+tailnet
+tailscale
+tailscaled
+vpn
+checksum_v1 = b67609df6d6ca69115975079834b3007
