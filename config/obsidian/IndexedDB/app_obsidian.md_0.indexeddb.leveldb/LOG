@@ -1,3 +1,6 @@
-2025/04/23-17:14:16.194 fa6 Reusing MANIFEST /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/23-17:14:16.195 fa6 Recovering log #3
-2025/04/23-17:14:16.205 fa6 Reusing old log /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
+2025/04/23-18:26:38.311 1e91 Reusing MANIFEST /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/23-18:26:38.312 1e91 Recovering log #3
+2025/04/23-18:26:38.324 1e91 Reusing old log /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
+2025/04/23-19:16:17.790 1e16 Level-0 table #5: started
+2025/04/23-19:16:17.825 1e16 Level-0 table #5: 1372660 bytes OK
+2025/04/23-19:16:17.829 1e16 Delete type=0 #3
