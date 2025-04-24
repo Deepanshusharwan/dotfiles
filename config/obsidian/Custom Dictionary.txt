@@ -1,7 +1,9 @@
 DNS
+Taildrop
 Tailscale
 VPN
 asar
+cli
 dns
 ip
 linux
@@ -9,8 +11,9 @@ pacman
 pc
 sudo
 systemd
+taildrop
 tailnet
 tailscale
 tailscaled
 vpn
-checksum_v1 = b67609df6d6ca69115975079834b3007
+checksum_v1 = 27572aeb947cc3eaf04ee2545f22a3ba
