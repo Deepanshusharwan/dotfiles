@@ -1,15 +1,19 @@
 DNS
+NAS
+Rsync
 Taildrive
 Taildrop
 Tailscale
 VPN
 asar
 cli
+cp
 dns
 ip
 linux
 pacman
 pc
+rsync
 sudo
 systemd
 taildrive
@@ -17,5 +21,6 @@ taildrop
 tailnet
 tailscale
 tailscaled
+unshare
 vpn
-checksum_v1 = be079c38eade3b31ac8807e9971da68f
+checksum_v1 = 7167807ea40eeafe6cc27017faa64b0e

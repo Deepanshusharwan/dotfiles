@@ -1,3 +1,39 @@
-2025/04/25-12:18:05.616 1268 Reusing MANIFEST /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/25-12:18:05.616 1268 Recovering log #23
-2025/04/25-12:18:05.621 1268 Reusing old log /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000023.log 
+2025/04/27-10:39:43.713 c45 Reusing MANIFEST /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/27-10:39:43.713 c45 Recovering log #28
+2025/04/27-10:39:43.718 c45 Reusing old log /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000028.log 
+2025/04/27-11:29:44.000 c45 Level-0 table #33: started
+2025/04/27-11:29:44.013 c45 Level-0 table #33: 1261334 bytes OK
+2025/04/27-11:29:44.016 c45 Delete type=0 #28
+2025/04/27-11:48:37.018 c44 Compacting 1@1 + 1@2 files
+2025/04/27-11:48:37.025 c44 Generated table #34@1: 1132 keys, 353615 bytes
+2025/04/27-11:48:37.025 c44 Compacted 1@1 + 1@2 files => 353615 bytes
+2025/04/27-11:48:37.027 c44 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/27-11:48:37.027 c44 Delete type=2 #30
+2025/04/27-11:48:37.027 c44 Delete type=2 #33
+2025/04/27-14:59:34.238 cbf Level-0 table #36: started
+2025/04/27-14:59:34.247 cbf Level-0 table #36: 1264923 bytes OK
+2025/04/27-14:59:34.250 cbf Delete type=0 #32
+2025/04/27-15:01:24.172 c45 Compacting 1@1 + 1@2 files
+2025/04/27-15:01:24.184 c45 Generated table #37@1: 1156 keys, 324405 bytes
+2025/04/27-15:01:24.184 c45 Compacted 1@1 + 1@2 files => 324405 bytes
+2025/04/27-15:01:24.186 c45 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/27-15:01:24.187 c45 Delete type=2 #34
+2025/04/27-15:01:24.187 c45 Delete type=2 #36
+2025/04/27-15:58:37.628 c44 Level-0 table #39: started
+2025/04/27-15:58:37.636 c44 Level-0 table #39: 1403833 bytes OK
+2025/04/27-15:58:37.639 c44 Delete type=0 #35
+2025/04/27-16:00:11.802 c45 Compacting 1@1 + 1@2 files
+2025/04/27-16:00:11.821 c45 Generated table #40@1: 1145 keys, 383667 bytes
+2025/04/27-16:00:11.821 c45 Compacted 1@1 + 1@2 files => 383667 bytes
+2025/04/27-16:00:11.824 c45 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/27-16:00:11.824 c45 Delete type=2 #37
+2025/04/27-16:00:11.824 c45 Delete type=2 #39
+2025/04/27-16:23:52.999 c45 Level-0 table #42: started
+2025/04/27-16:23:53.008 c45 Level-0 table #42: 1626015 bytes OK
+2025/04/27-16:23:53.011 c45 Delete type=0 #38
+2025/04/27-16:24:32.835 c44 Compacting 1@1 + 1@2 files
+2025/04/27-16:24:32.840 c44 Generated table #43@1: 1157 keys, 413992 bytes
+2025/04/27-16:24:32.840 c44 Compacted 1@1 + 1@2 files => 413992 bytes
+2025/04/27-16:24:32.843 c44 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/27-16:24:32.843 c44 Delete type=2 #40
+2025/04/27-16:24:32.843 c44 Delete type=2 #42
