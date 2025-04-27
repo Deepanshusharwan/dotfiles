@@ -1,3 +1,12 @@
-2025/04/25-12:18:05.616 1268 Reusing MANIFEST /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/25-12:18:05.616 1268 Recovering log #23
-2025/04/25-12:18:05.621 1268 Reusing old log /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000023.log 
+2025/04/26-12:45:54.750 39d6 Reusing MANIFEST /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/26-12:45:54.750 39d6 Recovering log #23
+2025/04/26-12:45:54.757 39d6 Reusing old log /home/deepanshu/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000023.log 
+2025/04/26-14:51:51.369 39d5 Level-0 table #29: started
+2025/04/26-14:51:51.380 39d5 Level-0 table #29: 1167408 bytes OK
+2025/04/26-14:51:51.382 39d5 Delete type=0 #23
+2025/04/26-14:59:50.951 39d9 Compacting 1@1 + 1@2 files
+2025/04/26-14:59:50.959 39d9 Generated table #30@1: 881 keys, 226835 bytes
+2025/04/26-14:59:50.959 39d9 Compacted 1@1 + 1@2 files => 226835 bytes
+2025/04/26-14:59:50.961 39d9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/26-14:59:50.962 39d9 Delete type=2 #26
+2025/04/26-14:59:50.962 39d9 Delete type=2 #29
