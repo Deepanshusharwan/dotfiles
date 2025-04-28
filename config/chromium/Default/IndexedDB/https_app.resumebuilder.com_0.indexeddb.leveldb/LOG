@@ -1,0 +1,6 @@
+2025/02/21-10:12:01.228 2b74a Creating DB /home/deepanshu/.config/chromium/Default/IndexedDB/https_app.resumebuilder.com_0.indexeddb.leveldb since it was missing.
+2025/02/21-10:12:01.232 2b74a Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_app.resumebuilder.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/21-10:23:49.849 2b74b Level-0 table #5: started
+2025/02/21-10:23:49.852 2b74b Level-0 table #5: 1271 bytes OK
+2025/02/21-10:23:49.854 2b74b Delete type=0 #3
+2025/02/21-10:23:49.855 2b74b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

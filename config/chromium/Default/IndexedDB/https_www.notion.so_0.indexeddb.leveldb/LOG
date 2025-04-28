@@ -1,0 +1,26 @@
+2025/04/11-15:28:17.979 bcc Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/11-15:28:17.979 bcc Recovering log #4
+2025/04/11-15:28:17.982 bcc Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000004.log 
+2025/04/11-15:28:19.386 bcc Level-0 table #8: started
+2025/04/11-15:28:19.388 bcc Level-0 table #8: 14721 bytes OK
+2025/04/11-15:28:19.391 bcc Delete type=0 #4
+2025/04/11-15:28:19.391 bcc Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/11-15:47:49.142 bcd Level-0 table #10: started
+2025/04/11-15:47:49.147 bcd Level-0 table #10: 17833 bytes OK
+2025/04/11-15:47:49.150 bcd Delete type=0 #7
+2025/04/11-15:47:49.151 bcd Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x02"\x01$\x001\x002\x002\x00d\x008\x007\x002\x00b\x00-\x005\x009\x004\x00c\x00-\x008\x001\x00e\x00d\x00-\x009\x000\x008\x008\x00-\x000\x000\x000\x002\x000\x007\x005\x006\x003\x001\x001\x001\x00\x03\x00\x00\x00\x00\x00\x001@' @ 1150 : 1
+2025/04/11-15:47:49.151 bcd Compacting 1@0 + 1@1 files
+2025/04/11-15:47:49.153 bcd Generated table #11@0: 402 keys, 5620 bytes
+2025/04/11-15:47:49.154 bcd Compacted 1@0 + 1@1 files => 5620 bytes
+2025/04/11-15:47:49.156 bcd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/11-15:47:49.156 bcd Delete type=2 #8
+2025/04/11-15:47:49.156 bcd Delete type=2 #10
+2025/04/11-15:47:49.157 bcd Manual compaction at level-0 from '\x00\x02\x02"\x01$\x001\x002\x002\x00d\x008\x007\x002\x00b\x00-\x005\x009\x004\x00c\x00-\x008\x001\x00e\x00d\x00-\x009\x000\x008\x008\x00-\x000\x000\x000\x002\x000\x007\x005\x006\x003\x001\x001\x001\x00\x03\x00\x00\x00\x00\x00\x001@' @ 1150 : 1 .. (end); will stop at (end)
+2025/04/11-15:47:49.157 bcd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x02"\x01$\x001\x002\x002\x00d\x008\x007\x002\x00b\x00-\x005\x009\x004\x00c\x00-\x008\x001\x00e\x00d\x00-\x009\x000\x008\x008\x00-\x000\x000\x000\x002\x000\x007\x005\x006\x003\x001\x001\x001\x00\x03\x00\x00\x00\x00\x00\x001@' @ 1150 : 1
+2025/04/11-15:47:49.157 bcd Compacting 1@1 + 1@2 files
+2025/04/11-15:47:49.159 bcd Generated table #12@1: 111 keys, 3198 bytes
+2025/04/11-15:47:49.159 bcd Compacted 1@1 + 1@2 files => 3198 bytes
+2025/04/11-15:47:49.162 bcd compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/11-15:47:49.162 bcd Delete type=2 #5
+2025/04/11-15:47:49.162 bcd Delete type=2 #11
+2025/04/11-15:47:49.163 bcd Manual compaction at level-1 from '\x00\x02\x02"\x01$\x001\x002\x002\x00d\x008\x007\x002\x00b\x00-\x005\x009\x004\x00c\x00-\x008\x001\x00e\x00d\x00-\x009\x000\x008\x008\x00-\x000\x000\x000\x002\x000\x007\x005\x006\x003\x001\x001\x001\x00\x03\x00\x00\x00\x00\x00\x001@' @ 1150 : 1 .. (end); will stop at (end)

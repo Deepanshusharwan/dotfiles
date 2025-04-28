@@ -1,0 +1,25 @@
+2025/04/27-20:29:04.008 742 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/04/27-20:29:04.008 742 Recovering log #293
+2025/04/27-20:29:04.013 742 Reusing old log /home/deepanshu/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000293.log 
+2025/04/27-20:29:04.067 742 Level-0 table #299: started
+2025/04/27-20:29:04.075 742 Level-0 table #299: 1633291 bytes OK
+2025/04/27-20:29:04.078 742 Delete type=0 #293
+2025/04/27-20:29:09.499 743 Level-0 table #301: started
+2025/04/27-20:29:09.502 743 Level-0 table #301: 42712 bytes OK
+2025/04/27-20:29:09.505 743 Delete type=0 #298
+2025/04/27-20:29:09.505 743 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x11\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x10\xf7cbgyB\x00\x03\x00\x00\x00\x00\x00\xa0\x84@' @ 305456 : 1
+2025/04/27-20:29:09.505 743 Compacting 1@0 + 1@1 files
+2025/04/27-20:29:09.509 743 Generated table #302@0: 801 keys, 21528 bytes
+2025/04/27-20:29:09.509 743 Compacted 1@0 + 1@1 files => 21528 bytes
+2025/04/27-20:29:09.511 743 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/27-20:29:09.512 743 Delete type=2 #299
+2025/04/27-20:29:09.512 743 Delete type=2 #301
+2025/04/27-20:29:09.512 743 Manual compaction at level-0 from '\x00\x11\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x10\xf7cbgyB\x00\x03\x00\x00\x00\x00\x00\xa0\x84@' @ 305456 : 1 .. (end); will stop at (end)
+2025/04/27-20:29:09.512 743 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x11\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x10\xf7cbgyB\x00\x03\x00\x00\x00\x00\x00\xa0\x84@' @ 305529 : 1
+2025/04/27-20:29:09.512 743 Compacting 1@1 + 1@2 files
+2025/04/27-20:29:09.513 743 Generated table #303@1: 126 keys, 22161 bytes
+2025/04/27-20:29:09.513 743 Compacted 1@1 + 1@2 files => 22161 bytes
+2025/04/27-20:29:09.516 743 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/27-20:29:09.516 743 Delete type=2 #296
+2025/04/27-20:29:09.516 743 Delete type=2 #302
+2025/04/27-20:29:09.516 743 Manual compaction at level-1 from '\x00\x11\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x10\xf7cbgyB\x00\x03\x00\x00\x00\x00\x00\xa0\x84@' @ 305529 : 1 .. (end); will stop at (end)

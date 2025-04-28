@@ -1,0 +1,9 @@
+2025/04/19-15:37:53.724 110d Creating DB /home/deepanshu/.config/chromium/Default/IndexedDB/https_app.sketchup.com_0.indexeddb.leveldb since it was missing.
+2025/04/19-15:37:53.729 110d Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_app.sketchup.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/19-15:37:59.303 110e Level-0 table #5: started
+2025/04/19-15:37:59.324 110e Level-0 table #5: 1159469 bytes OK
+2025/04/19-15:37:59.326 110e Delete type=0 #3
+2025/04/19-15:38:08.666 110d Level-0 table #7: started
+2025/04/19-15:38:08.668 110d Level-0 table #7: 4376 bytes OK
+2025/04/19-15:38:08.671 110d Delete type=0 #4
+2025/04/19-15:38:08.671 110d Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/github_repos/my_repositories" value="true" />
+        <entry key="$USER_HOME$/github_repos/my_repositories/Turtle-shell" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

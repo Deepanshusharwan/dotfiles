@@ -1,0 +1,5 @@
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/deepanshu/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dawt.toolkit.name=WLToolkit
+-Dtoolbox.notification.token=00905dff-9693-491e-adbf-ce45a8b7e443
+-Dtoolbox.notification.portFile=/home/deepanshu/.cache/JetBrains/Toolbox/ports/1370e066-1f06-4517-9324-e56e408f8213.port
