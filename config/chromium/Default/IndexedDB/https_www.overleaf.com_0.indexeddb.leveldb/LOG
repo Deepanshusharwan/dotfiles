@@ -1,7 +1,0 @@
-2025/04/25-08:07:07.515 db5 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.overleaf.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/25-08:07:07.515 db5 Recovering log #3
-2025/04/25-08:07:07.519 db5 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.overleaf.com_0.indexeddb.leveldb/000003.log 
-2025/04/25-08:59:22.287 db6 Level-0 table #5: started
-2025/04/25-08:59:22.294 db6 Level-0 table #5: 423591 bytes OK
-2025/04/25-08:59:22.297 db6 Delete type=0 #3
-2025/04/25-08:59:22.297 db6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

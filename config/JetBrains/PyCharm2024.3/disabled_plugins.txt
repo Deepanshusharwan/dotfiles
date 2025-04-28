@@ -1,2 +1,0 @@
-IdeaVIM
-com.github.catppuccin.jetbrains_icons

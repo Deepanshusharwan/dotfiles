@@ -1,7 +1,0 @@
-2025/01/08-13:11:50.974 3880 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/01/08-13:11:50.975 3880 Recovering log #3
-2025/01/08-13:11:50.975 3880 Reusing old log /home/deepanshu/.config/chromium/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/000003.log 
-2025/01/08-22:45:18.257 3880 Level-0 table #5: started
-2025/01/08-22:45:18.262 3880 Level-0 table #5: 260764 bytes OK
-2025/01/08-22:45:18.265 3880 Delete type=0 #3
-2025/01/08-22:45:18.266 3880 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
