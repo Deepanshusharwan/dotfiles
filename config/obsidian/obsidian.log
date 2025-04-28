@@ -321,3 +321,13 @@
 2025-04-28 02:42:08 Failed to check for update using Github (net::ERR_NAME_NOT_RESOLVED)
 2025-04-28 02:42:08 Checking for update using obsidian.md
 2025-04-28 02:42:48 Failed to check for update using obsidian.md (net::ERR_NAME_NOT_RESOLVED)
+2025-04-28 06:24:15 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-28 06:24:15 Checking for update using Github
+2025-04-28 06:24:16 Success.
+2025-04-28 06:24:16 Latest version is 1.8.10
+2025-04-28 06:24:16 App is up to date.
+2025-04-28 06:24:23 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-28 06:24:23 Checking for update using Github
+2025-04-28 06:24:23 Success.
+2025-04-28 06:24:23 Latest version is 1.8.10
+2025-04-28 06:24:23 App is up to date.
