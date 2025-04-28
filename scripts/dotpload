@@ -11,7 +11,7 @@ repo_path="$HOME/github_repos/my_repositories/dotfiles"
 
 # so first lets backup the config directory with the rsync
 echo "Setting up the rsync to backup everything to dotfiles/config"
-rsync -avh --progress --delete "$HOME/.config/." "$repo_path/config/"
+rsync -avh --progress --delete --exclude={'chromium','dconf','google-chrom*','JetBrains','BraveSoftwar*'} "$HOME/.config/." "$repo_path/config/"
 
 # now we will backup everything in the bashrc
 echo ""
@@ -32,22 +32,23 @@ echo "Backing up the scripts to dotfiles/scripts"
 rsync -avh --progress --delete "$HOME/scripts/." "$repo_path/scripts/"
 echo ""
 
-#now we will delete some sensitive files
+## don't need this part anymore --exclude did that
+##now we will delete some sensitive files
 
-echo "Deleting google-chrome-beta"
-rm -r "$repo_path/config/google-chrome-beta"
-echo "Deleting chromium"
-rm -r "$repo_path/config/chromium"
-echo "Deleting dconf"
-rm -r "$repo_path/config/dconf"
-echo "Deleting google-chrome"
-rm -r "$repo_path/config/google-chrome"
-echo "Deleting google-chrome-unstable"
-rm -r "$repo_path/config/google-chrome-unstable"
-echo "Deleting JetBrains"
-rm -r "$repo_path/config/JetBrains"
-echo "Deleting BraveSoftware"
-rm -r "$repo_path/config/BraveSoftware"
+#echo "Deleting google-chrome-beta"
+#rm -r "$repo_path/config/google-chrome-beta"
+#echo "Deleting chromium"
+#rm -r "$repo_path/config/chromium"
+#echo "Deleting dconf"
+#rm -r "$repo_path/config/dconf"
+#echo "Deleting google-chrome"
+#rm -r "$repo_path/config/google-chrome"
+#echo "Deleting google-chrome-unstable"
+#rm -r "$repo_path/config/google-chrome-unstable"
+#echo "Deleting JetBrains"
+#rm -r "$repo_path/config/JetBrains"
+#echo "Deleting BraveSoftware"
+#rm -r "$repo_path/config/BraveSoftware"
 
 echo ""
 echo "All the files have been moved successfully"

@@ -1,7 +1,0 @@
-2025/04/11-05:41:52.551 bcc Reusing MANIFEST /home/deepanshu/.config/chromium/Default/WebStorage/88/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/04/11-05:41:52.551 bcc Recovering log #3
-2025/04/11-05:41:52.556 bcc Reusing old log /home/deepanshu/.config/chromium/Default/WebStorage/88/IndexedDB/indexeddb.leveldb/000003.log 
-2025/04/13-11:28:36.044 bcd Level-0 table #5: started
-2025/04/13-11:28:36.058 bcd Level-0 table #5: 438763 bytes OK
-2025/04/13-11:28:36.061 bcd Delete type=0 #3
-2025/04/13-11:28:36.062 bcd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

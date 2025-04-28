@@ -1,6 +1,0 @@
-2025/04/27-16:15:32.965 742 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/27-16:15:32.965 742 Recovering log #294
-2025/04/27-16:15:32.969 742 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000294.log 
-2025/04/27-16:15:34.432 743 Level-0 table #299: started
-2025/04/27-16:15:34.440 743 Level-0 table #299: 995667 bytes OK
-2025/04/27-16:15:34.443 743 Delete type=0 #294

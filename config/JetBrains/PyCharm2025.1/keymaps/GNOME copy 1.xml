@@ -1,5 +1,0 @@
-<keymap version="1" name="GNOME copy 1" parent="Default for GNOME">
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
-  </action>
-</keymap>
