@@ -1,0 +1,13 @@
+2025/03/31-16:05:52.247 8cd Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/31-16:05:52.247 8cd Recovering log #7
+2025/03/31-16:05:52.247 8cd Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000007.log 
+2025/03/31-16:05:52.277 8db Level-0 table #11: started
+2025/03/31-16:05:52.279 8db Level-0 table #11: 3688 bytes OK
+2025/03/31-16:05:52.281 8db Delete type=0 #7
+2025/03/31-16:05:52.282 8cd Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 312 : 1
+2025/03/31-16:05:52.282 8cd Compacting 1@0 + 1@1 files
+2025/03/31-16:05:52.283 8cd Generated table #12@0: 33 keys, 1529 bytes
+2025/03/31-16:05:52.283 8cd Compacted 1@0 + 1@1 files => 1529 bytes
+2025/03/31-16:05:52.287 8cd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/31-16:05:52.287 8cd Delete type=2 #11
+2025/03/31-16:05:52.287 8cd Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 312 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

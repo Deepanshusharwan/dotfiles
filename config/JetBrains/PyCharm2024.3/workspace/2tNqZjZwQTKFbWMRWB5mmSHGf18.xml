@@ -1,0 +1,478 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="PyBye" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="BRANCH:main" type="5dcd9098:BranchNodeDescriptor$Branch" />
+      </path>
+    </select>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="cdpstxk54npz" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+              <first_editor relative-caret-position="1100">
+                <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+                <folding>
+                  <element signature="e#316#349#0#Markdown" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/pybye.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="163">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="e#15#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pybye.py","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="mock:///TabPreviewDiffVirtualFile">
+          <provider editor-type-id="BackendDiffFileEditorProvider" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TabPreviewDiffVirtualFile"}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Requirements.txt": {
+      "usageCount": 3,
+      "lastUsed": 1740325338451
+    },
+    "Python": {
+      "usageCount": 10,
+      "lastUsed": 1742924921408
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 3,
+      "lastUsed": 1740324086732
+    },
+    "Markdown": {
+      "usageCount": 5,
+      "lastUsed": 1742924921839
+    },
+    "CSS": {
+      "usageCount": 2,
+      "lastUsed": 1740325338955
+    },
+    "Image": {
+      "usageCount": 1,
+      "lastUsed": 1740325507314
+    },
+    "DIFF": {
+      "usageCount": 1,
+      "lastUsed": 1742925208339
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>q</find>
+      <find>qw</find>
+      <find>qwid</find>
+      <find>qwidge</find>
+      <find>qwidget</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/deepanshu/github_repos/my_repositories/PyBye/app/py.py&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/PyBye/requirements.txt&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/PyBye/.venv/bin/activate&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/PyBye/requiremnts.txt&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/PyBye/README.md&quot;,
+    &quot;/home/deepanshu/github_repos/my_repositories/PyBye/app/pybye.py&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="2" lastUsage="1740325338955" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="5" lastUsage="1742924921839" />
+    </language>
+    <language id="Python">
+      <summary usageCount="10" lastUsage="1742924921410" />
+    </language>
+    <language id="Requirements">
+      <summary usageCount="3" lastUsage="1740325338453" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1740324086732" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PyBye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/PyBye}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyBye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/PyBye}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/PyBye/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyBye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/PyBye}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/PyBye/screenshots}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="PyBye" />
+            <item name="PyBye" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="PyBye" />
+              <item name="dir{file:///home/deepanshu/github_repos/my_repositories/PyBye}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="app" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/PyBye/app}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/gtk_style.css" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="gtk_style.css" />
+                  <item name="gtk_style.css" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/pybye.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="pybye.py" />
+                  <item name="pybye.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pybye-venv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="pybye-venv" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/PyBye/pybye-venv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/screenshots" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="screenshots" />
+                <item name="dir{file:///home/deepanshu/github_repos/my_repositories/PyBye/screenshots}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/screenshots/Pybye_screenshot.png" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="Pybye_screenshot.png" />
+                  <item name="Pybye_screenshot.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LICENSE" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="LICENSE" />
+                <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/requirements.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="requirements.txt" />
+                <item name="requirements.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="PyBye-history">
+        <shellCommand>
+          <arg value="/usr/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26908000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19657375" />
+      <window_info id="Commit" order="1" weight="0.19657375" />
+      <window_info id="VcsChanges" order="2" weight="0.19657375" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.33919063" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3303942" />
+      <window_info anchor="bottom" id="Services" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.33919063" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.41977227" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.47147304" />
+      <window_info anchor="bottom" id="Debug" order="9" show_stripe_button="false" weight="0.24171843" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3296253" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="documentation.v2" order="5" side_tool="true" weight="0.33013937" />
+      <window_info anchor="right" id="Plots" order="6" weight="0.1" />
+      <unified_weights bottom="0.33919063" left="0.19657375" right="0.3296253" />
+    </layoutV2>
+    <recentWindows>
+      <value>Version Control</value>
+      <value>Project</value>
+      <value>VcsChanges</value>
+      <value>Commit</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Database</value>
+      <value>documentation.v2</value>
+      <value>Find</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="FileChooserDialogImpl" timestamp="1740324067589">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="0" y="0" key="FileChooserDialogImpl/0.0.1728.972@0.0.1728.972" timestamp="1740324067589" />
+    <state width="1640" height="363" key="GridCell.Tab.0.bottom" timestamp="1740325331745">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1640" height="363" key="GridCell.Tab.0.bottom/0.0.1728.972@0.0.1728.972" timestamp="1740325331745" />
+    <state width="1640" height="363" key="GridCell.Tab.0.center" timestamp="1740325331745">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1640" height="363" key="GridCell.Tab.0.center/0.0.1728.972@0.0.1728.972" timestamp="1740325331745" />
+    <state width="1640" height="363" key="GridCell.Tab.0.left" timestamp="1740325331745">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1640" height="363" key="GridCell.Tab.0.left/0.0.1728.972@0.0.1728.972" timestamp="1740325331745" />
+    <state width="1640" height="363" key="GridCell.Tab.0.right" timestamp="1740325331745">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="1640" height="363" key="GridCell.Tab.0.right/0.0.1728.972@0.0.1728.972" timestamp="1740325331745" />
+    <state width="818" height="191" key="GridCell.Tab.1.bottom" timestamp="1740323962660">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="818" height="191" key="GridCell.Tab.1.bottom/0.0.1728.972@0.0.1728.972" timestamp="1740323962660" />
+    <state width="818" height="191" key="GridCell.Tab.1.center" timestamp="1740323962660">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="818" height="191" key="GridCell.Tab.1.center/0.0.1728.972@0.0.1728.972" timestamp="1740323962660" />
+    <state width="818" height="191" key="GridCell.Tab.1.left" timestamp="1740323962660">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="818" height="191" key="GridCell.Tab.1.left/0.0.1728.972@0.0.1728.972" timestamp="1740323962660" />
+    <state width="818" height="191" key="GridCell.Tab.1.right" timestamp="1740323962660">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="818" height="191" key="GridCell.Tab.1.right/0.0.1728.972@0.0.1728.972" timestamp="1740323962660" />
+    <state x="170" y="79" key="MergeDialog" timestamp="1740321142053">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="170" y="79" key="MergeDialog/0.0.1728.972@0.0.1728.972" timestamp="1740321142053" />
+    <state x="361" y="117" key="SettingsEditor" timestamp="1740206027102">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="361" y="117" key="SettingsEditor/0.0.1728.972@0.0.1728.972" timestamp="1740206027102" />
+    <state width="640" height="279" key="ShowBookmarks" timestamp="1740281652029">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state width="640" height="279" key="ShowBookmarks/0.0.1728.972@0.0.1728.972" timestamp="1740281652029" />
+    <state x="165" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1740232196757">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="165" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1728.972@0.0.1728.972" timestamp="1740232196757" />
+    <state x="618" y="199" key="git4idea.branch.GitSmartOperationDialog" timestamp="1740321126334">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="618" y="199" key="git4idea.branch.GitSmartOperationDialog/0.0.1728.972@0.0.1728.972" timestamp="1740321126334" />
+    <state x="0" y="0" key="run.anything.popup" timestamp="1740280805700">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="0" y="0" key="run.anything.popup/0.0.1728.972@0.0.1728.972" timestamp="1740280805700" />
+    <state x="0" y="0" width="790" height="393" key="search.everywhere.popup" timestamp="1740325271285">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="0" y="0" width="790" height="393" key="search.everywhere.popup/0.0.1728.972@0.0.1728.972" timestamp="1740325271285" />
+    <state x="590" y="362" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1740204537309">
+      <screen x="0" y="0" width="1728" height="972" />
+    </state>
+    <state x="590" y="362" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1728.972@0.0.1728.972" timestamp="1740204537309" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.venv/bin/activate" />
+    <entry file="file://$PROJECT_DIR$/app/py.py" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/gtk_style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/Pybye_screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pybye.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#15#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="1100">
+            <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+            <folding>
+              <element signature="e#316#349#0#Markdown" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

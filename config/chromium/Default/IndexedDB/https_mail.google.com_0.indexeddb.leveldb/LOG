@@ -1,0 +1,12 @@
+2025/04/27-19:35:53.947 742 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/27-19:35:53.947 742 Recovering log #77
+2025/04/27-19:35:53.947 742 Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000077.log 
+2025/04/27-19:36:07.405 743 Level-0 table #82: started
+2025/04/27-19:36:07.425 743 Level-0 table #82: 3096493 bytes OK
+2025/04/27-19:36:07.428 743 Delete type=0 #77
+2025/04/27-19:36:12.364 743 Compacting 1@1 + 1@2 files
+2025/04/27-19:36:12.375 743 Generated table #83@1: 307 keys, 1202100 bytes
+2025/04/27-19:36:12.375 743 Compacted 1@1 + 1@2 files => 1202100 bytes
+2025/04/27-19:36:12.377 743 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/27-19:36:12.378 743 Delete type=2 #79
+2025/04/27-19:36:12.378 743 Delete type=2 #82

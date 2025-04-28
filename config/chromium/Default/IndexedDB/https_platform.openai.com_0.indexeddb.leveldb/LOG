@@ -1,0 +1,7 @@
+2025/04/11-15:57:47.025 bcc Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_platform.openai.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/11-15:57:47.025 bcc Recovering log #3
+2025/04/11-15:57:47.025 bcc Reusing old log /home/deepanshu/.config/chromium/Default/IndexedDB/https_platform.openai.com_0.indexeddb.leveldb/000003.log 
+2025/04/13-10:57:13.116 bcf Level-0 table #5: started
+2025/04/13-10:57:13.118 bcf Level-0 table #5: 1811 bytes OK
+2025/04/13-10:57:13.121 bcf Delete type=0 #3
+2025/04/13-10:57:13.122 bcf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

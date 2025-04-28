@@ -1,0 +1,6 @@
+2025/02/14-08:57:09.474 f5e1 Creating DB /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb since it was missing.
+2025/02/14-08:57:09.480 f5e1 Reusing MANIFEST /home/deepanshu/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/14-08:57:10.727 f5da Level-0 table #5: started
+2025/02/14-08:57:10.730 f5da Level-0 table #5: 2641 bytes OK
+2025/02/14-08:57:10.734 f5da Delete type=0 #3
+2025/02/14-08:57:10.735 f5da Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

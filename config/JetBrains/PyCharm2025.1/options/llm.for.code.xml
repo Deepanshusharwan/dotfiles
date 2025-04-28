@@ -1,0 +1,6 @@
+<application>
+  <component name="LLMSettings">
+    <option name="data_sharing" value="true" />
+    <option name="data_sharing_v2_initialized" value="true" />
+  </component>
+</application>

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 26 15:45:12 IST 2025
+@default-alibaba-https\://maven.aliyun.com/repository/public/.lastUpdated=1740564838324
+@default-jboss.community-https\://repository.jboss.org/nexus/content/repositories/public/.lastUpdated=1740564838317
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact org.xerial\:sqlite-jdbc\:jar\:3.45.1.0 from/to alibaba (https\://maven.aliyun.com/repository/public/)\: The operation was cancelled.
+https\://repo1.maven.org/maven2/.lastUpdated=1740564912233
+https\://repository.jboss.org/nexus/content/repositories/public/.error=Could not transfer artifact org.xerial\:sqlite-jdbc\:jar\:3.45.1.0 from/to jboss.community (https\://repository.jboss.org/nexus/content/repositories/public/)\: The operation was cancelled.
