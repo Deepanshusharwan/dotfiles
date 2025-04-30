@@ -7,6 +7,7 @@ Tailscale
 VPN
 asar
 cli
+cp
 dns
 ip
 linux
@@ -22,4 +23,4 @@ tailscale
 tailscaled
 unshare
 vpn
-checksum_v1 = 5fe7efdb1feae13da20168829a599ddc
+checksum_v1 = 7167807ea40eeafe6cc27017faa64b0e

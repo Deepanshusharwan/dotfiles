@@ -21,6 +21,7 @@ taildrop
 tailnet
 tailscale
 tailscaled
+unix
 unshare
 vpn
-checksum_v1 = 7167807ea40eeafe6cc27017faa64b0e
+checksum_v1 = 46129b273886b9c5cd0ebdc199485f02
