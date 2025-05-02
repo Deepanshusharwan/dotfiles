@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
 
-dotpload
-docpload
-
-
 if [ $# -eq 0 ]; then
 dotpload
 docpload
