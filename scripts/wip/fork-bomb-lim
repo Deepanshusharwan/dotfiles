@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+
+import os
+import time
+
+max_forks = 100
+forks = 0
+
+while forks < max_forks:
+    pid = os.fork()
+    print(forks)
+    print(pid)
+    forks += 1
+

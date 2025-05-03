@@ -22,3 +22,9 @@
 2025/05/03-03:30:03.052 b3b3 Level-0 table #56: started
 2025/05/03-03:30:03.088 b3b3 Level-0 table #56: 1249537 bytes OK
 2025/05/03-03:30:03.091 b3b3 Delete type=0 #52
+2025/05/03-12:33:26.988 b3b3 Compacting 1@1 + 1@2 files
+2025/05/03-12:33:27.000 b3b3 Generated table #57@1: 1121 keys, 441303 bytes
+2025/05/03-12:33:27.000 b3b3 Compacted 1@1 + 1@2 files => 441303 bytes
+2025/05/03-12:33:27.003 b3b3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/03-12:33:27.003 b3b3 Delete type=2 #54
+2025/05/03-12:33:27.003 b3b3 Delete type=2 #56
