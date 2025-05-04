@@ -1,3 +1,3 @@
-2025/05/03-14:00:27.646 abc Reusing MANIFEST /home/deepanshu/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2025/05/03-14:00:27.650 abc Recovering log #3
-2025/05/03-14:00:27.650 abc Reusing old log /home/deepanshu/.config/obsidian/Local Storage/leveldb/000003.log 
+2025/05/04-09:47:14.745 37db Reusing MANIFEST /home/deepanshu/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2025/05/04-09:47:14.752 37db Recovering log #3
+2025/05/04-09:47:14.752 37db Reusing old log /home/deepanshu/.config/obsidian/Local Storage/leveldb/000003.log 
