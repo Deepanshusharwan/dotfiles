@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# this script was replaced by search script
+#it was replaces caused i made a more complex but better script to search stuff on chrome on not only youtube but google and other places too
+
 # this is a script to automate opening youtube and showing the search results 
 # it will work in the format of chromium --new-window --incognito url
 # use 'n' for new window and 'i' tag for the icognito mode
