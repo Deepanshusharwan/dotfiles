@@ -9,6 +9,10 @@
 #
 # focused search parameters are mentioned below
 # site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org"
+#
+# use '-h' for getting a guide on how to use this script
+#
+# generally it is better to have a chromium window open when you use this script so closing the terminal won't close your chromium window
 
 echo "Welcome to the Search script."
 echo ""
@@ -23,11 +27,16 @@ possible_search_platforms=("https://www.youtube.com/results?search_query=" "http
 
 if [ $# -eq 0 ]; then
 
+  read -p "Enter your search query: " search
+  echo ""
+  
   echo "Please choose the platform you want to search on"
   echo "'y' for youtube"
   echo "'g' for google"
   echo "'fs' for doing a focused search on google with results only from a select few sites"
+  echo "Leave blank for using the default search platform 'YouTube'"
   read -p "Your choice: " choice
+  echo ""
 
   if [[ "$choice" == "y" ]]; then
     arg3="https://www.youtube.com/results?search_query="
@@ -39,11 +48,12 @@ if [ $# -eq 0 ]; then
       arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org"
       arg3="https://www.google.com/search?q="
 
+  elif [[ "$choice" == "" ]]; then
+    echo "Using the default option 'Youtube'"
+
   else
     echo "Please select one and only one options from the above"
   fi
-  
-  read -p "Enter your search query: " search
 
   read -p "Do you want to open this in incognito mode (i) or a new window (n)? leave it blank for neither. (i/n) " option
   echo ""
@@ -52,6 +62,9 @@ if [ $# -eq 0 ]; then
     arg2="--new-window"
   elif [[ "$option" == "i" ]]; then
     arg1="--incognito"
+  elif [[ "$option" == "in" ]] || [[ "$option" == "ni" ]]; then
+    arg2="--new-window"
+    arg1="--incognito"
     
   fi 
   
@@ -59,7 +72,7 @@ if [ $# -eq 0 ]; then
   search="${search// /+}" #replaces all the whitespaces with '+'
   arg4="${arg4// /+}"
   chromium "$arg1" "$arg2" "$arg3""$search""$arg4"
-  echo "Searching youtube for '$arg3$search$arg4'"
+  echo "Searching for '$arg3$search$arg4'"
  
 
 else
@@ -81,6 +94,25 @@ else
       arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org"
       arg3="https://www.google.com/search?q="
 
+    elif [[ "$arg" == "-h" ]]; then
+
+      echo "This script helps you search your query on the internet by default if no additional option is provided it runs the search in youtube in the same window as the current open window in a new tab if no chromium window is open then it opens one."
+      echo ""
+      echo "Usage:"
+      echo "  search [option1] [option2] .... [search query]"
+      echo ""
+      echo "Options:"
+      echo " n     opens the query in a new window"
+      echo " i     opens the query in incognito mode"
+      echo ""
+      echo " g     searches the query on google"
+      echo " y     searches the query on youtube"
+      echo " fs    (focused search) searches the query on google but with results only from a select few websites"
+      echo " -h    display this help and exits"
+      echo ""
+      exit 0
+      
+
     else
       search+="$arg "
     fi 
@@ -88,6 +120,6 @@ else
   search="${search// /+}"
   arg4="${arg4// /+}"
   chromium "$arg1" "$arg2" "$arg3""$search""$arg4"
-  echo "Searching youtube for '$arg3$search$arg4'"
+  echo "Searching for '$arg3$search$arg4'"
 fi
 
