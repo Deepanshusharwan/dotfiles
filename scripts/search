@@ -15,7 +15,7 @@ echo ""
 
 arg1="" #argument for having using the incognito
 arg2="" #argument for launching a new window
-arg3="" #argument having the platform to search on
+arg3="https://www.youtube.com/results?search_query="  #argument having the platform to search on by default it searches on youtube
 arg4="" #a possible argument for when doing focused search
 search="" #search query
 
@@ -43,7 +43,10 @@ if [ $# -eq 0 ]; then
     echo "Please select one and only one options from the above"
   fi
   
-  read -p "Do you want to open this in incognito mode (i) or  a new window (n)? (i/n) " option
+  read -p "Enter your search query: " search
+
+  read -p "Do you want to open this in incognito mode (i) or a new window (n)? leave it blank for neither. (i/n) " option
+  echo ""
   
   if [[ "$option" == "n" ]]; then
     arg2="--new-window"
@@ -51,8 +54,6 @@ if [ $# -eq 0 ]; then
     arg1="--incognito"
     
   fi 
-   
-  read -p "Enter your search query: " search
   
   search="$search "
   search="${search// /+}" #replaces all the whitespaces with '+'
