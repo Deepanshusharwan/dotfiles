@@ -4,11 +4,12 @@ return {
 	config = function()
 		-- Apply a single Kanagawa-style color to the header logo
 		-- remove the comments infront of a theme to switch to it
-		vim.api.nvim_set_hl(0, "DashboardHeader", { fg = "#7E9CD8", bold = true }) -- WaveBlue
+		--	vim.api.nvim_set_hl(0, "DashboardHeader", { fg = "#7E9CD8", bold = true }) -- WaveBlue
 		--	vim.api.nvim_set_hl(0, "DashboardHeader", { fg = "#D27E99", bold = true }) -- SakuraPink
 		--	vim.api.nvim_set_hl(0, "DashboardHeader", { fg = "#98BB6C", bold = true }) -- SpringGreen
 		--	vim.api.nvim_set_hl(0, "DashboardHeader", { fg = "#FF5D62", bold = true }) -- PeachRed
 		--	vim.api.nvim_set_hl(0, "DashboardHeader", { fg = "#7FB4CA", bold = true }) -- CrystalBlue
+		vim.api.nvim_set_hl(0, "DashboardHeader", { fg = "#ad7013", bold = true }) -- Amber-orange
 
 		require("dashboard").setup({
 			-- theme = "hyper", -- default is hyper
