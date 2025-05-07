@@ -2,9 +2,9 @@ return {
 	"neovim/nvim-lspconfig",
 	event = { "BufReadPre", "BufNewFile" },
 	dependencies = {
-		"hrsh7th/cmp-nvim-lsp",
-		{ "antosha417/nvim-lsp-file-operations", config = true },
-		{ "folke/neodev.nvim", opts = {} },
+		"hrsh7th/cmp-nvim-lsp", --integrates lsp completion, w/ completion engine
+		{ "antosha417/nvim-lsp-file-operations", config = true }, --adds file operation support to lsp
+		{ "folke/neodev.nvim", opts = {} }, --improves lsp support for nvim's lua api
 	},
 	config = function()
 		-- import lspconfig plugin
@@ -54,10 +54,14 @@ return {
 				keymap.set("n", "<leader>d", vim.diagnostic.open_float, opts) -- show diagnostics for line
 
 				opts.desc = "Go to previous diagnostic"
-				keymap.set("n", "[d", function() vim.diagnostic.goto({ direction = "prev" }) end, opts) -- jump to previous diagnostic in buffer
+				keymap.set("n", "[d", function()
+					vim.diagnostic["goto"]({ direction = "prev" })
+				end, opts) -- jump to previous diagnostic in buffer
 
 				opts.desc = "Go to next diagnostic"
-				keymap.set("n", "]d", function() vim.diagnostic.goto({ direction = "next" }) end, opts) -- jump to next diagnostic in buffer
+				keymap.set("n", "]d", function()
+					vim.diagnostic["goto"]({ direction = "next" })
+				end, opts) -- jump to next diagnostic in buffer
 
 				opts.desc = "Show documentation for what is under cursor"
 				keymap.set("n", "K", vim.lsp.buf.hover, opts) -- show documentation for what is under cursor
@@ -77,69 +81,72 @@ return {
 			vim.fn.sign_define(hl, { text = icon, texthl = hl, numhl = "" })
 		end
 
-		mason_lspconfig.setup_handlers({
-			-- default handler for installed servers
-			function(server_name)
-				lspconfig[server_name].setup({
-					capabilities = capabilities,
-				})
-			end,
-			-- ["svelte"] = function()
-			--   -- configure svelte server
-			--   lspconfig["svelte"].setup({
-			--     capabilities = capabilities,
-			--     on_attach = function(client, bufnr)
-			--       vim.api.nvim_create_autocmd("BufWritePost", {
-			--         pattern = { "*.js", "*.ts" },
-			--         callback = function(ctx)
-			--           -- Here use ctx.match instead of ctx.file
-			--           client.notify("$/onDidChangeTsOrJsFile", { uri = ctx.match })
-			--         end,
-			--       })
-			--     end,
-			--   })
-			-- end,
-			["graphql"] = function()
-				-- configure graphql language server
-				lspconfig["graphql"].setup({
-					capabilities = capabilities,
-					filetypes = { "graphql", "gql", "svelte", "typescriptreact", "javascriptreact" },
-				})
-			end,
-			["emmet_ls"] = function()
-				-- configure emmet language server
-				lspconfig["emmet_ls"].setup({
-					capabilities = capabilities,
-					filetypes = {
-						"html",
-						"typescriptreact",
-						"javascriptreact",
-						"css",
-						"sass",
-						"scss",
-						"less",
-						"svelte",
-					},
-				})
-			end,
-			["lua_ls"] = function()
-				-- configure lua server (with special settings)
-				lspconfig["lua_ls"].setup({
-					capabilities = capabilities,
-					settings = {
-						Lua = {
-							-- make the language server recognize "vim" global
-							diagnostics = {
-								globals = { "vim" },
-							},
-							completion = {
-								callSnippet = "Replace",
-							},
+		-- Define server configurations
+		local servers = {
+			-- Default setup for most language servers
+			html = {},
+			cssls = {},
+			tailwindcss = {},
+			svelte = {},
+			lua_ls = {
+				settings = {
+					Lua = {
+						-- make the language server recognize "vim" global
+						diagnostics = {
+							globals = { "vim" },
+						},
+						completion = {
+							callSnippet = "Replace",
 						},
 					},
-				})
-			end,
-		})
+				},
+			},
+			graphql = {
+				filetypes = { "graphql", "gql", "svelte", "typescriptreact", "javascriptreact" },
+			},
+			emmet_ls = {
+				filetypes = {
+					"html",
+					"typescriptreact",
+					"javascriptreact",
+					"css",
+					"sass",
+					"scss",
+					"less",
+					"svelte",
+				},
+			},
+			pylsp = {
+				settings = {
+					pylsp = {
+						plugins = {
+							pycodestyle = {
+								enabled = false,
+								maxLineLength = 100,
+							},
+							pyflakes = { enabled = false },
+							autopep8 = { enabled = false },
+							yapf = { enabled = false },
+							mccabe = { enabled = false },
+							pylsp_mypy = { enabled = true },
+							pylsp_black = { enabled = false },
+							pylsp_isort = { enabled = false },
+							rope = { enabled = true },
+							rope_autoimport = { enabled = true },
+						},
+					},
+				},
+			},
+		}
+		-- Setup each language server
+		for server_name, server_settings in pairs(servers) do
+			-- Add capabilities to all servers
+			server_settings.capabilities = capabilities
+
+			-- Setup the server with the settings
+			lspconfig[server_name].setup(server_settings)
+		end
+
 		vim.api.nvim_create_autocmd("LspAttach", {
 			group = vim.api.nvim_create_augroup("lsp_attach_disable_ruff_hover", { clear = true }),
 			callback = function(args)
@@ -154,28 +161,6 @@ return {
 			end,
 			desc = "LSP: Disable hover capability from Ruff",
 		})
-		-- require("lspconfig").pyright.setup({
-		--   settings = {
-		--     pyright = {
-		--       -- Using Ruff's import organizer
-		--       disableOrganizeImports = true,
-		--     },
-		--     python = {
-		--       analysis = {
-		--         typeCheckingMode = "basic", -- or "strict" for stricter checks
-		--         diagnosticMode = "workspace", -- or "openFilesOnly"
-		--         useLibraryCodeForTypes = true,
-		--         autoSearchPaths = true,
-		--         -- Add mypy-specific settings here
-		--         mypy = {
-		--           enabled = true,
-		--           -- args = { "--ignore-missing-imports", "--follow-imports=silent", "--show-column-numbers" },
-		--           args = { "--show-column-numbers" },
-		--         },
-		--       },
-		--     },
-		--   },
-		-- })
 		require("lspconfig").pylsp.setup({
 			settings = {
 				pylsp = {
@@ -238,3 +223,4 @@ return {
 		-- })
 	end,
 }
+
