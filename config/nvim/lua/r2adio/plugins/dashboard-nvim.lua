@@ -29,6 +29,24 @@ return {
 					" ╚═╝  ╚═══╝ ╚══════╝  ╚═════╝    ╚═══╝   ╚═╝ ╚═╝     ╚═╝ ",
 					"",
 				},
+				footer = (function()
+					local quotes = {
+						"🚀 Sharp tools make good work.",
+						"Will code for snacks 🥪",
+						"Crafted with care, edited in Neovim.",
+						"Hack. Break. Fix. Repeat.",
+						"To err is human. To blame it on Vim is tradition.",
+						"There is no cloud. Just someone else's computer.",
+						"Works on my machine™",
+						"0% done, 100% committed.",
+						"Neovim: where escape is harder than real life.",
+						"My code works… I have no idea why.",
+						"printf(\"hello, chaos\")",
+					}
+					math.randomseed(os.time())
+					local pick = quotes[math.random(#quotes)]
+					return { "", pick }
+				end)(),
 				shortcut = {
 					{
 						icon = " ",
@@ -57,3 +75,4 @@ return {
 		{ "nvim-tree/nvim-web-devicons" },
 	},
 }
+
