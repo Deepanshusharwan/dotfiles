@@ -39,7 +39,7 @@ return {
 				"ts_ls",
 				-- "hyprls",
 			},
-						automatic_enable = true,
+			automatic_setup = true,
 		})
 
 		mason_tool_installer.setup({
