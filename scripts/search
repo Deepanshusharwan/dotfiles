@@ -8,11 +8,10 @@
 # fs for focused search  on only the below mentioned sites
 #
 # focused search parameters are mentioned below
-# site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org"
+# site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com"
 #
 # use '-h' for getting a guide on how to use this script
 #
-# generally it is better to have a chromium window open when you use this script so closing the terminal won't close your chromium window
 
 echo "Welcome to the Search script."
 echo ""
@@ -45,7 +44,7 @@ if [ $# -eq 0 ]; then
       arg3="https://www.google.com/search?q="
 
   elif [[ "$choice" == "fs" ]]; then
-      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org"
+      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com"
       arg3="https://www.google.com/search?q="
 
   elif [[ "$choice" == "" ]]; then
@@ -71,7 +70,7 @@ if [ $# -eq 0 ]; then
   search="$search "
   search="${search// /+}" #replaces all the whitespaces with '+'
   arg4="${arg4// /+}"
-  chromium "$arg1" "$arg2" "$arg3""$search""$arg4"
+  chromium "$arg1" "$arg2" "$arg3""$search""$arg4" &
   echo "Searching for '$arg3$search$arg4'"
  
 
@@ -91,7 +90,7 @@ else
       arg3="https://www.google.com/search?q="
 
     elif [[ "$arg" == "fs" ]]; then
-      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org"
+      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com"
       arg3="https://www.google.com/search?q="
 
     elif [[ "$arg" == "-h" ]]; then
@@ -119,7 +118,7 @@ else
   done 
   search="${search// /+}"
   arg4="${arg4// /+}"
-  chromium "$arg1" "$arg2" "$arg3""$search""$arg4"
+  chromium "$arg1" "$arg2" "$arg3""$search""$arg4"  &
   echo "Searching for '$arg3$search$arg4'"
 fi
 
