@@ -39,9 +39,10 @@ return {
 						"There is no cloud. Just someone else's computer.",
 						"Works on my machine™",
 						"0% done, 100% committed.",
+						"If I could, I would -- but I can't, so I shan't.",
 						"Neovim: where escape is harder than real life.",
 						"My code works… I have no idea why.",
-						"printf(\"hello, chaos\")",
+						'printf("hello, chaos")',
 					}
 					math.randomseed(os.time())
 					local pick = quotes[math.random(#quotes)]
@@ -75,4 +76,3 @@ return {
 		{ "nvim-tree/nvim-web-devicons" },
 	},
 }
-
