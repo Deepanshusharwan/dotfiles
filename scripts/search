@@ -8,7 +8,7 @@
 # fs for focused search  on only the below mentioned sites
 #
 # focused search parameters are mentioned below
-# site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com"
+# site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com OR pythonguis.com"
 #
 # use '-h' for getting a guide on how to use this script
 #
@@ -44,7 +44,7 @@ if [ $# -eq 0 ]; then
       arg3="https://www.google.com/search?q="
 
   elif [[ "$choice" == "fs" ]]; then
-      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com"
+      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com OR pythonguis.com"
       arg3="https://www.google.com/search?q="
 
   elif [[ "$choice" == "" ]]; then
@@ -90,7 +90,7 @@ else
       arg3="https://www.google.com/search?q="
 
     elif [[ "$arg" == "fs" ]]; then
-      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com"
+      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com OR pythonguis.com"
       arg3="https://www.google.com/search?q="
 
     elif [[ "$arg" == "-h" ]]; then
