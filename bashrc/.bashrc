@@ -7,7 +7,9 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
+alias s='source .venv/bin/activate'
 alias code='code --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland'
+
 PS1='[\u@\h \W]\$ '
 
 eval "$(starship init bash)"
