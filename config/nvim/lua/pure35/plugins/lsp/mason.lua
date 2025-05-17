@@ -39,15 +39,14 @@ return {
 				"ts_ls",
 				-- "hyprls",
 			},
-			automatic_installation = true,
+			automatic_setup = true,
 		})
 
 		mason_tool_installer.setup({
 			ensure_installed = {
 				"prettier", -- prettier formatter
 				"stylua", -- lua formatter
-				"isort", -- python formatter
-				"black", -- python formatter
+				"black",
 				"pylint",
 				"eslint_d",
 			},

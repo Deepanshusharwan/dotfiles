@@ -15,7 +15,7 @@ local options = {
 	hlsearch = true, -- highlight all matches on previous search pattern
 	incsearch = true, -- show search results as you type
 	ignorecase = true, -- ignore case in search patterns
-	mouse = "", -- allow the mouse to be used in neovim
+	mouse = "a", -- allow the mouse to be used in neovim
 	pumheight = 10, -- pop up menu height
 	showmode = false, -- we don't need to see things like -- INSERT -- anymore
 	showtabline = 0, -- always show tabs
@@ -37,7 +37,7 @@ local options = {
 	numberwidth = 2, -- set number column width to 2 {default 4}
 	signcolumn = "yes", -- always show the sign column, otherwise it would shift the text each time
 	wrap = true, -- display lines as one long line
-	linebreak = true, --wraps lines at word boundaries
+	linebreak = false, --wraps lines at word boundaries
 	scrolloff = 8, -- will always keep 8 lines of context
 	sidescrolloff = 8,
 	-- guifont = "JetBrainsMono Nerd Font:h17", -- the font used in graphical neovim applications
@@ -57,8 +57,7 @@ vim.cmd([[set iskeyword+=-]]) -- treat hyphens as part of a word
 vim.api.nvim_create_autocmd({ "BufNewFile", "BufRead" }, {
 	pattern = "*.py",
 	callback = function()
-		vim.opt.textwidth = 79
-		vim.opt.colorcolumn = "79"
+		vim.opt.colorcolumn = "89"
 	end,
 }) -- python formatting
 

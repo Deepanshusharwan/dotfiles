@@ -1,2 +1,2 @@
-require("r2adio.core")
-require("r2adio.lazy")
+require("pure35.core")
+require("pure35.lazy")
