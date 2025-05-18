@@ -8,7 +8,7 @@
 # fs for focused search  on only the below mentioned sites
 #
 # focused search parameters are mentioned below
-# site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com OR pythonguis.com"
+# site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com "
 #
 # use '-h' for getting a guide on how to use this script
 #
@@ -44,7 +44,7 @@ if [ $# -eq 0 ]; then
       arg3="https://www.google.com/search?q="
 
   elif [[ "$choice" == "fs" ]]; then
-      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com OR pythonguis.com"
+      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com "
       arg3="https://www.google.com/search?q="
 
   elif [[ "$choice" == "" ]]; then
@@ -74,6 +74,38 @@ if [ $# -eq 0 ]; then
   echo "Searching for '$arg3$search$arg4'"
  
 
+
+elif [[ "$1" == "in" ]] || [[ "$1" == "ni" ]]; then
+  arg2="--new-window"
+  arg1="--incognito"
+
+  shift
+  
+  for arg in "$@"
+  do 
+    if [[ "$arg" == "fs" ]]; then
+      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com "
+      arg3="https://www.google.com/search?q="
+ 
+    elif [[ "$arg" == "y" ]]; then
+      arg3="https://www.youtube.com/results?search_query="
+
+    elif [[ "$arg" == "g" ]]; then
+      arg3="https://www.google.com/search?q="
+
+    else
+      search+="$arg "
+    fi 
+  done
+    
+  search="$search "
+  search="${search// /+}" #replaces all the whitespaces with '+'
+  arg4="${arg4// /+}"
+  chromium "$arg1" "$arg2" "$arg3""$search""$arg4" &
+  echo "Searching for '$arg3$search$arg4'"
+
+
+
 else
   for arg in "$@"
   do 
@@ -90,7 +122,7 @@ else
       arg3="https://www.google.com/search?q="
 
     elif [[ "$arg" == "fs" ]]; then
-      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com OR pythonguis.com"
+      arg4="site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com "
       arg3="https://www.google.com/search?q="
 
     elif [[ "$arg" == "-h" ]]; then
@@ -116,6 +148,7 @@ else
       search+="$arg "
     fi 
   done 
+
   search="${search// /+}"
   arg4="${arg4// /+}"
   chromium "$arg1" "$arg2" "$arg3""$search""$arg4"  &
