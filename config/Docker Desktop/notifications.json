@@ -1,0 +1,56 @@
+{
+	"notifications": [
+		{
+			"guid": "fdb2b891-4c5e-4f5d-ac3b-9015c570f25e",
+			"timestamp": 1748020116357,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "You must initialize pass before logging in to Docker Desktop",
+				"icon": "error",
+				"type": "action-result",
+				"operation": "user-log-in",
+				"title": "Unable to log in",
+				"actionText": "Learn how",
+				"action": {
+					"action": "open-credential-store-instructions",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "8c0fe3d0-df15-4d31-b806-55ac939bab0e",
+			"timestamp": 1748020252816,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"ephemeral": false,
+				"icon": "download",
+				"message": "Some components are ready to update. You can update without restarting Docker Desktop.",
+				"actionText": "Update components",
+				"action": {
+					"action": "update-module-available"
+				},
+				"type": "update"
+			}
+		},
+		{
+			"guid": "5d65993a-93bd-4c52-9a27-9daa1157946b",
+			"timestamp": 1748020259677,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "How was your startup experience with Docker Desktop?",
+				"icon": "campaign",
+				"type": "feedback",
+				"actionText": "Give feedback",
+				"action": {
+					"action": "open-external-url",
+					"params": {
+						"url": "https://docker.qualtrics.com/jfe/form/SV_6AaVyp25bygjirY?DD_Version=4.41.2&Tab=Startup%2BComplete&OS=Linux"
+					}
+				}
+			}
+		}
+	]
+}
