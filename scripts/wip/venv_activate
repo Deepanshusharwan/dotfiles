@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+# this script was abandoned cause an alternative was found by using the .bashrc and aliasing a bunch of commands and 's' and achieving the same result as what was intended for this script
+# check the .bashrc for the alias 's'
 
 #!/usr/bin/bash
 
