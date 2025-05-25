@@ -17,7 +17,7 @@ if [ $# -eq 0 ]; then
     exit 1
 
   fi 
-  $SHELL
+  exec "$SHELL"
 
 else
   cd ~/github_repos || { echo "Directory 'github_repos' not found"; exit 1; }
@@ -35,6 +35,6 @@ else
     exit 1
   fi 
 
-  $SHELL
+  exec "$SHELL"
 
 fi

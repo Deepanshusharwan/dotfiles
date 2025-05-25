@@ -9,6 +9,7 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias s='source .venv/bin/activate && echo "Venv activated: $(pip -V)"'
 alias code='code --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland'
+# alias learning='cd ~/github_repos/my_repositories/learning'
 
 PS1='[\u@\h \W]\$ '
 
