@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+  cd "$HOME/github_repos/my_repositories/learning/" || { echo "Directory 'learning' not found"; exit 1; }
+
+  if [ $# -eq 0 ]; then
+    echo "Switched to the learning repo"
+
+  elif [ "$1" == 'w' ];then
+    cd "webscrapping" || { echo "Directory 'clones' not found"; exit 1; }
+    echo "Switched to the webscrapping directory."
+
+  else
+    echo "Invalid command. Please enter 'w' or leave it blank to enter the learning repo  "
+    exit 1
+  fi 
+
+  exec "$SHELL"
+
