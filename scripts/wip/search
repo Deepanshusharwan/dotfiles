@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+
+# this is a script to automate opening the browser and searching the results on google or youtube
+
+# use 'n' for new window and 'i' tag for the icognitor mode
+# y for youtube 
+# g for goodle 
+# fs for focused search on only the below mentioned sites
+
+#
+# focused search parameters are mentioned below
+# site:reddit.com OR site:stackoverflow.com OR site:github.com OR site:realpython.com OR site:freecodecamp.org OR site:w3schools.com OR site:stckexchange.com OR site:geeksforgeeks.org OR site:medium.com "
+
+# use -h for getting a guide on how to use this script 
+
+
+import webbrowser
+
