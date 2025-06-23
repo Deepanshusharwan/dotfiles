@@ -18,7 +18,7 @@ def print_dir(directory,prefix=''):
             connector = "├─"
         print(f"{prefix}{connector} {item}")
 
-        if os.path.isdir(path):
+        if os.path.isdir(path) and path.split('/')[-1][0] != '.':
             if index == len(items)-1:
                 new_prefix = prefix + "    "
             else:
