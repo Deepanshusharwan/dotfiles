@@ -6,8 +6,12 @@
     echo "Switched to the learning repo"
 
   elif [ "$1" == 'w' ];then
-    cd "webscrapping" || { echo "Directory 'clones' not found"; exit 1; }
+    cd "webscrapping" || { echo "Directory 'webscrapping' not found"; exit 1; }
     echo "Switched to the webscrapping directory."
+
+  elif [ "$1" == 'r' ];then
+    cd "rust" || { echo "Directory 'rust' not found"; exit 1; }
+    echo "Switched to the rust directory."
 
   else
     echo "Invalid command. Please enter 'w' or leave it blank to enter the learning repo  "
