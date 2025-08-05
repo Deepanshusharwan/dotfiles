@@ -1,0 +1,3252 @@
+[08/04/25, 15:06:50:863] info: 
+╔═════════════════════════════════════════════════════╗
+║      Slack 4.44.60, linux 6.12.41-1-lts on x64      ║
+╚═════════════════════════════════════════════════════╝ 
+[08/04/25, 15:06:50:863] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-service-worker-console",
+  "loggerInstanceCount": 2
+}
+[08/04/25, 15:06:50:864] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Asia/Calcutta",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.44.60",
+  "PACKAGE_MANIFEST.commit": "cf47348",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/04/25, 15:07:09:162] info: Boots up new service worker version 
+{
+  "scriptUrl": "https://app.slack.com/service-worker.js",
+  "scope": "https://app.slack.com/",
+  "renderProcessId": 4,
+  "versionId": 0
+}
+[08/04/25, 15:07:09:162] info: Aug-04 15:07:09.161 [SERVICE-WORKER] install event [object ServiceWorkerGlobalScope] 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:163] info: Aug-04 15:07:09.161 [SERVICE-WORKER] SimpleMetrics starting interval 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:165] info: Aug-04 15:07:09.164 [SERVICE-WORKER] activate event [object ExtendableEvent] 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:173] info: Aug-04 15:07:09.172 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-sqlite.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:173] info: Aug-04 15:07:09.173 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/4b1a95ab2162ed5b2fa5.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:174] info: Aug-04 15:07:09.173 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-background.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:175] info: Aug-04 15:07:09.173 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vision_wasm_internal.35ba662ce8e8ee117874.bin.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:181] info: Aug-04 15:07:09.180 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-sqlite.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:188] info: Aug-04 15:07:09.187 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/4b1a95ab2162ed5b2fa5.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:189] info: Aug-04 15:07:09.189 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-background.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:190] info: Aug-04 15:07:09.190 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vision_wasm_internal.35ba662ce8e8ee117874.bin.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:194] info: Aug-04 15:07:09.193 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vision_wasm_nosimd_internal.969b7932a1c7aa014728.bin.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:199] info: Aug-04 15:07:09.198 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/tasks-vision-wasm.d9d63af79056ca306ec4.min.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:204] info: Aug-04 15:07:09.204 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vision_wasm_nosimd_internal.969b7932a1c7aa014728.bin.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:206] info: Aug-04 15:07:09.206 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-effect-renderer.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:207] info: Aug-04 15:07:09.206 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/selfie_segmentation_solution_simd_wasm_bin.643f9ad6ee18d7872f3a.bin.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:214] info: Aug-04 15:07:09.214 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/tasks-vision-wasm.d9d63af79056ca306ec4.min.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:215] info: Aug-04 15:07:09.215 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-effect-renderer.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:216] info: Aug-04 15:07:09.215 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/selfie_segmentation_solution_wasm_bin.544e7fa7a82368e78f3d.bin.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:217] info: Aug-04 15:07:09.217 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/selfie_segmentation_solution_simd_wasm_bin.643f9ad6ee18d7872f3a.bin.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:218] info: Aug-04 15:07:09.217 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-eval-test.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:220] info: Aug-04 15:07:09.220 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/model32-8b16c63.tfjson 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:227] info: Aug-04 15:07:09.226 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/selfie_segmentation_solution_wasm_bin.544e7fa7a82368e78f3d.bin.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:227] info: Aug-04 15:07:09.227 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-eval-test.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:230] info: Aug-04 15:07:09.229 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-stream-renderer.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:230] info: Aug-04 15:07:09.230 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/lato-light-0b50f74.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:233] info: Aug-04 15:07:09.233 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/model32-8b16c63.tfjson 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:236] info: Aug-04 15:07:09.235 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/lato-regular-d9ce515.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:238] info: Aug-04 15:07:09.238 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/lato-regular-d9ce515.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:241] info: Aug-04 15:07:09.240 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/lato-light-0b50f74.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:243] info: Aug-04 15:07:09.242 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/lato-bold-4b1dc11.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:243] info: Aug-04 15:07:09.243 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/lato-black-b64f5e4.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:246] info: Aug-04 15:07:09.245 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/lato-bold-4b1dc11.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:247] info: Aug-04 15:07:09.246 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-stream-renderer.worker.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:248] info: Aug-04 15:07:09.247 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/lato-black-b64f5e4.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:251] info: Aug-04 15:07:09.251 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/lato-italic-light-c593311.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:252] info: Aug-04 15:07:09.251 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/lato-italic-5bbcd6c.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:256] info: Aug-04 15:07:09.255 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/lato-italic-5bbcd6c.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:259] info: Aug-04 15:07:09.258 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/lato-italic-bold-99def7d.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:272] info: Aug-04 15:07:09.272 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/lato-italic-black-04aca50.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:281] info: Aug-04 15:07:09.280 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/lato-italic-light-c593311.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:285] info: Aug-04 15:07:09.285 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/lato-latin-latin-ext-7e33836.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:290] info: Aug-04 15:07:09.289 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/lato-italic-bold-99def7d.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:309] info: Aug-04 15:07:09.308 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/Slack-Fractions-131f29b.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:315] info: Aug-04 15:07:09.315 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/lato-italic-black-04aca50.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:321] info: Aug-04 15:07:09.320 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/RobotoMono-Regular-1756e80.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:337] info: Aug-04 15:07:09.336 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/lato-latin-latin-ext-7e33836.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:338] info: Aug-04 15:07:09.338 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/RobotoMono-Italic-da27853.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:339] info: Aug-04 15:07:09.339 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/Slack-Fractions-131f29b.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:340] info: Aug-04 15:07:09.340 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/RobotoMono-Regular-1756e80.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:346] info: Aug-04 15:07:09.345 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/slack-icons-v2-fe043a5.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:349] info: Aug-04 15:07:09.349 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/RobotoMono-Italic-da27853.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:350] info: Aug-04 15:07:09.350 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/slack-icons-v2-fe043a5.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:353] info: Aug-04 15:07:09.353 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/slack-kit-gantry-v2-styles.c29e6ec6f5a3e1e27147.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:354] info: Aug-04 15:07:09.353 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/slack-kit-gantry-v2-styles.8a8487bbf0a74a056b5d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:354] info: Aug-04 15:07:09.353 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/helper-gantry-v2-styles.db00e59362ac9e601969.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:361] info: Aug-04 15:07:09.361 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/slack-kit-gantry-v2-styles.c29e6ec6f5a3e1e27147.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:362] info: Aug-04 15:07:09.362 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/helper-gantry-v2-styles.1be52092cd9797cf0dbd.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:363] info: Aug-04 15:07:09.363 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/helper-gantry-v2-styles.db00e59362ac9e601969.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:365] info: Aug-04 15:07:09.365 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-data.59be5d03ba274ad6a3ee.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:366] info: Aug-04 15:07:09.365 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-boot-fallback-view.2de87de2e388e2a95433.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:372] info: Aug-04 15:07:09.372 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/slack-kit-gantry-v2-styles.8a8487bbf0a74a056b5d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:373] info: Aug-04 15:07:09.373 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/helper-gantry-v2-styles.1be52092cd9797cf0dbd.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:374] info: Aug-04 15:07:09.374 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-data.59be5d03ba274ad6a3ee.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:377] info: Aug-04 15:07:09.377 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-boot-fallback-view.2de87de2e388e2a95433.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:382] info: Aug-04 15:07:09.381 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-lottie-web.0f06dff89dd06c615c1e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:399] info: Aug-04 15:07:09.399 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-codemirror-snippet-editor.496cae35a99c90c67ce0.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:402] info: Aug-04 15:07:09.401 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-add-to-todos-button-nux.990ee48cd131f2e1142a.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:405] info: Aug-04 15:07:09.404 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-lottie-web.0f06dff89dd06c615c1e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:418] info: Aug-04 15:07:09.417 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-codemirror-snippet-editor.496cae35a99c90c67ce0.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:421] info: Aug-04 15:07:09.420 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-add-to-list-button-nux.990ee48cd131f2e1142a.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:421] info: Aug-04 15:07:09.421 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-modal-message-stats.346a2152b26d2ff490c8.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:427] info: Aug-04 15:07:09.426 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-add-to-todos-button-nux.990ee48cd131f2e1142a.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:431] info: Aug-04 15:07:09.430 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-add-to-list-button-nux.990ee48cd131f2e1142a.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:432] info: Aug-04 15:07:09.431 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-modal-message-stats.346a2152b26d2ff490c8.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:448] info: Aug-04 15:07:09.448 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-ai-workspace-list-banner.ccebd842480bb6e5a4f7.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:448] info: Aug-04 15:07:09.448 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-creator-guided-setup-list-banner.ed47b78f6dd9521a3253.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:449] info: Aug-04 15:07:09.448 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-ai-workspace-canvas-banner.ccebd842480bb6e5a4f7.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:449] info: Aug-04 15:07:09.448 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-all-company-name-templates-canvas-banner.272acdb6c4f4c047c7db.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:462] info: Aug-04 15:07:09.461 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-ai-workspace-list-banner.ccebd842480bb6e5a4f7.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:462] info: Aug-04 15:07:09.462 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-creator-guided-setup-list-banner.ed47b78f6dd9521a3253.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:464] info: Aug-04 15:07:09.463 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-all-company-name-templates-canvas-banner.272acdb6c4f4c047c7db.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:465] info: Aug-04 15:07:09.464 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-ai-workspace-canvas-banner.ccebd842480bb6e5a4f7.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:468] info: Aug-04 15:07:09.468 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-creator-guided-setup-canvas-banner.ed47b78f6dd9521a3253.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:471] info: Aug-04 15:07:09.471 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-day-picker-nux-banner.8fd4d0ada8d338405fd9.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:473] info: Aug-04 15:07:09.473 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-details.d2e86f800af6d49a92ef.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:474] info: Aug-04 15:07:09.473 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-work-object.63f1f26990f0b5a4d031.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:480] info: Aug-04 15:07:09.480 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-creator-guided-setup-canvas-banner.ed47b78f6dd9521a3253.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:481] info: Aug-04 15:07:09.481 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-day-picker-nux-banner.8fd4d0ada8d338405fd9.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:482] info: Aug-04 15:07:09.482 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-work-object.63f1f26990f0b5a4d031.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:484] info: Aug-04 15:07:09.483 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-details.d2e86f800af6d49a92ef.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:486] info: Aug-04 15:07:09.486 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-tableau-details.b23ebbb58bdcc1e44bc9.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:486] info: Aug-04 15:07:09.486 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-thread.3e658202ee95eab5f04c.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:486] info: Aug-04 15:07:09.486 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-history.005ab7669b094a254b29.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:491] info: Aug-04 15:07:09.491 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-details.02298f30ab0636d2be0b.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:494] info: Aug-04 15:07:09.494 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-tableau-details.b23ebbb58bdcc1e44bc9.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:495] info: Aug-04 15:07:09.495 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-thread.3e658202ee95eab5f04c.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:496] info: Aug-04 15:07:09.496 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-history.005ab7669b094a254b29.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:498] info: Aug-04 15:07:09.498 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/meeting-details-view.781c7eec4638efa71bd4.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:499] info: Aug-04 15:07:09.498 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/conversation-create-page.709c916cc9817862c300.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:499] info: Aug-04 15:07:09.499 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-history.e56b057a275b70fb8697.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:505] info: Aug-04 15:07:09.505 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-details.02298f30ab0636d2be0b.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:507] info: Aug-04 15:07:09.506 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/meeting-details-view.781c7eec4638efa71bd4.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:509] info: Aug-04 15:07:09.509 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/app-details.b2c5f1237dbff1c35d92.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:509] info: Aug-04 15:07:09.509 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/layout-debug-overlay.7820b65e5f3f6fb892f5.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:515] info: Aug-04 15:07:09.515 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/conversation-create-page.709c916cc9817862c300.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:516] info: Aug-04 15:07:09.516 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-history.e56b057a275b70fb8697.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:517] info: Aug-04 15:07:09.517 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/app-details.b2c5f1237dbff1c35d92.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:520] info: Aug-04 15:07:09.520 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/action-items-view.abd21ba3298c9d852e1f.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:521] info: Aug-04 15:07:09.520 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/about-workspace-view.c05438c63ae0aa4edf79.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:521] info: Aug-04 15:07:09.520 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/post-event-view.dc3ca155a66c8f10377d.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:526] info: Aug-04 15:07:09.526 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/layout-debug-overlay.7820b65e5f3f6fb892f5.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:528] info: Aug-04 15:07:09.528 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/action-items-view.abd21ba3298c9d852e1f.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:529] info: Aug-04 15:07:09.528 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/paid-benefits-view.8af9675c02529683b5fd.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:529] info: Aug-04 15:07:09.529 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/about-workspace-view.c05438c63ae0aa4edf79.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:531] info: Aug-04 15:07:09.531 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/post-event-view.dc3ca155a66c8f10377d.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:532] info: Aug-04 15:07:09.532 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/conversational-search-view.612f57cc8e1967eddd8b.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:533] info: Aug-04 15:07:09.532 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/about-usergroup-view.94f91e2764de01373cd5.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:533] info: Aug-04 15:07:09.532 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/sentos-search-agent-view.944a6024ede5c99ddfab.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:539] info: Aug-04 15:07:09.538 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/paid-benefits-view.8af9675c02529683b5fd.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:540] info: Aug-04 15:07:09.540 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/conversational-search-view.612f57cc8e1967eddd8b.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:542] info: Aug-04 15:07:09.541 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/about-usergroup-view.94f91e2764de01373cd5.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:543] info: Aug-04 15:07:09.542 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/external-workspace-allowed-org-pane-view.bb98c075229be5c6d0cc.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:543] info: Aug-04 15:07:09.542 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/sentos-search-agent-view.944a6024ede5c99ddfab.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:545] info: Aug-04 15:07:09.545 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/workflow-details.7d0a2bb5360d5723a219.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:546] info: Aug-04 15:07:09.545 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/ai-explain-view.a8277ccfde026f912f86.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:546] info: Aug-04 15:07:09.545 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/record-related-conversations-list-all-view.f18eaa2c53ab74fdb688.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:554] info: Aug-04 15:07:09.554 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/external-workspace-allowed-org-pane-view.bb98c075229be5c6d0cc.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:555] info: Aug-04 15:07:09.554 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/workflow-details.7d0a2bb5360d5723a219.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:556] info: Aug-04 15:07:09.555 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/ai-explain-view.a8277ccfde026f912f86.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:559] info: Aug-04 15:07:09.558 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/more-todos-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:559] info: Aug-04 15:07:09.558 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/external-workspace-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:560] info: Aug-04 15:07:09.559 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/more-files-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:564] info: Aug-04 15:07:09.564 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/record-related-conversations-list-all-view.f18eaa2c53ab74fdb688.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:567] info: Aug-04 15:07:09.566 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/more-lists-sidebar-view.cc3eeb7303a6334be4e4.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:567] info: Aug-04 15:07:09.566 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/more-todos-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:569] info: Aug-04 15:07:09.568 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/more-files-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:570] info: Aug-04 15:07:09.570 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/external-workspace-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:572] info: Aug-04 15:07:09.572 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/unified-files-sidebar-view.8aa8a1cfce43e4b24cd5.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:573] info: Aug-04 15:07:09.572 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/more-people-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:575] info: Aug-04 15:07:09.575 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/more-lists-sidebar-view.cc3eeb7303a6334be4e4.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:576] info: Aug-04 15:07:09.576 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/more-platform-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:580] info: Aug-04 15:07:09.580 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/more-people-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:581] info: Aug-04 15:07:09.581 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/unified-files-sidebar-view.8aa8a1cfce43e4b24cd5.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:582] info: Aug-04 15:07:09.581 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/sales-sidebar-view.304166eb4a20ac91218a.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:583] info: Aug-04 15:07:09.582 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/external-connections-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:583] info: Aug-04 15:07:09.583 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/more-platform-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:590] info: Aug-04 15:07:09.590 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/external-connections-sidebar-view.d32dc4d2a5986db44317.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:591] info: Aug-04 15:07:09.591 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/sales-sidebar-view.304166eb4a20ac91218a.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:594] info: Aug-04 15:07:09.593 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/jo-JBUhg-UzonGSc5jgwqA-module-loader 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:595] info: Aug-04 15:07:09.594 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-edit-workflow.abd8d97400702b41bfa2.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:595] info: Aug-04 15:07:09.594 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-edit-hermes-workflow.604b49e57f2264be7843.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:595] info: Aug-04 15:07:09.594 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-templates.eb0a77c8834fadbca49f.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:597] info: Aug-04 15:07:09.596 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-workflow-version.714cad7b2657cd446a82.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:604] info: Aug-04 15:07:09.603 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-edit-workflow.abd8d97400702b41bfa2.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:605] info: Aug-04 15:07:09.604 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-edit-hermes-workflow.604b49e57f2264be7843.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:606] info: Aug-04 15:07:09.606 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/jo-JBUhg-UzonGSc5jgwqA-module-loader 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:606] info: Aug-04 15:07:09.606 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-templates.eb0a77c8834fadbca49f.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:607] info: Aug-04 15:07:09.607 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-workflow-version.714cad7b2657cd446a82.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:610] info: Aug-04 15:07:09.609 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-workflow-deleted.6e6768a91bda5e719d1f.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:610] info: Aug-04 15:07:09.610 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-integrations.1349208f880e235d2c0a.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:611] info: Aug-04 15:07:09.610 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-not-supported.b2890569e1733ebf2b21.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:611] info: Aug-04 15:07:09.611 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-url-error.4631efe86ec237bad716.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:629] info: Aug-04 15:07:09.628 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-integrations.1349208f880e235d2c0a.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:630] info: Aug-04 15:07:09.629 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-workflow-deleted.6e6768a91bda5e719d1f.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:631] info: Aug-04 15:07:09.631 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-url-error.4631efe86ec237bad716.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:632] info: Aug-04 15:07:09.631 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-not-supported.b2890569e1733ebf2b21.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:636] info: Aug-04 15:07:09.635 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-template-selection-workflow.d5a71c7e41e813123f88.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:636] info: Aug-04 15:07:09.635 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-template-edit.78bc93f20f73ebe64980.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:637] info: Aug-04 15:07:09.636 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-dialog.1ed5dfc3dd562b778d7e.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:637] info: Aug-04 15:07:09.636 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-message.9a1e7ca3458c909adccc.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:642] info: Aug-04 15:07:09.641 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/zBMpZ_k03_xsjwpEywoNuA 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:645] info: Aug-04 15:07:09.645 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-template-selection-workflow.d5a71c7e41e813123f88.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:647] info: Aug-04 15:07:09.646 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-template-edit.78bc93f20f73ebe64980.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:648] info: Aug-04 15:07:09.647 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-dialog.1ed5dfc3dd562b778d7e.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:649] info: Aug-04 15:07:09.648 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-message.9a1e7ca3458c909adccc.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:649] info: Aug-04 15:07:09.649 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slack-function-form.332ef5096b52064d71f4.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:652] info: Aug-04 15:07:09.651 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-switch.376d983468a90bd7889d.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:652] info: Aug-04 15:07:09.652 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-channel_action.fabbec4f1ff1501130d8.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:653] info: Aug-04 15:07:09.652 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-third-party-event.bc0907a62c9caea686a4.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:664] info: Aug-04 15:07:09.664 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slack-function-form.332ef5096b52064d71f4.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:667] info: Aug-04 15:07:09.666 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-hermes-scheduled.2c108db6d351d6ee3bcc.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:669] info: Aug-04 15:07:09.669 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-switch.376d983468a90bd7889d.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:672] info: Aug-04 15:07:09.671 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-channel_action.fabbec4f1ff1501130d8.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:673] info: Aug-04 15:07:09.672 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-hermes-webhook.0b244375487081d6f067.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:673] info: Aug-04 15:07:09.672 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-third-party-event.bc0907a62c9caea686a4.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:676] info: Aug-04 15:07:09.675 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-reaction_added.868c48acc3de7927955a.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:676] info: Aug-04 15:07:09.676 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-scheduled.373af2605138e63bc45e.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:692] info: Aug-04 15:07:09.692 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-hermes-scheduled.2c108db6d351d6ee3bcc.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:694] info: Aug-04 15:07:09.692 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-hermes-webhook.0b244375487081d6f067.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:694] info: Aug-04 15:07:09.694 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-scheduled.373af2605138e63bc45e.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:695] info: Aug-04 15:07:09.694 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-reaction_added.868c48acc3de7927955a.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:698] info: Aug-04 15:07:09.698 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-shortcut.9f1e23d44c90379125e5.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:699] info: Aug-04 15:07:09.698 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slack-event.64cef4dd355082f79c86.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:700] info: Aug-04 15:07:09.698 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slash_command.501b9743407e1a0ca46d.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:700] info: Aug-04 15:07:09.699 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-webhook.54509f8a43a7d94b5484.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:713] info: Aug-04 15:07:09.713 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-shortcut.9f1e23d44c90379125e5.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:714] info: Aug-04 15:07:09.713 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slash_command.501b9743407e1a0ca46d.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:715] info: Aug-04 15:07:09.714 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-webhook.54509f8a43a7d94b5484.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:716] info: Aug-04 15:07:09.716 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-extension-step-modal-content.a21e764125196f7e9dc6.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:723] info: Aug-04 15:07:09.723 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slack-event.64cef4dd355082f79c86.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:727] info: Aug-04 15:07:09.726 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/client-boot-styles.6df4310ddd966d8391ba.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:727] info: Aug-04 15:07:09.727 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/workflow-builder-boot-styles.ff02993f74ff4a1ebe58.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:728] info: Aug-04 15:07:09.727 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/client-boot.fd888d208a5336ed1d1c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:733] info: Aug-04 15:07:09.733 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-extension-step-modal-content.a21e764125196f7e9dc6.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:735] info: Aug-04 15:07:09.735 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/client-boot-styles.6df4310ddd966d8391ba.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:736] info: Aug-04 15:07:09.736 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/workflow-builder-boot.c7756c8b2389980375bf.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:740] info: Aug-04 15:07:09.739 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/workflow-builder-boot-styles.ff02993f74ff4a1ebe58.min.css 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:741] info: Aug-04 15:07:09.740 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/client-boot.fd888d208a5336ed1d1c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:757] info: Aug-04 15:07:09.756 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/workflow-builder-boot.c7756c8b2389980375bf.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:761] info: Aug-04 15:07:09.760 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-manifest.4b6b3ae23f62529edc65.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:798] info: Aug-04 15:07:09.797 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-manifest.4b6b3ae23f62529edc65.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:808] info: Aug-04 15:07:09.807 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-apis.0bc53c49f708988a8e91.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:820] info: Aug-04 15:07:09.819 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/zBMpZ_k03_xsjwpEywoNuA 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:850] info: Aug-04 15:07:09.848 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-apis.0bc53c49f708988a8e91.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:853] info: Aug-04 15:07:09.852 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-data.8603b0dd3a5e15a07618.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:875] info: Aug-04 15:07:09.874 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-render.2b23c2c04bbb73aa89f6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:894] info: Aug-04 15:07:09.893 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/g-4rYQE3t9hPpv98Zn2EAQ-ancillary 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:896] info: Aug-04 15:07:09.895 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-data.8603b0dd3a5e15a07618.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:898] info: Aug-04 15:07:09.898 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-shared.f6ae1c4f7699e7e48946.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:919] info: Aug-04 15:07:09.918 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-render.2b23c2c04bbb73aa89f6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:930] info: Aug-04 15:07:09.930 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-shared.f6ae1c4f7699e7e48946.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:932] info: Aug-04 15:07:09.932 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-deferred.c40503b7e91e2daf78b3.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:933] info: Aug-04 15:07:09.932 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-boot-fallback-view.25940f0b530d5090b823.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:934] info: Aug-04 15:07:09.933 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-error-stack-trace.9f15f43af86602e50c22.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:934] info: Aug-04 15:07:09.933 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/trial-celebration-confetti.json.4b7f6ae4e5aebbd4c72d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:948] info: Aug-04 15:07:09.948 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-default-boot-deferred.c40503b7e91e2daf78b3.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:949] info: Aug-04 15:07:09.948 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-boot-fallback-view.25940f0b530d5090b823.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:950] info: Aug-04 15:07:09.950 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/trial-celebration-confetti.json.4b7f6ae4e5aebbd4c72d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:951] info: Aug-04 15:07:09.950 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-error-stack-trace.9f15f43af86602e50c22.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:955] info: Aug-04 15:07:09.954 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-explore-paid-feature-critical-apps-img-en-US.1c2dde65393db596e85e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:955] info: Aug-04 15:07:09.955 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-explore-paid-feature-full-context-img-en-US.c65003851b70f6c46211.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:956] info: Aug-04 15:07:09.955 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-explore-paid-feature-page-hero-en-US.7be0341105cca046674b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:956] info: Aug-04 15:07:09.955 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-explore-paid-feature-slack-ai-img-en-US.27431533b8ee9e52b017.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:969] info: Aug-04 15:07:09.969 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-explore-paid-feature-critical-apps-img-en-US.1c2dde65393db596e85e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:970] info: Aug-04 15:07:09.970 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-explore-paid-feature-full-context-img-en-US.c65003851b70f6c46211.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:971] info: Aug-04 15:07:09.971 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-explore-paid-feature-page-hero-en-US.7be0341105cca046674b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:973] info: Aug-04 15:07:09.972 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-explore-paid-feature-slack-ai-img-en-US.27431533b8ee9e52b017.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:976] info: Aug-04 15:07:09.975 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-explore-paid-feature-ai-hero-en-US.e1fbd0165e9bc90d8014.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:983] info: Aug-04 15:07:09.982 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-explore-paid-feature-ai-hero-en-US.e1fbd0165e9bc90d8014.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:987] info: Aug-04 15:07:09.987 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/background-worker.f2cd34997bf38418a0d3.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:988] info: Aug-04 15:07:09.987 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-boot-data.018d771116139a8b64fc.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:989] info: Aug-04 15:07:09.988 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-boot-apis.ad66aa1389a88a541c43.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:989] info: Aug-04 15:07:09.988 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-boot-render.68897e408933ece26b1e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:998] info: Aug-04 15:07:09.998 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/background-worker.f2cd34997bf38418a0d3.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:09:999] info: Aug-04 15:07:09.999 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-boot-data.018d771116139a8b64fc.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:000] info: Aug-04 15:07:10.000 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-boot-apis.ad66aa1389a88a541c43.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:002] info: Aug-04 15:07:10.001 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-boot-render.68897e408933ece26b1e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:005] info: Aug-04 15:07:10.005 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-boot-deferred.6b24a88f2bbae865a873.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:006] info: Aug-04 15:07:10.005 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/sqlite-worker-dev.14a89dc30e4e33be0794.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:007] info: Aug-04 15:07:10.006 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-boot-render.bb768c70d4deaae104c2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:029] info: Aug-04 15:07:10.028 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/sqlite-worker-dev.14a89dc30e4e33be0794.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:030] info: Aug-04 15:07:10.029 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-boot-deferred.6b24a88f2bbae865a873.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:032] info: Aug-04 15:07:10.031 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-boot-render.bb768c70d4deaae104c2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:039] info: Aug-04 15:07:10.039 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-boot-data.50de95bd985dcc94fb85.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:040] info: Aug-04 15:07:10.039 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-boot-apis.96576a9abc9441379d8b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:040] info: Aug-04 15:07:10.040 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-effect-renderer.64d812b4f1b6244718a4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:043] info: Aug-04 15:07:10.043 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-stream-renderer.c6d5d284c1d8647c906f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:054] info: Aug-04 15:07:10.053 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-boot-data.50de95bd985dcc94fb85.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:055] info: Aug-04 15:07:10.054 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-boot-apis.96576a9abc9441379d8b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:057] info: Aug-04 15:07:10.057 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-hls.js.1e417a2ed3d77eaebf00.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:058] info: Aug-04 15:07:10.057 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-codemirror-lang-1.3b12468913740da96c12.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:060] info: Aug-04 15:07:10.059 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-stream-renderer.c6d5d284c1d8647c906f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:061] info: Aug-04 15:07:10.060 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-effect-renderer.64d812b4f1b6244718a4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:063] info: Aug-04 15:07:10.062 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-codemirror-lang-3.f18775cc15cfdb51c640.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:063] info: Aug-04 15:07:10.063 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-codemirror-lang-2.cf585bf1ccf108cd1332.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:068] info: Aug-04 15:07:10.068 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-codemirror-lang-1.3b12468913740da96c12.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:072] info: Aug-04 15:07:10.071 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-hls.js.1e417a2ed3d77eaebf00.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:074] info: Aug-04 15:07:10.074 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-codemirror-snippet-editor.6cb77de6d4b5a0d284e2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:076] info: Aug-04 15:07:10.076 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-codemirror-lang-3.f18775cc15cfdb51c640.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:079] info: Aug-04 15:07:10.079 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-codemirror-lang-2.cf585bf1ccf108cd1332.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:085] info: Aug-04 15:07:10.085 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-add-to-todos-button-nux.478f4da084dbbaca43b6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:090] info: Aug-04 15:07:10.089 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-codemirror-snippet-editor.6cb77de6d4b5a0d284e2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:092] info: Aug-04 15:07:10.092 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-add-to-list-button-nux.27d1405266cb3e6632aa.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:093] info: Aug-04 15:07:10.092 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-add-to-list-menu-item-nux.c2854ef9e9b497b55ff8.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:095] info: Aug-04 15:07:10.095 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-copy-agent-prompt-menu-item-nux.776a3602acfd718d063f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:100] info: Aug-04 15:07:10.100 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-add-to-todos-button-nux.478f4da084dbbaca43b6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:101] info: Aug-04 15:07:10.101 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-add-to-list-button-nux.27d1405266cb3e6632aa.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:104] info: Aug-04 15:07:10.104 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-modal-message-stats.404d4ffec036b7eac726.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:105] info: Aug-04 15:07:10.104 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-ai-workspace-list-banner.dd07bcd58d698fb3db2e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:108] info: Aug-04 15:07:10.107 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-copy-agent-prompt-menu-item-nux.776a3602acfd718d063f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:109] info: Aug-04 15:07:10.109 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-message-action-add-to-list-menu-item-nux.c2854ef9e9b497b55ff8.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:111] info: Aug-04 15:07:10.111 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-creator-guided-setup-list-banner.0dbac915b7ff30a89570.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:112] info: Aug-04 15:07:10.111 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-ai-workspace-canvas-banner.faa02f8f0986ff6c4b0c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:113] info: Aug-04 15:07:10.113 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-ai-workspace-list-banner.dd07bcd58d698fb3db2e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:115] info: Aug-04 15:07:10.115 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-modal-message-stats.404d4ffec036b7eac726.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:118] info: Aug-04 15:07:10.118 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-all-company-name-templates-canvas-banner.bb36e224d626a0ce0ba7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:118] info: Aug-04 15:07:10.118 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-creator-guided-setup-canvas-banner.84b9ceeb3a096f25b172.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:125] info: Aug-04 15:07:10.124 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-creator-guided-setup-list-banner.0dbac915b7ff30a89570.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:126] info: Aug-04 15:07:10.125 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-ai-workspace-canvas-banner.faa02f8f0986ff6c4b0c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:128] info: Aug-04 15:07:10.128 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-day-picker-nux-banner.a78764b41c32d49569be.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:129] info: Aug-04 15:07:10.129 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-more-solutions-sidebar-view.4600a60ab92f352a0dbd.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:131] info: Aug-04 15:07:10.131 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-all-company-name-templates-canvas-banner.bb36e224d626a0ce0ba7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:133] info: Aug-04 15:07:10.132 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-creator-guided-setup-canvas-banner.84b9ceeb3a096f25b172.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:135] info: Aug-04 15:07:10.135 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-more-canvases-sidebar-view.ec6176f4bc6a0613e201.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:136] info: Aug-04 15:07:10.135 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-unified-files-sidebar-view.8d6c02a1d0d42595be2b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:138] info: Aug-04 15:07:10.138 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-day-picker-nux-banner.a78764b41c32d49569be.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:139] info: Aug-04 15:07:10.139 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-more-solutions-sidebar-view.4600a60ab92f352a0dbd.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:140] info: Aug-04 15:07:10.140 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-more-platform-sidebar-view.ac37fbe7cafcbfab5e15.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:148] info: Aug-04 15:07:10.147 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-more-canvases-sidebar-view.ec6176f4bc6a0613e201.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:149] info: Aug-04 15:07:10.149 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-channel-view.e40e80d82fc5c2bfba33.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:154] info: Aug-04 15:07:10.153 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-unified-files-sidebar-view.8d6c02a1d0d42595be2b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:155] info: Aug-04 15:07:10.155 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/Rk07fyQ6Jh6ghK_fXnNPEw 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:156] info: Aug-04 15:07:10.156 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-more-platform-sidebar-view.ac37fbe7cafcbfab5e15.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:157] info: Aug-04 15:07:10.157 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-app-space-view.0e90e6ea809aa1c5b239.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:173] info: Aug-04 15:07:10.172 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-channel-view.e40e80d82fc5c2bfba33.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:174] info: Aug-04 15:07:10.173 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-channel-canvas-view.fe22e4333bff32289eae.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:174] info: Aug-04 15:07:10.174 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-view.562eefd0e335ba096993.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:186] info: Aug-04 15:07:10.186 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/HeVN5KbSDJdT2p95AEks3Q-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:199] info: Aug-04 15:07:10.199 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-app-space-view.0e90e6ea809aa1c5b239.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:223] info: Aug-04 15:07:10.222 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-channel-canvas-view.fe22e4333bff32289eae.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:224] info: Aug-04 15:07:10.223 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-view.562eefd0e335ba096993.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:248] info: Aug-04 15:07:10.247 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-thread-view.f2fac83a4d94af1d9e16.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:248] info: Aug-04 15:07:10.248 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-comment-stream-view.3f6ded47738389618bea.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:256] info: Aug-04 15:07:10.256 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-activity-history-view.b1e60d9135b0cfeb45f1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:260] info: Aug-04 15:07:10.260 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-thread-view.f2fac83a4d94af1d9e16.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:261] info: Aug-04 15:07:10.261 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-13-br/lato-regular-d9ce515.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:265] info: Aug-04 15:07:10.265 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-comment-stream-view.3f6ded47738389618bea.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:267] info: Aug-04 15:07:10.267 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-automations-view.5881806930b77871a312.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:268] info: Aug-04 15:07:10.267 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-thread-view.02dbe08c4b3653b36977.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:269] info: Aug-04 15:07:10.268 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-user-groups-view.bb2645f082491ae88c2a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:274] info: Aug-04 15:07:10.273 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-activity-history-view.b1e60d9135b0cfeb45f1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:276] info: Aug-04 15:07:10.276 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-automations-view.5881806930b77871a312.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:277] info: Aug-04 15:07:10.276 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-agents-view.dc983410cc707e949b18.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:278] info: Aug-04 15:07:10.277 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-user-groups-view.bb2645f082491ae88c2a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:280] info: Aug-04 15:07:10.279 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-thread-view.02dbe08c4b3653b36977.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:281] info: Aug-04 15:07:10.280 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-13-br/lato-black-b64f5e4.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:283] info: Aug-04 15:07:10.282 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-13-br/slack-icons-v2-fe043a5.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:283] info: Aug-04 15:07:10.283 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sidekicks-view.f06826e54390b8c9ead2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:284] info: Aug-04 15:07:10.283 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-channel-user-group-view.947ddc3067130ab2dd1f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:284] info: Aug-04 15:07:10.283 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-view.2e5a52c707b851114da9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:292] info: Aug-04 15:07:10.291 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-agents-view.dc983410cc707e949b18.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:292] info: Aug-04 15:07:10.292 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sidekicks-view.f06826e54390b8c9ead2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:293] info: Aug-04 15:07:10.293 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-view.2e5a52c707b851114da9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:294] info: Aug-04 15:07:10.294 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-channel-user-group-view.947ddc3067130ab2dd1f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:296] info: Aug-04 15:07:10.296 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-details.1c4795f88416f4d03f5b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:297] info: Aug-04 15:07:10.296 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-work-object.63bbd97b110c52bcfdbc.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:297] info: Aug-04 15:07:10.296 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-tableau-details.477f272ee4b2b5f52806.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:302] info: Aug-04 15:07:10.301 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-thread.4f90ea1acdbf8201a7ad.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:306] info: Aug-04 15:07:10.305 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-work-object.63bbd97b110c52bcfdbc.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:307] info: Aug-04 15:07:10.306 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-details.1c4795f88416f4d03f5b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:308] info: Aug-04 15:07:10.308 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-tableau-details.477f272ee4b2b5f52806.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:309] info: Aug-04 15:07:10.309 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-history.328bfc7ef03edb08679d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:312] info: Aug-04 15:07:10.312 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-feedback-view.75e63e12f82a690f8b4f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:315] info: Aug-04 15:07:10.314 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-thread.4f90ea1acdbf8201a7ad.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:315] info: Aug-04 15:07:10.315 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-help-browser-view.ab4259da56b0c7971aa0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:316] info: Aug-04 15:07:10.316 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-whats-new-browser-view.16acf7eda121a48c64a7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:322] info: Aug-04 15:07:10.321 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-record-history.328bfc7ef03edb08679d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:323] info: Aug-04 15:07:10.323 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-feedback-view.75e63e12f82a690f8b4f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:325] info: Aug-04 15:07:10.324 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-help-browser-view.ab4259da56b0c7971aa0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:326] info: Aug-04 15:07:10.326 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-keyboard-shortcuts-browser-view.fb34514b0c5b2f82c992.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:327] info: Aug-04 15:07:10.327 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-app-popout-view.553be77848820dea2744.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:328] info: Aug-04 15:07:10.327 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-profile-view.979e29b191aa20a8a5cb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:331] info: Aug-04 15:07:10.330 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-whats-new-browser-view.16acf7eda121a48c64a7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:333] info: Aug-04 15:07:10.332 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-later-list-view.cdb0be34f212409e31fd.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:336] info: Aug-04 15:07:10.335 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-13-br/lato-bold-4b1dc11.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:337] info: Aug-04 15:07:10.336 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-keyboard-shortcuts-browser-view.fb34514b0c5b2f82c992.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:338] info: Aug-04 15:07:10.337 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-app-popout-view.553be77848820dea2744.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:339] info: Aug-04 15:07:10.339 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-profile-view.979e29b191aa20a8a5cb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:342] info: Aug-04 15:07:10.342 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-file-details-view.73ed722e43c211b04b91.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:343] info: Aug-04 15:07:10.342 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-threads-view.1836523b93320af22c81.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:347] info: Aug-04 15:07:10.347 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-later-list-view.cdb0be34f212409e31fd.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:349] info: Aug-04 15:07:10.349 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-admin-view.38d6e90ee17910ecdb09.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:349] info: Aug-04 15:07:10.349 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-notifications-view.b984352c2adc762985cf.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:352] info: Aug-04 15:07:10.351 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-file-details-view.73ed722e43c211b04b91.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:353] info: Aug-04 15:07:10.353 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-threads-view.1836523b93320af22c81.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:355] info: Aug-04 15:07:10.355 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-bulk-grid-view.9d73ffcf4d3116197942.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:359] info: Aug-04 15:07:10.359 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-admin-view.38d6e90ee17910ecdb09.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:360] info: Aug-04 15:07:10.360 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-create-record-view.e58680346dce36fca7cf.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:364] info: Aug-04 15:07:10.364 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-notifications-view.b984352c2adc762985cf.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:368] info: Aug-04 15:07:10.368 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-bulk-grid-view.9d73ffcf4d3116197942.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:376] info: Aug-04 15:07:10.376 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-create-record-view.e58680346dce36fca7cf.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:384] info: Aug-04 15:07:10.384 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-page-view.3e98cc9f61183f3d2f8e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:389] info: Aug-04 15:07:10.388 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-shortcuts-view.a7357b4294e212118cc4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:389] info: Aug-04 15:07:10.389 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-workflows-tabbed-view.eabcd2ab0729c5ff0031.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:392] info: Aug-04 15:07:10.392 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-page-view.3e98cc9f61183f3d2f8e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:394] info: Aug-04 15:07:10.394 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-solutions-view.eeca2e5e3dbc2896f494.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:399] info: Aug-04 15:07:10.399 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-shortcuts-view.a7357b4294e212118cc4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:401] info: Aug-04 15:07:10.400 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-workflows-tabbed-view.eabcd2ab0729c5ff0031.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:402] info: Aug-04 15:07:10.400 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-filtered-solutions-view.1ff91ef5e8e59deb1466.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:403] info: Aug-04 15:07:10.403 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-your-solutions-view.42938480d72c59c570c2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:404] info: Aug-04 15:07:10.404 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-solutions-view.eeca2e5e3dbc2896f494.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:405] info: Aug-04 15:07:10.404 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-your-company-solutions-view.09292cf0aa7b368255a9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:406] info: Aug-04 15:07:10.406 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-apps-view.206cf2b4c9f802ec317d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:411] info: Aug-04 15:07:10.411 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-filtered-solutions-view.1ff91ef5e8e59deb1466.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:412] info: Aug-04 15:07:10.412 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-your-solutions-view.42938480d72c59c570c2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:414] info: Aug-04 15:07:10.414 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-your-company-solutions-view.09292cf0aa7b368255a9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:416] info: Aug-04 15:07:10.415 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-apps-view.206cf2b4c9f802ec317d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:417] info: Aug-04 15:07:10.415 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-canvases-view.edff2fa81a947a96ca06.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:418] info: Aug-04 15:07:10.417 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvases-filtered-views.b0e512bd6d17636124f0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:418] info: Aug-04 15:07:10.417 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-items-view.c9c4f87a0ee12889bc87.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:426] info: Aug-04 15:07:10.425 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-channels-view.310df57c709f593703b2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:427] info: Aug-04 15:07:10.426 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-canvases-view.edff2fa81a947a96ca06.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:428] info: Aug-04 15:07:10.428 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-items-view.c9c4f87a0ee12889bc87.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:429] info: Aug-04 15:07:10.428 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvases-filtered-views.b0e512bd6d17636124f0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:433] info: Aug-04 15:07:10.432 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-files-view.8566193d955b4c1b48be.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:434] info: Aug-04 15:07:10.433 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-unified-files-view.15d705e87a775c577bfb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:435] info: Aug-04 15:07:10.435 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-folder-tab-view.c01efd949cc4f710b6e4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:441] info: Aug-04 15:07:10.441 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-channels-view.310df57c709f593703b2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:442] info: Aug-04 15:07:10.442 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-unified-files-view.15d705e87a775c577bfb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:445] info: Aug-04 15:07:10.445 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-files-view.8566193d955b4c1b48be.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:446] info: Aug-04 15:07:10.446 [SERVICE-WORKER] responding with fetch https://a.slack-edge.com/canvas_blob/qx6vO5haNiDD-zgv0m9SdQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:447] info: Aug-04 15:07:10.446 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-folder-tab-view.c01efd949cc4f710b6e4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:447] info: Aug-04 15:07:10.446 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-deleted-unified-files-view.65f3ab0ef872609936e1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:451] info: Aug-04 15:07:10.451 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-external-workpaces-view.7350bc48d2386576dbb0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:452] info: Aug-04 15:07:10.451 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-lists-view.4856adecd68aea6ec689.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:453] info: Aug-04 15:07:10.451 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-people-view.b531edd518e232b2fcf4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:459] info: Aug-04 15:07:10.458 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-deleted-unified-files-view.65f3ab0ef872609936e1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:461] info: Aug-04 15:07:10.461 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-org-directory-view.94d638c33a57b84488ea.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:465] info: Aug-04 15:07:10.465 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-external-workpaces-view.7350bc48d2386576dbb0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:467] info: Aug-04 15:07:10.466 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-lists-view.4856adecd68aea6ec689.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:467] info: Aug-04 15:07:10.467 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-people-view.b531edd518e232b2fcf4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:470] info: Aug-04 15:07:10.470 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-slack-connect-view.64fce443507894e7e63f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:470] info: Aug-04 15:07:10.470 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-paid-benefits-view.c9663593fe3c747f2853.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:476] info: Aug-04 15:07:10.475 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-org-directory-view.94d638c33a57b84488ea.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:477] info: Aug-04 15:07:10.477 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-setup-view.ac9b0a1881c69884777d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:488] info: Aug-04 15:07:10.488 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-record-ask-view.0c5a53c1fecc07412bb2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:489] info: Aug-04 15:07:10.489 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-slack-connect-view.64fce443507894e7e63f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:491] info: Aug-04 15:07:10.490 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-paid-benefits-view.c9663593fe3c747f2853.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:501] info: Aug-04 15:07:10.501 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-setup-view.ac9b0a1881c69884777d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:507] info: Aug-04 15:07:10.506 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-record-channel-related-list-view.c769fa89983fc4f9b1bf.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:507] info: Aug-04 15:07:10.506 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-record-view.b15235c90c95966239e4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:507] info: Aug-04 15:07:10.507 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-task-approval-view.195cc72cc87fc8387f9b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:516] info: Aug-04 15:07:10.515 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-record-ask-view.0c5a53c1fecc07412bb2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:532] info: Aug-04 15:07:10.531 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-activity-inbox-view.05f54d7b11d10f448209.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:540] info: Aug-04 15:07:10.539 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-record-view.b15235c90c95966239e4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:541] info: Aug-04 15:07:10.541 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-record-channel-related-list-view.c769fa89983fc4f9b1bf.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:543] info: Aug-04 15:07:10.543 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-task-approval-view.195cc72cc87fc8387f9b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:558] info: Aug-04 15:07:10.558 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-activity-inbox-view.05f54d7b11d10f448209.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:562] info: Aug-04 15:07:10.562 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-ai-app-view.a1df6bf002ae5311fa62.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:580] info: Aug-04 15:07:10.579 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-about-ai-app-view.524106bd7d8a054a3521.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:581] info: Aug-04 15:07:10.580 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-editor-view.d6f7f00c26a463874538.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:582] info: Aug-04 15:07:10.580 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-template-editor-view.d148b9bc36bf5d45881a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:582] info: Aug-04 15:07:10.581 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-ai-app-view.a1df6bf002ae5311fa62.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:584] info: Aug-04 15:07:10.584 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-being-created-view.728773279cd2f922d04c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:592] info: Aug-04 15:07:10.591 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-about-ai-app-view.524106bd7d8a054a3521.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:593] info: Aug-04 15:07:10.592 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-template-editor-view.d148b9bc36bf5d45881a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:597] info: Aug-04 15:07:10.596 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-editor-view.d6f7f00c26a463874538.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:598] info: Aug-04 15:07:10.597 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-tasks-view.36e2658c6bb9463502f1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:603] info: Aug-04 15:07:10.602 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-being-created-view.728773279cd2f922d04c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:608] info: Aug-04 15:07:10.607 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-assigned-tasks-view.32cf14ed7c17d2f7d0f3.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:620] info: Aug-04 15:07:10.619 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-tasks-view.36e2658c6bb9463502f1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:630] info: Aug-04 15:07:10.629 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-assigned-tasks-view.32cf14ed7c17d2f7d0f3.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:639] info: Aug-04 15:07:10.638 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-details.b660d3446588683edf0c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:652] info: Aug-04 15:07:10.651 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/meeting-details-view.bb4d7bdab1c8844ebc34.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:652] info: Aug-04 15:07:10.651 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-calendar-view.92dfc23bedde84c65f23.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:658] info: Aug-04 15:07:10.658 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-details.b660d3446588683edf0c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:663] info: Aug-04 15:07:10.662 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-calendar-view.92dfc23bedde84c65f23.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:664] info: Aug-04 15:07:10.663 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/conversation-create-page.495e46b49e57d3675e98.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:665] info: Aug-04 15:07:10.664 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-huddle-transcript-details-view.b15e6eaed9d9275b85e9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:673] info: Aug-04 15:07:10.673 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/meeting-details-view.bb4d7bdab1c8844ebc34.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:677] info: Aug-04 15:07:10.676 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/conversation-create-page.495e46b49e57d3675e98.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:678] info: Aug-04 15:07:10.678 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-work-object-file-preview-view.c9a93a6c8394bc62a1ae.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:679] info: Aug-04 15:07:10.679 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-huddle-transcript-details-view.b15e6eaed9d9275b85e9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:681] info: Aug-04 15:07:10.679 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-agents-home-view.984a40f5ac65157dd9c6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:682] info: Aug-04 15:07:10.680 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-search-in-channel-view.aa3a2a61edfedb56df85.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:682] info: Aug-04 15:07:10.682 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-history.e56430042a33993fafe6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:695] info: Aug-04 15:07:10.694 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-work-object-file-preview-view.c9a93a6c8394bc62a1ae.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:696] info: Aug-04 15:07:10.696 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-agents-home-view.984a40f5ac65157dd9c6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:699] info: Aug-04 15:07:10.699 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-log-activity-view.cf07d05f9960dfd26b4d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:709] info: Aug-04 15:07:10.709 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-search-in-channel-view.aa3a2a61edfedb56df85.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:710] info: Aug-04 15:07:10.710 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-history.e56430042a33993fafe6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:712] info: Aug-04 15:07:10.712 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/app-details.f9dcb7d5530c786a95e0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:713] info: Aug-04 15:07:10.712 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-desktop-delegates-patching.6636a130cd9cb48117c8.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:716] info: Aug-04 15:07:10.716 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-log-activity-view.cf07d05f9960dfd26b4d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:717] info: Aug-04 15:07:10.717 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/layout-debug-overlay.3bbfcc71c8d3be6a9d86.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:721] info: Aug-04 15:07:10.720 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-saved-view.4263ba0b191689711fbd.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:721] info: Aug-04 15:07:10.721 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/app-details.f9dcb7d5530c786a95e0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:725] info: Aug-04 15:07:10.725 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-reminders-view.4aae88c0fcc1d2c56410.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:726] info: Aug-04 15:07:10.726 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-desktop-delegates-patching.6636a130cd9cb48117c8.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:731] info: Aug-04 15:07:10.730 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/layout-debug-overlay.3bbfcc71c8d3be6a9d86.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:732] info: Aug-04 15:07:10.732 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-home-view.34c0dee553d7a940f815.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:733] info: Aug-04 15:07:10.733 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-auto-slack-launchpad-view.c1c1f08e14aeae89a10f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:735] info: Aug-04 15:07:10.735 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-saved-view.4263ba0b191689711fbd.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:736] info: Aug-04 15:07:10.736 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-reminders-view.4aae88c0fcc1d2c56410.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:738] info: Aug-04 15:07:10.738 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-assistant-home-view.6e6e87fbe2a1c8e6a1e3.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:739] info: Aug-04 15:07:10.738 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/daily-digest-view.d2a73a962a568c395559.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:740] info: Aug-04 15:07:10.740 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-home-view.34c0dee553d7a940f815.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:744] info: Aug-04 15:07:10.744 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-sales-auto-slack-launchpad-view.c1c1f08e14aeae89a10f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:747] info: Aug-04 15:07:10.747 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/activity-unread-channels-view.e4636fc99edcdb5750c1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:748] info: Aug-04 15:07:10.747 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/action-items-view.9b5942806cb2e348311f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:749] info: Aug-04 15:07:10.749 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-assistant-home-view.6e6e87fbe2a1c8e6a1e3.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:756] info: Aug-04 15:07:10.756 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/daily-digest-view.d2a73a962a568c395559.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:757] info: Aug-04 15:07:10.757 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client--filtered-solutions-view.b5953fcf7ed0bd0ccf60.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:758] info: Aug-04 15:07:10.757 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client--your-solutions-view.9bb0be97ca1f8fa8351a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:763] info: Aug-04 15:07:10.763 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/activity-unread-channels-view.e4636fc99edcdb5750c1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:764] info: Aug-04 15:07:10.764 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/action-items-view.9b5942806cb2e348311f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:767] info: Aug-04 15:07:10.766 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-external-organizations-view.9590c3c2be63f838afdb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:767] info: Aug-04 15:07:10.767 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-external-organization-view.d7c309ef4b61cdd60fcf.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:770] info: Aug-04 15:07:10.770 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client--filtered-solutions-view.b5953fcf7ed0bd0ccf60.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:771] info: Aug-04 15:07:10.771 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client--your-solutions-view.9bb0be97ca1f8fa8351a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:774] info: Aug-04 15:07:10.774 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-external-people-view.bccf5ee5859ca1b27e28.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:774] info: Aug-04 15:07:10.774 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-slack-connect-channels-view.4bcbc10d54d16620c14c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:782] info: Aug-04 15:07:10.782 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-external-organizations-view.9590c3c2be63f838afdb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:783] info: Aug-04 15:07:10.782 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-external-organization-view.d7c309ef4b61cdd60fcf.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:786] info: Aug-04 15:07:10.786 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-slack-connect-invitations-view.91a4bf863607ae5a1c54.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:787] info: Aug-04 15:07:10.787 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflows-managed-by-you-view.0fa60653c38fddb5f44f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:788] info: Aug-04 15:07:10.787 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-external-people-view.bccf5ee5859ca1b27e28.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:789] info: Aug-04 15:07:10.788 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-slack-connect-channels-view.4bcbc10d54d16620c14c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:791] info: Aug-04 15:07:10.791 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-your-workflow-templates-view.db8c86444a1c0bbdbde0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:792] info: Aug-04 15:07:10.792 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-templates-view.7971d2b69f04ba0eee29.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:798] info: Aug-04 15:07:10.797 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-slack-connect-invitations-view.91a4bf863607ae5a1c54.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:799] info: Aug-04 15:07:10.798 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflows-managed-by-you-view.0fa60653c38fddb5f44f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:801] info: Aug-04 15:07:10.801 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-recent-files-view.701cd702afdda53e6cf1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:804] info: Aug-04 15:07:10.804 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-your-workflow-templates-view.db8c86444a1c0bbdbde0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:805] info: Aug-04 15:07:10.804 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-files-shared-with-you-view.823a712b6ed526b0104f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:806] info: Aug-04 15:07:10.805 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-workflow-templates-view.7971d2b69f04ba0eee29.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:809] info: Aug-04 15:07:10.809 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-files-created-by-you-view.f994f6b58eaeaf60c95a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:810] info: Aug-04 15:07:10.809 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-recent-canvases-view.74833a27aba880bef7bc.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:818] info: Aug-04 15:07:10.818 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-recent-files-view.701cd702afdda53e6cf1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:819] info: Aug-04 15:07:10.819 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-files-shared-with-you-view.823a712b6ed526b0104f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:822] info: Aug-04 15:07:10.822 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-recent-platform-view.449b076ed5238a611063.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:823] info: Aug-04 15:07:10.822 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/about-workspace-view.1da45e9e7a78cdc1b3d8.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:827] info: Aug-04 15:07:10.827 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-files-created-by-you-view.f994f6b58eaeaf60c95a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:828] info: Aug-04 15:07:10.828 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-recent-canvases-view.74833a27aba880bef7bc.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:835] info: Aug-04 15:07:10.831 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/post-event-view.0eae857919a1ea3d21b4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:835] info: Aug-04 15:07:10.831 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-recent-platform-view.449b076ed5238a611063.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:835] info: Aug-04 15:07:10.832 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/external-workspace-people-browser.b3485c57b1f5a3b44b73.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:835] info: Aug-04 15:07:10.832 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/about-workspace-view.1da45e9e7a78cdc1b3d8.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:837] info: Aug-04 15:07:10.837 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/external-workspace-channel-browser.3062fbbae1f357e6c919.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:840] info: Aug-04 15:07:10.839 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/paid-benefits-view.f8d210d49d6b6635b022.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:846] info: Aug-04 15:07:10.846 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/post-event-view.0eae857919a1ea3d21b4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:847] info: Aug-04 15:07:10.847 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/external-workspace-people-browser.b3485c57b1f5a3b44b73.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:848] info: Aug-04 15:07:10.848 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/external-workspace-channel-browser.3062fbbae1f357e6c919.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:850] info: Aug-04 15:07:10.849 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/paid-benefits-view.f8d210d49d6b6635b022.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:852] info: Aug-04 15:07:10.852 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-search-empty-view.29f4ee9a082f9d667062.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:853] info: Aug-04 15:07:10.852 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-activity-empty-view.4dc0482f3251ace723b7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:853] info: Aug-04 15:07:10.853 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/conversational-search-view.a448b75a8701a33ed825.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:854] info: Aug-04 15:07:10.853 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-today-view.cc3cea1886896e678c5c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:862] info: Aug-04 15:07:10.862 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-search-empty-view.29f4ee9a082f9d667062.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:863] info: Aug-04 15:07:10.863 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/conversational-search-view.a448b75a8701a33ed825.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:865] info: Aug-04 15:07:10.864 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-activity-empty-view.4dc0482f3251ace723b7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:866] info: Aug-04 15:07:10.865 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/about-usergroup-view.3dfde38dd76adb11f6f0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:866] info: Aug-04 15:07:10.866 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-unified-directory-view.41533cee7e759d68f587.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:867] info: Aug-04 15:07:10.866 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-your-agents-view.ebe5cb43329b05d41a0f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:869] info: Aug-04 15:07:10.869 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-today-view.cc3cea1886896e678c5c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:871] info: Aug-04 15:07:10.871 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/sentos-search-agent-view.ed79d244181cf9ea62d1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:874] info: Aug-04 15:07:10.874 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/about-usergroup-view.3dfde38dd76adb11f6f0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:881] info: Aug-04 15:07:10.880 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-your-agents-view.ebe5cb43329b05d41a0f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:882] info: Aug-04 15:07:10.881 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-unified-directory-view.41533cee7e759d68f587.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:883] info: Aug-04 15:07:10.883 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/sentos-search-agent-view.ed79d244181cf9ea62d1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:886] info: Aug-04 15:07:10.885 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/external-workspace-allowed-org-pane-view.4832eb1d781da91bd446.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:886] info: Aug-04 15:07:10.886 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/workflow-details.0bd7e14f30b11f22717a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:887] info: Aug-04 15:07:10.886 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/ai-explain-view.f2cfdaf46334e03599e7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:888] info: Aug-04 15:07:10.888 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/record-related-conversations-list-all-view.12fa2ddb65ac4a47807b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:896] info: Aug-04 15:07:10.896 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/external-workspace-allowed-org-pane-view.4832eb1d781da91bd446.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:897] info: Aug-04 15:07:10.897 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/workflow-details.0bd7e14f30b11f22717a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:899] info: Aug-04 15:07:10.898 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/record-related-conversations-list-all-view.12fa2ddb65ac4a47807b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:900] info: Aug-04 15:07:10.899 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/ai-explain-view.f2cfdaf46334e03599e7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:902] info: Aug-04 15:07:10.902 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-channel-list-view.474ee0d2d108996d4ca7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:903] info: Aug-04 15:07:10.902 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-dms-list-view.6af969cd6c48e0ab6f20.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:903] info: Aug-04 15:07:10.903 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/more-todos-sidebar-view.30bae167c7e99d354c5f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:904] info: Aug-04 15:07:10.904 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-search-view.1d5c6ca949240de75151.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:911] info: Aug-04 15:07:10.911 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-dms-list-view.6af969cd6c48e0ab6f20.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:915] info: Aug-04 15:07:10.914 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-channel-list-view.474ee0d2d108996d4ca7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:916] info: Aug-04 15:07:10.915 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/more-todos-sidebar-view.30bae167c7e99d354c5f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:918] info: Aug-04 15:07:10.917 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-search-view.1d5c6ca949240de75151.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:921] info: Aug-04 15:07:10.920 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/external-workspace-sidebar-view.2eea724da2ebe0b370d9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:924] info: Aug-04 15:07:10.924 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/more-files-sidebar-view.629f74ce12aa7089ea81.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:932] info: Aug-04 15:07:10.931 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/external-workspace-sidebar-view.2eea724da2ebe0b370d9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:934] info: Aug-04 15:07:10.934 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/more-lists-sidebar-view.9e7d8deba1607de2d833.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:934] info: Aug-04 15:07:10.934 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/unified-files-sidebar-view.81cca8b16383dbecff25.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:935] info: Aug-04 15:07:10.935 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/more-files-sidebar-view.629f74ce12aa7089ea81.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:941] info: Aug-04 15:07:10.941 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/more-people-sidebar-view.b1493ddd2fb5f9686967.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:945] info: Aug-04 15:07:10.945 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/more-lists-sidebar-view.9e7d8deba1607de2d833.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:946] info: Aug-04 15:07:10.946 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/more-platform-sidebar-view.8b9bfc3e6693493d1075.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:949] info: Aug-04 15:07:10.948 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/unified-files-sidebar-view.81cca8b16383dbecff25.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:954] info: Aug-04 15:07:10.953 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/more-people-sidebar-view.b1493ddd2fb5f9686967.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:956] info: Aug-04 15:07:10.956 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/sales-sidebar-view.b945a97f8e9fbdc67171.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:962] info: Aug-04 15:07:10.961 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/external-connections-sidebar-view.7266080838b6d36ca0ba.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:966] info: Aug-04 15:07:10.966 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/more-platform-sidebar-view.8b9bfc3e6693493d1075.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:970] info: Aug-04 15:07:10.970 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-bbm-main-view.c5596f4af44aa0fb4630.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:973] info: Aug-04 15:07:10.973 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/sales-sidebar-view.b945a97f8e9fbdc67171.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:976] info: Aug-04 15:07:10.975 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/external-connections-sidebar-view.7266080838b6d36ca0ba.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:980] info: Aug-04 15:07:10.979 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-bbm-workspace-switcher-view.3c6d298b971dd34a0c80.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:980] info: Aug-04 15:07:10.980 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-bbm-more-view.8b9a1ca41b5642ce5df7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:981] info: Aug-04 15:07:10.981 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-bbm-main-view.c5596f4af44aa0fb4630.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:982] info: Aug-04 15:07:10.982 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-agent-home-view-split.91209ca75e8b23c1e57c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:987] info: Aug-04 15:07:10.986 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/slackbot-ai-split-view.1519df1c278000efce85.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:989] info: Aug-04 15:07:10.989 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-bbm-more-view.8b9a1ca41b5642ce5df7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:990] info: Aug-04 15:07:10.990 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-bbm-workspace-switcher-view.3c6d298b971dd34a0c80.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:991] info: Aug-04 15:07:10.990 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-agent-home-view-split.91209ca75e8b23c1e57c.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:994] info: Aug-04 15:07:10.994 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/multi-channel-summaries-split-view.3896184dca19b0add942.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:995] info: Aug-04 15:07:10.994 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/sparkles-wobbly.json.7edd036ef2fd7dad6bb2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:997] info: Aug-04 15:07:10.997 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/slackbot-ai-split-view.1519df1c278000efce85.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:998] info: Aug-04 15:07:10.998 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-success-coachmark.b215aef9f69c1bf8e6c6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:10:999] info: Aug-04 15:07:10.999 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-success-coachmark.bfbd2933d9c1ac040c6f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:007] info: Aug-04 15:07:11.006 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/sparkles-wobbly.json.7edd036ef2fd7dad6bb2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:008] info: Aug-04 15:07:11.007 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/multi-channel-summaries-split-view.3896184dca19b0add942.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:009] info: Aug-04 15:07:11.008 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-list-success-coachmark.b215aef9f69c1bf8e6c6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:010] info: Aug-04 15:07:11.010 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-canvas-success-coachmark.bfbd2933d9c1ac040c6f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:013] info: Aug-04 15:07:11.013 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/tabs-customization-nux-coachmark.json.cf3b98e89ef91e61f5b4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:014] info: Aug-04 15:07:11.013 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/feelings-catcher-heart.84eac59adf99dc7a896b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:014] info: Aug-04 15:07:11.014 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-edit-workflow.80059d8cc971448251d6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:014] info: Aug-04 15:07:11.014 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-edit-hermes-workflow.cc1ff5f51f064275b055.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:022] info: Aug-04 15:07:11.021 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/tabs-customization-nux-coachmark.json.cf3b98e89ef91e61f5b4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:023] info: Aug-04 15:07:11.023 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/feelings-catcher-heart.84eac59adf99dc7a896b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:025] info: Aug-04 15:07:11.024 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-edit-workflow.80059d8cc971448251d6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:027] info: Aug-04 15:07:11.027 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-edit-hermes-workflow.cc1ff5f51f064275b055.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:028] info: Aug-04 15:07:11.028 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-edit-workflow-landing.8801188cd2ca7cb3cc8e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:029] info: Aug-04 15:07:11.029 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-templates.8597734e9b9a64d9d19a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:042] info: Aug-04 15:07:11.041 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-workflow-version.68f75057be7200514c1e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:047] info: Aug-04 15:07:11.047 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-edit-workflow-landing.8801188cd2ca7cb3cc8e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:048] info: Aug-04 15:07:11.048 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-templates.8597734e9b9a64d9d19a.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:050] info: Aug-04 15:07:11.050 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-workflow-deleted.80ae3c2d00a28e2579e0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:051] info: Aug-04 15:07:11.050 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-workflow-version.68f75057be7200514c1e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:052] info: Aug-04 15:07:11.051 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-integrations.2ef0e298859a63947e21.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:052] info: Aug-04 15:07:11.052 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-create-empty-workflow.f8ef7c0627909557169b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:060] info: Aug-04 15:07:11.060 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-workflow-deleted.80ae3c2d00a28e2579e0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:061] info: Aug-04 15:07:11.061 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-integrations.2ef0e298859a63947e21.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:062] info: Aug-04 15:07:11.061 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-not-supported.ce0bec8f0858fc61a26f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:064] info: Aug-04 15:07:11.063 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-url-error.2a618abbc06993a0dd93.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:067] info: Aug-04 15:07:11.067 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-create-empty-workflow.f8ef7c0627909557169b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:069] info: Aug-04 15:07:11.069 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-template-selection-workflow.f8e19bcc1b6d40de076d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:070] info: Aug-04 15:07:11.069 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-template-edit.a5fb997e5048696e0cca.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:075] info: Aug-04 15:07:11.075 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-not-supported.ce0bec8f0858fc61a26f.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:076] info: Aug-04 15:07:11.076 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-page-url-error.2a618abbc06993a0dd93.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:078] info: Aug-04 15:07:11.078 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-template-selection-workflow.f8e19bcc1b6d40de076d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:079] info: Aug-04 15:07:11.078 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-template-steps-edit.8ed3172d0536e24d9463.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:080] info: Aug-04 15:07:11.079 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-dialog.396a889e3738c7b3f6b0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:080] info: Aug-04 15:07:11.080 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-template-edit.a5fb997e5048696e0cca.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:084] info: Aug-04 15:07:11.083 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-message.134aea1bc1b8a14887c2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:085] info: Aug-04 15:07:11.085 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slack-function-form.bb3cf066ce8c1ae6fdc9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:091] info: Aug-04 15:07:11.091 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-template-steps-edit.8ed3172d0536e24d9463.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:092] info: Aug-04 15:07:11.092 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-dialog.396a889e3738c7b3f6b0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:093] info: Aug-04 15:07:11.093 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-message.134aea1bc1b8a14887c2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:094] info: Aug-04 15:07:11.094 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slack-function-form.bb3cf066ce8c1ae6fdc9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:096] info: Aug-04 15:07:11.096 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-switch.ae04ef7cc7004300e57d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:097] info: Aug-04 15:07:11.096 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-channel_action.91695a96e87bfcdbf69b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:097] info: Aug-04 15:07:11.096 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-third-party-event.c93628cb322d323893ea.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:100] info: Aug-04 15:07:11.100 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-hermes-scheduled.0aa08e6631e9c9e77d37.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:106] info: Aug-04 15:07:11.106 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-switch.ae04ef7cc7004300e57d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:107] info: Aug-04 15:07:11.107 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-channel_action.91695a96e87bfcdbf69b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:108] info: Aug-04 15:07:11.108 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-third-party-event.c93628cb322d323893ea.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:110] info: Aug-04 15:07:11.110 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-hermes-webhook.cfd4f8102807571af5b6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:111] info: Aug-04 15:07:11.110 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-member_joined_channel.b9b51e2436d15b8195d7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:112] info: Aug-04 15:07:11.112 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-hermes-scheduled.0aa08e6631e9c9e77d37.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:113] info: Aug-04 15:07:11.113 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-message_action.a230d7981ce4bf23e4fb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:115] info: Aug-04 15:07:11.115 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-reaction_added.1734c28158686fc22e40.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:122] info: Aug-04 15:07:11.121 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-member_joined_channel.b9b51e2436d15b8195d7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:123] info: Aug-04 15:07:11.122 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-hermes-webhook.cfd4f8102807571af5b6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:125] info: Aug-04 15:07:11.125 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-scheduled.e433ae36e9ba63340ec0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:125] info: Aug-04 15:07:11.125 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-shortcut.e89820e174d018032cf9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:128] info: Aug-04 15:07:11.127 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-message_action.a230d7981ce4bf23e4fb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:128] info: Aug-04 15:07:11.128 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-reaction_added.1734c28158686fc22e40.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:130] info: Aug-04 15:07:11.130 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slack-event.f5676eb0d29d9585b3f1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:130] info: Aug-04 15:07:11.130 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slash_command.fbbf0809dc9589d0cef4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:133] info: Aug-04 15:07:11.133 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-shortcut.e89820e174d018032cf9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:134] info: Aug-04 15:07:11.134 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-scheduled.e433ae36e9ba63340ec0.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:136] info: Aug-04 15:07:11.136 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-webhook.621359450e64079c17ff.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:136] info: Aug-04 15:07:11.136 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-extension-step-modal-content.ff0995a161bfb1a6cd0d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:140] info: Aug-04 15:07:11.140 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slack-event.f5676eb0d29d9585b3f1.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:142] info: Aug-04 15:07:11.141 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-slash_command.fbbf0809dc9589d0cef4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:143] info: Aug-04 15:07:11.142 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors-async.fc3dc18a83b34a2a1bdd.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:144] info: Aug-04 15:07:11.144 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-extension-step-modal-content.ff0995a161bfb1a6cd0d.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:145] info: Aug-04 15:07:11.145 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-shared-boot-async.82f022da5f828109e7d3.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:146] info: Aug-04 15:07:11.145 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-workflow-builder-segment-form-webhook.621359450e64079c17ff.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:147] info: Aug-04 15:07:11.147 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors.34a8b669549a91fbcec2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:147] info: Aug-04 15:07:11.147 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors-async-client.2b20deebdafe2aebd5eb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:150] info: Aug-04 15:07:11.149 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors-async.fc3dc18a83b34a2a1bdd.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:164] info: Aug-04 15:07:11.163 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-shared-boot-async.82f022da5f828109e7d3.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:182] info: Aug-04 15:07:11.182 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors-async-client.2b20deebdafe2aebd5eb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:183] info: Aug-04 15:07:11.183 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors.34a8b669549a91fbcec2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:188] info: Aug-04 15:07:11.188 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors-async-workflow-builder.2363effa944b48a3001b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:234] info: Aug-04 15:07:11.234 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors-async-workflow-builder.2363effa944b48a3001b.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:240] info: Aug-04 15:07:11.240 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors-client.379d8fc126a622639fc6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:272] info: Aug-04 15:07:11.272 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors-client.379d8fc126a622639fc6.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:369] info: Aug-04 15:07:11.369 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors-workflow-builder.0cb9c0ff7257401b0298.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:432] info: Aug-04 15:07:11.431 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/gantry-v2-shared.efe21653b16b8da463ce.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:447] info: Aug-04 15:07:11.447 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-vendors-workflow-builder.0cb9c0ff7257401b0298.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:448] info: Aug-04 15:07:11.448 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vendors-node_modules_codemirror_addon_mode_overlay_js-node_modules_codemirror_mode_htmlmixed_-38ceb7.0efa04d0842932dfd6b9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:494] info: Aug-04 15:07:11.493 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/gantry-v2-shared.efe21653b16b8da463ce.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:506] info: Aug-04 15:07:11.505 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vendors-node_modules_codemirror_addon_mode_overlay_js-node_modules_codemirror_mode_htmlmixed_-38ceb7.0efa04d0842932dfd6b9.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:612] info: Aug-04 15:07:11.611 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vendors-node_modules_qrcode_lib_browser_js-_d0550.9eb036187c1c44294394.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:613] info: Aug-04 15:07:11.613 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vendors-node_modules_codemirror_addon_mode_simple_js-node_modules_codemirror_mode_clike_clike-24f51a.47c3c83b7767944c86f7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:640] info: Aug-04 15:07:11.640 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vendors-node_modules_qrcode_lib_browser_js-_d0550.9eb036187c1c44294394.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:642] info: Aug-04 15:07:11.642 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vendors-node_modules_codemirror_addon_mode_simple_js-node_modules_codemirror_mode_clike_clike-24f51a.47c3c83b7767944c86f7.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:645] info: Aug-04 15:07:11.644 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vendors-node_modules_codemirror_mode_handlebars_handlebars_js-node_modules_codemirror_mode_ha-4cd3fd.1230d17f44b1845a18f4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:648] info: Aug-04 15:07:11.648 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vendors-node_modules_mediapipe_selfie_segmentation_selfie_segmentation_js-node_modules_tensor-cc5968.ba6fac1a70b48afac0db.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:653] info: Aug-04 15:07:11.653 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vendors-node_modules_c3_c3_js-node_modules_d3-selection_index_js.c99554e7b1ce23a11455.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:690] info: Aug-04 15:07:11.689 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vendors-node_modules_codemirror_mode_handlebars_handlebars_js-node_modules_codemirror_mode_ha-4cd3fd.1230d17f44b1845a18f4.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:693] info: Aug-04 15:07:11.692 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vendors-node_modules_qrcode_lib_browser_js-_d0551.6708012f8cf87919f997.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:697] info: Aug-04 15:07:11.697 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vendors-node_modules_mediapipe_selfie_segmentation_selfie_segmentation_js-node_modules_tensor-cc5968.ba6fac1a70b48afac0db.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:702] info: Aug-04 15:07:11.702 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vendors-node_modules_c3_c3_js-node_modules_d3-selection_index_js.c99554e7b1ce23a11455.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:727] info: Aug-04 15:07:11.727 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vendors-node_modules_qrcode_lib_browser_js-_d0552.49fab9479fdc472e0a90.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:747] info: Aug-04 15:07:11.746 [SERVICE-WORKER] fetching asset https://a.slack-edge.com/bv1-13-br/vendors-node_modules_react-codemirror2_index_js.9742478129922ceb2d08.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:763] info: Aug-04 15:07:11.762 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vendors-node_modules_qrcode_lib_browser_js-_d0551.6708012f8cf87919f997.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:764] info: Aug-04 15:07:11.764 [SERVICE-WORKER] fetching asset /boot/client.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:799] info: Aug-04 15:07:11.799 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vendors-node_modules_qrcode_lib_browser_js-_d0552.49fab9479fdc472e0a90.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:801] info: Aug-04 15:07:11.801 [SERVICE-WORKER] fetching asset /boot/client-gov.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:822] info: Aug-04 15:07:11.822 [SERVICE-WORKER] putting asset in cache https://a.slack-edge.com/bv1-13-br/vendors-node_modules_react-codemirror2_index_js.9742478129922ceb2d08.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:832] info: Aug-04 15:07:11.832 [SERVICE-WORKER] fetching asset /boot/workflow-builder.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:11:904] info: Aug-04 15:07:11.903 [SERVICE-WORKER] fetching asset /boot/workflow-builder-gov.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:12:036] info: Aug-04 15:07:12.035 [SERVICE-WORKER] putting asset in cache /boot/client.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:12:062] info: Aug-04 15:07:12.061 [SERVICE-WORKER] putting asset in cache /boot/client-gov.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:12:074] info: Aug-04 15:07:12.073 [SERVICE-WORKER] fetching asset /boot/client-v2.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:12:090] info: Aug-04 15:07:12.089 [SERVICE-WORKER] putting asset in cache /boot/workflow-builder.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:12:100] info: Aug-04 15:07:12.100 [SERVICE-WORKER] fetching asset /boot/client-v2-gov.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:12:165] info: Aug-04 15:07:12.164 [SERVICE-WORKER] putting asset in cache /boot/workflow-builder-gov.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:12:330] info: Aug-04 15:07:12.330 [SERVICE-WORKER] putting asset in cache /boot/client-v2.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:12:378] info: Aug-04 15:07:12.378 [SERVICE-WORKER] putting asset in cache /boot/client-v2-gov.html 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:12:397] info: Aug-04 15:07:12.397 [SERVICE-WORKER] All files fetched and put in cache in 3235.899999999907ms 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:827] info: Aug-04 15:07:39.826 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/HeVN5KbSDJdT2p95AEks3Q-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:827] info: Aug-04 15:07:39.826 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/g-4rYQE3t9hPpv98Zn2EAQ-ancillary 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:827] info: Aug-04 15:07:39.826 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/qx6vO5haNiDD-zgv0m9SdQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:827] info: Aug-04 15:07:39.826 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/lBr4a6J1MObmAqTzYXS0pw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:828] info: Aug-04 15:07:39.827 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/HeVN5KbSDJdT2p95AEks3Q-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:829] info: Aug-04 15:07:39.828 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/g-4rYQE3t9hPpv98Zn2EAQ-ancillary 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:829] info: Aug-04 15:07:39.829 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/qx6vO5haNiDD-zgv0m9SdQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:830] info: Aug-04 15:07:39.829 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/XOz9e0oWEf7g2Kd4_brWlw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:836] info: Aug-04 15:07:39.835 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/wTsoC5jFBWQdgw3NsO9xgA-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:837] info: Aug-04 15:07:39.837 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/XOz9e0oWEf7g2Kd4_brWlw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:838] info: Aug-04 15:07:39.838 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/lBr4a6J1MObmAqTzYXS0pw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:840] info: Aug-04 15:07:39.840 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/DibRtxfpRv2XnZYrdFvtpQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:841] info: Aug-04 15:07:39.840 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/dKy0ShHFl414cqxHWoP9Ug-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:841] info: Aug-04 15:07:39.841 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/TdkX4Bx3Zx7BREetu1iDTA-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:845] info: Aug-04 15:07:39.844 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/wTsoC5jFBWQdgw3NsO9xgA-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:846] info: Aug-04 15:07:39.846 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/EHw0ysdU7FyUNiBcAwSOJQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:848] info: Aug-04 15:07:39.848 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/DibRtxfpRv2XnZYrdFvtpQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:850] info: Aug-04 15:07:39.849 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/TdkX4Bx3Zx7BREetu1iDTA-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:850] info: Aug-04 15:07:39.850 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/dKy0ShHFl414cqxHWoP9Ug-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:851] info: Aug-04 15:07:39.851 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/sGIXvb-7GVyuwuam0rY4hg-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:852] info: Aug-04 15:07:39.852 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/vxlLw0SIsYhgol_nzr3hiQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:852] info: Aug-04 15:07:39.852 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/Uzy6lMqsrLQ_oPOuZeM74Q-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:854] info: Aug-04 15:07:39.854 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/EHw0ysdU7FyUNiBcAwSOJQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:856] info: Aug-04 15:07:39.856 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/JdAlGoOZ7UB-7dlKrt7nYQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:861] info: Aug-04 15:07:39.861 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/Uzy6lMqsrLQ_oPOuZeM74Q-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:862] info: Aug-04 15:07:39.862 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/sGIXvb-7GVyuwuam0rY4hg-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:863] info: Aug-04 15:07:39.862 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/vxlLw0SIsYhgol_nzr3hiQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:863] info: Aug-04 15:07:39.863 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/JdAlGoOZ7UB-7dlKrt7nYQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:864] info: Aug-04 15:07:39.864 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/IdB6EsQTbxnsf3km1fY6xw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:865] info: Aug-04 15:07:39.864 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/OapM4yuPvVUuwbrKyKUFBg-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:865] info: Aug-04 15:07:39.865 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/DFrisHfYwfEJ_eJP8hJE9A-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:866] info: Aug-04 15:07:39.866 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/AhIQr9NZ_gX8kHC9w_4vwg-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:872] info: Aug-04 15:07:39.872 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/IdB6EsQTbxnsf3km1fY6xw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:880] info: Aug-04 15:07:39.879 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/OapM4yuPvVUuwbrKyKUFBg-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:880] info: Aug-04 15:07:39.880 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/DFrisHfYwfEJ_eJP8hJE9A-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:881] info: Aug-04 15:07:39.881 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/AhIQr9NZ_gX8kHC9w_4vwg-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:884] info: Aug-04 15:07:39.884 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/fzANk-e1DF_KYwn2yKlqqw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:884] info: Aug-04 15:07:39.884 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/vbI1vabFxN6VQzW55ebUUQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:885] info: Aug-04 15:07:39.884 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/NR8PV7pBV97BlnrYq4H0KQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:907] info: Aug-04 15:07:39.906 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/vbI1vabFxN6VQzW55ebUUQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:908] info: Aug-04 15:07:39.907 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/fzANk-e1DF_KYwn2yKlqqw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:909] info: Aug-04 15:07:39.908 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/NR8PV7pBV97BlnrYq4H0KQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:911] info: Aug-04 15:07:39.911 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/TcEhI56L-W-cqQ1vuoNs2w-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:912] info: Aug-04 15:07:39.911 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/IJmptAeFOBDcLYOjVP2wDQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:912] info: Aug-04 15:07:39.911 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/NW0sIS1s5VeGhaT44TxcbQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:928] info: Aug-04 15:07:39.927 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/TcEhI56L-W-cqQ1vuoNs2w-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:928] info: Aug-04 15:07:39.928 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/NW0sIS1s5VeGhaT44TxcbQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:930] info: Aug-04 15:07:39.929 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/IJmptAeFOBDcLYOjVP2wDQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:933] info: Aug-04 15:07:39.932 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/tKzFNO71iO6ZfTc_T2mAFA-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:933] info: Aug-04 15:07:39.933 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/EL658hug309sV6P0UaYAzQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:933] info: Aug-04 15:07:39.933 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/GB_1HoW9DMv36ZDkjEqOew-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:933] info: Aug-04 15:07:39.933 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/rc0nlfop2sn79K8YPdHRNQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:940] info: Aug-04 15:07:39.940 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/tKzFNO71iO6ZfTc_T2mAFA-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:941] info: Aug-04 15:07:39.941 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/EL658hug309sV6P0UaYAzQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:942] info: Aug-04 15:07:39.941 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/rc0nlfop2sn79K8YPdHRNQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:943] info: Aug-04 15:07:39.942 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/GB_1HoW9DMv36ZDkjEqOew-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:945] info: Aug-04 15:07:39.944 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/zvMHXJTqqWgN4cxve8qCKA-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:945] info: Aug-04 15:07:39.944 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/Q6WZt91tVe08dRV7sTVWQQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:949] info: Aug-04 15:07:39.945 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/73kuxZJYW_eVmXkx_oU2JQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:949] info: Aug-04 15:07:39.945 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/qnr5UikBXeY_y-l3lZq1RQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:963] info: Aug-04 15:07:39.952 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/zvMHXJTqqWgN4cxve8qCKA-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:964] info: Aug-04 15:07:39.954 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/Q6WZt91tVe08dRV7sTVWQQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:964] info: Aug-04 15:07:39.955 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/73kuxZJYW_eVmXkx_oU2JQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:964] info: Aug-04 15:07:39.955 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/qnr5UikBXeY_y-l3lZq1RQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:965] info: Aug-04 15:07:39.956 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/cAeoixGYpkQkzbhK9066_w-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:968] info: Aug-04 15:07:39.964 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/6zmiLMbzlclL8UdkxgbiYg-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:968] info: Aug-04 15:07:39.965 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/8j-jLdBdPA0g2JRnZjYn5w-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:968] info: Aug-04 15:07:39.965 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/_X-YxXqi-W9JTYdqcUYWxQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:970] info: Aug-04 15:07:39.970 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/cAeoixGYpkQkzbhK9066_w-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:973] info: Aug-04 15:07:39.972 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/5qc6FQVTnitOqsEHlJElYg-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:976] info: Aug-04 15:07:39.975 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/6zmiLMbzlclL8UdkxgbiYg-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:978] info: Aug-04 15:07:39.977 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/8j-jLdBdPA0g2JRnZjYn5w-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:980] info: Aug-04 15:07:39.979 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/_X-YxXqi-W9JTYdqcUYWxQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:981] info: Aug-04 15:07:39.981 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/lXsoRfICCdwyWd0kPA4I9w-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:982] info: Aug-04 15:07:39.981 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/5qc6FQVTnitOqsEHlJElYg-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:983] info: Aug-04 15:07:39.982 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/1GGU-aTZasRhijqQiBdmEA-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:983] info: Aug-04 15:07:39.983 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/xYTpZlxQ6DipWEJ6vwgM0g-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:984] info: Aug-04 15:07:39.983 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/TpPU2yWhk0HTbfhlm9XQvw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:991] info: Aug-04 15:07:39.990 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/lXsoRfICCdwyWd0kPA4I9w-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:992] info: Aug-04 15:07:39.992 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/xYTpZlxQ6DipWEJ6vwgM0g-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:993] info: Aug-04 15:07:39.992 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/1GGU-aTZasRhijqQiBdmEA-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:994] info: Aug-04 15:07:39.993 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/TpPU2yWhk0HTbfhlm9XQvw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:994] info: Aug-04 15:07:39.994 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/-CB6m19lnaq7Dp6cS8oLHQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:995] info: Aug-04 15:07:39.995 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/JSIarIZqTWxeQ-rXf2uq7g-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:996] info: Aug-04 15:07:39.995 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/xhMTq7jToW2VxDa4zmG3ug-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:39:996] info: Aug-04 15:07:39.995 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/bmGTMp9xORHkEX-XgBu5rw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:40:002] info: Aug-04 15:07:40.002 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/-CB6m19lnaq7Dp6cS8oLHQ-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:40:004] info: Aug-04 15:07:40.003 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/JSIarIZqTWxeQ-rXf2uq7g-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:40:005] info: Aug-04 15:07:40.005 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/I8cdfjk2QUANeksJY5RA1Q-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:40:006] info: Aug-04 15:07:40.006 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/xhMTq7jToW2VxDa4zmG3ug-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:40:009] info: Aug-04 15:07:40.008 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/bmGTMp9xORHkEX-XgBu5rw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:40:012] info: Aug-04 15:07:40.011 [SERVICE-WORKER] fetching asset //a.slack-edge.com/canvas_blob/zBMpZ_k03_xsjwpEywoNuA 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:40:014] info: Aug-04 15:07:40.014 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/zBMpZ_k03_xsjwpEywoNuA 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:40:028] info: Aug-04 15:07:40.027 [SERVICE-WORKER] putting asset in cache //a.slack-edge.com/canvas_blob/I8cdfjk2QUANeksJY5RA1Q-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 15:07:40:037] info: Aug-04 15:07:40.036 [SERVICE-WORKER] All canvas files fetched 
+{
+  "versionId": 0
+}
+[08/04/25, 15:10:39:078] info: Aug-04 15:10:39.077 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-browse-channels-view.310df57c709f593703b2.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 15:16:58:076] info: Aug-04 15:16:58.075 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-app-space-view.0e90e6ea809aa1c5b239.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 16:42:05:950] info: Aug-04 16:42:05.950 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-13-br/lato-italic-bold-99def7d.woff2 
+{
+  "versionId": 0
+}
+[08/04/25, 16:54:50:271] info: Aug-04 16:54:50.270 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-profile-view.979e29b191aa20a8a5cb.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 20:02:46:089] info: Aug-04 20:02:46.089 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-dms-list-view.6af969cd6c48e0ab6f20.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 20:02:46:090] info: Aug-04 20:02:46.089 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/bv1-13-br/gantry-v2-async-client-page-view.3e98cc9f61183f3d2f8e.min.js 
+{
+  "versionId": 0
+}
+[08/04/25, 20:03:31:803] info: Aug-04 20:03:31.802 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/canvas_blob/IdB6EsQTbxnsf3km1fY6xw-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 20:03:31:879] info: Aug-04 20:03:31.879 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/canvas_blob/dKy0ShHFl414cqxHWoP9Ug-chunk 
+{
+  "versionId": 0
+}
+[08/04/25, 20:03:31:880] info: Aug-04 20:03:31.879 [SERVICE-WORKER] responding from cache https://a.slack-edge.com/canvas_blob/8j-jLdBdPA0g2JRnZjYn5w-chunk 
+{
+  "versionId": 0
+}
