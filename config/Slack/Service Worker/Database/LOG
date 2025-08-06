@@ -1,2 +1,3 @@
-2025/08/04-15:07:08.656 372a Creating DB /home/deepanshu/.config/Slack/Service Worker/Database since it was missing.
-2025/08/04-15:07:08.662 372a Reusing MANIFEST /home/deepanshu/.config/Slack/Service Worker/Database/MANIFEST-000001
+2025/08/06-10:01:23.437 17d9 Reusing MANIFEST /home/deepanshu/.config/Slack/Service Worker/Database/MANIFEST-000001
+2025/08/06-10:01:23.437 17d9 Recovering log #3
+2025/08/06-10:01:23.438 17d9 Reusing old log /home/deepanshu/.config/Slack/Service Worker/Database/000003.log 
