@@ -5,6 +5,7 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+alias kubectl='sudo kubectl'
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias s='source .venv/bin/activate && echo "Venv activated: $(pip -V)"'
