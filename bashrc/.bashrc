@@ -21,6 +21,7 @@ export PATH="$PATH:/home/deepanshu/.local/bin"
 
 export PATH="$PATH:/home/deepanshu/scripts"
 export PATH="$PATH:/home/deepanshu/scripts/jetbrains"
+export GOBIN=${GOBIN:-$(go env GOPATH)/bin}
 . "$HOME/.cargo/env"
 
 
@@ -39,3 +40,7 @@ function y() {
 
 
 
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
