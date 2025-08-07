@@ -1,18 +1,6 @@
-2025/08/05-21:22:49.576 10eb8 Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2025/08/05-21:22:49.577 10eb8 Recovering log #49
-2025/08/05-21:22:49.577 10eb8 Reusing old log /home/deepanshu/.config/Slack/Local Storage/leveldb/000049.log 
-2025/08/05-21:23:49.580 10e9d Level-0 table #53: started
-2025/08/05-21:23:49.586 10e9d Level-0 table #53: 19740 bytes OK
-2025/08/05-21:23:49.588 10e9d Delete type=0 #49
-2025/08/05-21:23:49.588 10e9d Compacting 4@0 + 1@1 files
-2025/08/05-21:23:49.590 10e9d Generated table #54@0: 10 keys, 15875 bytes
-2025/08/05-21:23:49.590 10e9d Compacted 4@0 + 1@1 files => 15875 bytes
-2025/08/05-21:23:49.593 10e9d compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/05-21:23:49.593 10e9d Delete type=2 #43
-2025/08/05-21:23:49.593 10e9d Delete type=2 #45
-2025/08/05-21:23:49.593 10e9d Delete type=2 #47
-2025/08/05-21:23:49.593 10e9d Delete type=2 #50
-2025/08/05-21:23:49.593 10e9d Delete type=2 #53
-2025/08/05-21:33:49.741 10e9d Level-0 table #56: started
-2025/08/05-21:33:49.746 10e9d Level-0 table #56: 16180 bytes OK
-2025/08/05-21:33:49.748 10e9d Delete type=0 #52
+2025/08/06-10:01:23.436 17be Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2025/08/06-10:01:23.437 17be Recovering log #55
+2025/08/06-10:01:23.437 17be Reusing old log /home/deepanshu/.config/Slack/Local Storage/leveldb/000055.log 
+2025/08/06-10:02:23.441 17bf Level-0 table #59: started
+2025/08/06-10:02:23.444 17bf Level-0 table #59: 15613 bytes OK
+2025/08/06-10:02:23.446 17bf Delete type=0 #55
