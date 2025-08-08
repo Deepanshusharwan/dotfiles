@@ -1,6 +1,6 @@
 {
     "DesktopAudioDevice1": {
-        "prev_ver": 520093700,
+        "prev_ver": 520159233,
         "name": "Desktop Audio",
         "uuid": "2dcccd7a-6bea-407d-a3c6-15a1c6256e7c",
         "id": "pulse_output_capture",
@@ -31,7 +31,7 @@
         "private_settings": {}
     },
     "DesktopAudioDevice2": {
-        "prev_ver": 520093700,
+        "prev_ver": 520159233,
         "name": "Desktop Audio 2",
         "uuid": "5dade68a-615e-44c3-9f41-29824964fcab",
         "id": "pulse_output_capture",
@@ -71,7 +71,7 @@
     "name": "Untitled",
     "sources": [
         {
-            "prev_ver": 520093700,
+            "prev_ver": 520159233,
             "name": "Scene",
             "uuid": "a75c90e4-89bc-436c-b8cd-e68bd973fbd0",
             "id": "scene",
@@ -156,10 +156,11 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093700,
+            "prev_ver": 520159233,
             "name": "Screen Capture (PipeWire)",
             "uuid": "7d5d1e65-ab54-4950-a69d-cff85043c4bc",
             "id": "pipewire-screen-capture-source",
@@ -211,11 +212,12 @@
     ],
     "transitions": [],
     "saved_projectors": [],
+    "canvases": [],
     "current_transition": "Fade",
     "transition_duration": 300,
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": 0,
+    "scaling_level": -1,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "modules": {
