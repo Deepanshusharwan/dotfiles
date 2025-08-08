@@ -1,24 +1,31 @@
-2025/08/06-16:52:22.236 1c380 Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2025/08/06-16:52:22.236 1c380 Recovering log #58
-2025/08/06-16:52:22.236 1c380 Reusing old log /home/deepanshu/.config/Slack/Local Storage/leveldb/000058.log 
-2025/08/06-16:53:22.239 1c380 Level-0 table #62: started
-2025/08/06-16:53:22.245 1c380 Level-0 table #62: 16682 bytes OK
-2025/08/06-16:53:22.248 1c380 Delete type=0 #58
-2025/08/06-16:55:22.390 1c381 Level-0 table #64: started
-2025/08/06-16:55:22.396 1c381 Level-0 table #64: 15375 bytes OK
-2025/08/06-16:55:22.398 1c381 Delete type=0 #61
-2025/08/06-16:55:22.399 1c381 Compacting 4@0 + 1@1 files
-2025/08/06-16:55:22.401 1c381 Generated table #65@0: 11 keys, 15869 bytes
-2025/08/06-16:55:22.401 1c381 Compacted 4@0 + 1@1 files => 15869 bytes
-2025/08/06-16:55:22.404 1c381 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/06-16:55:22.404 1c381 Delete type=2 #54
-2025/08/06-16:55:22.404 1c381 Delete type=2 #56
-2025/08/06-16:55:22.404 1c381 Delete type=2 #59
-2025/08/06-16:55:22.404 1c381 Delete type=2 #62
-2025/08/06-16:55:22.404 1c381 Delete type=2 #64
-2025/08/06-17:01:22.391 1c380 Level-0 table #67: started
-2025/08/06-17:01:22.397 1c380 Level-0 table #67: 15629 bytes OK
-2025/08/06-17:01:22.400 1c380 Delete type=0 #63
-2025/08/06-17:02:22.390 1c380 Level-0 table #69: started
-2025/08/06-17:02:22.396 1c380 Level-0 table #69: 15326 bytes OK
-2025/08/06-17:02:22.400 1c380 Delete type=0 #66
+2025/08/08-18:55:51.585 1bedd Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2025/08/08-18:55:51.586 1bedd Recovering log #102
+2025/08/08-18:55:51.587 1bedd Level-0 table #106: started
+2025/08/08-18:55:51.589 1bedd Level-0 table #106: 16568 bytes OK
+2025/08/08-18:55:51.592 1bedd Delete type=0 #102
+2025/08/08-18:56:51.595 1bedd Level-0 table #109: started
+2025/08/08-18:56:51.601 1bedd Level-0 table #109: 15757 bytes OK
+2025/08/08-18:56:51.604 1bedd Delete type=0 #107
+2025/08/08-18:57:51.744 1bede Level-0 table #111: started
+2025/08/08-18:57:51.748 1bede Level-0 table #111: 16451 bytes OK
+2025/08/08-18:57:51.751 1bede Delete type=0 #108
+2025/08/08-19:06:51.743 1bedd Level-0 table #113: started
+2025/08/08-19:06:51.748 1bedd Level-0 table #113: 16992 bytes OK
+2025/08/08-19:06:51.751 1bedd Delete type=0 #110
+2025/08/08-19:06:51.751 1bedd Compacting 4@0 + 1@1 files
+2025/08/08-19:06:51.753 1bedd Generated table #114@0: 14 keys, 16685 bytes
+2025/08/08-19:06:51.753 1bedd Compacted 4@0 + 1@1 files => 16685 bytes
+2025/08/08-19:06:51.755 1bedd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/08-19:06:51.755 1bedd Delete type=2 #104
+2025/08/08-19:06:51.755 1bedd Delete type=2 #106
+2025/08/08-19:06:51.755 1bedd Delete type=2 #109
+2025/08/08-19:06:51.755 1bedd Delete type=2 #111
+2025/08/08-19:06:51.755 1bedd Delete type=2 #113
+2025/08/08-19:12:51.743 1bedd Level-0 table #116: started
+2025/08/08-19:12:51.746 1bedd Level-0 table #116: 16850 bytes OK
+2025/08/08-19:12:51.749 1bedd Delete type=0 #112
+2025/08/08-19:20:51.744 1bede Level-0 table #118: started
+2025/08/08-19:20:51.748 1bede Level-0 table #118: 18540 bytes OK
+2025/08/08-19:20:51.751 1bede Delete type=0 #115
+2025/08/08-19:21:04.183 1bef8 Level-0 table #120: started
+2025/08/08-19:21:04.188 1bef8 Level-0 table #120: 15687 bytes OK
