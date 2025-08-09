@@ -22796,3 +22796,1563 @@ Drafts ignored: 0
 [08/08/25, 23:18:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
 [08/08/25, 23:18:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
 [08/08/25, 23:18:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/08/25, 23:33:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/08/25, 23:33:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/08/25, 23:33:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/08/25, 23:33:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/08/25, 23:33:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/08/25, 23:33:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/08/25, 23:33:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/08/25, 23:33:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/08/25, 23:33:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/08/25, 23:48:13:399] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/08/25, 23:48:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/08/25, 23:48:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/08/25, 23:48:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/08/25, 23:48:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/08/25, 23:48:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/08/25, 23:48:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/08/25, 23:48:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/08/25, 23:48:13:400] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/08/25, 23:51:42:635] info: Store: QUIT_APP  
+[08/08/25, 23:51:42:636] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/08/25, 23:51:42:640] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[08/08/25, 23:51:42:640] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[08/08/25, 23:51:42:640] info: [RELOAD] Page is about to unload. This might not be a reload, it could be a window close or navigation 
+[08/08/25, 23:51:42:640] info: [WINDOW-UNLOADING] (T02S80P41LN) Main window unloading 
+[08/08/25, 23:51:42:644] info: [WINDOW-UNLOADING] (T02S80P41LN) workspace handling window unloading event 
+[08/08/25, 23:51:42:647] info: [MESSAGE-LIST] (T02S80P41LN) getScrollmark reason:with_serialization channelId:D098PJ6AVKP at end 
+[08/08/25, 23:51:42:648] info: [PERSIST] (T02S80P41LN) Persisting state to storage because the window is about to unload 
+[08/08/25, 23:51:42:655] info: Store: DOWNLOADS_CLEANED_UP  
+[08/08/25, 23:51:42:655] info: [WIN-RESTORE] Flushing current window restoration data and ignoring all future saves due to app quit 
+[08/09/25, 00:39:41:565] info: 
+╔═════════════════════════════════════════════════════╗
+║      Slack 4.44.60, linux 6.12.41-1-lts on x64      ║
+╚═════════════════════════════════════════════════════╝ 
+[08/09/25, 00:39:41:565] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-console",
+  "loggerInstanceCount": 3
+}
+[08/09/25, 00:39:41:565] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Asia/Calcutta",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.44.60",
+  "PACKAGE_MANIFEST.commit": "cf47348",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/09/25, 00:39:41:720] info: Starting Sentry (Preload) 
+[08/09/25, 00:39:41:720] info: getSentryDSN: Setting sentry URL to slack.com 
+[08/09/25, 00:39:41:723] info: Creating desktop interface object 
+[08/09/25, 00:39:41:724] info: Exposing context bridge 
+[08/09/25, 00:39:41:745] info: Store: WINDOW_CREATED {
+  "type": "main",
+  "webappType": "app",
+  "initialLoadURL": "https://app.slack.com/client/T02S80P41LN",
+  "id": 1,
+  "frame": {
+    "isHtmlFullScreen": false,
+    "isCurrentlyAudible": false,
+    "isFullScreen": false,
+    "isMinimized": false,
+    "isMaximized": false,
+    "isVisible": false,
+    "isFocused": false,
+    "bounds": {
+      "x": 264,
+      "y": 86,
+      "width": 1200,
+      "height": 800
+    },
+    "hasVibrancy": false,
+    "isAlwaysOnTop": false
+  }
+} 
+[08/09/25, 00:39:41:753] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 1,
+  "interval": 93
+} 
+[08/09/25, 00:39:41:753] info: Store: SET_UPDATE_SUPPORTED false 
+[08/09/25, 00:39:41:753] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "unloaded",
+  "type": "app"
+} 
+[08/09/25, 00:39:41:753] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[08/09/25, 00:39:41:754] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 193
+} 
+[08/09/25, 00:39:41:769] info: Store: MAIN_WINDOW_SHOWN  
+[08/09/25, 00:39:41:769] info: Store: CLEAR_NOTIFICATIONS  
+[08/09/25, 00:39:41:992] info: [METRICS] Starting timers for metrics collection 
+[08/09/25, 00:39:42:388] info: [APP] client-v2 
+[08/09/25, 00:39:42:388] info: [DATE/TIME] 1754680182386 "2025-08-08T19:09:42.386Z" 
+[08/09/25, 00:39:42:388] info: [VERSION] version_hash: d67d108f999c8130b380d5abd11baf670067d7dc 
+[08/09/25, 00:39:42:388] info: [VERSION] version_ts: 1754668503 
+[08/09/25, 00:39:42:388] info: [VERSION] min_version_data_ts: 1722374725 
+[08/09/25, 00:39:42:388] info: [URL] https://app.slack.com/client/T02S80P41LN 
+[08/09/25, 00:39:42:388] info: [AUTH] authCookieChanged: started listening to the event 
+[08/09/25, 00:39:42:389] info: [AUTH] Credentials are fresh (psc=1754300223, csc=1754300223) 
+[08/09/25, 00:39:42:389] info: [LOCAL-CONFIG] ingestIncomingConfig(): no incoming payload to process; current teams: T02S80P41LN:U098PJ614F7 
+[08/09/25, 00:39:42:389] info: [BOOT] Initial user team ID: T02S80P41LN 
+[08/09/25, 00:39:42:389] info: [BOOT] (T02S80P41LN) Minimum supported data version is 1722374725; currently on 1754622458 
+[08/09/25, 00:39:42:389] info: [PERSIST] (T02S80P41LN) Getting state from IndexedDB 
+[08/09/25, 00:39:42:389] info: [TRACER] Tracing is not sampled by default for this team. 
+[08/09/25, 00:39:42:416] info: [TRACER] Tracing is not sampled by default for this session. 
+[08/09/25, 00:39:42:420] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.418 experiments.getByUser called 
+[08/09/25, 00:39:42:420] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.418 experiments.getByUser is ENQUEUED 
+[08/09/25, 00:39:42:422] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.422 api.features called 
+[08/09/25, 00:39:42:422] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.422 api.features is ENQUEUED 
+[08/09/25, 00:39:42:424] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.424 features.access.policies.list called 
+[08/09/25, 00:39:42:424] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.424 features.access.policies.list is ENQUEUED 
+[08/09/25, 00:39:42:425] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.425 client.shouldReload called with reason: boot 
+[08/09/25, 00:39:42:425] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.425 client.shouldReload is ENQUEUED 
+[08/09/25, 00:39:42:425] info: [BOOT] Couldn't determine boot channel. Falling back to default channel 
+[08/09/25, 00:39:42:484] info: Store: UPDATE_SETTINGS {
+  "userTheme": "dark"
+} 
+[08/09/25, 00:39:42:494] info: Store: UPDATE_SETTINGS {
+  "systemThemeSyncEnabled": true
+} 
+[08/09/25, 00:39:42:495] info: Store: SELECTION_CHANGED T02S80P41LN 
+[08/09/25, 00:39:42:603] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/09/25, 00:39:42:703] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.418 experiments.getByUser is ACTIVE 
+[08/09/25, 00:39:42:704] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.422 api.features is ACTIVE 
+[08/09/25, 00:39:42:704] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.424 features.access.policies.list is ACTIVE 
+[08/09/25, 00:39:42:704] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.425 client.shouldReload is ACTIVE 
+[08/09/25, 00:39:42:758] info: [PERSIST] (T02S80P41LN) Successfully got state from IndexedDB 
+[08/09/25, 00:39:42:759] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.758 client.userBoot called with reason: deferred-data 
+[08/09/25, 00:39:42:759] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.758 client.userBoot is ENQUEUED 
+[08/09/25, 00:39:42:759] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.758 client.userBoot is ACTIVE 
+[08/09/25, 00:39:42:771] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+} 
+[08/09/25, 00:39:42:833] info: Breadcrumb: fetch: undefined {
+  "method": "GET",
+  "url": "[REDACTED]",
+  "status_code": 200
+} 
+[08/09/25, 00:39:42:835] info: Network status check {
+  "elapsed_time_ms": 342,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[08/09/25, 00:39:42:836] info: Store: SET_NETWORK_STATUS online 
+[08/09/25, 00:39:43:738] info: [BOOT] (T02S80P41LN) Booting with persisted store 
+[08/09/25, 00:39:43:738] info: [PERSIST] (T02S80P41LN) Checking for persistence method changes 
+[08/09/25, 00:39:43:739] info: [PERSIST] (T02S80P41LN) Preparing state for hydration 
+[08/09/25, 00:39:43:769] warn: SCHEMA Invalid data for schema 'redux-prefs'. This does not necessarily mean that an error has occurred. Errors:
+[{"keyword":"required","dataPath":".iaTheme","schemaPath":"#/properties/iaTheme/allOf/0/required","params":{"missingProperty":"mode"},"message":"should have required property 'mode'"}] {"subtype":"redux-prefs"} 
+[08/09/25, 00:39:43:769] info: [PERSIST] (T02S80P41LN) prefs persisted data does not pass schema validation, throwing away persisted data for it 
+[08/09/25, 00:39:43:781] info: [PERSIST] (T02S80P41LN) State prepared for hydration 
+[08/09/25, 00:39:43:781] info: [PERSIST] (T02S80P41LN) Checking for required data 
+[08/09/25, 00:39:43:790] info: [BOOT] (T02S80P41LN) Configuring redux store 
+[08/09/25, 00:39:43:796] info: [DESKTOP-MIDDLEWARE] (T02S80P41LN) Forwarding redux payload to desktop ["theme","notificationPrefs","connectivityPrefs","featureFlags","unreads","locale","version","frontendBuildType","userId"] 
+[08/09/25, 00:39:43:804] info: [NAVIGATION-MIDDLEWARE] Starting a new navigation middleware execution {"context":"client-boot","nextViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AVKP","viewType":"Channel","params":{"parentTab":"D098PJ6AVKP"},"uiState":{"preventMoveFocus":false}}},"middlewareCount":6} 
+[08/09/25, 00:39:43:804] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"ChannelList","viewType":"ChannelList"},"results":[["EnsureChannelHasParentTabMiddleware",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["AttemptToSetSolutionsGalleryPref",false],["EnsureAppViewType",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.3999999985098839} 
+[08/09/25, 00:39:43:805] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for sidebar container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AVKP","viewType":"Channel","params":{"parentTab":"D098PJ6AVKP"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":1.3000000044703484} 
+[08/09/25, 00:39:43:805] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"D098PJ6AVKP","viewType":"Channel","params":{"parentTab":"D098PJ6AVKP"},"uiState":{"preventMoveFocus":false}},"results":[["EnsureChannelHasParentTabMiddleware",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["AttemptToSetSolutionsGalleryPref",false],["EnsureAppViewType",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.10000000149011612} 
+[08/09/25, 00:39:43:807] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AVKP","viewType":"Channel","params":{"parentTab":"D098PJ6AVKP"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":0.30000000447034836} 
+[08/09/25, 00:39:43:807] info: [NAVIGATION-MIDDLEWARE] Navigation middleware execution is complete {"maybeUpdatedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AVKP","viewType":"Channel","params":{"parentTab":"D098PJ6AVKP"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"executionTime":2} 
+[08/09/25, 00:39:43:810] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Creating desktop delegate 
+[08/09/25, 00:39:43:811] info: Exposing workspace desktop delegate for  {
+  "workspaceId": "T02S80P41LN"
+} 
+[08/09/25, 00:39:43:811] info: Setting global desktop delegate 
+[08/09/25, 00:39:43:814] info: [BOOT] (T02S80P41LN) (T02S80P41LN) Mounting client 
+[08/09/25, 00:39:43:927] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680183.926 users.interactions.list called with reason: canvas_tab_coachmark 
+[08/09/25, 00:39:43:927] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680183.926 users.interactions.list is ENQUEUED 
+[08/09/25, 00:39:43:927] info: [COUNTS] (T02S80P41LN) dmsBadgeCount: 0 
+[08/09/25, 00:39:43:936] info: [DEVICE-PERMISSIONS-MA] Initializing media device permissions manager 
+[08/09/25, 00:39:43:936] info: [DEVICE-PERMISSIONS-MA] Permissions loaded from local storage {"permissions":{"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}},"timestamp":1754674216691} 
+[08/09/25, 00:39:43:936] info: [DEVICE-PERMISSIONS-MA] Using desktop device permissions strategy 
+[08/09/25, 00:39:43:936] info: [DEVICE-PERMISSIONS-MA] Scheduled permissions refresh 
+[08/09/25, 00:39:43:937] info: [DEVICE-PREFS] Initializing device preferences manager with teamId: T02S80P41LN and useDevicesExp: true 
+[08/09/25, 00:39:43:937] info: [DEVICE-PREFS] Using experimental device manager 
+[08/09/25, 00:39:43:937] info: [SOUND-PLAYBACK] Setting sound playback to prefer OS default sink: true 
+[08/09/25, 00:39:43:955] warn: TRACER (T02S80P41LN) (boot:time_to_mount_client) was forced closed and marked with the _flush=true tag. 
+[08/09/25, 00:39:43:956] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680183.926 users.interactions.list is ACTIVE 
+[08/09/25, 00:39:44:060] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/09/25, 00:39:44:062] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/09/25, 00:39:44:079] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.424 features.access.policies.list is RESOLVED 
+[08/09/25, 00:39:44:080] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.422 api.features is RESOLVED 
+[08/09/25, 00:39:44:081] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.425 client.shouldReload is RESOLVED 
+[08/09/25, 00:39:44:081] info: [BOOT] No need to reload 
+[08/09/25, 00:39:44:082] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.418 experiments.getByUser is RESOLVED 
+[08/09/25, 00:39:44:083] info: [BOOT] Feature flag config version: 1754680182; Experiments config version: 1754680183 
+[08/09/25, 00:39:44:083] info: [BOOT] Current earliest config version: 1754680182; All config versions: {"T02S80P41LN":1754680182} 
+[08/09/25, 00:39:44:084] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680182.758 client.userBoot is RESOLVED 
+[08/09/25, 00:39:44:087] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680184.086 onboarding.fetch called 
+[08/09/25, 00:39:44:088] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680184.086 onboarding.fetch is ENQUEUED 
+[08/09/25, 00:39:44:088] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680184.086 onboarding.fetch is ACTIVE 
+[08/09/25, 00:39:44:091] info: [UFM-PERMISSIONS] (T02S80P41LN) requesting ACCESS_SLACK_AI_SEARCH,CREATE_PUBLIC_CHANNEL,CREATE_PRIVATE_CHANNEL,ACCESS_SLACK_AI_CHANNEL_THREAD_SUMMARIES,ACCESS_SLACK_AI_RECAP,ACCESS_SLACK_AI_FILE_SUMMARIES,ADD_FULL_USER_TO_WORKSPACE,VIEW_OVERVIEW_ANALYTICS,VIEW_MEMBER_ANALYTICS,VIEW_APP_ANALYTICS,VIEW_CHANNEL_ANALYTICS,VIEW_TOP_LEVEL_WORKFLOWS,ADD_CUSTOM_EMOJI,EDIT_SLACKBOT_RESPONSES,ADD_GUEST_USER_TO_WORKSPACE,REMOVE_GUEST_USER_FROM_WORKSPACE,REMOVE_FULL_USER_FROM_WORKSPACE,CONVERT_TO_GUEST,CONVERT_TO_MEMBER,READ_LEGAL_HOLDS,WRITE_LEGAL_HOLDS (1) 
+[08/09/25, 00:39:44:092] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.092 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/09/25, 00:39:44:093] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.092 slackAi.permissions.getForUser is ENQUEUED 
+[08/09/25, 00:39:44:093] info: [API-Q] (T02S80P41LN) noversion-1754680184.093 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/09/25, 00:39:44:094] info: [API-Q] (T02S80P41LN) noversion-1754680184.093 Flannel permissions/info is ENQUEUED 
+[08/09/25, 00:39:44:094] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.092 slackAi.permissions.getForUser is ACTIVE 
+[08/09/25, 00:39:44:094] info: [API-Q] (T02S80P41LN) noversion-1754680184.093 Flannel permissions/info is ACTIVE 
+[08/09/25, 00:39:44:094] info: [UFM] (T02S80P41LN) requesting D098PJ6AVKP (1) 
+[08/09/25, 00:39:44:095] info: [API-Q] (T02S80P41LN) noversion-1754680184.095 Flannel huddles/info called with reason: flannel-call:huddles/info 
+[08/09/25, 00:39:44:095] info: [API-Q] (T02S80P41LN) noversion-1754680184.095 Flannel huddles/info is ENQUEUED 
+[08/09/25, 00:39:44:095] info: [API-Q] (T02S80P41LN) noversion-1754680184.095 Flannel huddles/info is ACTIVE 
+[08/09/25, 00:39:44:142] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://a.slack-edge.com/bv1-13-br/lato-italic-5bbcd6c.woff2 
+[08/09/25, 00:39:44:164] info: [DEVICE-PREFS] Amending label for OS default audioinput device: Default -> System Default (Default) 
+[08/09/25, 00:39:44:164] info: [DEVICE-PREFS] Amending label for OS default audiooutput device: Default -> System Default (Default) 
+[08/09/25, 00:39:44:165] info: [DEVICE-PREFS] Device list update complete 
+[08/09/25, 00:39:44:165] info: [DEVICE-PREFS] Device list change handler updated 
+[08/09/25, 00:39:44:165] info: [DEVICE-PREFS] Device preferences manager initialized 
+[08/09/25, 00:39:44:165] info: [DEVICE-PREFS] Analyzing stored device records 
+[08/09/25, 00:39:44:165] info: [DEVICE-PREFS] Returning all records for initialization analyses 
+[08/09/25, 00:39:44:165] info: [DEVICE-PREFS] Device selection records analysis: {"totalRecords":0,"webAudioDevices":0,"webAudioSelectedDevices":0,"webAudioUsedDevices":0,"microphoneCount":0,"speakerCount":0,"cameraCount":0} 
+[08/09/25, 00:39:44:165] info: [DEVICE-PREFS] Device preferences manager initialized 
+[08/09/25, 00:39:44:168] info: Store: REDUX_UPDATE_FROM_WEBAPP (T02S80P41LN) Changed keys [theme,notificationPrefs,connectivityPrefs,featureFlags,unreads,locale,version,frontendBuildType,userId] 
+[08/09/25, 00:39:44:168] info: Store: EXTEND_MENU global: menucategory-file,menucategory-view,menucategory-jump-to 
+[08/09/25, 00:39:44:168] info: Store: EXTEND_MENU T02S80P41LN: menucategory-file,menucategory-view,menucategory-edit,menucategory-help 
+[08/09/25, 00:39:44:168] info: Store: UPDATE_SETTINGS {
+  "zoomLevel": 0
+} 
+[08/09/25, 00:39:44:170] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[08/09/25, 00:39:44:231] info: [WD] All assets have reported back; s: 17; f: 0 
+[08/09/25, 00:39:44:241] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680183.926 users.interactions.list is RESOLVED 
+[08/09/25, 00:39:44:241] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[08/09/25, 00:39:44:260] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.260 users.prefs.set called with reason: prefs-api/setUserPrefByApi 
+[08/09/25, 00:39:44:260] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.260 users.prefs.set is ENQUEUED 
+[08/09/25, 00:39:44:261] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.261 users.prefs.set called with reason: prefs-api/setUserPrefByApi 
+[08/09/25, 00:39:44:261] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.261 users.prefs.set is ENQUEUED 
+[08/09/25, 00:39:44:261] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.261 megaphone.notifications.list called with reason: load-megaphone-notification-data 
+[08/09/25, 00:39:44:262] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.261 megaphone.notifications.list is ENQUEUED 
+[08/09/25, 00:39:44:263] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.260 users.prefs.set is ACTIVE 
+[08/09/25, 00:39:44:264] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.261 users.prefs.set is ACTIVE 
+[08/09/25, 00:39:44:264] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.261 megaphone.notifications.list is ACTIVE 
+[08/09/25, 00:39:44:385] info: [DRAFTS] (T02S80P41LN) There are no channels with drafts 
+[08/09/25, 00:39:44:386] info: [BOOT] (T02S80P41LN) Beaconed client boot mount success 
+[08/09/25, 00:39:44:386] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.386 sharedInvites.canGetLink called with reason: sidebar-mount 
+[08/09/25, 00:39:44:386] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.386 sharedInvites.canGetLink is ENQUEUED 
+[08/09/25, 00:39:44:403] error: Listener added for a 'DOMNodeInserted' mutation event. Support for this event type has been removed, and this event will no longer be fired. See https://chromestatus.com/feature/5083947249172480 for more information. 
+[08/09/25, 00:39:44:419] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.419 users.interactions.list called with reason: channel-folder-add-folder-badge-load-interactions 
+[08/09/25, 00:39:44:419] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.419 users.interactions.list is ENQUEUED 
+[08/09/25, 00:39:44:419] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.419 users.interactions.list called with reason: ai_workspace_resource_tab_coachmark 
+[08/09/25, 00:39:44:420] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.419 users.interactions.list is ENQUEUED 
+[08/09/25, 00:39:44:569] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.568 users.profile.getSections called with reason: profiles 
+[08/09/25, 00:39:44:569] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.568 users.profile.getSections is ENQUEUED 
+[08/09/25, 00:39:44:588] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.386 sharedInvites.canGetLink is ACTIVE 
+[08/09/25, 00:39:44:591] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.419 users.interactions.list is ACTIVE 
+[08/09/25, 00:39:44:591] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.419 users.interactions.list is ACTIVE 
+[08/09/25, 00:39:44:591] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.568 users.profile.getSections is ACTIVE 
+[08/09/25, 00:39:44:608] info: [UFM-PERMISSIONS] (T02S80P41LN) requesting MANAGE_CHANNEL_PERMISSIONS,CAN_AT_CHANNEL,CAN_AT_EVERYONE,ARCHIVE_CHANNEL (1) 
+[08/09/25, 00:39:44:608] info: [API-Q] (T02S80P41LN) noversion-1754680184.608 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/09/25, 00:39:44:608] info: [API-Q] (T02S80P41LN) noversion-1754680184.608 Flannel permissions/info is ENQUEUED 
+[08/09/25, 00:39:44:609] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.092 slackAi.permissions.getForUser is RESOLVED 
+[08/09/25, 00:39:44:609] info: [API-Q] (T02S80P41LN) noversion-1754680184.608 Flannel permissions/info is ACTIVE 
+[08/09/25, 00:39:44:610] info: [BOOT-QUEUE] T02S80P41LN noversion-1754680184.086 onboarding.fetch is RESOLVED 
+[08/09/25, 00:39:44:611] info: [BOOT] (T02S80P41LN) Dispatching API data 
+[08/09/25, 00:39:44:611] info: [BOOT] (T02S80P41LN) Dispatching boot data 
+[08/09/25, 00:39:44:620] info: [DESKTOP-MIDDLEWARE] (T02S80P41LN) Forwarding redux payload to desktop ["notificationPrefs","unreads"] 
+[08/09/25, 00:39:44:622] info: [DESKTOP-MIDDLEWARE] (T02S80P41LN) Forwarding redux payload to desktop ["connectivityPrefs"] 
+[08/09/25, 00:39:44:633] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/09/25, 00:39:44:634] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.633 search.autocomplete.topEmojis called with reason: loadEmoji-maybeReloadEmoji-setModelData 
+[08/09/25, 00:39:44:634] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.633 search.autocomplete.topEmojis is ENQUEUED 
+[08/09/25, 00:39:44:639] info: [BOOT] (T02S80P41LN) processing mutation timestamps for D098PJ67G4D 
+[08/09/25, 00:39:44:640] info: [PLATFORM-CHANNEL-ACTI] (T02S80P41LN) Not updating count for channel D098PJ67G4D, as count was already set to 0 
+[08/09/25, 00:39:44:643] info: [NAVIGATION-MIDDLEWARE] Starting a new navigation middleware execution {"context":"client-boot","nextViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AVKP","viewType":"Channel","params":{"parentTab":"D098PJ6AVKP"},"uiState":{"preventMoveFocus":false}}},"middlewareCount":6} 
+[08/09/25, 00:39:44:643] info: [BOOT] (T02S80P41LN) Boot complete 
+[08/09/25, 00:39:44:644] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[08/09/25, 00:39:44:645] info: [(T02S80P41LN)] Will collect additional stats for the first 10 minutes of this session 
+[08/09/25, 00:39:44:646] info: [AUTH] Installing incremental auth handler 
+[08/09/25, 00:39:44:646] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from never_connected to prov_connect 
+[08/09/25, 00:39:44:646] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/09/25, 00:39:44:646] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/09/25, 00:39:44:646] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/09/25, 00:39:44:646] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/09/25, 00:39:44:647] info: [ENDPOINT-MANAGER] (T02S80P41LN) No stale versions to clear. 
+[08/09/25, 00:39:44:647] info: [SOCKET-MANAGER-MIDDLE] (T02S80P41LN) Initialized Socket Manager instance 
+[08/09/25, 00:39:44:648] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"ChannelList","viewType":"ChannelList"},"results":[["EnsureChannelHasParentTabMiddleware",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["AttemptToSetSolutionsGalleryPref",false],["EnsureAppViewType",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":5.5} 
+[08/09/25, 00:39:44:649] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for sidebar container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AVKP","viewType":"Channel","params":{"parentTab":"D098PJ6AVKP"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":6.399999998509884} 
+[08/09/25, 00:39:44:676] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/09/25, 00:39:44:678] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"D098PJ6AVKP","viewType":"Channel","params":{"parentTab":"D098PJ6AVKP"},"uiState":{"preventMoveFocus":false}},"results":[["EnsureChannelHasParentTabMiddleware",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["AttemptToSetSolutionsGalleryPref",false],["EnsureAppViewType",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":28.200000002980232} 
+[08/09/25, 00:39:44:678] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AVKP","viewType":"Channel","params":{"parentTab":"D098PJ6AVKP"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":28.600000001490116} 
+[08/09/25, 00:39:44:678] info: [NAVIGATION-MIDDLEWARE] Navigation middleware execution is complete {"maybeUpdatedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AVKP","viewType":"Channel","params":{"parentTab":"D098PJ6AVKP"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"executionTime":35.30000000447035} 
+[08/09/25, 00:39:44:681] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.680 drafts.list called with reason: client-v2-boot-team 
+[08/09/25, 00:39:44:681] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.680 drafts.list is ENQUEUED 
+[08/09/25, 00:39:44:681] info: [DRAFTS] (T02S80P41LN) No local drafts - skipping fetch to purge inactive drafts 
+[08/09/25, 00:39:44:681] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.681 workflows.triggers.listRecentlyRunForUser called with reason: fetch_and_upsert_recently_run_triggers 
+[08/09/25, 00:39:44:682] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.681 workflows.triggers.listRecentlyRunForUser is ENQUEUED 
+[08/09/25, 00:39:44:682] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.682 megaphone.notifications.list called with reason: boot 
+[08/09/25, 00:39:44:683] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.682 megaphone.notifications.list is ENQUEUED 
+[08/09/25, 00:39:44:683] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.683 megaphone.notifications.list called with reason: boot 
+[08/09/25, 00:39:44:683] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.683 megaphone.notifications.list is ENQUEUED 
+[08/09/25, 00:39:44:684] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.684 teams.trials.info called with reason: client-v2-boot-team 
+[08/09/25, 00:39:44:684] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.684 teams.trials.info is ENQUEUED 
+[08/09/25, 00:39:44:685] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.684 users.prefs.get called with reason: fetch-frecency-prefs 
+[08/09/25, 00:39:44:685] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.684 users.prefs.get is ENQUEUED 
+[08/09/25, 00:39:44:685] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.685 users.priority.list called with reason: fetch-priority-users-on-boot-render 
+[08/09/25, 00:39:44:685] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.685 users.priority.list is ENQUEUED 
+[08/09/25, 00:39:44:690] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.690 calendar.getInstalledCalendars called with reason: calendar-get-installed-calendars 
+[08/09/25, 00:39:44:690] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.690 calendar.getInstalledCalendars is ENQUEUED 
+[08/09/25, 00:39:44:702] info: [BOOT] Setting reducedSignInWorkflowExperiment object in local storage. teamId: T02S80P41LN, enterpriseId: undefined, isOn: true 
+[08/09/25, 00:39:44:703] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Starting navigation listeners for triggerType CLIENT_MOUNT 
+[08/09/25, 00:39:44:713] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Navigation listeners complete without errors 
+[08/09/25, 00:39:44:729] info: [MIN-VERSION] Starting client min-version poll. 
+[08/09/25, 00:39:44:732] info: [PERSIST] Purging persisted models, except for the following teamIds ["T02S80P41LN"] 
+[08/09/25, 00:39:44:829] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: undefined -> true 
+[08/09/25, 00:39:44:902] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after workspace became focused 
+[08/09/25, 00:39:44:903] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AVKP because last_read >= latest && channel is read 
+[08/09/25, 00:39:44:911] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.261 users.prefs.set is RESOLVED 
+[08/09/25, 00:39:44:911] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.684 users.prefs.get is ACTIVE 
+[08/09/25, 00:39:44:912] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.261 megaphone.notifications.list is RESOLVED 
+[08/09/25, 00:39:44:912] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.633 search.autocomplete.topEmojis is ACTIVE 
+[08/09/25, 00:39:44:913] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.260 users.prefs.set is RESOLVED 
+[08/09/25, 00:39:44:913] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.680 drafts.list is ACTIVE 
+[08/09/25, 00:39:44:914] info: [DEVICE-PREFS] Propagating device selection history update 
+[08/09/25, 00:39:44:915] info: [DEVICE-PREFS] Setting preferred audioinput device in huddle default 
+[08/09/25, 00:39:44:916] info: [DEVICE-PREFS] Setting preferred audiooutput device in huddle default 
+[08/09/25, 00:39:44:958] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.957 users.interactions.list called with reason: channel-folder-add-folder-badge-load-interactions 
+[08/09/25, 00:39:44:958] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.957 users.interactions.list is ENQUEUED 
+[08/09/25, 00:39:45:012] info: Store: REDUX_UPDATE_FROM_WEBAPP (T02S80P41LN) Changed keys [notificationPrefs,unreads] 
+[08/09/25, 00:39:45:012] info: [FLANNEL] (T02S80P41LN) received a user_subscribe_request call while we are not connected; deferring 
+[08/09/25, 00:39:45:012] info: [API-Q] (T02S80P41LN) noversion-1754680184.979 Flannel users/info called with reason: flannel-call:users/info 
+[08/09/25, 00:39:45:013] info: [API-Q] (T02S80P41LN) noversion-1754680184.979 Flannel users/info is ENQUEUED 
+[08/09/25, 00:39:45:013] info: [API-Q] (T02S80P41LN) noversion-1754680184.093 Flannel permissions/info is RESOLVED 
+[08/09/25, 00:39:45:013] info: [API-Q] (T02S80P41LN) noversion-1754680184.979 Flannel users/info is ACTIVE 
+[08/09/25, 00:39:45:013] info: [API-Q] (T02S80P41LN) noversion-1754680184.095 Flannel huddles/info is RESOLVED 
+[08/09/25, 00:39:45:013] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.681 workflows.triggers.listRecentlyRunForUser is ACTIVE 
+[08/09/25, 00:39:45:013] info: [DND_V2] (T02S80P41LN) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U098PJ614F7,U090BR1MDTM,U02T4CP1RMW 
+[08/09/25, 00:39:45:013] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.982 dnd.info called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:self 
+[08/09/25, 00:39:45:013] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.982 dnd.info is ENQUEUED 
+[08/09/25, 00:39:45:013] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.983 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[08/09/25, 00:39:45:013] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.983 dnd.teamInfo is ENQUEUED 
+[08/09/25, 00:39:45:013] info: [OBJECT-STORE] attempting to delete shards [] 
+[08/09/25, 00:39:45:014] info: [API-Q] (T02S80P41LN) noversion-1754680184.985 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/09/25, 00:39:45:014] info: [API-Q] (T02S80P41LN) noversion-1754680184.985 Flannel users/counts is ENQUEUED 
+[08/09/25, 00:39:45:014] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.986 saved.list called with reason: saved-api/savedList 
+[08/09/25, 00:39:45:014] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.986 saved.list is ENQUEUED 
+[08/09/25, 00:39:45:014] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.986 users.channelSections.list called with reason: conditional-fetch-manager 
+[08/09/25, 00:39:45:014] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.986 users.channelSections.list is ENQUEUED 
+[08/09/25, 00:39:45:014] info: [HISTORY-CFM] (T02S80P41LN) Re-fetching D098PJ6AVKP 1754317417.897669 - 1754629394.319099 
+[08/09/25, 00:39:45:014] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.988 conversations.history called with reason: channel-history-store.CFM.fetch 
+[08/09/25, 00:39:45:014] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.988 conversations.history is ENQUEUED 
+[08/09/25, 00:39:45:014] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.988 help.issues.ticketStats called with reason: fetchAndUpsertTicketStats 
+[08/09/25, 00:39:45:014] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.988 help.issues.ticketStats is ENQUEUED 
+[08/09/25, 00:39:45:015] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.989 conversations.listPrefs called with reason: client_redux_store 
+[08/09/25, 00:39:45:015] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.989 conversations.listPrefs is ENQUEUED 
+[08/09/25, 00:39:45:015] info: [API-Q] (T02S80P41LN) noversion-1754680184.991 Flannel users/info called with reason: flannel-call:users/info 
+[08/09/25, 00:39:45:015] info: [API-Q] (T02S80P41LN) noversion-1754680184.991 Flannel users/info is ENQUEUED 
+[08/09/25, 00:39:45:015] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.386 sharedInvites.canGetLink is RESOLVED 
+[08/09/25, 00:39:45:015] info: [API-Q] (T02S80P41LN) noversion-1754680184.991 Flannel users/info is ACTIVE 
+[08/09/25, 00:39:45:015] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.419 users.interactions.list is RESOLVED 
+[08/09/25, 00:39:45:015] info: [API-Q] (T02S80P41LN) noversion-1754680184.985 Flannel users/counts is ACTIVE 
+[08/09/25, 00:39:45:015] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.419 users.interactions.list is RESOLVED 
+[08/09/25, 00:39:45:015] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.682 megaphone.notifications.list is ACTIVE 
+[08/09/25, 00:39:45:039] warn: FOCUS_TRANSITION_MANAGER Focus did not transition Channel_message_input last active element body is child window - false 
+[08/09/25, 00:39:45:042] info: [API-Q] (T02S80P41LN) 10cc4af5-1754680184.568 users.profile.getSections is RESOLVED 
+[08/09/25, 00:39:45:042] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.683 megaphone.notifications.list is ACTIVE 
+[08/09/25, 00:39:45:064] info: [API-Q] (T02S80P41LN) noversion-1754680184.608 Flannel permissions/info is RESOLVED 
+[08/09/25, 00:39:45:064] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.684 teams.trials.info is ACTIVE 
+[08/09/25, 00:39:45:065] info: Store: REDUX_UPDATE_FROM_WEBAPP (T02S80P41LN) Changed keys [connectivityPrefs] 
+[08/09/25, 00:39:45:065] info: Store: STORE_USER_WORKSPACES {
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+} 
+[08/09/25, 00:39:45:065] info: Store: SELECTION_CHANGED T02S80P41LN 
+[08/09/25, 00:39:45:065] info: Store: EXTEND_MENU T02S80P41LN: menucategory-file,menucategory-view,menucategory-edit,menucategory-help 
+[08/09/25, 00:39:45:066] info: [UFM-PERMISSIONS] (T02S80P41LN) received ACCESS_SLACK_AI_SEARCH,CREATE_PUBLIC_CHANNEL,CREATE_PRIVATE_CHANNEL,ACCESS_SLACK_AI_CHANNEL_THREAD_SUMMARIES,ACCESS_SLACK_AI_RECAP,ACCESS_SLACK_AI_FILE_SUMMARIES,ADD_FULL_USER_TO_WORKSPACE,VIEW_OVERVIEW_ANALYTICS,VIEW_MEMBER_ANALYTICS,VIEW_APP_ANALYTICS,VIEW_CHANNEL_ANALYTICS,VIEW_TOP_LEVEL_WORKFLOWS,ADD_CUSTOM_EMOJI,EDIT_SLACKBOT_RESPONSES,ADD_GUEST_USER_TO_WORKSPACE,REMOVE_GUEST_USER_FROM_WORKSPACE,REMOVE_FULL_USER_FROM_WORKSPACE,CONVERT_TO_GUEST,CONVERT_TO_MEMBER,READ_LEGAL_HOLDS,WRITE_LEGAL_HOLDS (1) 
+[08/09/25, 00:39:45:068] info: [UFM] (T02S80P41LN) received D098PJ6AVKP (1) 
+[08/09/25, 00:39:45:069] info: [PERSIST] Purged persisted models [] 
+[08/09/25, 00:39:45:071] info: [BOOT] Client boot completed 
+[08/09/25, 00:39:45:078] info: [SIGNAL-TO-DESKTOP] (T02S80P41LN) Attempted boot for all workspaces, signaling desktop 
+[08/09/25, 00:39:45:087] warn: SERVICE-WORKER Found existing value for https://slack.com/fake-url-for-service-worker-item-storage/locales; Will overwrite value. 
+[08/09/25, 00:39:45:087] info: [SERVICE-WORKER] Writing (["en-US"]) to Service Worker with key https://slack.com/fake-url-for-service-worker-item-storage/locales. 
+[08/09/25, 00:39:45:104] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.103 users.interactions.list called with reason: slackAiNfxButtonLabelCounter 
+[08/09/25, 00:39:45:104] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.103 users.interactions.list is ENQUEUED 
+[08/09/25, 00:39:45:104] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.104 users.interactions.list called with reason: useSlackAiInteractionsCounter 
+[08/09/25, 00:39:45:105] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.104 users.interactions.list is ENQUEUED 
+[08/09/25, 00:39:45:114] info: [UFM-PERMISSIONS] (T02S80P41LN) received MANAGE_CHANNEL_PERMISSIONS,CAN_AT_CHANNEL,CAN_AT_EVERYONE,ARCHIVE_CHANNEL (1) 
+[08/09/25, 00:39:45:116] info: [API-Q] (T02S80P41LN) noversion-1754680184.979 Flannel users/info is RESOLVED 
+[08/09/25, 00:39:45:116] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.685 users.priority.list is ACTIVE 
+[08/09/25, 00:39:45:116] info: [UFM-PERMISSIONS] (T02S80P41LN) requesting ACCESS_SLACK_AI_DEVELOPMENT,ACCESS_SLACK_AI_RECORD_CHANNEL_DIGEST,ACCESS_SLACK_AI_TRANSLATIONS,ACCESS_SLACK_AI_EXPLAIN,EDIT_PROFILE_PHOTO,CREATE_WORKFLOWS,READ_AUDIT_LOGS,ARCHIVE_CHANNEL,UNARCHIVE_CHANNEL,CONVERT_TO_PRIVATE,CONVERT_MPDM_TO_PRIVATE,RENAME_CHANNEL,ASSIGN_CHANNEL_MANAGER,DELETE_CHANNEL,SET_CHANNEL_PURPOSE,SET_CHANNEL_TOPIC,MANAGE_CHANNEL_PERMISSIONS,REMOVE_FROM_CHANNEL,REMOVE_FROM_PRIVATE_CHANNEL,INVITE_TO_CHANNEL,INVITE_EXTERNAL_TO_CHANNEL,MANAGE_CHANNEL_POSTING_PERMISSIONS,CREATE_CHANNEL_EMAIL_ADDRESSES,CAN_AT_EVERYONE,EDIT_CHANNEL_WORKSPACES,MANAGE_CHANNEL_WORKFLOWS,MANAGE_CHANNEL_TABS,CAN_AT_CHANNEL,VIEW_WORKSPACE_ANALYTICS,VIEW_ORG_WIDE_CHANNEL_ANALYTICS,VIEW_HUDDLE_ANALYTICS,VIEW_CLIP_ANALYTICS,VIEW_AI_ANALYTICS,VIEW_CANVAS_ANALYTICS,VIEW_WORKFLOW_ANALYTICS,VIEW_LIST_ANALYTICS,ADD_COLLABORATOR_TO_ANY_WORKFLOW,UNPUBLISH_ANY_WORKFLOW,CREATE_CANVAS_TEMPLATES,PUBLISH_CANVAS_ORG_TEMPLATES,MANAGE_SALES_HOME,MANAGE_SALES_HOME_DATA_SOURCE,DELETE_CUSTOM_EMOJI,UPDATE_NAME,UPDATE_DISPLAY_NAME,ACCEPT_SLACK_CONNECT_INVITES,MANAGE_SLACK_CONNECT,CREATE_SLACK_CONNECT_DM,VIEW_APP_REQUESTS,MANAGE_AAA_AUTOMATION_RULES,MANAGE_SCOPE_RATINGS,VIEW_INSTALLED_APPS,MANAGE_ORG_LEVEL_APP_APPROVAL,VIEW_APPROVED_APPS,VIEW_RESTRICTED_APPS,ADD_ORG_APPS_TO_WORKSPACES,REMOVE_ORG_APPS_FROM_WORKSPACES,VIEW_DEPRECATIONS,MANAGE_WORKFLOW_CONNECTORS,MANAGE_WORKFLOW_TRIGGERS,CREATE_SOLUTION_TEMPLATE,PUBLISH_SOLUTION_TEMPLATE,MANAGE_SOLUTION_TEMPLATE,CREATE_LIST_TEMPLATE,CREATE_USER_GROUPS,EDIT_USER_GROUPS,DELETE_USER_GROUPS,DELETE_OWN_MESSAGE,ACCESS_SLACK_AI_ACTION_ITEMS,ACCESS_SLACK_AI_DETAILED_FEEDBACK,ACCESS_SLACK_AI_HUDDLE_SUMMARIES,ACCESS_SLACK_AI_STEPS_IN_WORKFLOW,ACCESS_SLACK_AI_WORKFLOW_BUILDER,CAN_MANAGE_XWS_CHANNELS (1) 
+[08/09/25, 00:39:45:116] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.116 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/09/25, 00:39:45:117] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.116 slackAi.permissions.getForUser is ENQUEUED 
+[08/09/25, 00:39:45:117] info: [API-Q] (T02S80P41LN) noversion-1754680185.116 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/09/25, 00:39:45:117] info: [API-Q] (T02S80P41LN) noversion-1754680185.116 Flannel permissions/info is ENQUEUED 
+[08/09/25, 00:39:45:117] info: [UFM] (T02S80P41LN) requesting C02S02N2FAT,D098PJ6AUJH,D098RCLR1S9,D098PJ69TSR (1) 
+[08/09/25, 00:39:45:117] info: [API-Q] (T02S80P41LN) noversion-1754680185.117 Flannel huddles/info called with reason: flannel-call:huddles/info 
+[08/09/25, 00:39:45:117] info: [API-Q] (T02S80P41LN) noversion-1754680185.117 Flannel huddles/info is ENQUEUED 
+[08/09/25, 00:39:45:118] info: Store: SYNC Synced 1 workspaces with IDs [T02S80P41LN] 
+[08/09/25, 00:39:45:134] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "webapp-loaded"
+} 
+[08/09/25, 00:39:45:135] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 3,
+  "interval": 3335
+} 
+[08/09/25, 00:39:45:135] error: Uncaught (in promise) Error: Error invoking remote method 'IS_SEARCH_INDEXING_AVAILABLE': TypeError: Method not implemented 
+[08/09/25, 00:39:45:165] info: [SERVICE-WORKER] registration success {} 
+[08/09/25, 00:39:45:165] info: [SERVICE-WORKER-STATE] initial activated 
+[08/09/25, 00:39:45:166] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.680 drafts.list is RESOLVED 
+[08/09/25, 00:39:45:166] info: [API-Q] (T02S80P41LN) noversion-1754680185.117 Flannel huddles/info is ACTIVE 
+[08/09/25, 00:39:45:169] info: [DRAFTS] (T02S80P41LN) No active drafts 
+[08/09/25, 00:39:45:169] info: [DRAFTS] (T02S80P41LN) Successfully fetched all active and inactive drafts ✨ 
+[08/09/25, 00:39:45:172] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.684 users.prefs.get is RESOLVED 
+[08/09/25, 00:39:45:173] info: [API-Q] (T02S80P41LN) noversion-1754680185.116 Flannel permissions/info is ACTIVE 
+[08/09/25, 00:39:45:205] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.633 search.autocomplete.topEmojis is RESOLVED 
+[08/09/25, 00:39:45:206] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.690 calendar.getInstalledCalendars is ACTIVE 
+[08/09/25, 00:39:45:207] info: [API-Q] (T02S80P41LN) noversion-1754680185.117 Flannel huddles/info is RESOLVED 
+[08/09/25, 00:39:45:207] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.957 users.interactions.list is ACTIVE 
+[08/09/25, 00:39:45:229] info: [QUIP] SystemJS Fork initialized 1754680185229-0.7753747718431175 
+[08/09/25, 00:39:45:230] info: [UFM] (T02S80P41LN) received C02S02N2FAT,D098PJ6AUJH,D098RCLR1S9,D098PJ69TSR (1) 
+[08/09/25, 00:39:45:232] info: [API-Q] (T02S80P41LN) noversion-1754680185.116 Flannel permissions/info is RESOLVED 
+[08/09/25, 00:39:45:232] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.982 dnd.info is ACTIVE 
+[08/09/25, 00:39:45:233] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to prov_connected 
+[08/09/25, 00:39:45:233] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connected state for up to 60000 ms 
+[08/09/25, 00:39:45:237] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connected to prov_finalize 
+[08/09/25, 00:39:45:238] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalize state for up to 10000 ms 
+[08/09/25, 00:39:45:238] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalize to prov_finalizing 
+[08/09/25, 00:39:45:238] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalizing state for up to 10000 ms 
+[08/09/25, 00:39:45:238] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalizing to connected 
+[08/09/25, 00:39:45:239] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connected state for up to Infinity ms 
+[08/09/25, 00:39:45:239] info: [SOCKET-MANAGER] (T02S80P41LN) Connected to primary region 
+[08/09/25, 00:39:45:240] info: [FLANNEL] (T02S80P41LN) connected and trouble free! Continuing deferred user_subscribe_request call 
+[08/09/25, 00:39:45:242] info: [EVENTLOG] (T02S80P41LN) fr=false, lc=false, lt=1754674212.000200 
+[08/09/25, 00:39:45:242] info: [EVENTLOG] (T02S80P41LN) fetching events since 1754674212.000200 (5974 seconds ago) 
+[08/09/25, 00:39:45:243] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.242 ublockworkaround.history called with reason: onSocketConnected 
+[08/09/25, 00:39:45:243] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.242 ublockworkaround.history is ENQUEUED 
+[08/09/25, 00:39:45:243] info: [MESSAGE-HISTORY] (T02S80P41LN) Resetting reachedEnd 
+[08/09/25, 00:39:45:244] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.243 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[08/09/25, 00:39:45:244] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.243 users.customStatus.list is ENQUEUED 
+[08/09/25, 00:39:45:245] info: [UNREAD-COUNTS] (T02S80P41LN) Fetching counts 
+[08/09/25, 00:39:45:245] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.245 client.counts called with reason: fetchClientCountsOnConnect 
+[08/09/25, 00:39:45:245] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.245 client.counts is ENQUEUED 
+[08/09/25, 00:39:45:248] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.248 sfdc.integration.listOrgs called with reason: fetch-orgs-and-sign-in-silently-v2 
+[08/09/25, 00:39:45:248] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.248 sfdc.integration.listOrgs is ENQUEUED 
+[08/09/25, 00:39:45:248] info: [PRESENCE_PROMPT] (T02S80P41LN) ignoring prompt due to presence (active) 
+[08/09/25, 00:39:45:281] info: [HISTORY-FETCH] (T02S80P41LN) Fetching history for message pane: D098PJ6AVKP oldest: 1754629394.319099 latest: null 
+[08/09/25, 00:39:45:281] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.281 conversations.history called with reason: message-pane/requestHistory 
+[08/09/25, 00:39:45:281] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.281 conversations.history is ENQUEUED 
+[08/09/25, 00:39:45:282] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: true -> false 
+[08/09/25, 00:39:45:286] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 15 
+[08/09/25, 00:39:45:296] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.681 workflows.triggers.listRecentlyRunForUser is RESOLVED 
+[08/09/25, 00:39:45:296] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.242 ublockworkaround.history is ACTIVE 
+[08/09/25, 00:39:45:353] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.684 teams.trials.info is RESOLVED 
+[08/09/25, 00:39:45:354] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.983 dnd.teamInfo is ACTIVE 
+[08/09/25, 00:39:45:354] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.683 megaphone.notifications.list is RESOLVED 
+[08/09/25, 00:39:45:354] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.986 saved.list is ACTIVE 
+[08/09/25, 00:39:45:365] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.682 megaphone.notifications.list is RESOLVED 
+[08/09/25, 00:39:45:365] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.986 users.channelSections.list is ACTIVE 
+[08/09/25, 00:39:45:370] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.685 users.priority.list is RESOLVED 
+[08/09/25, 00:39:45:370] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.988 conversations.history is ACTIVE 
+[08/09/25, 00:39:45:444] info: [PERSIST] (T02S80P41LN) Successfully persisted state 
+[08/09/25, 00:39:45:448] info: [API-Q] (T02S80P41LN) noversion-1754680184.985 Flannel users/counts is RESOLVED 
+[08/09/25, 00:39:45:448] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.988 help.issues.ticketStats is ACTIVE 
+[08/09/25, 00:39:45:488] info: [Diagnostics] Adding window recorder 9433b3cdbebf410aa8ae18806 
+[08/09/25, 00:39:45:532] info: [QUIP] (T02S80P41LN) {"type":"set_current_user_id","timestamp_ms":1754680185530,"user_id":"EPK9EAyTK8E"} 
+[08/09/25, 00:39:45:533] warn: TRACER (T02S80P41LN) (canvas:collab-init) was forced closed and marked with the _flush=true tag. 
+[08/09/25, 00:39:45:533] warn: TRACER (T02S80P41LN) (canvas:await-callback) was forced closed and marked with the _flush=true tag. 
+[08/09/25, 00:39:45:586] info: [API-Q] (T02S80P41LN) noversion-1754680184.991 Flannel users/info is RESOLVED 
+[08/09/25, 00:39:45:587] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.989 conversations.listPrefs is ACTIVE 
+[08/09/25, 00:39:45:587] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.690 calendar.getInstalledCalendars is RESOLVED 
+[08/09/25, 00:39:45:587] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.103 users.interactions.list is ACTIVE 
+[08/09/25, 00:39:45:587] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.957 users.interactions.list is RESOLVED 
+[08/09/25, 00:39:45:588] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.104 users.interactions.list is ACTIVE 
+[08/09/25, 00:39:45:588] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.982 dnd.info is RESOLVED 
+[08/09/25, 00:39:45:588] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.116 slackAi.permissions.getForUser is ACTIVE 
+[08/09/25, 00:39:45:596] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.242 ublockworkaround.history is RESOLVED 
+[08/09/25, 00:39:45:597] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.243 users.customStatus.list is ACTIVE 
+[08/09/25, 00:39:45:610] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.610 calendar.user.info called with reason: calendar-get-user-info 
+[08/09/25, 00:39:45:610] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.610 calendar.user.info is ENQUEUED 
+[08/09/25, 00:39:45:611] info: [DND] (T02S80P41LN) Fetched DND info for the following member: U098PJ614F7 
+[08/09/25, 00:39:45:613] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/09/25, 00:39:45:617] info: [EVENTLOG] (T02S80P41LN) nothing to process 
+[08/09/25, 00:39:45:617] info: [EVENTLOG] (T02S80P41LN) fetched finish (aborted? false) 
+[08/09/25, 00:39:45:618] info: [EVENTLOG] (T02S80P41LN) dispatching signal and clearing timestamp 
+[08/09/25, 00:39:45:621] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.986 users.channelSections.list is RESOLVED 
+[08/09/25, 00:39:45:622] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.245 client.counts is ACTIVE 
+[08/09/25, 00:39:45:716] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.986 saved.list is RESOLVED 
+[08/09/25, 00:39:45:716] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.248 sfdc.integration.listOrgs is ACTIVE 
+[08/09/25, 00:39:45:717] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.983 dnd.teamInfo is RESOLVED 
+[08/09/25, 00:39:45:717] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.281 conversations.history is ACTIVE 
+[08/09/25, 00:39:45:718] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.988 conversations.history is RESOLVED 
+[08/09/25, 00:39:45:718] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.610 calendar.user.info is ACTIVE 
+[08/09/25, 00:39:45:816] info: [DND] (T02S80P41LN) Fetched DND info for the following members: U090BR1MDTM,U02T4CP1RMW 
+[08/09/25, 00:39:45:817] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/09/25, 00:39:45:818] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.988 help.issues.ticketStats is RESOLVED 
+[08/09/25, 00:39:45:818] info: [PLATFORM-CHANNEL-ACTI] (T02S80P41LN) Not updating count for channel D098PJ6AVKP, as count was already set to 0 
+[08/09/25, 00:39:45:820] info: [UNREAD-COUNTS] (T02S80P41LN) Fetching history for unread counting: D098PJ6AVKP, waiting 6408 ms 
+[08/09/25, 00:39:45:820] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AVKP because last_read >= latest && channel is read 
+[08/09/25, 00:39:45:824] error: Icon undefined not found 
+[08/09/25, 00:39:45:900] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.243 users.customStatus.list is RESOLVED 
+[08/09/25, 00:39:45:900] info: [API-Q] (T02S80P41LN) d67d108f-1754680184.989 conversations.listPrefs is RESOLVED 
+[08/09/25, 00:39:45:900] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.116 slackAi.permissions.getForUser is RESOLVED 
+[08/09/25, 00:39:45:901] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.103 users.interactions.list is RESOLVED 
+[08/09/25, 00:39:45:901] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.104 users.interactions.list is RESOLVED 
+[08/09/25, 00:39:45:907] info: [CRDT] Automerge loaded. 
+[08/09/25, 00:39:45:908] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.245 client.counts is RESOLVED 
+[08/09/25, 00:39:45:912] info: [UFM-PERMISSIONS] (T02S80P41LN) received ACCESS_SLACK_AI_DEVELOPMENT,ACCESS_SLACK_AI_RECORD_CHANNEL_DIGEST,ACCESS_SLACK_AI_TRANSLATIONS,ACCESS_SLACK_AI_EXPLAIN,EDIT_PROFILE_PHOTO,CREATE_WORKFLOWS,READ_AUDIT_LOGS,ARCHIVE_CHANNEL,UNARCHIVE_CHANNEL,CONVERT_TO_PRIVATE,CONVERT_MPDM_TO_PRIVATE,RENAME_CHANNEL,ASSIGN_CHANNEL_MANAGER,DELETE_CHANNEL,SET_CHANNEL_PURPOSE,SET_CHANNEL_TOPIC,MANAGE_CHANNEL_PERMISSIONS,REMOVE_FROM_CHANNEL,REMOVE_FROM_PRIVATE_CHANNEL,INVITE_TO_CHANNEL,INVITE_EXTERNAL_TO_CHANNEL,MANAGE_CHANNEL_POSTING_PERMISSIONS,CREATE_CHANNEL_EMAIL_ADDRESSES,CAN_AT_EVERYONE,EDIT_CHANNEL_WORKSPACES,MANAGE_CHANNEL_WORKFLOWS,MANAGE_CHANNEL_TABS,CAN_AT_CHANNEL,VIEW_WORKSPACE_ANALYTICS,VIEW_ORG_WIDE_CHANNEL_ANALYTICS,VIEW_HUDDLE_ANALYTICS,VIEW_CLIP_ANALYTICS,VIEW_AI_ANALYTICS,VIEW_CANVAS_ANALYTICS,VIEW_WORKFLOW_ANALYTICS,VIEW_LIST_ANALYTICS,ADD_COLLABORATOR_TO_ANY_WORKFLOW,UNPUBLISH_ANY_WORKFLOW,CREATE_CANVAS_TEMPLATES,PUBLISH_CANVAS_ORG_TEMPLATES,MANAGE_SALES_HOME,MANAGE_SALES_HOME_DATA_SOURCE,DELETE_CUSTOM_EMOJI,UPDATE_NAME,UPDATE_DISPLAY_NAME,ACCEPT_SLACK_CONNECT_INVITES,MANAGE_SLACK_CONNECT,CREATE_SLACK_CONNECT_DM,VIEW_APP_REQUESTS,MANAGE_AAA_AUTOMATION_RULES,MANAGE_SCOPE_RATINGS,VIEW_INSTALLED_APPS,MANAGE_ORG_LEVEL_APP_APPROVAL,VIEW_APPROVED_APPS,VIEW_RESTRICTED_APPS,ADD_ORG_APPS_TO_WORKSPACES,REMOVE_ORG_APPS_FROM_WORKSPACES,VIEW_DEPRECATIONS,MANAGE_WORKFLOW_CONNECTORS,MANAGE_WORKFLOW_TRIGGERS,CREATE_SOLUTION_TEMPLATE,PUBLISH_SOLUTION_TEMPLATE,MANAGE_SOLUTION_TEMPLATE,CREATE_LIST_TEMPLATE,CREATE_USER_GROUPS,EDIT_USER_GROUPS,DELETE_USER_GROUPS,DELETE_OWN_MESSAGE,ACCESS_SLACK_AI_ACTION_ITEMS,ACCESS_SLACK_AI_DETAILED_FEEDBACK,ACCESS_SLACK_AI_HUDDLE_SUMMARIES,ACCESS_SLACK_AI_STEPS_IN_WORKFLOW,ACCESS_SLACK_AI_WORKFLOW_BUILDER,CAN_MANAGE_XWS_CHANNELS (1) 
+[08/09/25, 00:39:45:923] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/09/25, 00:39:45:925] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/09/25, 00:39:45:925] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/09/25, 00:39:45:987] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.248 sfdc.integration.listOrgs is REJECTED: API not ok restricted_action 
+[08/09/25, 00:39:45:988] error: (T02S80P41LN) API call to sfdc.integration.listOrgs
+						with reason fetch-orgs-and-sign-in-silently-v2 failed, initiated by generated fetcher 
+[08/09/25, 00:39:45:989] error: SALESFORCE_CONNECTIONS (T02S80P41LN) {"error":"Error happened when executing side-effect to call sfdc.integration.listOrgs and sfdc.integration.authUser"} 
+[08/09/25, 00:39:45:990] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.610 calendar.user.info is RESOLVED 
+[08/09/25, 00:39:46:010] info: [API-Q] (T02S80P41LN) d67d108f-1754680185.281 conversations.history is RESOLVED 
+[08/09/25, 00:39:46:010] info: [PLATFORM-CHANNEL-ACTI] (T02S80P41LN) Not updating count for channel D098PJ6AVKP, as count was already set to 0 
+[08/09/25, 00:39:46:012] info: [PINS] (T02S80P41LN) Pins count updated for channel D098PJ6AVKP: 0 
+[08/09/25, 00:39:46:018] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 15 
+[08/09/25, 00:39:46:037] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: false -> true 
+[08/09/25, 00:39:46:321] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AVKP because last_read >= latest && channel is read 
+[08/09/25, 00:39:46:390] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after unread line became visible 
+[08/09/25, 00:39:46:390] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AVKP because last_read >= latest && channel is read 
+[08/09/25, 00:39:46:831] info: [API-Q] (T02S80P41LN) noversion-1754680186.831 Flannel emojis/info called with reason: flannel-call:emojis/info 
+[08/09/25, 00:39:46:831] info: [API-Q] (T02S80P41LN) noversion-1754680186.831 Flannel emojis/info is ENQUEUED 
+[08/09/25, 00:39:46:832] info: [API-Q] (T02S80P41LN) noversion-1754680186.831 Flannel emojis/info is ACTIVE 
+[08/09/25, 00:39:46:863] info: [UFM-PERMISSIONS] (T02S80P41LN) requesting DELETE_OWN_MESSAGE (1) 
+[08/09/25, 00:39:46:864] info: [API-Q] (T02S80P41LN) noversion-1754680186.863 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/09/25, 00:39:46:864] info: [API-Q] (T02S80P41LN) noversion-1754680186.863 Flannel permissions/info is ENQUEUED 
+[08/09/25, 00:39:46:864] info: [API-Q] (T02S80P41LN) noversion-1754680186.863 Flannel permissions/info is ACTIVE 
+[08/09/25, 00:39:46:880] info: [API-Q] (T02S80P41LN) noversion-1754680186.831 Flannel emojis/info is RESOLVED 
+[08/09/25, 00:39:46:906] info: [API-Q] (T02S80P41LN) noversion-1754680186.863 Flannel permissions/info is RESOLVED 
+[08/09/25, 00:39:46:907] info: [UFM-PERMISSIONS] (T02S80P41LN) received DELETE_OWN_MESSAGE (1) 
+[08/09/25, 00:39:48:937] info: [DEVICE-PERMISSIONS-MA] Refreshing all permissions 
+[08/09/25, 00:39:49:046] info: [DEVICE-PERMISSIONS-MA] Received microphone access status for desktop app: [object Object] 
+[08/09/25, 00:39:49:046] info: [DEVICE-PERMISSIONS-MA] permission state for microphone changed to [object Object] 
+[08/09/25, 00:39:49:046] info: [DEVICE-PERMISSIONS-MA] Permissions changed {"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}} 
+[08/09/25, 00:39:49:046] info: [DEVICE-PERMISSIONS-MA] Permissions saved to local storage: {"permissions":{"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}},"timestamp":1754680189046} 
+[08/09/25, 00:39:49:046] info: [DEVICE-PERMISSIONS-MA] Received camera access status for desktop app: [object Object] 
+[08/09/25, 00:39:49:047] info: [DEVICE-PERMISSIONS-MA] permission state for camera changed to [object Object] 
+[08/09/25, 00:39:49:047] info: [DEVICE-PERMISSIONS-MA] Permissions changed {"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}} 
+[08/09/25, 00:39:49:047] info: [DEVICE-PREFS] Available devices update already in progress. Returning existing promise. 
+[08/09/25, 00:39:49:047] info: [DEVICE-PERMISSIONS-MA] Permissions saved to local storage: {"permissions":{"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}},"timestamp":1754680189046} 
+[08/09/25, 00:39:49:047] info: [DEVICE-PERMISSIONS-MA] Received screen access status for desktop app: [object Object] 
+[08/09/25, 00:39:49:047] info: [DEVICE-PERMISSIONS-MA] permission state for screen changed to [object Object] 
+[08/09/25, 00:39:49:047] info: [DEVICE-PERMISSIONS-MA] Permissions changed {"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}} 
+[08/09/25, 00:39:49:048] info: [DEVICE-PREFS] Available devices update already in progress. Returning existing promise. 
+[08/09/25, 00:39:49:048] info: [DEVICE-PERMISSIONS-MA] Permissions saved to local storage: {"permissions":{"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}},"timestamp":1754680189046} 
+[08/09/25, 00:39:49:054] info: [DEVICE-PREFS] Amending label for OS default audioinput device: Default -> System Default (Default) 
+[08/09/25, 00:39:49:054] info: [DEVICE-PREFS] Amending label for OS default audiooutput device: Default -> System Default (Default) 
+[08/09/25, 00:39:49:054] info: [DEVICE-PREFS] Device list update complete 
+[08/09/25, 00:39:49:355] info: [DEVICE-PREFS] Propagating device selection history update 
+[08/09/25, 00:39:49:355] info: [DEVICE-PREFS] Setting preferred audioinput device in huddle default 
+[08/09/25, 00:39:49:356] info: [DEVICE-PREFS] Setting preferred audiooutput device in huddle default 
+[08/09/25, 00:39:50:937] info: Breadcrumb: ui.input: div.c-texty_input_unstyled.ql-container.focus > div.ql-editor.ql-blank  
+[08/09/25, 00:39:52:104] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - D098PJ6AVKP 
+[08/09/25, 00:39:52:395] info: Breadcrumb: ui.input: div.c-texty_input_unstyled.ql-container.focus > div.ql-editor  
+[08/09/25, 00:39:52:889] info: [TABCOMPLETE] (T02S80P41LN) start search with 1 char query 
+[08/09/25, 00:39:52:893] info: [API-Q] (T02S80P41LN) d67d108f-1754680192.893 search.autocomplete.model called with reason: AutocompleteModelCache 
+[08/09/25, 00:39:52:894] info: [API-Q] (T02S80P41LN) d67d108f-1754680192.893 search.autocomplete.model is ENQUEUED 
+[08/09/25, 00:39:52:894] info: [API-Q] (T02S80P41LN) d67d108f-1754680192.894 search.autocomplete.offlineFeatures called with reason: search-offline-features 
+[08/09/25, 00:39:52:894] info: [API-Q] (T02S80P41LN) d67d108f-1754680192.894 search.autocomplete.offlineFeatures is ENQUEUED 
+[08/09/25, 00:39:52:897] info: [TABCOMPLETE] (T02S80P41LN) end search with 1 char query 
+[08/09/25, 00:39:52:897] info: [API-Q] (T02S80P41LN) d67d108f-1754680192.893 search.autocomplete.model is ACTIVE 
+[08/09/25, 00:39:52:898] info: [API-Q] (T02S80P41LN) d67d108f-1754680192.894 search.autocomplete.offlineFeatures is ACTIVE 
+[08/09/25, 00:39:52:898] info: [TABCOMPLETE] (T02S80P41LN) received 4 results for 1 char query 
+[08/09/25, 00:39:52:898] info: [TABCOMPLETE] (T02S80P41LN) opening menu 
+[08/09/25, 00:39:53:147] info: [API-Q] (T02S80P41LN) noversion-1754680193.146 Flannel channels/membership called with reason: flannel-call:channels/membership 
+[08/09/25, 00:39:53:147] info: [API-Q] (T02S80P41LN) noversion-1754680193.146 Flannel channels/membership is ENQUEUED 
+[08/09/25, 00:39:53:147] info: [API-Q] (T02S80P41LN) noversion-1754680193.146 Flannel channels/membership is ACTIVE 
+[08/09/25, 00:39:53:167] info: [API-Q] (T02S80P41LN) d67d108f-1754680192.893 search.autocomplete.model is RESOLVED 
+[08/09/25, 00:39:53:167] info: [API-Q] (T02S80P41LN) d67d108f-1754680192.894 search.autocomplete.offlineFeatures is RESOLVED 
+[08/09/25, 00:39:53:193] info: [API-Q] (T02S80P41LN) noversion-1754680193.146 Flannel channels/membership is RESOLVED 
+[08/09/25, 00:39:53:794] info: [TABCOMPLETE] (T02S80P41LN) start search with 2 char query 
+[08/09/25, 00:39:53:796] info: [API-Q] (T02S80P41LN) noversion-1754680193.796 Flannel users/search called with reason: flannel-call:users/search 
+[08/09/25, 00:39:53:796] info: [API-Q] (T02S80P41LN) noversion-1754680193.796 Flannel users/search is ENQUEUED 
+[08/09/25, 00:39:53:797] info: [TABCOMPLETE] (T02S80P41LN) end search with 2 char query 
+[08/09/25, 00:39:53:797] info: [API-Q] (T02S80P41LN) noversion-1754680193.796 Flannel users/search is ACTIVE 
+[08/09/25, 00:39:53:799] info: [TABCOMPLETE] (T02S80P41LN) received 1 results for 2 char query 
+[08/09/25, 00:39:53:843] info: [API-Q] (T02S80P41LN) noversion-1754680193.796 Flannel users/search is RESOLVED 
+[08/09/25, 00:39:53:848] info: [TABCOMPLETE] (T02S80P41LN) received 1 results for 2 char query 
+[08/09/25, 00:39:54:415] info: [TABCOMPLETE] (T02S80P41LN) selected index 0 
+[08/09/25, 00:39:54:422] info: [API-Q] (T02S80P41LN) d67d108f-1754680194.421 users.prefs.set called with reason: prefs-api/setUserPrefByApi 
+[08/09/25, 00:39:54:422] info: [API-Q] (T02S80P41LN) d67d108f-1754680194.421 users.prefs.set is ENQUEUED 
+[08/09/25, 00:39:54:422] info: [TABCOMPLETE] (T02S80P41LN) closing menu 
+[08/09/25, 00:39:54:422] info: [TABCOMPLETE] (T02S80P41LN) closing menu 
+[08/09/25, 00:39:54:426] info: [TABCOMPLETE] (T02S80P41LN) closing menu 
+[08/09/25, 00:39:54:457] info: [API-Q] (T02S80P41LN) d67d108f-1754680194.421 users.prefs.set is ACTIVE 
+[08/09/25, 00:39:54:818] info: [API-Q] (T02S80P41LN) d67d108f-1754680194.421 users.prefs.set is RESOLVED 
+[08/09/25, 00:39:55:421] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - D098PJ6AVKP 
+[08/09/25, 00:39:59:460] info: Breadcrumb: ui.input: div.c-texty_input_unstyled.ql-container.focus > div.ql-editor  
+[08/09/25, 00:40:02:579] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/09/25, 00:40:02:937] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - D098PJ6AVKP 
+[08/09/25, 00:40:12:938] info: [DRAFTS] Firing debounced draft sync - D098PJ6AVKP 
+[08/09/25, 00:40:12:938] info: [DRAFTS] (T02S80P41LN) Syncing a new draft - D098PJ6AVKP 
+[08/09/25, 00:40:12:944] info: [API-Q] (T02S80P41LN) d67d108f-1754680212.944 drafts.create called with reason: MessageInput:updateDraft 
+[08/09/25, 00:40:12:945] info: [API-Q] (T02S80P41LN) d67d108f-1754680212.944 drafts.create is ENQUEUED 
+[08/09/25, 00:40:12:945] info: [API-Q] (T02S80P41LN) d67d108f-1754680212.944 drafts.create is ACTIVE 
+[08/09/25, 00:40:13:338] info: [DRAFTS] (T02S80P41LN) RTM: draft_create - Dr09AD0P903A 
+[08/09/25, 00:40:13:338] info: [DRAFTS] (T02S80P41LN) Ignoring a 'draft_create' event triggered by a local change: D098PJ6AVKP 
+[08/09/25, 00:40:13:339] info: [API-Q] (T02S80P41LN) d67d108f-1754680212.944 drafts.create is RESOLVED 
+[08/09/25, 00:40:13:339] info: [DRAFTS] (T02S80P41LN) New draft synced - D098PJ6AVKP 
+[08/09/25, 00:40:35:833] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/09/25, 00:40:35:863] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/09/25, 00:40:35:863] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AVKP because last_read >= latest && channel is read 
+[08/09/25, 00:40:38:090] info: Breadcrumb: ui.input: div.c-texty_input_unstyled.ql-container.focus > div.ql-editor  
+[08/09/25, 00:40:43:080] info: Breadcrumb: ui.input: div.c-texty_input_unstyled.ql-container.focus > div.ql-editor  
+[08/09/25, 00:40:48:228] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - D098PJ6AVKP 
+[08/09/25, 00:40:48:880] info: Breadcrumb: ui.input: div.c-texty_input_unstyled.ql-container.focus > div.ql-editor  
+[08/09/25, 00:40:52:306] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - D098PJ6AVKP 
+[08/09/25, 00:40:55:068] info: [API-Q] (T02S80P41LN) d67d108f-1754680255.068 client.counts called with reason: pollClientCountsAfterTimeout 
+[08/09/25, 00:40:55:068] info: [API-Q] (T02S80P41LN) d67d108f-1754680255.068 client.counts is ENQUEUED 
+[08/09/25, 00:40:55:069] info: [API-Q] (T02S80P41LN) d67d108f-1754680255.068 client.counts is ACTIVE 
+[08/09/25, 00:40:55:423] info: [API-Q] (T02S80P41LN) d67d108f-1754680255.068 client.counts is RESOLVED 
+[08/09/25, 00:40:55:424] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/09/25, 00:40:55:426] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/09/25, 00:40:55:426] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/09/25, 00:41:00:641] info: [API-Q] (T02S80P41LN) d67d108f-1754680260.641 conversations.suggestions called with reason: trigger-channel-suggestions 
+[08/09/25, 00:41:00:642] info: [API-Q] (T02S80P41LN) d67d108f-1754680260.641 conversations.suggestions is ENQUEUED 
+[08/09/25, 00:41:00:642] info: [API-Q] (T02S80P41LN) d67d108f-1754680260.641 conversations.suggestions is ACTIVE 
+[08/09/25, 00:41:00:952] info: [API-Q] (T02S80P41LN) d67d108f-1754680260.641 conversations.suggestions is RESOLVED 
+[08/09/25, 00:41:02:306] info: [DRAFTS] Firing debounced draft sync - D098PJ6AVKP 
+[08/09/25, 00:41:02:306] info: [DRAFTS] (T02S80P41LN) Syncing draft updates - client id: D098PJ6AVKP || server id: Dr09AD0P903A 
+[08/09/25, 00:41:02:314] info: [API-Q] (T02S80P41LN) d67d108f-1754680262.313 drafts.update called with reason: MessageInput:updateDraft 
+[08/09/25, 00:41:02:314] info: [API-Q] (T02S80P41LN) d67d108f-1754680262.313 drafts.update is ENQUEUED 
+[08/09/25, 00:41:02:314] info: [API-Q] (T02S80P41LN) d67d108f-1754680262.313 drafts.update is ACTIVE 
+[08/09/25, 00:41:02:623] info: [DRAFTS] (T02S80P41LN) RTM: draft_update - Dr09AD0P903A 
+[08/09/25, 00:41:02:623] info: [DRAFTS] (T02S80P41LN) Ignoring a 'draft_update' event triggered by a local change: Dr09AD0P903A 
+[08/09/25, 00:41:02:625] info: [API-Q] (T02S80P41LN) d67d108f-1754680262.313 drafts.update is RESOLVED 
+[08/09/25, 00:41:02:625] info: [DRAFTS] (T02S80P41LN) Draft updates synced - client id: D098PJ6AVKP || server id: Dr09AD0P903A 
+[08/09/25, 00:41:07:890] info: [MESSAGE-INPUT] (T02S80P41LN) opening schedule message dialog 
+[08/09/25, 00:41:07:893] info: Breadcrumb: ui.click: div.c-menu_item__label  
+[08/09/25, 00:41:10:734] info: Breadcrumb: ui.click: button.c-button-unstyled.c-date_picker__select_btn[type="button"] > svg  
+[08/09/25, 00:41:13:597] info: Breadcrumb: ui.click: button.c-button-unstyled.c-date_picker_calendar__date.c-button-unstyled.c-date_picker_calendar__date--is_today[type="button"]  
+[08/09/25, 00:41:15:072] info: [SCHEDULED-SEND] (T02S80P41LN) attempt schedule send message; draftId: D098PJ6AVKP, dateScheduled: 1754710200 
+[08/09/25, 00:41:15:075] info: [SCHEDULE-DRAFT] (T02S80P41LN) Scheduling D098PJ6AVKP for 1754710200 
+[08/09/25, 00:41:15:077] info: [API-Q] (T02S80P41LN) d67d108f-1754680275.076 drafts.update called with reason: schedule-draft 
+[08/09/25, 00:41:15:077] info: [API-Q] (T02S80P41LN) d67d108f-1754680275.076 drafts.update is ENQUEUED 
+[08/09/25, 00:41:15:078] info: [API-Q] (T02S80P41LN) d67d108f-1754680275.076 drafts.update is ACTIVE 
+[08/09/25, 00:41:15:078] info: Breadcrumb: ui.click: button.c-button.c-button--primary.c-button--medium[type="button"]  
+[08/09/25, 00:41:15:435] info: [API-Q] (T02S80P41LN) d67d108f-1754680275.076 drafts.update is RESOLVED 
+[08/09/25, 00:41:15:435] info: [DRAFTS] (T02S80P41LN) RTM: draft_update - Dr09AD0P903A 
+[08/09/25, 00:41:15:435] info: [DRAFTS] (T02S80P41LN) Ignoring a 'draft_update' event triggered by a local change: Dr09AD0P903A 
+[08/09/25, 00:41:15:436] info: [DRAFTS] (T02S80P41LN) Ensuring block mention models are present 
+[08/09/25, 00:41:15:437] info: [DRAFTS] (T02S80P41LN) Reconciled updated draft - D098PJ6AVKP 
+[08/09/25, 00:41:15:437] info: [SCHEDULE-DRAFT] (T02S80P41LN) draft scheduled and reconciled with client ID ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5, serverId Dr09AD0P903A, and dateScheduled 1754710200 
+[08/09/25, 00:41:21:579] info: [NAVIGATE-IN-MAIN-WIND] Starting a new navigation event {"id":"Pscheduled-messages","viewType":"Page","options":{}} 
+[08/09/25, 00:41:21:579] info: [APPLY-DETAIL-VIEW] ViewSet with detail view applied {"viewSet":{"primary":{"id":"Pscheduled-messages","viewType":"Page"}}} 
+[08/09/25, 00:41:21:580] info: [APPLY-DETAIL-VIEW] ViewSet with channel canvas applied {"viewSet":{"primary":{"id":"Pscheduled-messages","viewType":"Page"}}} 
+[08/09/25, 00:41:21:580] info: [NAVIGATE-IN-MAIN-WIND] Applying changes to the primary container {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"nextTab":"home"} 
+[08/09/25, 00:41:21:580] info: [NAVIGATION-MIDDLEWARE] Starting a new navigation middleware execution {"context":"navigation","nextViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"middlewareCount":18,"nextTab":"home"} 
+[08/09/25, 00:41:21:580] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"ChannelList","viewType":"ChannelList"},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.5,"nextTab":"home"} 
+[08/09/25, 00:41:21:581] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for sidebar container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":1} 
+[08/09/25, 00:41:21:581] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"Pscheduled-messages","viewType":"Page"},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.10000000149011612,"nextTab":"home"} 
+[08/09/25, 00:41:21:581] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":0.30000000447034836} 
+[08/09/25, 00:41:21:581] info: [NAVIGATION-MIDDLEWARE] Navigation middleware execution is complete {"maybeUpdatedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"executionTime":1.3000000044703484,"nextTab":"home"} 
+[08/09/25, 00:41:21:581] info: [NAVIGATE-IN-MAIN-WIND] Built view set after middleware {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"nextTab":"home"} 
+[08/09/25, 00:41:21:584] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Starting navigation listeners for triggerType NAVIGATION 
+[08/09/25, 00:41:21:587] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Navigation listeners complete without errors 
+[08/09/25, 00:41:21:587] info: [NAVIGATE-IN-MAIN-WIND]  Navigation thunk execution complete {"id":"Pscheduled-messages","viewType":"Page","options":{}} 
+[08/09/25, 00:41:21:595] info: Breadcrumb: ui.click: div.p-context_bar_v2__content > button.c-link--button[type="button"] > strong  
+[08/09/25, 00:41:21:618] info: [MESSAGE-LIST] (T02S80P41LN) getScrollmark reason:unmount channelId:D098PJ6AVKP at end 
+[08/09/25, 00:41:21:665] info: Store: EXTEND_MENU T02S80P41LN: menucategory-file,menucategory-view,menucategory-edit,menucategory-help 
+[08/09/25, 00:41:21:676] info: [WD] All assets have reported back; s: 18; f: 0 
+[08/09/25, 00:41:26:429] info: [COMPOSER] (T02S80P41LN) Opening the composer page to the following draft ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:26:429] info: [NAVIGATE-IN-MAIN-WIND] Starting a new navigation event {"id":"Pcomposer","viewType":"Page","viewParams":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"},"options":{}} 
+[08/09/25, 00:41:26:430] info: [APPLY-DETAIL-VIEW] ViewSet with detail view applied {"viewSet":{"primary":{"id":"Pcomposer","viewType":"Page","params":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"}}}} 
+[08/09/25, 00:41:26:430] info: [APPLY-DETAIL-VIEW] ViewSet with channel canvas applied {"viewSet":{"primary":{"id":"Pcomposer","viewType":"Page","params":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"}}}} 
+[08/09/25, 00:41:26:430] info: [NAVIGATE-IN-MAIN-WIND] Applying changes to the primary container {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pcomposer","viewType":"Page","params":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"}}},"nextTab":"home"} 
+[08/09/25, 00:41:26:430] info: [NAVIGATION-MIDDLEWARE] Starting a new navigation middleware execution {"context":"navigation","nextViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pcomposer","viewType":"Page","params":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"}}},"middlewareCount":18,"nextTab":"home"} 
+[08/09/25, 00:41:26:430] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"ChannelList","viewType":"ChannelList"},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.10000000149011612,"nextTab":"home"} 
+[08/09/25, 00:41:26:430] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for sidebar container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pcomposer","viewType":"Page","params":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"}}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":0.30000000447034836} 
+[08/09/25, 00:41:26:430] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"Pcomposer","viewType":"Page","params":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"}},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.09999999403953552,"nextTab":"home"} 
+[08/09/25, 00:41:26:430] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pcomposer","viewType":"Page","params":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"}}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":0.09999999403953552} 
+[08/09/25, 00:41:26:430] info: [NAVIGATION-MIDDLEWARE] Navigation middleware execution is complete {"maybeUpdatedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pcomposer","viewType":"Page","params":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"}}},"terminateNavigation":false,"executionTime":0.3999999985098839,"nextTab":"home"} 
+[08/09/25, 00:41:26:431] info: [NAVIGATE-IN-MAIN-WIND] Built view set after middleware {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pcomposer","viewType":"Page","params":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"}}},"nextTab":"home"} 
+[08/09/25, 00:41:26:433] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Starting navigation listeners for triggerType NAVIGATION 
+[08/09/25, 00:41:26:434] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Navigation listeners complete without errors 
+[08/09/25, 00:41:26:434] info: [NAVIGATE-IN-MAIN-WIND]  Navigation thunk execution complete {"id":"Pcomposer","viewType":"Page","viewParams":{"draftId":"ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5"},"options":{}} 
+[08/09/25, 00:41:26:455] error: Icon undefined not found 
+[08/09/25, 00:41:26:483] error: Listener added for a 'DOMNodeInserted' mutation event. Support for this event type has been removed, and this event will no longer be fired. See https://chromestatus.com/feature/5083947249172480 for more information. 
+[08/09/25, 00:41:26:569] info: [API-Q] (T02S80P41LN) d67d108f-1754680286.568 users.isEarlyJoiner called with reason: prefill-dm-canvas 
+[08/09/25, 00:41:26:569] info: [API-Q] (T02S80P41LN) d67d108f-1754680286.568 users.isEarlyJoiner is ENQUEUED 
+[08/09/25, 00:41:26:587] info: [API-Q] (T02S80P41LN) d67d108f-1754680286.587 users.profile.getSections called with reason: profiles 
+[08/09/25, 00:41:26:588] info: [API-Q] (T02S80P41LN) d67d108f-1754680286.587 users.profile.getSections is ENQUEUED 
+[08/09/25, 00:41:26:599] info: [API-Q] (T02S80P41LN) d67d108f-1754680286.568 users.isEarlyJoiner is ACTIVE 
+[08/09/25, 00:41:26:600] info: [API-Q] (T02S80P41LN) d67d108f-1754680286.587 users.profile.getSections is ACTIVE 
+[08/09/25, 00:41:26:961] info: [API-Q] (T02S80P41LN) d67d108f-1754680286.587 users.profile.getSections is RESOLVED 
+[08/09/25, 00:41:26:961] info: [API-Q] (T02S80P41LN) d67d108f-1754680286.568 users.isEarlyJoiner is RESOLVED 
+[08/09/25, 00:41:34:245] info: Breadcrumb: ui.click: div.c-texty_input_unstyled.ql-container.focus > div.ql-editor > p  
+[08/09/25, 00:41:34:955] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:35:329] info: Breadcrumb: ui.input: div.c-texty_input_unstyled.ql-container.focus > div.ql-editor  
+[08/09/25, 00:41:35:343] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:35:659] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:35:886] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:35:979] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:36:118] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:36:294] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:36:416] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:36:526] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:37:310] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:37:476] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:37:548] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:37:620] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:37:796] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:38:424] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:43:388] info: Breadcrumb: ui.input: div.c-texty_input_unstyled.ql-container.focus > div.ql-editor  
+[08/09/25, 00:41:43:402] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:43:517] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:43:651] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:43:761] info: [DRAFTS] (T02S80P41LN) Storing draft changes locally - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:45:249] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 00:41:45:249] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 00:41:45:249] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 00:41:45:249] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 00:41:45:249] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 00:41:45:249] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 00:41:45:249] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 00:41:45:250] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 00:41:45:250] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/09/25, 00:41:48:040] info: [NAVIGATE-IN-MAIN-WIND] Starting a new navigation event {"id":"Pscheduled-messages","viewType":"Page","options":{}} 
+[08/09/25, 00:41:48:040] info: [APPLY-DETAIL-VIEW] ViewSet with detail view applied {"viewSet":{"primary":{"id":"Pscheduled-messages","viewType":"Page"}}} 
+[08/09/25, 00:41:48:040] info: [APPLY-DETAIL-VIEW] ViewSet with channel canvas applied {"viewSet":{"primary":{"id":"Pscheduled-messages","viewType":"Page"}}} 
+[08/09/25, 00:41:48:041] info: [NAVIGATE-IN-MAIN-WIND] Applying changes to the primary container {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"nextTab":"home"} 
+[08/09/25, 00:41:48:041] info: [NAVIGATION-MIDDLEWARE] Starting a new navigation middleware execution {"context":"navigation","nextViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"middlewareCount":18,"nextTab":"home"} 
+[08/09/25, 00:41:48:041] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"ChannelList","viewType":"ChannelList"},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.20000000298023224,"nextTab":"home"} 
+[08/09/25, 00:41:48:041] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for sidebar container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":0.4000000059604645} 
+[08/09/25, 00:41:48:041] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"Pscheduled-messages","viewType":"Page"},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.09999999403953552,"nextTab":"home"} 
+[08/09/25, 00:41:48:042] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":0.19999999552965164} 
+[08/09/25, 00:41:48:042] info: [NAVIGATION-MIDDLEWARE] Navigation middleware execution is complete {"maybeUpdatedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"executionTime":0.7999999970197678,"nextTab":"home"} 
+[08/09/25, 00:41:48:042] info: [NAVIGATE-IN-MAIN-WIND] Built view set after middleware {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"nextTab":"home"} 
+[08/09/25, 00:41:48:045] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Starting navigation listeners for triggerType NAVIGATION 
+[08/09/25, 00:41:48:047] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Navigation listeners complete without errors 
+[08/09/25, 00:41:48:047] info: [NAVIGATE-IN-MAIN-WIND]  Navigation thunk execution complete {"id":"Pscheduled-messages","viewType":"Page","options":{}} 
+[08/09/25, 00:41:48:052] info: Breadcrumb: ui.click: svg  
+[08/09/25, 00:41:53:763] info: [DRAFTS] Firing debounced draft sync - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 00:41:53:763] info: [DRAFTS] (T02S80P41LN) Syncing draft updates - client id: ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 || server id: Dr09AD0P903A 
+[08/09/25, 00:41:53:768] info: [API-Q] (T02S80P41LN) d67d108f-1754680313.768 drafts.update called with reason: ComposerPage:update 
+[08/09/25, 00:41:53:768] info: [API-Q] (T02S80P41LN) d67d108f-1754680313.768 drafts.update is ENQUEUED 
+[08/09/25, 00:41:53:768] info: [API-Q] (T02S80P41LN) d67d108f-1754680313.768 drafts.update is ACTIVE 
+[08/09/25, 00:41:54:195] info: [DRAFTS] (T02S80P41LN) RTM: draft_update - Dr09AD0P903A 
+[08/09/25, 00:41:54:196] info: [DRAFTS] (T02S80P41LN) Ignoring a 'draft_update' event triggered by a local change: Dr09AD0P903A 
+[08/09/25, 00:41:54:196] info: [API-Q] (T02S80P41LN) d67d108f-1754680313.768 drafts.update is RESOLVED 
+[08/09/25, 00:41:54:197] info: [DRAFTS] (T02S80P41LN) Draft updates synced - client id: ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 || server id: Dr09AD0P903A 
+[08/09/25, 00:41:59:101] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/09/25, 00:41:59:132] info: [VISIBILITY-STATE] (T02S80P41LN) Main window visibility state changed: hidden 
+[08/09/25, 00:48:38:027] info: Store: QUIT_APP  
+[08/09/25, 00:48:38:028] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/09/25, 00:48:38:029] info: Store: DOWNLOADS_CLEANED_UP  
+[08/09/25, 00:48:38:029] info: [WIN-RESTORE] Flushing current window restoration data and ignoring all future saves due to app quit 
+[08/09/25, 00:48:38:029] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[08/09/25, 00:48:38:029] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[08/09/25, 00:48:38:029] info: [RELOAD] Page is about to unload. This might not be a reload, it could be a window close or navigation 
+[08/09/25, 00:48:38:029] info: [WINDOW-UNLOADING] (T02S80P41LN) Main window unloading 
+[08/09/25, 00:48:38:032] info: [WINDOW-UNLOADING] (T02S80P41LN) workspace handling window unloading event 
+[08/09/25, 00:48:38:033] info: [PERSIST] (T02S80P41LN) Persisting state to storage because the window is about to unload 
+[08/09/25, 00:48:38:041] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "page-closed"
+} 
+[08/09/25, 09:34:19:233] info: 
+╔═════════════════════════════════════════════════════╗
+║      Slack 4.44.60, linux 6.12.41-1-lts on x64      ║
+╚═════════════════════════════════════════════════════╝ 
+[08/09/25, 09:34:19:234] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "webapp-console",
+  "loggerInstanceCount": 3
+}
+[08/09/25, 09:34:19:234] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Asia/Calcutta",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.44.60",
+  "PACKAGE_MANIFEST.commit": "cf47348",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/09/25, 09:34:19:385] info: Starting Sentry (Preload) 
+[08/09/25, 09:34:19:386] info: getSentryDSN: Setting sentry URL to slack.com 
+[08/09/25, 09:34:19:388] info: Creating desktop interface object 
+[08/09/25, 09:34:19:389] info: Exposing context bridge 
+[08/09/25, 09:34:19:418] info: Store: WINDOW_CREATED {
+  "type": "main",
+  "webappType": "app",
+  "initialLoadURL": "https://app.slack.com/client/T02S80P41LN",
+  "id": 1,
+  "frame": {
+    "isHtmlFullScreen": false,
+    "isCurrentlyAudible": false,
+    "isFullScreen": false,
+    "isMinimized": false,
+    "isMaximized": false,
+    "isVisible": false,
+    "isFocused": false,
+    "bounds": {
+      "x": 264,
+      "y": 86,
+      "width": 1200,
+      "height": 800
+    },
+    "hasVibrancy": false,
+    "isAlwaysOnTop": false
+  }
+} 
+[08/09/25, 09:34:19:418] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 1,
+  "interval": 89
+} 
+[08/09/25, 09:34:19:418] info: Store: SET_UPDATE_SUPPORTED false 
+[08/09/25, 09:34:19:418] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "unloaded",
+  "type": "app"
+} 
+[08/09/25, 09:34:19:418] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[08/09/25, 09:34:19:418] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 179
+} 
+[08/09/25, 09:34:19:421] info: Store: MAIN_WINDOW_SHOWN  
+[08/09/25, 09:34:19:421] info: Store: CLEAR_NOTIFICATIONS  
+[08/09/25, 09:34:19:661] info: [METRICS] Starting timers for metrics collection 
+[08/09/25, 09:34:20:096] info: [APP] client-v2 
+[08/09/25, 09:34:20:096] info: [DATE/TIME] 1754712260093 "2025-08-09T04:04:20.093Z" 
+[08/09/25, 09:34:20:096] info: [VERSION] version_hash: caeacea7683ea90fb00edc781e1c6644d36babe3 
+[08/09/25, 09:34:20:096] info: [VERSION] version_ts: 1754674353 
+[08/09/25, 09:34:20:096] info: [VERSION] min_version_data_ts: 1722374725 
+[08/09/25, 09:34:20:096] info: [URL] https://app.slack.com/client/T02S80P41LN 
+[08/09/25, 09:34:20:096] info: [AUTH] authCookieChanged: started listening to the event 
+[08/09/25, 09:34:20:096] info: [AUTH] Credentials are fresh (psc=1754300223, csc=1754300223) 
+[08/09/25, 09:34:20:096] info: [LOCAL-CONFIG] ingestIncomingConfig(): no incoming payload to process; current teams: T02S80P41LN:U098PJ614F7 
+[08/09/25, 09:34:20:097] info: [BOOT] Initial user team ID: T02S80P41LN 
+[08/09/25, 09:34:20:097] info: [BOOT] (T02S80P41LN) Minimum supported data version is 1722374725; currently on 1754622458 
+[08/09/25, 09:34:20:097] info: [PERSIST] (T02S80P41LN) Getting state from IndexedDB 
+[08/09/25, 09:34:20:098] info: [TRACER] Tracing is not sampled by default for this team. 
+[08/09/25, 09:34:20:126] info: [TRACER] Tracing is not sampled by default for this session. 
+[08/09/25, 09:34:20:130] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.127 experiments.getByUser called 
+[08/09/25, 09:34:20:130] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.127 experiments.getByUser is ENQUEUED 
+[08/09/25, 09:34:20:131] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.131 api.features called 
+[08/09/25, 09:34:20:131] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.131 api.features is ENQUEUED 
+[08/09/25, 09:34:20:133] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.133 features.access.policies.list called 
+[08/09/25, 09:34:20:134] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.133 features.access.policies.list is ENQUEUED 
+[08/09/25, 09:34:20:134] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.134 client.shouldReload called with reason: boot 
+[08/09/25, 09:34:20:134] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.134 client.shouldReload is ENQUEUED 
+[08/09/25, 09:34:20:135] info: [BOOT] Couldn't determine boot channel. Falling back to default channel 
+[08/09/25, 09:34:20:201] info: Store: UPDATE_SETTINGS {
+  "userTheme": "dark"
+} 
+[08/09/25, 09:34:20:276] info: Store: UPDATE_SETTINGS {
+  "systemThemeSyncEnabled": true
+} 
+[08/09/25, 09:34:20:277] info: Store: SELECTION_CHANGED T02S80P41LN 
+[08/09/25, 09:34:20:345] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/09/25, 09:34:20:441] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.127 experiments.getByUser is ACTIVE 
+[08/09/25, 09:34:20:441] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.131 api.features is ACTIVE 
+[08/09/25, 09:34:20:441] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.133 features.access.policies.list is ACTIVE 
+[08/09/25, 09:34:20:442] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.134 client.shouldReload is ACTIVE 
+[08/09/25, 09:34:20:506] info: [PERSIST] (T02S80P41LN) Successfully got state from IndexedDB 
+[08/09/25, 09:34:20:507] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.506 client.userBoot called with reason: deferred-data 
+[08/09/25, 09:34:20:507] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.506 client.userBoot is ENQUEUED 
+[08/09/25, 09:34:20:507] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.506 client.userBoot is ACTIVE 
+[08/09/25, 09:34:20:738] info: Breadcrumb: fetch: undefined {
+  "method": "GET",
+  "url": "[REDACTED]",
+  "status_code": 200
+} 
+[08/09/25, 09:34:20:740] info: Network status check {
+  "elapsed_time_ms": 465,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[08/09/25, 09:34:20:741] info: Store: SET_NETWORK_STATUS online 
+[08/09/25, 09:34:20:769] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.133 features.access.policies.list is RESOLVED 
+[08/09/25, 09:34:20:783] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.134 client.shouldReload is RESOLVED 
+[08/09/25, 09:34:21:434] info: [BOOT] (T02S80P41LN) Booting with persisted store 
+[08/09/25, 09:34:21:434] info: [PERSIST] (T02S80P41LN) Checking for persistence method changes 
+[08/09/25, 09:34:21:435] info: [BOOT] No need to reload 
+[08/09/25, 09:34:21:435] info: [PERSIST] (T02S80P41LN) Preparing state for hydration 
+[08/09/25, 09:34:21:462] warn: SCHEMA Invalid data for schema 'redux-prefs'. This does not necessarily mean that an error has occurred. Errors:
+[{"keyword":"required","dataPath":".iaTheme","schemaPath":"#/properties/iaTheme/allOf/0/required","params":{"missingProperty":"mode"},"message":"should have required property 'mode'"}] {"subtype":"redux-prefs"} 
+[08/09/25, 09:34:21:463] info: [PERSIST] (T02S80P41LN) prefs persisted data does not pass schema validation, throwing away persisted data for it 
+[08/09/25, 09:34:21:473] info: [PERSIST] (T02S80P41LN) State prepared for hydration 
+[08/09/25, 09:34:21:474] info: [PERSIST] (T02S80P41LN) Checking for required data 
+[08/09/25, 09:34:21:479] info: [BOOT] (T02S80P41LN) Configuring redux store 
+[08/09/25, 09:34:21:484] info: [DESKTOP-MIDDLEWARE] (T02S80P41LN) Forwarding redux payload to desktop ["theme","notificationPrefs","connectivityPrefs","featureFlags","unreads","locale","version","frontendBuildType","userId"] 
+[08/09/25, 09:34:21:491] info: [NAVIGATION-MIDDLEWARE] Starting a new navigation middleware execution {"context":"client-boot","nextViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"middlewareCount":6} 
+[08/09/25, 09:34:21:491] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"ChannelList","viewType":"ChannelList"},"results":[["EnsureChannelHasParentTabMiddleware",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["AttemptToSetSolutionsGalleryPref",false],["EnsureAppViewType",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.5} 
+[08/09/25, 09:34:21:491] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for sidebar container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":1.3999999999941792} 
+[08/09/25, 09:34:21:492] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"Pscheduled-messages","viewType":"Page"},"results":[["EnsureChannelHasParentTabMiddleware",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["AttemptToSetSolutionsGalleryPref",false],["EnsureAppViewType",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.20000000001164153} 
+[08/09/25, 09:34:21:492] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":0.3000000000174623} 
+[08/09/25, 09:34:21:492] info: [NAVIGATION-MIDDLEWARE] Navigation middleware execution is complete {"maybeUpdatedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"executionTime":1.8000000000174623} 
+[08/09/25, 09:34:21:494] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Creating desktop delegate 
+[08/09/25, 09:34:21:495] info: Exposing workspace desktop delegate for  {
+  "workspaceId": "T02S80P41LN"
+} 
+[08/09/25, 09:34:21:495] info: Setting global desktop delegate 
+[08/09/25, 09:34:21:497] info: [BOOT] (T02S80P41LN) (T02S80P41LN) Mounting client 
+[08/09/25, 09:34:21:595] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.594 users.interactions.list called with reason: canvas_tab_coachmark 
+[08/09/25, 09:34:21:595] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.594 users.interactions.list is ENQUEUED 
+[08/09/25, 09:34:21:595] info: [COUNTS] (T02S80P41LN) dmsBadgeCount: 0 
+[08/09/25, 09:34:21:602] info: [DEVICE-PERMISSIONS-MA] Initializing media device permissions manager 
+[08/09/25, 09:34:21:602] info: [DEVICE-PERMISSIONS-MA] Permissions loaded from local storage {"permissions":{"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}},"timestamp":1754680189046} 
+[08/09/25, 09:34:21:602] info: [DEVICE-PERMISSIONS-MA] Using desktop device permissions strategy 
+[08/09/25, 09:34:21:602] info: [DEVICE-PERMISSIONS-MA] Scheduled permissions refresh 
+[08/09/25, 09:34:21:602] info: [DEVICE-PREFS] Initializing device preferences manager with teamId: T02S80P41LN and useDevicesExp: true 
+[08/09/25, 09:34:21:603] info: [DEVICE-PREFS] Using experimental device manager 
+[08/09/25, 09:34:21:603] info: [SOUND-PLAYBACK] Setting sound playback to prefer OS default sink: true 
+[08/09/25, 09:34:21:624] warn: TRACER (T02S80P41LN) (boot:time_to_mount_client) was forced closed and marked with the _flush=true tag. 
+[08/09/25, 09:34:21:624] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.594 users.interactions.list is ACTIVE 
+[08/09/25, 09:34:21:727] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.131 api.features is RESOLVED 
+[08/09/25, 09:34:21:729] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.506 client.userBoot is RESOLVED 
+[08/09/25, 09:34:21:732] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712261.731 onboarding.fetch called 
+[08/09/25, 09:34:21:732] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712261.731 onboarding.fetch is ENQUEUED 
+[08/09/25, 09:34:21:732] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712261.731 onboarding.fetch is ACTIVE 
+[08/09/25, 09:34:21:734] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712260.127 experiments.getByUser is RESOLVED 
+[08/09/25, 09:34:21:734] info: [BOOT] Feature flag config version: 1754712260; Experiments config version: 1754712260 
+[08/09/25, 09:34:21:735] info: [BOOT] Current earliest config version: 1754712260; All config versions: {"T02S80P41LN":1754712260} 
+[08/09/25, 09:34:21:735] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+} 
+[08/09/25, 09:34:21:739] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[08/09/25, 09:34:21:743] info: [UFM-PERMISSIONS] (T02S80P41LN) requesting ACCESS_SLACK_AI_SEARCH,CREATE_PUBLIC_CHANNEL,CREATE_PRIVATE_CHANNEL,ACCESS_SLACK_AI_CHANNEL_THREAD_SUMMARIES,ACCESS_SLACK_AI_RECAP,ACCESS_SLACK_AI_FILE_SUMMARIES,ADD_FULL_USER_TO_WORKSPACE,VIEW_OVERVIEW_ANALYTICS,VIEW_MEMBER_ANALYTICS,VIEW_APP_ANALYTICS,VIEW_CHANNEL_ANALYTICS,VIEW_TOP_LEVEL_WORKFLOWS,ADD_CUSTOM_EMOJI,EDIT_SLACKBOT_RESPONSES,ADD_GUEST_USER_TO_WORKSPACE,REMOVE_GUEST_USER_FROM_WORKSPACE,REMOVE_FULL_USER_FROM_WORKSPACE,CONVERT_TO_GUEST,CONVERT_TO_MEMBER,READ_LEGAL_HOLDS,WRITE_LEGAL_HOLDS (1) 
+[08/09/25, 09:34:21:744] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.744 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/09/25, 09:34:21:744] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.744 slackAi.permissions.getForUser is ENQUEUED 
+[08/09/25, 09:34:21:745] info: [API-Q] (T02S80P41LN) noversion-1754712261.744 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/09/25, 09:34:21:745] info: [API-Q] (T02S80P41LN) noversion-1754712261.744 Flannel permissions/info is ENQUEUED 
+[08/09/25, 09:34:21:745] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.744 slackAi.permissions.getForUser is ACTIVE 
+[08/09/25, 09:34:21:745] info: [API-Q] (T02S80P41LN) noversion-1754712261.744 Flannel permissions/info is ACTIVE 
+[08/09/25, 09:34:21:794] info: Store: REDUX_UPDATE_FROM_WEBAPP (T02S80P41LN) Changed keys [theme,notificationPrefs,connectivityPrefs,featureFlags,unreads,locale,version,frontendBuildType,userId] 
+[08/09/25, 09:34:21:794] info: Store: EXTEND_MENU global: menucategory-file,menucategory-view,menucategory-jump-to 
+[08/09/25, 09:34:21:795] info: Store: EXTEND_MENU T02S80P41LN: menucategory-file,menucategory-view,menucategory-edit,menucategory-help 
+[08/09/25, 09:34:21:795] info: Store: UPDATE_SETTINGS {
+  "zoomLevel": 0
+} 
+[08/09/25, 09:34:21:796] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[08/09/25, 09:34:21:813] info: [WD] All assets have reported back; s: 17; f: 0 
+[08/09/25, 09:34:21:815] info: [DEVICE-PREFS] Amending label for OS default audioinput device: Default -> System Default (Default) 
+[08/09/25, 09:34:21:815] info: [DEVICE-PREFS] Amending label for OS default audiooutput device: Default -> System Default (Default) 
+[08/09/25, 09:34:21:815] info: [DEVICE-PREFS] Device list update complete 
+[08/09/25, 09:34:21:815] info: [DEVICE-PREFS] Device list change handler updated 
+[08/09/25, 09:34:21:815] info: [DEVICE-PREFS] Device preferences manager initialized 
+[08/09/25, 09:34:21:815] info: [DEVICE-PREFS] Analyzing stored device records 
+[08/09/25, 09:34:21:815] info: [DEVICE-PREFS] Returning all records for initialization analyses 
+[08/09/25, 09:34:21:816] info: [DEVICE-PREFS] Device selection records analysis: {"totalRecords":0,"webAudioDevices":0,"webAudioSelectedDevices":0,"webAudioUsedDevices":0,"microphoneCount":0,"speakerCount":0,"cameraCount":0} 
+[08/09/25, 09:34:21:816] info: [DEVICE-PREFS] Device preferences manager initialized 
+[08/09/25, 09:34:21:844] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[08/09/25, 09:34:21:884] info: [DRAFTS] (T02S80P41LN) There are no channels with drafts 
+[08/09/25, 09:34:21:884] info: [BOOT] (T02S80P41LN) Beaconed client boot mount success 
+[08/09/25, 09:34:21:884] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.884 sharedInvites.canGetLink called with reason: sidebar-mount 
+[08/09/25, 09:34:21:884] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.884 sharedInvites.canGetLink is ENQUEUED 
+[08/09/25, 09:34:21:941] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.884 sharedInvites.canGetLink is ACTIVE 
+[08/09/25, 09:34:21:946] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.594 users.interactions.list is RESOLVED 
+[08/09/25, 09:34:21:946] info: [UFM] (T02S80P41LN) requesting C02S02N2FAT,D098PJ6AUJH,D098PJ6AVKP,D098RCLR1S9,D098PJ69TSR (1) 
+[08/09/25, 09:34:21:947] info: [API-Q] (T02S80P41LN) noversion-1754712261.947 Flannel huddles/info called with reason: flannel-call:huddles/info 
+[08/09/25, 09:34:21:947] info: [API-Q] (T02S80P41LN) noversion-1754712261.947 Flannel huddles/info is ENQUEUED 
+[08/09/25, 09:34:21:947] info: [API-Q] (T02S80P41LN) noversion-1754712261.947 Flannel huddles/info is ACTIVE 
+[08/09/25, 09:34:21:963] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.962 users.prefs.set called with reason: prefs-api/setUserPrefByApi 
+[08/09/25, 09:34:21:963] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.962 users.prefs.set is ENQUEUED 
+[08/09/25, 09:34:21:964] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.963 users.prefs.set called with reason: prefs-api/setUserPrefByApi 
+[08/09/25, 09:34:21:964] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.963 users.prefs.set is ENQUEUED 
+[08/09/25, 09:34:21:964] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.964 megaphone.notifications.list called with reason: load-megaphone-notification-data 
+[08/09/25, 09:34:21:964] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.964 megaphone.notifications.list is ENQUEUED 
+[08/09/25, 09:34:21:966] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.962 users.prefs.set is ACTIVE 
+[08/09/25, 09:34:21:966] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.963 users.prefs.set is ACTIVE 
+[08/09/25, 09:34:21:966] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.964 megaphone.notifications.list is ACTIVE 
+[08/09/25, 09:34:22:014] info: [BOOT-QUEUE] T02S80P41LN noversion-1754712261.731 onboarding.fetch is RESOLVED 
+[08/09/25, 09:34:22:016] info: [BOOT] (T02S80P41LN) Dispatching API data 
+[08/09/25, 09:34:22:016] info: [BOOT] (T02S80P41LN) Dispatching boot data 
+[08/09/25, 09:34:22:028] info: [DESKTOP-MIDDLEWARE] (T02S80P41LN) Forwarding redux payload to desktop ["notificationPrefs","unreads"] 
+[08/09/25, 09:34:22:030] info: [DESKTOP-MIDDLEWARE] (T02S80P41LN) Forwarding redux payload to desktop ["connectivityPrefs"] 
+[08/09/25, 09:34:22:042] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/09/25, 09:34:22:042] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.042 search.autocomplete.topEmojis called with reason: loadEmoji-maybeReloadEmoji-setModelData 
+[08/09/25, 09:34:22:042] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.042 search.autocomplete.topEmojis is ENQUEUED 
+[08/09/25, 09:34:22:052] info: [BOOT] (T02S80P41LN) processing mutation timestamps for D098PJ67G4D 
+[08/09/25, 09:34:22:053] info: [PLATFORM-CHANNEL-ACTI] (T02S80P41LN) Not updating count for channel D098PJ67G4D, as count was already set to 0 
+[08/09/25, 09:34:22:054] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.042 search.autocomplete.topEmojis is ACTIVE 
+[08/09/25, 09:34:22:056] info: [NAVIGATION-MIDDLEWARE] Starting a new navigation middleware execution {"context":"client-boot","nextViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"middlewareCount":6} 
+[08/09/25, 09:34:22:057] info: [BOOT] (T02S80P41LN) Boot complete 
+[08/09/25, 09:34:22:058] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[08/09/25, 09:34:22:059] info: [(T02S80P41LN)] Will collect additional stats for the first 10 minutes of this session 
+[08/09/25, 09:34:22:059] info: [AUTH] Installing incremental auth handler 
+[08/09/25, 09:34:22:059] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from never_connected to prov_connect 
+[08/09/25, 09:34:22:059] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/09/25, 09:34:22:059] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/09/25, 09:34:22:059] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/09/25, 09:34:22:059] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/09/25, 09:34:22:060] info: [ENDPOINT-MANAGER] (T02S80P41LN) No stale versions to clear. 
+[08/09/25, 09:34:22:060] info: [SOCKET-MANAGER-MIDDLE] (T02S80P41LN) Initialized Socket Manager instance 
+[08/09/25, 09:34:22:061] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"ChannelList","viewType":"ChannelList"},"results":[["EnsureChannelHasParentTabMiddleware",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["AttemptToSetSolutionsGalleryPref",false],["EnsureAppViewType",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":4.800000000017462} 
+[08/09/25, 09:34:22:062] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for sidebar container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":5.5} 
+[08/09/25, 09:34:22:074] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/09/25, 09:34:22:074] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"Pscheduled-messages","viewType":"Page"},"results":[["EnsureChannelHasParentTabMiddleware",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["AttemptToSetSolutionsGalleryPref",false],["EnsureAppViewType",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":10.700000000011642} 
+[08/09/25, 09:34:22:075] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":10.89999999999418} 
+[08/09/25, 09:34:22:075] info: [NAVIGATION-MIDDLEWARE] Navigation middleware execution is complete {"maybeUpdatedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"Pscheduled-messages","viewType":"Page"}},"terminateNavigation":false,"executionTime":16.70000000001164} 
+[08/09/25, 09:34:22:075] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.074 drafts.list called with reason: client-v2-boot-team 
+[08/09/25, 09:34:22:075] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.074 drafts.list is ENQUEUED 
+[08/09/25, 09:34:22:075] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.074 drafts.listActive called with reason: client-v2-boot-team 
+[08/09/25, 09:34:22:075] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.074 drafts.listActive is ENQUEUED 
+[08/09/25, 09:34:22:075] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.075 workflows.triggers.listRecentlyRunForUser called with reason: fetch_and_upsert_recently_run_triggers 
+[08/09/25, 09:34:22:075] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.075 workflows.triggers.listRecentlyRunForUser is ENQUEUED 
+[08/09/25, 09:34:22:076] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.076 megaphone.notifications.list called with reason: boot 
+[08/09/25, 09:34:22:076] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.076 megaphone.notifications.list is ENQUEUED 
+[08/09/25, 09:34:22:076] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.076 megaphone.notifications.list called with reason: boot 
+[08/09/25, 09:34:22:076] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.076 megaphone.notifications.list is ENQUEUED 
+[08/09/25, 09:34:22:077] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.077 teams.trials.info called with reason: client-v2-boot-team 
+[08/09/25, 09:34:22:077] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.077 teams.trials.info is ENQUEUED 
+[08/09/25, 09:34:22:078] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.077 users.prefs.get called with reason: fetch-frecency-prefs 
+[08/09/25, 09:34:22:078] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.077 users.prefs.get is ENQUEUED 
+[08/09/25, 09:34:22:078] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.078 users.priority.list called with reason: fetch-priority-users-on-boot-render 
+[08/09/25, 09:34:22:078] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.078 users.priority.list is ENQUEUED 
+[08/09/25, 09:34:22:081] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.074 drafts.list is ACTIVE 
+[08/09/25, 09:34:22:081] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.074 drafts.listActive is ACTIVE 
+[08/09/25, 09:34:22:082] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.081 calendar.getInstalledCalendars called with reason: calendar-get-installed-calendars 
+[08/09/25, 09:34:22:082] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.081 calendar.getInstalledCalendars is ENQUEUED 
+[08/09/25, 09:34:22:091] info: [BOOT] Setting reducedSignInWorkflowExperiment object in local storage. teamId: T02S80P41LN, enterpriseId: undefined, isOn: true 
+[08/09/25, 09:34:22:092] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Starting navigation listeners for triggerType CLIENT_MOUNT 
+[08/09/25, 09:34:22:095] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Navigation listeners complete without errors 
+[08/09/25, 09:34:22:096] info: [MIN-VERSION] Starting client min-version poll. 
+[08/09/25, 09:34:22:100] info: [PERSIST] Purging persisted models, except for the following teamIds ["T02S80P41LN"] 
+[08/09/25, 09:34:22:176] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.744 slackAi.permissions.getForUser is RESOLVED 
+[08/09/25, 09:34:22:177] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.077 users.prefs.get is ACTIVE 
+[08/09/25, 09:34:22:177] info: Store: REDUX_UPDATE_FROM_WEBAPP (T02S80P41LN) Changed keys [notificationPrefs,unreads] 
+[08/09/25, 09:34:22:178] info: [FLANNEL] (T02S80P41LN) received a user_subscribe_request call while we are not connected; deferring 
+[08/09/25, 09:34:22:179] info: [API-Q] (T02S80P41LN) noversion-1754712262.179 Flannel users/info called with reason: flannel-call:users/info 
+[08/09/25, 09:34:22:179] info: [API-Q] (T02S80P41LN) noversion-1754712262.179 Flannel users/info is ENQUEUED 
+[08/09/25, 09:34:22:179] info: [DND_V2] (T02S80P41LN) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/09/25, 09:34:22:180] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.180 dnd.info called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:self 
+[08/09/25, 09:34:22:180] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.180 dnd.info is ENQUEUED 
+[08/09/25, 09:34:22:180] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.180 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[08/09/25, 09:34:22:180] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.180 dnd.teamInfo is ENQUEUED 
+[08/09/25, 09:34:22:181] info: [OBJECT-STORE] attempting to delete shards [] 
+[08/09/25, 09:34:22:182] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.181 users.channelSections.list called with reason: conditional-fetch-manager 
+[08/09/25, 09:34:22:182] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.181 users.channelSections.list is ENQUEUED 
+[08/09/25, 09:34:22:182] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.182 help.issues.ticketStats called with reason: fetchAndUpsertTicketStats 
+[08/09/25, 09:34:22:182] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.182 help.issues.ticketStats is ENQUEUED 
+[08/09/25, 09:34:22:183] info: [API-Q] (T02S80P41LN) noversion-1754712262.182 Flannel users/info called with reason: flannel-call:users/info 
+[08/09/25, 09:34:22:183] info: [API-Q] (T02S80P41LN) noversion-1754712262.182 Flannel users/info is ENQUEUED 
+[08/09/25, 09:34:22:183] info: [DEVICE-PREFS] Propagating device selection history update 
+[08/09/25, 09:34:22:184] info: [DEVICE-PREFS] Setting preferred audioinput device in huddle default 
+[08/09/25, 09:34:22:184] info: [DEVICE-PREFS] Setting preferred audiooutput device in huddle default 
+[08/09/25, 09:34:22:190] info: Store: REDUX_UPDATE_FROM_WEBAPP (T02S80P41LN) Changed keys [connectivityPrefs] 
+[08/09/25, 09:34:22:190] info: Store: STORE_USER_WORKSPACES {
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+} 
+[08/09/25, 09:34:22:190] info: Store: SELECTION_CHANGED T02S80P41LN 
+[08/09/25, 09:34:22:190] info: Store: EXTEND_MENU T02S80P41LN: menucategory-file,menucategory-view,menucategory-edit,menucategory-help 
+[08/09/25, 09:34:22:193] info: [PERSIST] Purged persisted models [] 
+[08/09/25, 09:34:22:195] info: [BOOT] Client boot completed 
+[08/09/25, 09:34:22:204] info: [SIGNAL-TO-DESKTOP] (T02S80P41LN) Attempted boot for all workspaces, signaling desktop 
+[08/09/25, 09:34:22:210] warn: SERVICE-WORKER Found existing value for https://slack.com/fake-url-for-service-worker-item-storage/locales; Will overwrite value. 
+[08/09/25, 09:34:22:210] info: [SERVICE-WORKER] Writing (["en-US"]) to Service Worker with key https://slack.com/fake-url-for-service-worker-item-storage/locales. 
+[08/09/25, 09:34:22:210] info: Store: SYNC Synced 1 workspaces with IDs [T02S80P41LN] 
+[08/09/25, 09:34:22:210] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.884 sharedInvites.canGetLink is RESOLVED 
+[08/09/25, 09:34:22:211] info: [API-Q] (T02S80P41LN) noversion-1754712262.182 Flannel users/info is ACTIVE 
+[08/09/25, 09:34:22:211] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "webapp-loaded"
+} 
+[08/09/25, 09:34:22:219] error: Uncaught (in promise) Error: Error invoking remote method 'IS_SEARCH_INDEXING_AVAILABLE': TypeError: Method not implemented 
+[08/09/25, 09:34:22:219] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 3,
+  "interval": 2809
+} 
+[08/09/25, 09:34:22:220] info: [SERVICE-WORKER] registration success {} 
+[08/09/25, 09:34:22:220] info: [SERVICE-WORKER-STATE] initial activated 
+[08/09/25, 09:34:22:238] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.964 megaphone.notifications.list is RESOLVED 
+[08/09/25, 09:34:22:238] info: [API-Q] (T02S80P41LN) noversion-1754712262.179 Flannel users/info is ACTIVE 
+[08/09/25, 09:34:22:244] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.962 users.prefs.set is RESOLVED 
+[08/09/25, 09:34:22:244] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.075 workflows.triggers.listRecentlyRunForUser is ACTIVE 
+[08/09/25, 09:34:22:266] info: [PERSIST] (T02S80P41LN) Successfully persisted state 
+[08/09/25, 09:34:22:302] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.042 search.autocomplete.topEmojis is RESOLVED 
+[08/09/25, 09:34:22:302] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.076 megaphone.notifications.list is ACTIVE 
+[08/09/25, 09:34:22:337] info: [API-Q] (T02S80P41LN) d67d108f-1754712261.963 users.prefs.set is RESOLVED 
+[08/09/25, 09:34:22:338] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.076 megaphone.notifications.list is ACTIVE 
+[08/09/25, 09:34:22:351] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.074 drafts.listActive is RESOLVED 
+[08/09/25, 09:34:22:351] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.077 teams.trials.info is ACTIVE 
+[08/09/25, 09:34:22:352] info: [DRAFTS] (T02S80P41LN) No active draft ids 
+[08/09/25, 09:34:22:352] info: [DRAFTS] (T02S80P41LN) Reconciled removed draft - ba60ad83-5a30-4ba8-bb4b-ab76673cd6d5 
+[08/09/25, 09:34:22:353] info: [DRAFTS] (T02S80P41LN) Purged 1 inactive drafts 
+[08/09/25, 09:34:22:353] info: [API-Q] (T02S80P41LN) noversion-1754712261.744 Flannel permissions/info is RESOLVED 
+[08/09/25, 09:34:22:354] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.078 users.priority.list is ACTIVE 
+[08/09/25, 09:34:22:372] info: [UFM-PERMISSIONS] (T02S80P41LN) received ACCESS_SLACK_AI_SEARCH,CREATE_PUBLIC_CHANNEL,CREATE_PRIVATE_CHANNEL,ACCESS_SLACK_AI_CHANNEL_THREAD_SUMMARIES,ACCESS_SLACK_AI_RECAP,ACCESS_SLACK_AI_FILE_SUMMARIES,ADD_FULL_USER_TO_WORKSPACE,VIEW_OVERVIEW_ANALYTICS,VIEW_MEMBER_ANALYTICS,VIEW_APP_ANALYTICS,VIEW_CHANNEL_ANALYTICS,VIEW_TOP_LEVEL_WORKFLOWS,ADD_CUSTOM_EMOJI,EDIT_SLACKBOT_RESPONSES,ADD_GUEST_USER_TO_WORKSPACE,REMOVE_GUEST_USER_FROM_WORKSPACE,REMOVE_FULL_USER_FROM_WORKSPACE,CONVERT_TO_GUEST,CONVERT_TO_MEMBER,READ_LEGAL_HOLDS,WRITE_LEGAL_HOLDS (1) 
+[08/09/25, 09:34:22:374] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.074 drafts.list is RESOLVED 
+[08/09/25, 09:34:22:374] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.081 calendar.getInstalledCalendars is ACTIVE 
+[08/09/25, 09:34:22:379] info: [UFM-PERMISSIONS] (T02S80P41LN) requesting ACCESS_SLACK_AI_DEVELOPMENT,READ_AUDIT_LOGS,ARCHIVE_CHANNEL,UNARCHIVE_CHANNEL,CONVERT_TO_PRIVATE,CONVERT_MPDM_TO_PRIVATE,RENAME_CHANNEL,ASSIGN_CHANNEL_MANAGER,DELETE_CHANNEL,SET_CHANNEL_PURPOSE,SET_CHANNEL_TOPIC,MANAGE_CHANNEL_PERMISSIONS,REMOVE_FROM_CHANNEL,REMOVE_FROM_PRIVATE_CHANNEL,INVITE_TO_CHANNEL,INVITE_EXTERNAL_TO_CHANNEL,MANAGE_CHANNEL_POSTING_PERMISSIONS,CREATE_CHANNEL_EMAIL_ADDRESSES,CAN_AT_EVERYONE,EDIT_CHANNEL_WORKSPACES,MANAGE_CHANNEL_WORKFLOWS,MANAGE_CHANNEL_TABS,CAN_AT_CHANNEL,VIEW_WORKSPACE_ANALYTICS,VIEW_ORG_WIDE_CHANNEL_ANALYTICS,VIEW_HUDDLE_ANALYTICS,VIEW_CLIP_ANALYTICS,VIEW_AI_ANALYTICS,VIEW_CANVAS_ANALYTICS,VIEW_WORKFLOW_ANALYTICS,VIEW_LIST_ANALYTICS,ADD_COLLABORATOR_TO_ANY_WORKFLOW,UNPUBLISH_ANY_WORKFLOW,CREATE_WORKFLOWS,CREATE_CANVAS_TEMPLATES,PUBLISH_CANVAS_ORG_TEMPLATES,MANAGE_SALES_HOME,MANAGE_SALES_HOME_DATA_SOURCE,DELETE_CUSTOM_EMOJI,UPDATE_NAME,UPDATE_DISPLAY_NAME,EDIT_PROFILE_PHOTO,ACCEPT_SLACK_CONNECT_INVITES,MANAGE_SLACK_CONNECT,CREATE_SLACK_CONNECT_DM,VIEW_APP_REQUESTS,MANAGE_AAA_AUTOMATION_RULES,MANAGE_SCOPE_RATINGS,VIEW_INSTALLED_APPS,MANAGE_ORG_LEVEL_APP_APPROVAL,VIEW_APPROVED_APPS,VIEW_RESTRICTED_APPS,ADD_ORG_APPS_TO_WORKSPACES,REMOVE_ORG_APPS_FROM_WORKSPACES,VIEW_DEPRECATIONS,MANAGE_WORKFLOW_CONNECTORS,MANAGE_WORKFLOW_TRIGGERS,CREATE_SOLUTION_TEMPLATE,PUBLISH_SOLUTION_TEMPLATE,MANAGE_SOLUTION_TEMPLATE,CREATE_LIST_TEMPLATE,CREATE_USER_GROUPS,EDIT_USER_GROUPS,DELETE_USER_GROUPS,DELETE_OWN_MESSAGE,ACCESS_SLACK_AI_ACTION_ITEMS,ACCESS_SLACK_AI_DETAILED_FEEDBACK,ACCESS_SLACK_AI_HUDDLE_SUMMARIES,ACCESS_SLACK_AI_STEPS_IN_WORKFLOW,ACCESS_SLACK_AI_TRANSLATIONS,ACCESS_SLACK_AI_WORKFLOW_BUILDER,ACCESS_SLACK_AI_RECORD_CHANNEL_DIGEST,CAN_MANAGE_XWS_CHANNELS (1) 
+[08/09/25, 09:34:22:380] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.379 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/09/25, 09:34:22:380] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.379 slackAi.permissions.getForUser is ENQUEUED 
+[08/09/25, 09:34:22:380] info: [API-Q] (T02S80P41LN) noversion-1754712262.380 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/09/25, 09:34:22:380] info: [API-Q] (T02S80P41LN) noversion-1754712262.380 Flannel permissions/info is ENQUEUED 
+[08/09/25, 09:34:22:380] info: [DRAFTS] (T02S80P41LN) No active drafts 
+[08/09/25, 09:34:22:380] info: [DRAFTS] (T02S80P41LN) Successfully fetched all active and inactive drafts ✨ 
+[08/09/25, 09:34:22:381] info: [API-Q] (T02S80P41LN) noversion-1754712261.947 Flannel huddles/info is RESOLVED 
+[08/09/25, 09:34:22:382] info: [API-Q] (T02S80P41LN) noversion-1754712262.380 Flannel permissions/info is ACTIVE 
+[08/09/25, 09:34:22:383] info: [UFM] (T02S80P41LN) received C02S02N2FAT,D098PJ6AUJH,D098PJ6AVKP,D098RCLR1S9,D098PJ69TSR (1) 
+[08/09/25, 09:34:22:421] info: [API-Q] (T02S80P41LN) noversion-1754712262.380 Flannel permissions/info is RESOLVED 
+[08/09/25, 09:34:22:421] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.180 dnd.info is ACTIVE 
+[08/09/25, 09:34:22:443] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.077 users.prefs.get is RESOLVED 
+[08/09/25, 09:34:22:444] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.180 dnd.teamInfo is ACTIVE 
+[08/09/25, 09:34:22:510] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.075 workflows.triggers.listRecentlyRunForUser is RESOLVED 
+[08/09/25, 09:34:22:511] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.181 users.channelSections.list is ACTIVE 
+[08/09/25, 09:34:22:611] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.077 teams.trials.info is RESOLVED 
+[08/09/25, 09:34:22:611] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.182 help.issues.ticketStats is ACTIVE 
+[08/09/25, 09:34:22:612] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.076 megaphone.notifications.list is RESOLVED 
+[08/09/25, 09:34:22:612] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.379 slackAi.permissions.getForUser is ACTIVE 
+[08/09/25, 09:34:22:619] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.076 megaphone.notifications.list is RESOLVED 
+[08/09/25, 09:34:22:635] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.078 users.priority.list is RESOLVED 
+[08/09/25, 09:34:22:636] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.081 calendar.getInstalledCalendars is RESOLVED 
+[08/09/25, 09:34:22:637] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.637 calendar.user.info called with reason: calendar-get-user-info 
+[08/09/25, 09:34:22:637] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.637 calendar.user.info is ENQUEUED 
+[08/09/25, 09:34:22:637] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.637 calendar.user.info is ACTIVE 
+[08/09/25, 09:34:22:670] info: [API-Q] (T02S80P41LN) noversion-1754712262.179 Flannel users/info is RESOLVED 
+[08/09/25, 09:34:22:671] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to prov_connected 
+[08/09/25, 09:34:22:671] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connected state for up to 60000 ms 
+[08/09/25, 09:34:22:676] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connected to prov_finalize 
+[08/09/25, 09:34:22:676] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalize state for up to 10000 ms 
+[08/09/25, 09:34:22:676] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalize to prov_finalizing 
+[08/09/25, 09:34:22:676] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalizing state for up to 10000 ms 
+[08/09/25, 09:34:22:676] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalizing to connected 
+[08/09/25, 09:34:22:676] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connected state for up to Infinity ms 
+[08/09/25, 09:34:22:677] info: [SOCKET-MANAGER] (T02S80P41LN) Connected to primary region 
+[08/09/25, 09:34:22:677] info: [FLANNEL] (T02S80P41LN) connected and trouble free! Continuing deferred user_subscribe_request call 
+[08/09/25, 09:34:22:680] info: [EVENTLOG] (T02S80P41LN) fr=false, lc=false, lt=1754680313.000600 
+[08/09/25, 09:34:22:680] info: [EVENTLOG] (T02S80P41LN) fetching events since 1754680313.000600 (31950 seconds ago) 
+[08/09/25, 09:34:22:680] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.680 ublockworkaround.history called with reason: onSocketConnected 
+[08/09/25, 09:34:22:680] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.680 ublockworkaround.history is ENQUEUED 
+[08/09/25, 09:34:22:680] info: [MESSAGE-HISTORY] (T02S80P41LN) Resetting reachedEnd 
+[08/09/25, 09:34:22:681] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.681 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[08/09/25, 09:34:22:681] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.681 users.customStatus.list is ENQUEUED 
+[08/09/25, 09:34:22:682] info: [UNREAD-COUNTS] (T02S80P41LN) Fetching counts 
+[08/09/25, 09:34:22:682] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.682 client.counts called with reason: fetchClientCountsOnConnect 
+[08/09/25, 09:34:22:683] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.682 client.counts is ENQUEUED 
+[08/09/25, 09:34:22:685] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.685 sfdc.integration.listOrgs called with reason: fetch-orgs-and-sign-in-silently-v2 
+[08/09/25, 09:34:22:686] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.685 sfdc.integration.listOrgs is ENQUEUED 
+[08/09/25, 09:34:22:686] info: [PRESENCE_PROMPT] (T02S80P41LN) ignoring prompt due to presence (active) 
+[08/09/25, 09:34:22:686] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.680 ublockworkaround.history is ACTIVE 
+[08/09/25, 09:34:22:686] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.681 users.customStatus.list is ACTIVE 
+[08/09/25, 09:34:22:687] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.682 client.counts is ACTIVE 
+[08/09/25, 09:34:22:698] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.180 dnd.info is RESOLVED 
+[08/09/25, 09:34:22:698] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.685 sfdc.integration.listOrgs is ACTIVE 
+[08/09/25, 09:34:22:699] info: [DND] (T02S80P41LN) Fetched DND info for the following member: U098PJ614F7 
+[08/09/25, 09:34:22:701] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/09/25, 09:34:22:723] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.180 dnd.teamInfo is RESOLVED 
+[08/09/25, 09:34:22:723] info: [DND] (T02S80P41LN) Fetched DND info for the following members: U02T4CP1RMW,U090BR1MDTM 
+[08/09/25, 09:34:22:724] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/09/25, 09:34:22:769] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.181 users.channelSections.list is RESOLVED 
+[08/09/25, 09:34:22:872] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.182 help.issues.ticketStats is RESOLVED 
+[08/09/25, 09:34:22:898] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.379 slackAi.permissions.getForUser is RESOLVED 
+[08/09/25, 09:34:22:898] info: [UFM-PERMISSIONS] (T02S80P41LN) received ACCESS_SLACK_AI_DEVELOPMENT,READ_AUDIT_LOGS,ARCHIVE_CHANNEL,UNARCHIVE_CHANNEL,CONVERT_TO_PRIVATE,CONVERT_MPDM_TO_PRIVATE,RENAME_CHANNEL,ASSIGN_CHANNEL_MANAGER,DELETE_CHANNEL,SET_CHANNEL_PURPOSE,SET_CHANNEL_TOPIC,MANAGE_CHANNEL_PERMISSIONS,REMOVE_FROM_CHANNEL,REMOVE_FROM_PRIVATE_CHANNEL,INVITE_TO_CHANNEL,INVITE_EXTERNAL_TO_CHANNEL,MANAGE_CHANNEL_POSTING_PERMISSIONS,CREATE_CHANNEL_EMAIL_ADDRESSES,CAN_AT_EVERYONE,EDIT_CHANNEL_WORKSPACES,MANAGE_CHANNEL_WORKFLOWS,MANAGE_CHANNEL_TABS,CAN_AT_CHANNEL,VIEW_WORKSPACE_ANALYTICS,VIEW_ORG_WIDE_CHANNEL_ANALYTICS,VIEW_HUDDLE_ANALYTICS,VIEW_CLIP_ANALYTICS,VIEW_AI_ANALYTICS,VIEW_CANVAS_ANALYTICS,VIEW_WORKFLOW_ANALYTICS,VIEW_LIST_ANALYTICS,ADD_COLLABORATOR_TO_ANY_WORKFLOW,UNPUBLISH_ANY_WORKFLOW,CREATE_WORKFLOWS,CREATE_CANVAS_TEMPLATES,PUBLISH_CANVAS_ORG_TEMPLATES,MANAGE_SALES_HOME,MANAGE_SALES_HOME_DATA_SOURCE,DELETE_CUSTOM_EMOJI,UPDATE_NAME,UPDATE_DISPLAY_NAME,EDIT_PROFILE_PHOTO,ACCEPT_SLACK_CONNECT_INVITES,MANAGE_SLACK_CONNECT,CREATE_SLACK_CONNECT_DM,VIEW_APP_REQUESTS,MANAGE_AAA_AUTOMATION_RULES,MANAGE_SCOPE_RATINGS,VIEW_INSTALLED_APPS,MANAGE_ORG_LEVEL_APP_APPROVAL,VIEW_APPROVED_APPS,VIEW_RESTRICTED_APPS,ADD_ORG_APPS_TO_WORKSPACES,REMOVE_ORG_APPS_FROM_WORKSPACES,VIEW_DEPRECATIONS,MANAGE_WORKFLOW_CONNECTORS,MANAGE_WORKFLOW_TRIGGERS,CREATE_SOLUTION_TEMPLATE,PUBLISH_SOLUTION_TEMPLATE,MANAGE_SOLUTION_TEMPLATE,CREATE_LIST_TEMPLATE,CREATE_USER_GROUPS,EDIT_USER_GROUPS,DELETE_USER_GROUPS,DELETE_OWN_MESSAGE,ACCESS_SLACK_AI_ACTION_ITEMS,ACCESS_SLACK_AI_DETAILED_FEEDBACK,ACCESS_SLACK_AI_HUDDLE_SUMMARIES,ACCESS_SLACK_AI_STEPS_IN_WORKFLOW,ACCESS_SLACK_AI_TRANSLATIONS,ACCESS_SLACK_AI_WORKFLOW_BUILDER,ACCESS_SLACK_AI_RECORD_CHANNEL_DIGEST,CAN_MANAGE_XWS_CHANNELS (1) 
+[08/09/25, 09:34:22:950] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.680 ublockworkaround.history is RESOLVED 
+[08/09/25, 09:34:22:951] info: [EVENTLOG] (T02S80P41LN) nothing to process 
+[08/09/25, 09:34:22:951] info: [EVENTLOG] (T02S80P41LN) fetched finish (aborted? false) 
+[08/09/25, 09:34:22:951] info: [EVENTLOG] (T02S80P41LN) dispatching signal and clearing timestamp 
+[08/09/25, 09:34:22:957] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.685 sfdc.integration.listOrgs is REJECTED: API not ok restricted_action 
+[08/09/25, 09:34:22:958] error: (T02S80P41LN) API call to sfdc.integration.listOrgs
+						with reason fetch-orgs-and-sign-in-silently-v2 failed, initiated by generated fetcher 
+[08/09/25, 09:34:22:959] error: SALESFORCE_CONNECTIONS (T02S80P41LN) {"error":"Error happened when executing side-effect to call sfdc.integration.listOrgs and sfdc.integration.authUser"} 
+[08/09/25, 09:34:22:977] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.681 users.customStatus.list is RESOLVED 
+[08/09/25, 09:34:22:980] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.682 client.counts is RESOLVED 
+[08/09/25, 09:34:22:981] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/09/25, 09:34:22:983] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/09/25, 09:34:22:983] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/09/25, 09:34:23:138] info: [API-Q] (T02S80P41LN) caeacea7-1754712262.637 calendar.user.info is RESOLVED 
+[08/09/25, 09:34:23:171] info: [API-Q] (T02S80P41LN) noversion-1754712262.182 Flannel users/info is RESOLVED 
+[08/09/25, 09:34:26:602] info: [DEVICE-PERMISSIONS-MA] Refreshing all permissions 
+[08/09/25, 09:34:26:707] info: [DEVICE-PERMISSIONS-MA] Received microphone access status for desktop app: [object Object] 
+[08/09/25, 09:34:26:707] info: [DEVICE-PERMISSIONS-MA] permission state for microphone changed to [object Object] 
+[08/09/25, 09:34:26:707] info: [DEVICE-PERMISSIONS-MA] Permissions changed {"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}} 
+[08/09/25, 09:34:26:708] info: [DEVICE-PERMISSIONS-MA] Permissions saved to local storage: {"permissions":{"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}},"timestamp":1754712266707} 
+[08/09/25, 09:34:26:708] info: [DEVICE-PERMISSIONS-MA] Received camera access status for desktop app: [object Object] 
+[08/09/25, 09:34:26:708] info: [DEVICE-PERMISSIONS-MA] permission state for camera changed to [object Object] 
+[08/09/25, 09:34:26:708] info: [DEVICE-PERMISSIONS-MA] Permissions changed {"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}} 
+[08/09/25, 09:34:26:708] info: [DEVICE-PREFS] Available devices update already in progress. Returning existing promise. 
+[08/09/25, 09:34:26:708] info: [DEVICE-PERMISSIONS-MA] Permissions saved to local storage: {"permissions":{"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}},"timestamp":1754712266707} 
+[08/09/25, 09:34:26:708] info: [DEVICE-PERMISSIONS-MA] Received screen access status for desktop app: [object Object] 
+[08/09/25, 09:34:26:708] info: [DEVICE-PERMISSIONS-MA] permission state for screen changed to [object Object] 
+[08/09/25, 09:34:26:709] info: [DEVICE-PERMISSIONS-MA] Permissions changed {"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}} 
+[08/09/25, 09:34:26:709] info: [DEVICE-PREFS] Available devices update already in progress. Returning existing promise. 
+[08/09/25, 09:34:26:709] info: [DEVICE-PERMISSIONS-MA] Permissions saved to local storage: {"permissions":{"microphone":{"status":"granted"},"camera":{"status":"granted"},"screen":{"status":"granted"}},"timestamp":1754712266708} 
+[08/09/25, 09:34:26:715] info: [DEVICE-PREFS] Amending label for OS default audioinput device: Default -> System Default (Default) 
+[08/09/25, 09:34:26:715] info: [DEVICE-PREFS] Amending label for OS default audiooutput device: Default -> System Default (Default) 
+[08/09/25, 09:34:26:715] info: [DEVICE-PREFS] Device list update complete 
+[08/09/25, 09:34:27:015] info: [DEVICE-PREFS] Propagating device selection history update 
+[08/09/25, 09:34:27:017] info: [DEVICE-PREFS] Setting preferred audioinput device in huddle default 
+[08/09/25, 09:34:27:017] info: [DEVICE-PREFS] Setting preferred audiooutput device in huddle default 
+[08/09/25, 09:34:31:554] info: [QUIP] SystemJS Fork initialized 1754712271554-0.12644514529390483 
+[08/09/25, 09:34:31:668] info: [Diagnostics] Adding window recorder a8a474008bcd4949a47fca440 
+[08/09/25, 09:34:31:710] info: [QUIP] (T02S80P41LN) {"type":"set_current_user_id","timestamp_ms":1754712271708,"user_id":"EPK9EAyTK8E"} 
+[08/09/25, 09:34:31:711] warn: TRACER (T02S80P41LN) (canvas:collab-init) was forced closed and marked with the _flush=true tag. 
+[08/09/25, 09:34:31:711] warn: TRACER (T02S80P41LN) (canvas:await-callback) was forced closed and marked with the _flush=true tag. 
+[08/09/25, 09:34:31:990] info: [CRDT] Automerge loaded. 
+[08/09/25, 09:34:32:141] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/09/25, 09:34:32:169] info: [VISIBILITY-STATE] (T02S80P41LN) Main window visibility state changed: hidden 
+[08/09/25, 09:35:28:180] info: [API-Q] (T02S80P41LN) caeacea7-1754712328.179 client.counts called with reason: pollClientCountsAfterTimeout 
+[08/09/25, 09:35:28:180] info: [API-Q] (T02S80P41LN) caeacea7-1754712328.179 client.counts is ENQUEUED 
+[08/09/25, 09:35:28:180] info: [API-Q] (T02S80P41LN) caeacea7-1754712328.179 client.counts is ACTIVE 
+[08/09/25, 09:35:28:529] info: [API-Q] (T02S80P41LN) caeacea7-1754712328.179 client.counts is RESOLVED 
+[08/09/25, 09:35:28:530] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/09/25, 09:35:28:531] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/09/25, 09:35:28:532] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/09/25, 09:35:48:180] info: [API-Q] (T02S80P41LN) caeacea7-1754712348.179 conversations.suggestions called with reason: trigger-channel-suggestions 
+[08/09/25, 09:35:48:180] info: [API-Q] (T02S80P41LN) caeacea7-1754712348.179 conversations.suggestions is ENQUEUED 
+[08/09/25, 09:35:48:180] info: [API-Q] (T02S80P41LN) caeacea7-1754712348.179 conversations.suggestions is ACTIVE 
+[08/09/25, 09:35:48:498] info: [API-Q] (T02S80P41LN) caeacea7-1754712348.179 conversations.suggestions is RESOLVED 
+[08/09/25, 09:36:23:180] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 09:36:23:181] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 09:36:23:181] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 09:36:23:181] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 09:36:23:181] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 09:36:23:181] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 09:36:23:181] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 09:36:23:181] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 09:36:23:181] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/09/25, 09:52:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 09:52:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 09:52:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 09:52:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 09:52:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 09:52:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 09:52:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 09:52:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 09:52:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/09/25, 10:07:24:179] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 10:07:24:180] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 10:07:24:180] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 10:07:24:180] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 10:07:24:180] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 10:07:24:180] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 10:07:24:180] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 10:07:24:180] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 10:07:24:180] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/09/25, 10:22:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 10:22:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 10:22:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 10:22:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 10:22:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 10:22:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 10:22:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 10:22:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 10:22:23:182] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/09/25, 10:29:38:826] info: Store: SET_SUSPEND_STATUS false 
+[08/09/25, 10:29:38:827] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/09/25, 10:29:38:829] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/09/25, 10:29:38:830] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connected to error 
+[08/09/25, 10:29:38:831] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/09/25, 10:29:38:831] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/09/25, 10:29:38:832] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/09/25, 10:29:38:832] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 235 ms 
+[08/09/25, 10:29:38:833] info: [EVENTLOG] (T02S80P41LN) socket was closed while we were fetching history; cancelling our request 
+[08/09/25, 10:29:38:836] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring sleep 
+[08/09/25, 10:29:38:836] info: Store: SET_SUSPEND_STATUS false 
+[08/09/25, 10:29:38:838] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/09/25, 10:29:38:839] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring sleep 
+[08/09/25, 10:29:39:179] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/09/25, 10:29:39:181] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/09/25, 10:29:39:181] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/09/25, 10:29:39:181] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/09/25, 10:29:39:181] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/09/25, 10:29:39:182] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to fast_reconnecting 
+[08/09/25, 10:29:39:182] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in fast_reconnecting state for up to 20000 ms 
+[08/09/25, 10:29:39:321] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/09/25, 10:29:39:322] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from fast_reconnecting to error 
+[08/09/25, 10:29:39:322] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/09/25, 10:29:39:323] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/09/25, 10:29:39:323] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/09/25, 10:29:39:323] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 746 ms 
+[08/09/25, 10:30:04:324] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/09/25, 10:30:04:325] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/09/25, 10:30:04:326] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/09/25, 10:30:04:326] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/09/25, 10:30:04:326] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/09/25, 10:30:04:326] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to fast_reconnecting 
+[08/09/25, 10:30:04:327] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in fast_reconnecting state for up to 20000 ms 
+[08/09/25, 10:30:04:330] info: Store: POWER_RESUMED  
+[08/09/25, 10:30:04:332] info: Store: SET_SUSPEND_STATUS true 
+[08/09/25, 10:30:04:332] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/09/25, 10:30:04:334] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring wake 
+[08/09/25, 10:30:04:334] info: Store: POWER_RESUMED  
+[08/09/25, 10:30:04:334] info: Store: SET_SUSPEND_STATUS true 
+[08/09/25, 10:30:04:335] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/09/25, 10:30:04:336] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring wake 
+[08/09/25, 10:30:04:336] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/09/25, 10:30:04:337] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from fast_reconnecting to error 
+[08/09/25, 10:30:04:337] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/09/25, 10:30:04:337] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/09/25, 10:30:04:337] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/09/25, 10:30:04:338] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 2101 ms 
+[08/09/25, 10:30:06:982] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/09/25, 10:30:06:982] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/09/25, 10:30:06:982] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/09/25, 10:30:06:982] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/09/25, 10:30:06:983] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/09/25, 10:30:06:983] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to fast_reconnecting 
+[08/09/25, 10:30:06:983] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in fast_reconnecting state for up to 20000 ms 
+[08/09/25, 10:30:07:090] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from fast_reconnecting to connected 
+[08/09/25, 10:30:07:090] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connected state for up to Infinity ms 
+[08/09/25, 10:30:07:090] info: [SOCKET-MANAGER] (T02S80P41LN) Connected to primary region 
+[08/09/25, 10:30:07:092] info: [EVENTLOG] (T02S80P41LN) fr=true, lc=false, lt=1754712262.000200 
+[08/09/25, 10:30:07:093] info: [API-Q] (T02S80P41LN) caeacea7-1754715607.092 sfdc.integration.listOrgs called with reason: fetch-orgs-and-sign-in-silently-v2 
+[08/09/25, 10:30:07:093] info: [API-Q] (T02S80P41LN) caeacea7-1754715607.092 sfdc.integration.listOrgs is ENQUEUED 
+[08/09/25, 10:30:07:094] info: [API-Q] (T02S80P41LN) noversion-1754715607.093 Flannel users/info called with reason: flannel-call:users/info 
+[08/09/25, 10:30:07:094] info: [API-Q] (T02S80P41LN) noversion-1754715607.093 Flannel users/info is ENQUEUED 
+[08/09/25, 10:30:07:094] info: [API-Q] (T02S80P41LN) caeacea7-1754715607.092 sfdc.integration.listOrgs is ACTIVE 
+[08/09/25, 10:30:07:095] info: [API-Q] (T02S80P41LN) noversion-1754715607.093 Flannel users/info is ACTIVE 
+[08/09/25, 10:30:07:206] info: [API-Q] (T02S80P41LN) noversion-1754715607.093 Flannel users/info is RESOLVED 
+[08/09/25, 10:30:07:432] info: [API-Q] (T02S80P41LN) caeacea7-1754715607.092 sfdc.integration.listOrgs is REJECTED: API not ok restricted_action 
+[08/09/25, 10:30:07:433] error: (T02S80P41LN) API call to sfdc.integration.listOrgs
+						with reason fetch-orgs-and-sign-in-silently-v2 failed, initiated by generated fetcher 
+[08/09/25, 10:30:07:433] error: SALESFORCE_CONNECTIONS (T02S80P41LN) {"error":"Error happened when executing side-effect to call sfdc.integration.listOrgs and sfdc.integration.authUser"} 
+[08/09/25, 10:30:19:812] info: Store: DISPLAY_REMOVED  
+[08/09/25, 10:30:19:812] info: Store: DISPLAY_METRICS_CHANGED  
+[08/09/25, 10:30:20:857] info: [DEVICE-PREFS] Device list change event received at 1754715620857 
+[08/09/25, 10:30:20:994] info: [DEVICE-PREFS] Amending label for OS default audioinput device: Default -> System Default (Default) 
+[08/09/25, 10:30:20:995] info: [DEVICE-PREFS] Amending label for OS default audiooutput device: Default -> System Default (Default) 
+[08/09/25, 10:30:20:995] info: [DEVICE-PREFS] Device list update complete 
+[08/09/25, 10:30:21:981] info: [DEVICE-PREFS] Propagating device selection history update 
+[08/09/25, 10:30:21:982] info: [DEVICE-PREFS] Setting preferred audioinput device in huddle default 
+[08/09/25, 10:30:21:982] info: [DEVICE-PREFS] Setting preferred audiooutput device in huddle default 
+[08/09/25, 10:30:32:269] info: Store: SET_SUSPEND_STATUS false 
+[08/09/25, 10:30:32:272] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/09/25, 10:30:32:274] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/09/25, 10:30:32:275] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connected to error 
+[08/09/25, 10:30:32:276] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/09/25, 10:30:32:277] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/09/25, 10:30:32:277] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/09/25, 10:30:32:278] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 643 ms 
+[08/09/25, 10:30:32:282] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring sleep 
+[08/09/25, 10:30:32:282] info: Store: SET_SUSPEND_STATUS false 
+[08/09/25, 10:30:32:284] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/09/25, 10:30:32:287] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring sleep 
+[08/09/25, 20:47:19:902] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/09/25, 20:47:19:903] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/09/25, 20:47:19:903] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/09/25, 20:47:19:903] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/09/25, 20:47:19:904] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/09/25, 20:47:19:904] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/09/25, 20:47:19:904] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/09/25, 20:47:19:904] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/09/25, 20:47:19:904] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/09/25, 20:47:19:904] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/09/25, 20:47:19:909] info: [FLANNEL] (T02S80P41LN) received a user_unsubscribe_request call while we are not connected; deferring 
+[08/09/25, 20:47:19:910] info: Store: POWER_RESUMED  
+[08/09/25, 20:47:19:910] info: Store: SET_SUSPEND_STATUS true 
+[08/09/25, 20:47:19:910] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/09/25, 20:47:19:911] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring wake 
+[08/09/25, 20:47:19:912] info: Store: POWER_RESUMED  
+[08/09/25, 20:47:19:912] info: Store: SET_SUSPEND_STATUS true 
+[08/09/25, 20:47:19:912] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/09/25, 20:47:19:914] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring wake 
+[08/09/25, 20:47:19:914] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/09/25, 20:47:19:914] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is ENQUEUED 
+[08/09/25, 20:47:19:914] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is ACTIVE 
+[08/09/25, 20:47:19:914] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/09/25, 20:47:19:915] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to error 
+[08/09/25, 20:47:19:915] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/09/25, 20:47:19:915] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/09/25, 20:47:19:915] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/09/25, 20:47:19:915] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 1052 ms 
+[08/09/25, 20:47:20:215] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is ERROR: request did not complete 
+[08/09/25, 20:47:20:298] info: Store: DISPLAY_METRICS_CHANGED  
+[08/09/25, 20:47:20:298] info: Store: DISPLAY_METRICS_CHANGED  
+[08/09/25, 20:47:20:365] info: Store: DISPLAY_ADDED  
+[08/09/25, 20:47:20:365] info: Store: DISPLAY_METRICS_CHANGED  
+[08/09/25, 20:47:21:012] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/09/25, 20:47:21:013] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/09/25, 20:47:21:013] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/09/25, 20:47:21:013] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/09/25, 20:47:21:013] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/09/25, 20:47:21:014] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/09/25, 20:47:21:014] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/09/25, 20:47:21:014] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/09/25, 20:47:21:014] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/09/25, 20:47:21:014] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/09/25, 20:47:21:015] info: [FLANNEL] (T02S80P41LN) received a user_subscribe_request call while we are not connected; deferring 
+[08/09/25, 20:47:21:016] info: [API-Q] (T02S80P41LN) noversion-1754752641.015 Flannel users/info called with reason: flannel-call:users/info 
+[08/09/25, 20:47:21:016] info: [API-Q] (T02S80P41LN) noversion-1754752641.015 Flannel users/info is ENQUEUED 
+[08/09/25, 20:47:21:016] info: [API-Q] (T02S80P41LN) noversion-1754752641.015 Flannel users/info is ACTIVE 
+[08/09/25, 20:47:21:017] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/09/25, 20:47:21:018] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to error 
+[08/09/25, 20:47:21:018] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/09/25, 20:47:21:018] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/09/25, 20:47:21:018] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/09/25, 20:47:21:019] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 2527 ms 
+[08/09/25, 20:47:21:020] info: [API-Q] (T02S80P41LN) noversion-1754752641.015 Flannel users/info is ERROR: request did not complete 
+[08/09/25, 20:47:24:012] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/09/25, 20:47:24:012] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/09/25, 20:47:24:012] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/09/25, 20:47:24:012] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/09/25, 20:47:24:012] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/09/25, 20:47:24:013] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/09/25, 20:47:24:013] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/09/25, 20:47:24:013] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/09/25, 20:47:24:013] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/09/25, 20:47:24:013] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/09/25, 20:47:24:015] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/09/25, 20:47:24:015] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to error 
+[08/09/25, 20:47:24:015] info: [SOCKET-MANAGER] (T02S80P41LN) Failed to connect 3 times; going into failover mode until we connect 
+[08/09/25, 20:47:24:016] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/09/25, 20:47:24:016] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/09/25, 20:47:24:016] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/09/25, 20:47:24:016] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 4892 ms 
+[08/09/25, 20:47:25:012] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is retrying, attempt 2 
+[08/09/25, 20:47:25:012] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is ENQUEUED 
+[08/09/25, 20:47:25:012] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is ACTIVE 
+[08/09/25, 20:47:25:015] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is ERROR: request did not complete 
+[08/09/25, 20:47:29:012] info: [API-Q] (T02S80P41LN) noversion-1754752641.015 Flannel users/info is retrying, attempt 2 
+[08/09/25, 20:47:29:012] info: [API-Q] (T02S80P41LN) noversion-1754752641.015 Flannel users/info is ENQUEUED 
+[08/09/25, 20:47:29:012] info: [API-Q] (T02S80P41LN) noversion-1754752641.015 Flannel users/info is ACTIVE 
+[08/09/25, 20:47:29:012] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/09/25, 20:47:29:013] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/09/25, 20:47:29:013] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/09/25, 20:47:29:014] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/09/25, 20:47:29:014] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to backup region 
+[08/09/25, 20:47:29:014] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/09/25, 20:47:29:014] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/09/25, 20:47:29:014] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/09/25, 20:47:29:014] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/09/25, 20:47:29:014] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/09/25, 20:47:29:702] info: [API-Q] (T02S80P41LN) noversion-1754752641.015 Flannel users/info is RESOLVED 
+[08/09/25, 20:47:29:880] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to prov_connected 
+[08/09/25, 20:47:29:880] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connected state for up to 60000 ms 
+[08/09/25, 20:47:29:882] info: [BOOT-QUEUE] T02S80P41LN noversion-1754752649.882 client.shouldReload called with reason: slow_reconnect 
+[08/09/25, 20:47:29:883] info: [BOOT-QUEUE] T02S80P41LN noversion-1754752649.882 client.shouldReload is ENQUEUED 
+[08/09/25, 20:47:29:883] info: [FLANNEL] (T02S80P41LN) connected and trouble free! Continuing deferred user_unsubscribe_request call 
+[08/09/25, 20:47:29:883] info: [FLANNEL] (T02S80P41LN) connected and trouble free! Continuing deferred user_subscribe_request call 
+[08/09/25, 20:47:29:883] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":true,"error":false} 
+[08/09/25, 20:47:29:883] info: [BOOT-QUEUE] T02S80P41LN noversion-1754752649.882 client.shouldReload is ACTIVE 
+[08/09/25, 20:47:29:884] info: [API-Q] (T02S80P41LN) caeacea7-1754752649.883 client.userBoot called with reason: provisionally-connected 
+[08/09/25, 20:47:29:884] info: [API-Q] (T02S80P41LN) caeacea7-1754752649.883 client.userBoot is ENQUEUED 
+[08/09/25, 20:47:29:884] info: [API-Q] (T02S80P41LN) caeacea7-1754752649.883 client.userBoot is ACTIVE 
+[08/09/25, 20:47:29:915] info: [FLANNEL] (T02S80P41LN) troubled! Exiting deferred user_unsubscribe_request call 
+[08/09/25, 20:47:29:915] error: Uncaught (in promise) Error: Flannel call failed for command 'user_unsubscribe_request' -- error Error: Not currently subscribed to requested unsubscribe ids. 
+[08/09/25, 20:47:30:258] info: [BOOT-QUEUE] T02S80P41LN noversion-1754752649.882 client.shouldReload is RESOLVED 
+[08/09/25, 20:47:30:259] info: [BOOT] No need to reload 
+[08/09/25, 20:47:30:302] info: [API-Q] (T02S80P41LN) caeacea7-1754752649.883 client.userBoot is RESOLVED 
+[08/09/25, 20:47:30:305] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connected to prov_finalize 
+[08/09/25, 20:47:30:305] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalize state for up to 10000 ms 
+[08/09/25, 20:47:30:305] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalize to prov_finalizing 
+[08/09/25, 20:47:30:305] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalizing state for up to 10000 ms 
+[08/09/25, 20:47:30:305] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalizing to connected 
+[08/09/25, 20:47:30:305] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connected state for up to Infinity ms 
+[08/09/25, 20:47:30:305] info: [SOCKET-MANAGER] (T02S80P41LN) Connected to backup region 
+[08/09/25, 20:47:30:319] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/09/25, 20:47:30:320] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.319 search.autocomplete.topEmojis called with reason: loadEmoji-maybeReloadEmoji-setModelData 
+[08/09/25, 20:47:30:320] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.319 search.autocomplete.topEmojis is ENQUEUED 
+[08/09/25, 20:47:30:321] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.320 links.getDomains called with reason: siws-get-domains 
+[08/09/25, 20:47:30:321] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.320 links.getDomains is ENQUEUED 
+[08/09/25, 20:47:30:322] info: [EVENTLOG] (T02S80P41LN) fr=false, lc=false, lt=1754712262.000200 
+[08/09/25, 20:47:30:322] info: [EVENTLOG] (T02S80P41LN) fetching events since 1754712262.000200 (40389 seconds ago) 
+[08/09/25, 20:47:30:322] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.322 ublockworkaround.history called with reason: onSocketConnected 
+[08/09/25, 20:47:30:322] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.322 ublockworkaround.history is ENQUEUED 
+[08/09/25, 20:47:30:322] info: [MESSAGE-HISTORY] (T02S80P41LN) Resetting reachedEnd 
+[08/09/25, 20:47:30:323] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.322 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[08/09/25, 20:47:30:323] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.322 users.customStatus.list is ENQUEUED 
+[08/09/25, 20:47:30:323] info: [DND_V2] (T02S80P41LN) Marking all DND times as stale for the following members after connecting to the websocket: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/09/25, 20:47:30:323] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.323 drafts.list called with reason: fetchDraftsOnReconnect 
+[08/09/25, 20:47:30:323] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.323 drafts.list is ENQUEUED 
+[08/09/25, 20:47:30:323] info: [DRAFTS] (T02S80P41LN) No local drafts - skipping fetch to purge inactive drafts 
+[08/09/25, 20:47:30:324] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.323 usergroups.membership called with reason: user-group-membership-api/fetchUserGroupMembership 
+[08/09/25, 20:47:30:324] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.323 usergroups.membership is ENQUEUED 
+[08/09/25, 20:47:30:324] info: [UNREAD-COUNTS] (T02S80P41LN) Fetching counts 
+[08/09/25, 20:47:30:324] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.324 client.counts called with reason: fetchClientCountsOnConnect 
+[08/09/25, 20:47:30:324] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.324 client.counts is ENQUEUED 
+[08/09/25, 20:47:30:325] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.325 sfdc.integration.listOrgs called with reason: fetch-orgs-and-sign-in-silently-v2 
+[08/09/25, 20:47:30:325] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.325 sfdc.integration.listOrgs is ENQUEUED 
+[08/09/25, 20:47:30:326] info: [PRESENCE_PROMPT] (T02S80P41LN) ignoring prompt due to presence (active) 
+[08/09/25, 20:47:30:327] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.327 users.prefs.get called with reason: fetch-frecency-prefs 
+[08/09/25, 20:47:30:327] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.327 users.prefs.get is ENQUEUED 
+[08/09/25, 20:47:30:327] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.319 search.autocomplete.topEmojis is ACTIVE 
+[08/09/25, 20:47:30:327] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.320 links.getDomains is ACTIVE 
+[08/09/25, 20:47:30:328] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.322 ublockworkaround.history is ACTIVE 
+[08/09/25, 20:47:30:328] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.322 users.customStatus.list is ACTIVE 
+[08/09/25, 20:47:30:328] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.323 drafts.list is ACTIVE 
+[08/09/25, 20:47:30:328] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.323 usergroups.membership is ACTIVE 
+[08/09/25, 20:47:30:328] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.324 client.counts is ACTIVE 
+[08/09/25, 20:47:30:328] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.325 sfdc.integration.listOrgs is ACTIVE 
+[08/09/25, 20:47:30:329] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.327 users.prefs.get is ACTIVE 
+[08/09/25, 20:47:30:329] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[08/09/25, 20:47:30:330] info: [(T02S80P41LN)] Will collect additional stats for the first 10 minutes of this session 
+[08/09/25, 20:47:30:331] info: [API-Q] (T02S80P41LN) noversion-1754752650.330 Flannel users/info called with reason: flannel-call:users/info 
+[08/09/25, 20:47:30:331] info: [API-Q] (T02S80P41LN) noversion-1754752650.330 Flannel users/info is ENQUEUED 
+[08/09/25, 20:47:30:331] info: [API-Q] (T02S80P41LN) noversion-1754752650.330 Flannel users/info is ACTIVE 
+[08/09/25, 20:47:30:332] info: Store: STORE_USER_WORKSPACES {
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+} 
+[08/09/25, 20:47:30:366] info: [API-Q] (T02S80P41LN) noversion-1754752650.330 Flannel users/info is RESOLVED 
+[08/09/25, 20:47:30:610] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.319 search.autocomplete.topEmojis is RESOLVED 
+[08/09/25, 20:47:30:610] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.320 links.getDomains is RESOLVED 
+[08/09/25, 20:47:30:610] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.322 ublockworkaround.history is RESOLVED 
+[08/09/25, 20:47:30:611] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.323 drafts.list is RESOLVED 
+[08/09/25, 20:47:30:612] info: [EVENTLOG] (T02S80P41LN) nothing to process 
+[08/09/25, 20:47:30:612] info: [EVENTLOG] (T02S80P41LN) fetched finish (aborted? false) 
+[08/09/25, 20:47:30:612] info: [EVENTLOG] (T02S80P41LN) dispatching signal and clearing timestamp 
+[08/09/25, 20:47:30:612] info: [DRAFTS] (T02S80P41LN) No active drafts 
+[08/09/25, 20:47:30:612] info: [DRAFTS] (T02S80P41LN) Successfully fetched all active and inactive drafts ✨ 
+[08/09/25, 20:47:30:620] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.324 client.counts is RESOLVED 
+[08/09/25, 20:47:30:621] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/09/25, 20:47:30:622] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/09/25, 20:47:30:622] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/09/25, 20:47:30:634] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.323 usergroups.membership is REJECTED: API not ok user_is_restricted 
+[08/09/25, 20:47:30:635] warn: USER_GROUP_MEMBERSHIP (T02S80P41LN) usergroups.membership failed with user_is_restricted: Guests are not allowed to have user groups 
+[08/09/25, 20:47:30:635] info: [USER_GROUP_MEMBERSHIP] (T02S80P41LN) Completed usergroups.membership processing 
+[08/09/25, 20:47:30:642] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.325 sfdc.integration.listOrgs is REJECTED: API not ok restricted_action 
+[08/09/25, 20:47:30:642] error: (T02S80P41LN) API call to sfdc.integration.listOrgs
+						with reason fetch-orgs-and-sign-in-silently-v2 failed, initiated by generated fetcher 
+[08/09/25, 20:47:30:642] error: SALESFORCE_CONNECTIONS (T02S80P41LN) {"error":"Error happened when executing side-effect to call sfdc.integration.listOrgs and sfdc.integration.authUser"} 
+[08/09/25, 20:47:30:651] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.327 users.prefs.get is RESOLVED 
+[08/09/25, 20:47:30:714] info: [API-Q] (T02S80P41LN) caeacea7-1754752650.322 users.customStatus.list is RESOLVED 
+[08/09/25, 20:47:31:526] info: [RTM-QUEUE] Setting a timeout of 60 ms to process more rtm events 
+[08/09/25, 20:47:32:012] info: [RTM-QUEUE] Waited 60 ms, processing more rtm events now 
+[08/09/25, 20:47:39:012] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is retrying, attempt 3 
+[08/09/25, 20:47:39:012] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is ENQUEUED 
+[08/09/25, 20:47:39:012] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is ACTIVE 
+[08/09/25, 20:47:39:473] info: [API-Q] (T02S80P41LN) noversion-1754752639.914 Flannel permissions/info is RESOLVED 
+[08/09/25, 20:47:39:476] info: [API-Q] (T02S80P41LN) noversion-1754752659.476 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/09/25, 20:47:39:476] info: [API-Q] (T02S80P41LN) noversion-1754752659.476 Flannel permissions/info is ENQUEUED 
+[08/09/25, 20:47:39:476] info: [API-Q] (T02S80P41LN) noversion-1754752659.476 Flannel permissions/info is ACTIVE 
+[08/09/25, 20:47:39:512] info: [API-Q] (T02S80P41LN) noversion-1754752659.476 Flannel permissions/info is RESOLVED 
+[08/09/25, 20:48:39:012] info: [API-Q] (T02S80P41LN) caeacea7-1754752719.012 client.counts called with reason: pollClientCountsAfterTimeout 
+[08/09/25, 20:48:39:013] info: [API-Q] (T02S80P41LN) caeacea7-1754752719.012 client.counts is ENQUEUED 
+[08/09/25, 20:48:39:013] info: [API-Q] (T02S80P41LN) caeacea7-1754752719.012 client.counts is ACTIVE 
+[08/09/25, 20:48:39:373] info: [API-Q] (T02S80P41LN) caeacea7-1754752719.012 client.counts is RESOLVED 
+[08/09/25, 20:48:39:374] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/09/25, 20:48:39:375] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/09/25, 20:48:39:376] info: [COUNTS] (T02S80P41LN) Completed counts processing 
