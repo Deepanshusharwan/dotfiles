@@ -24356,3 +24356,71 @@ Drafts ignored: 0
 [08/09/25, 20:48:39:374] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
 [08/09/25, 20:48:39:375] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
 [08/09/25, 20:48:39:376] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/09/25, 20:49:31:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 20:49:31:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 20:49:31:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 20:49:31:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 20:49:31:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 20:49:31:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 20:49:31:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 20:49:31:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 20:49:31:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/09/25, 20:49:31:012] info: [API-Q] (T02S80P41LN) caeacea7-1754752771.012 users.channelSections.list called with reason: conditional-fetch-manager 
+[08/09/25, 20:49:31:013] info: [API-Q] (T02S80P41LN) caeacea7-1754752771.012 users.channelSections.list is ENQUEUED 
+[08/09/25, 20:49:31:013] info: [API-Q] (T02S80P41LN) caeacea7-1754752771.012 users.channelSections.list is ACTIVE 
+[08/09/25, 20:49:31:292] info: [API-Q] (T02S80P41LN) caeacea7-1754752771.012 users.channelSections.list is RESOLVED 
+[08/09/25, 21:05:32:015] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 21:05:32:015] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 21:05:32:015] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 21:05:32:015] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 21:05:32:015] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 21:05:32:015] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 21:05:32:015] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 21:05:32:015] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 21:05:32:015] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/09/25, 21:19:07:012] info: [MIN-VERSION] Checking to see if we should reload 
+[08/09/25, 21:19:07:012] info: [BOOT-QUEUE] T02S80P41LN noversion-1754754547.011 client.shouldReload called with reason: polling 
+[08/09/25, 21:19:07:012] info: [BOOT-QUEUE] T02S80P41LN noversion-1754754547.011 client.shouldReload is ENQUEUED 
+[08/09/25, 21:19:07:013] info: [BOOT-QUEUE] T02S80P41LN noversion-1754754547.011 client.shouldReload is ACTIVE 
+[08/09/25, 21:19:07:448] info: [BOOT-QUEUE] T02S80P41LN noversion-1754754547.011 client.shouldReload is RESOLVED 
+[08/09/25, 21:19:07:448] info: [MIN-VERSION] No need to reload 
+[08/09/25, 21:20:32:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 21:20:32:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 21:20:32:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 21:20:32:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 21:20:32:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 21:20:32:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 21:20:32:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 21:20:32:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 21:20:32:012] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/09/25, 21:35:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 21:35:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 21:35:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 21:35:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 21:35:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 21:35:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 21:35:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 21:35:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 21:35:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/09/25, 21:36:12:898] info: [API-Q] (T02S80P41LN) noversion-1754755572.897 Flannel users/info called with reason: flannel-call:users/info 
+[08/09/25, 21:36:12:898] info: [API-Q] (T02S80P41LN) noversion-1754755572.897 Flannel users/info is ENQUEUED 
+[08/09/25, 21:36:12:899] info: [API-Q] (T02S80P41LN) noversion-1754755572.897 Flannel users/info is ACTIVE 
+[08/09/25, 21:36:13:015] info: [API-Q] (T02S80P41LN) noversion-1754755572.897 Flannel users/info is RESOLVED 
+[08/09/25, 21:50:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 21:50:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 21:50:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 21:50:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 21:50:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 21:50:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 21:50:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 21:50:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 21:50:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/09/25, 22:05:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/09/25, 22:05:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/09/25, 22:05:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/09/25, 22:05:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/09/25, 22:05:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/09/25, 22:05:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/09/25, 22:05:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/09/25, 22:05:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098RCLR1S9: Not idle 
+[08/09/25, 22:05:32:840] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
