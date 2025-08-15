@@ -42767,3 +42767,1237 @@
     "T02S80P41LN"
   ]
 }
+[08/14/25, 10:00:37:250] info: Breadcrumb: electron: app.second-instance 
+[08/14/25, 10:00:37:252] info: secondInstanceEpic: Otherwise signaled, foregrounding 
+[08/14/25, 10:00:37:252] info: Store: FOREGROUND_APP 
+[08/14/25, 10:00:37:253] info: Store: FOCUS_WINDOW 
+[08/14/25, 10:00:37:254] info: Breadcrumb: electron: window.show 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 10:00:37:254] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:00:37:258] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:00:37:259] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1728,
+      "height": 972
+    }
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:00:37:381] info: Breadcrumb: electron: window.maximize 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 10:00:37:382] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isMaximized": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:00:37:383] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1722,
+      "height": 966
+    }
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:00:37:388] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 10:00:37:388] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 10:00:37:388] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:00:38:388] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+}
+[08/14/25, 10:00:38:391] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1722,
+      "height": 966
+    }
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:00:44:451] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "media",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": null,
+  "mediaType": "video",
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 10:00:44:452] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "media",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": null,
+  "mediaType": "audio",
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 10:00:44:452] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "geolocation",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": null,
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 10:00:55:224] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 10:00:55:225] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 10:00:55:225] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:01:01:172] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 10:01:01:173] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 10:01:01:173] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:01:01:620] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 10:01:01:621] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 10:01:01:621] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:03:10:523] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 10:03:10:523] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 10:03:10:523] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:03:10:827] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 10:03:10:827] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 10:03:10:827] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 10:12:11:261] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[08/14/25, 10:12:11:749] info: Breadcrumb: electron.net: undefined 
+{
+  "url": "[REDACTED]",
+  "method": "GET",
+  "status_code": 200
+}
+[08/14/25, 10:12:11:753] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": [
+    {
+      "experiment": "",
+      "disable_chrome_features": [
+        "PostQuantumKyber"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_document_policy_include_js_call_stacks",
+      "enable_chrome_features": [
+        "DocumentPolicyIncludeJSCallStacksInCrashReports"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_desktop_disable_windows_display_crash_feature",
+      "disable_chrome_features": [
+        "SkipEmptyDisplayHotplugEvent"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_force_color_profile",
+      "add_browser_command_line_args": [
+        "--force-color-profile=display-p3-d65"
+      ],
+      "type": "normal",
+      "filter": {
+        "platform": [
+          "darwin"
+        ]
+      }
+    },
+    {
+      "experiment": "ripcord_disable_blink_customizable_select",
+      "disable_blink_features": [
+        "CustomizableSelect"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_enumerate_devices_relaxed_cache",
+      "disable_chrome_features": [
+        "EnumerateDevicesRelaxedCache"
+      ],
+      "type": "normal"
+    }
+  ]
+}
+[08/14/25, 10:13:38:975] info: Breadcrumb: electron: powerMonitor.suspend 
+[08/14/25, 10:13:38:975] info: Store: SET_SUSPEND_STATUS 
+[08/14/25, 10:13:38:979] info: Breadcrumb: electron: powerMonitor.suspend 
+[08/14/25, 10:13:38:979] info: Store: SET_SUSPEND_STATUS 
+[08/14/25, 14:54:37:908] info: Breadcrumb: electron: powerMonitor.resume 
+[08/14/25, 14:54:37:908] info: Store: POWER_RESUMED 
+[08/14/25, 14:54:37:909] info: Store: SET_SUSPEND_STATUS true
+[08/14/25, 14:54:37:911] info: Breadcrumb: electron: powerMonitor.resume 
+[08/14/25, 14:54:37:911] info: Store: POWER_RESUMED 
+[08/14/25, 14:54:37:911] info: Store: SET_SUSPEND_STATUS true
+[08/14/25, 14:54:38:294] info: Breadcrumb: electron: screen.display-metrics-changed 
+[08/14/25, 14:54:38:294] info: Store: DISPLAY_METRICS_CHANGED 
+[08/14/25, 14:54:38:297] info: Breadcrumb: electron: screen.display-metrics-changed 
+[08/14/25, 14:54:38:297] info: Store: DISPLAY_METRICS_CHANGED 
+[08/14/25, 14:54:38:362] info: Breadcrumb: electron: screen.display-added 
+[08/14/25, 14:54:38:363] info: Store: DISPLAY_ADDED 
+[08/14/25, 14:54:38:365] info: Breadcrumb: electron: screen.display-metrics-changed 
+[08/14/25, 14:54:38:365] info: Store: DISPLAY_METRICS_CHANGED 
+[08/14/25, 14:54:48:707] info: Store: STORE_USER_WORKSPACES 
+{
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+}
+[08/14/25, 14:58:59:623] info: Breadcrumb: electron: app.second-instance 
+[08/14/25, 14:58:59:623] info: secondInstanceEpic: Otherwise signaled, foregrounding 
+[08/14/25, 14:58:59:623] info: Store: FOREGROUND_APP 
+[08/14/25, 14:58:59:623] info: Store: FOCUS_WINDOW 
+[08/14/25, 15:09:14:764] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 15:09:14:764] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 15:09:14:764] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:09:17:922] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "media",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/C02S02N2FAT",
+  "securityOrigin": null,
+  "mediaType": "video",
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 15:09:17:922] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "media",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/C02S02N2FAT",
+  "securityOrigin": null,
+  "mediaType": "audio",
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 15:09:17:922] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "geolocation",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/C02S02N2FAT",
+  "securityOrigin": null,
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 15:09:20:312] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 15:09:20:312] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 15:09:20:312] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:09:22:371] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 15:09:22:371] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 15:09:22:371] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:09:22:706] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 15:09:22:707] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 15:09:22:707] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:09:27:893] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 15:09:27:893] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 15:09:27:893] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:09:28:165] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 15:09:28:165] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 15:09:28:166] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:09:28:895] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1722,
+      "height": 939
+    }
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:09:28:895] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+}
+[08/14/25, 15:10:34:942] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 15:10:34:942] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 15:10:34:942] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:10:40:106] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 15:10:40:107] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 15:10:40:107] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:12:45:331] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 15:12:45:331] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 15:12:45:331] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:12:46:572] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 15:12:46:572] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 15:12:46:572] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 15:53:08:627] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[08/14/25, 15:53:08:932] info: Breadcrumb: electron.net: undefined 
+{
+  "url": "[REDACTED]",
+  "method": "GET",
+  "status_code": 200
+}
+[08/14/25, 15:53:08:933] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": [
+    {
+      "experiment": "",
+      "disable_chrome_features": [
+        "PostQuantumKyber"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_document_policy_include_js_call_stacks",
+      "enable_chrome_features": [
+        "DocumentPolicyIncludeJSCallStacksInCrashReports"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_desktop_disable_windows_display_crash_feature",
+      "disable_chrome_features": [
+        "SkipEmptyDisplayHotplugEvent"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_force_color_profile",
+      "add_browser_command_line_args": [
+        "--force-color-profile=display-p3-d65"
+      ],
+      "type": "normal",
+      "filter": {
+        "platform": [
+          "darwin"
+        ]
+      }
+    },
+    {
+      "experiment": "ripcord_disable_blink_customizable_select",
+      "disable_blink_features": [
+        "CustomizableSelect"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_enumerate_devices_relaxed_cache",
+      "disable_chrome_features": [
+        "EnumerateDevicesRelaxedCache"
+      ],
+      "type": "normal"
+    }
+  ]
+}
+[08/14/25, 16:49:43:177] info: Store: STORE_USER_WORKSPACES 
+{
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+}
+[08/14/25, 16:53:08:631] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[08/14/25, 16:53:08:945] info: Breadcrumb: electron.net: undefined 
+{
+  "url": "[REDACTED]",
+  "method": "GET",
+  "status_code": 200
+}
+[08/14/25, 16:53:08:946] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": [
+    {
+      "experiment": "",
+      "disable_chrome_features": [
+        "PostQuantumKyber"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_document_policy_include_js_call_stacks",
+      "enable_chrome_features": [
+        "DocumentPolicyIncludeJSCallStacksInCrashReports"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_desktop_disable_windows_display_crash_feature",
+      "disable_chrome_features": [
+        "SkipEmptyDisplayHotplugEvent"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_force_color_profile",
+      "add_browser_command_line_args": [
+        "--force-color-profile=display-p3-d65"
+      ],
+      "type": "normal",
+      "filter": {
+        "platform": [
+          "darwin"
+        ]
+      }
+    },
+    {
+      "experiment": "ripcord_disable_blink_customizable_select",
+      "disable_blink_features": [
+        "CustomizableSelect"
+      ],
+      "type": "normal"
+    },
+    {
+      "experiment": "ripcord_enumerate_devices_relaxed_cache",
+      "disable_chrome_features": [
+        "EnumerateDevicesRelaxedCache"
+      ],
+      "type": "normal"
+    }
+  ]
+}
+[08/14/25, 17:02:12:135] info: Breadcrumb: electron: powerMonitor.suspend 
+[08/14/25, 17:02:12:136] info: Store: SET_SUSPEND_STATUS 
+[08/14/25, 17:02:12:138] info: Breadcrumb: electron: powerMonitor.suspend 
+[08/14/25, 17:02:12:138] info: Store: SET_SUSPEND_STATUS 
+[08/14/25, 17:02:12:229] info: Breadcrumb: electron: screen.display-metrics-changed 
+[08/14/25, 17:02:12:229] info: Store: DISPLAY_METRICS_CHANGED 
+[08/14/25, 17:02:12:231] info: Breadcrumb: electron: screen.display-removed 
+[08/14/25, 17:02:12:231] info: Store: DISPLAY_REMOVED 
+[08/14/25, 17:02:12:233] info: Breadcrumb: electron: screen.display-metrics-changed 
+[08/14/25, 17:02:12:233] info: Store: DISPLAY_METRICS_CHANGED 
+[08/14/25, 21:03:37:914] info: Breadcrumb: electron: powerMonitor.resume 
+[08/14/25, 21:03:37:915] info: Store: POWER_RESUMED 
+[08/14/25, 21:03:37:916] info: Store: SET_SUSPEND_STATUS true
+[08/14/25, 21:03:37:918] info: Breadcrumb: electron: powerMonitor.resume 
+[08/14/25, 21:03:37:918] info: Store: POWER_RESUMED 
+[08/14/25, 21:03:37:919] info: Store: SET_SUSPEND_STATUS true
+[08/14/25, 21:03:37:921] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "media",
+  "requestingOrigin": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": "https://app.slack.com/",
+  "mediaType": "audio",
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 21:03:37:922] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "speaker-selection",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": null,
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 21:03:37:922] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "media",
+  "requestingOrigin": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": "https://app.slack.com/",
+  "mediaType": "audio",
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 21:03:37:922] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "speaker-selection",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": null,
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 21:03:37:925] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "media",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": null,
+  "mediaType": "audio",
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 21:03:37:936] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "media",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": null,
+  "mediaType": "audio",
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 21:03:37:937] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "media",
+  "requestingOrigin": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": "https://app.slack.com/",
+  "mediaType": "audio",
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 21:03:37:937] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "speaker-selection",
+  "requestingOrigin": "https://app.slack.com/",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": null,
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 21:03:37:937] info: Permission check granted: 
+{
+  "isMainFrame": true,
+  "permission": "media",
+  "requestingOrigin": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "requestingUrl": "https://app.slack.com/client/T02S80P41LN/D098PJ6AUJH",
+  "securityOrigin": "https://app.slack.com/",
+  "mediaType": "video",
+  "slackChildWindowRequest": {
+    "result": false,
+    "reason": "Not child window URL"
+  }
+}
+[08/14/25, 21:03:38:570] info: Breadcrumb: electron: screen.display-metrics-changed 
+[08/14/25, 21:03:38:571] info: Store: DISPLAY_METRICS_CHANGED 
+[08/14/25, 21:03:38:573] info: Breadcrumb: electron: screen.display-metrics-changed 
+[08/14/25, 21:03:38:573] info: Store: DISPLAY_METRICS_CHANGED 
+[08/14/25, 21:03:38:620] info: Breadcrumb: electron: screen.display-added 
+[08/14/25, 21:03:38:620] info: Store: DISPLAY_ADDED 
+[08/14/25, 21:03:38:622] info: Breadcrumb: electron: screen.display-metrics-changed 
+[08/14/25, 21:03:38:622] info: Store: DISPLAY_METRICS_CHANGED 
+[08/14/25, 21:03:50:048] info: Store: STORE_USER_WORKSPACES 
+{
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+}
+[08/14/25, 21:04:57:453] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:04:57:453] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 21:04:57:454] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:04:58:127] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:04:58:127] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 21:04:58:127] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:04:58:454] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1722,
+      "height": 966
+    }
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:04:58:455] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+}
+[08/14/25, 21:04:59:866] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:04:59:867] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 21:04:59:867] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:00:276] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:00:276] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 21:05:00:277] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:01:860] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:01:860] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 21:05:01:860] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:04:195] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:04:195] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 21:05:04:196] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:04:199] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:04:199] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 21:05:04:199] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:05:195] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 586,
+      "height": 652
+    }
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:05:196] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+}
+[08/14/25, 21:05:05:736] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:05:736] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 21:05:05:736] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:08:351] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:08:351] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 21:05:08:351] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:08:354] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:08:354] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 21:05:08:355] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:09:352] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 586,
+      "height": 317
+    }
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:09:352] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+}
+[08/14/25, 21:05:54:647] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:54:647] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 21:05:54:647] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:55:648] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 586,
+      "height": 652
+    }
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:55:649] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+}
+[08/14/25, 21:05:56:981] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:56:981] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 21:05:56:982] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:57:284] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:57:284] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 21:05:57:284] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:58:784] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:58:784] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 21:05:58:784] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:05:58:858] info: Breadcrumb: electron: window.focus 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:05:58:858] info: Breadcrumb: electron: app.browser-window-focus 
+[08/14/25, 21:05:58:858] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:06:00:626] info: Breadcrumb: electron: window.close 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:06:00:626] info: Attempted to close the window, hiding due to run from tray 
+[08/14/25, 21:06:00:626] info: Breadcrumb: electron: window.hide 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:06:00:626] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:06:00:628] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:06:00:628] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 21:06:00:628] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[08/14/25, 21:06:00:635] info: Breadcrumb: electron: window.blur 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:06:00:635] info: Breadcrumb: electron: app.browser-window-blur 
+[08/14/25, 21:11:55:829] info: Breadcrumb: electron: app.render-process-gone 
+[08/14/25, 21:11:55:829] warn: Breadcrumb: child-process: 'renderer' process exited with 'killed' 
+{
+  "reason": "killed",
+  "exitCode": 61696
+}
+[08/14/25, 21:11:55:829] info: registerLifeCycleEvents: webContents:1 from 'webapp-loaded' to 'render-process-gone' took 84205497 ms 
+[08/14/25, 21:11:55:830] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "render-process-gone",
+  "reason": "killed"
+}
+[08/14/25, 21:11:55:832] warn: Renderer quit cleanly or was intentionally killed 
+{
+  "reason": "killed"
+}
+[08/14/25, 21:12:01:623] info: Store: QUIT_APP 
+[08/14/25, 21:12:01:624] info: Breadcrumb: electron: window.hide 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:12:01:624] info: EpicHelpers: Flushing cookie store for session 
+{
+  "sessionId": "PROD_DEFAULT_SESSION"
+}
+[08/14/25, 21:12:01:624] info: Disposing WL… 
+[08/14/25, 21:12:01:624] info: Disposing QL… 
+[08/14/25, 21:12:01:625] info: Disposing VE… 
+[08/14/25, 21:12:01:625] info: Store: DOWNLOADS_CLEANED_UP 
+[08/14/25, 21:12:01:627] info: flushLocalSettings: Flushing local-settings.json 
+{
+  "keys": [
+    "useHwAcceleration",
+    "rxLogging"
+  ]
+}
+[08/14/25, 21:12:01:628] info: Store: persist/FLUSH 
+[08/14/25, 21:12:01:634] info: Breadcrumb: electron.net: undefined 
+{
+  "url": "[REDACTED]",
+  "method": "POST",
+  "status_code": 200
+}
+[08/14/25, 21:12:02:000] info: Breadcrumb: electron.net: undefined 
+{
+  "url": "[REDACTED]",
+  "method": "POST",
+  "status_code": 200
+}
+[08/14/25, 21:12:02:001] info: Closing main window 
+{
+  "id": 1
+}
+[08/14/25, 21:12:02:001] info: closeWindow: attempt to close window 
+{
+  "id": 1
+}
+[08/14/25, 21:12:02:001] info: Breadcrumb: electron: window.close 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:12:02:002] info: registerLifeCycleEvents: webContents:1 from 'render-process-gone' to 'page-closed' took 6173 ms 
+[08/14/25, 21:12:02:002] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "page-closed"
+}
+[08/14/25, 21:12:02:004] info: Breadcrumb: electron: renderer.destroyed 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:12:02:005] info: Store: REMOVE_WEB_CONTENTS 
+{
+  "id": 1
+}
+[08/14/25, 21:12:02:006] info: Breadcrumb: electron: window.closed 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/14/25, 21:12:02:006] info: Store: REMOVE_WINDOW 1
+[08/14/25, 21:12:02:008] info: 
++-------------------+--------------+
+| FLUSH_COOKIES     | 3.034812ms   |
+|-------------------+--------------+
+| FLUSH_STORE       | 0.570592ms   |
+|-------------------+--------------+
+| REMOVE_DICT       | 0.420182ms   |
+|-------------------+--------------+
+| FLUSH_TELEMETRY   | 372.200163ms |
+|-------------------+--------------+
+| CLOSE_MAIN_WINDOW | 5.401261ms   |
+|-------------------+--------------+
+| TOTAL             | 382.832218ms |
++-------------------+--------------+ 
+[08/14/25, 21:12:02:008] info: quitApplicationEpic: Finished, calling app.quit 
+[08/14/25, 21:12:02:008] info: Breadcrumb: electron: app.before-quit 
+[08/14/25, 21:12:02:009] info: Breadcrumb: electron: app.will-quit 
+[08/14/25, 21:12:02:009] info: Telling native-keymap to ignore all future events as we are quitting 
+[08/14/25, 21:12:02:395] info: Breadcrumb: electron: app.quit 
