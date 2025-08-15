@@ -1,3 +1,22 @@
 2025/08/13-21:48:27.657 11b71c Reusing MANIFEST /home/deepanshu/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
 2025/08/13-21:48:27.658 11b71c Recovering log #6
 2025/08/13-21:48:27.658 11b71c Reusing old log /home/deepanshu/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000006.log 
+2025/08/14-21:11:57.834 11b71d Level-0 table #10: started
+2025/08/14-21:11:57.836 11b71d Level-0 table #10: 24780 bytes OK
+2025/08/14-21:11:57.839 11b71d Delete type=0 #6
+2025/08/14-21:11:57.839 11b71d Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x01\x01\x000' @ 1272 : 1
+2025/08/14-21:11:57.839 11b71d Compacting 1@0 + 1@1 files
+2025/08/14-21:11:57.841 11b71d Generated table #11@0: 266 keys, 12347 bytes
+2025/08/14-21:11:57.841 11b71d Compacted 1@0 + 1@1 files => 12347 bytes
+2025/08/14-21:11:57.844 11b71d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/14-21:11:57.844 11b71d Delete type=2 #7
+2025/08/14-21:11:57.844 11b71d Delete type=2 #10
+2025/08/14-21:11:57.844 11b71d Manual compaction at level-0 from '\x00\x05\x01\x02\x01\x01\x000' @ 1272 : 1 .. (end); will stop at (end)
+2025/08/14-21:11:57.844 11b71d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x01\x01\x000' @ 1527 : 1
+2025/08/14-21:11:57.844 11b71d Compacting 1@1 + 1@2 files
+2025/08/14-21:11:57.846 11b71d Generated table #12@1: 120 keys, 13355 bytes
+2025/08/14-21:11:57.846 11b71d Compacted 1@1 + 1@2 files => 13355 bytes
+2025/08/14-21:11:57.848 11b71d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/14-21:11:57.848 11b71d Delete type=2 #5
+2025/08/14-21:11:57.848 11b71d Delete type=2 #11
+2025/08/14-21:11:57.848 11b71d Manual compaction at level-1 from '\x00\x05\x01\x02\x01\x01\x000' @ 1527 : 1 .. (end); will stop at (end)

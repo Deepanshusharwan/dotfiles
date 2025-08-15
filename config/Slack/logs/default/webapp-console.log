@@ -30310,3 +30310,1475 @@ Drafts ignored: 0
 [08/14/25, 09:14:12:589] info: [API-Q] (T02S80P41LN) e890639a-1755143052.587 client.counts called with reason: pollClientCountsAfterTimeout 
 [08/14/25, 09:14:12:590] info: [API-Q] (T02S80P41LN) e890639a-1755143052.587 client.counts is ENQUEUED 
 [08/14/25, 09:14:12:591] info: [API-Q] (T02S80P41LN) e890639a-1755143052.587 client.counts is ACTIVE 
+[08/14/25, 09:14:12:918] info: [API-Q] (T02S80P41LN) e890639a-1755143052.587 client.counts is RESOLVED 
+[08/14/25, 09:14:12:922] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/14/25, 09:14:12:925] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/14/25, 09:14:12:927] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/14/25, 09:15:09:588] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 09:15:09:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 09:15:09:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 09:15:09:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 09:15:09:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 09:15:09:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 09:15:09:590] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 09:15:09:590] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 09:15:09:590] info: [API-Q] (T02S80P41LN) e890639a-1755143109.589 users.channelSections.list called with reason: conditional-fetch-manager 
+[08/14/25, 09:15:09:590] info: [API-Q] (T02S80P41LN) e890639a-1755143109.589 users.channelSections.list is ENQUEUED 
+[08/14/25, 09:15:09:591] info: [API-Q] (T02S80P41LN) e890639a-1755143109.589 users.channelSections.list is ACTIVE 
+[08/14/25, 09:15:09:956] info: [API-Q] (T02S80P41LN) e890639a-1755143109.589 users.channelSections.list is RESOLVED 
+[08/14/25, 09:22:15:591] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 09:31:10:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 09:31:10:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 09:31:10:590] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 09:31:10:590] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 09:31:10:590] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 09:31:10:590] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 09:31:10:590] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 09:31:10:590] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 09:32:15:588] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 09:42:15:589] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 09:46:10:588] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 09:46:10:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 09:46:10:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 09:46:10:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 09:46:10:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 09:46:10:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 09:46:10:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 09:46:10:589] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 09:52:15:589] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 10:00:01:135] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 10:00:02:591] info: [API-Q] (T02S80P41LN) noversion-1755145802.589 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 10:00:02:591] info: [API-Q] (T02S80P41LN) noversion-1755145802.589 Flannel users/info is ENQUEUED 
+[08/14/25, 10:00:02:593] info: [API-Q] (T02S80P41LN) noversion-1755145802.589 Flannel users/info is ACTIVE 
+[08/14/25, 10:00:02:973] info: [API-Q] (T02S80P41LN) noversion-1755145802.589 Flannel users/info is RESOLVED 
+[08/14/25, 10:00:37:260] info: Store: FOREGROUND_APP  
+[08/14/25, 10:00:37:261] info: Store: FOCUS_WINDOW  
+[08/14/25, 10:00:37:261] info: [VISIBILITY-STATE] (T02S80P41LN) Main window visibility state changed: visible 
+[08/14/25, 10:00:37:688] info: [HISTORY-FETCH] (T02S80P41LN) Fetching history for message pane: D098PJ6AUJH oldest: 1755059357.879719 latest: null 
+[08/14/25, 10:00:37:690] info: [API-Q] (T02S80P41LN) e890639a-1755145837.689 conversations.history called with reason: message-pane/requestHistory 
+[08/14/25, 10:00:37:690] info: [API-Q] (T02S80P41LN) e890639a-1755145837.689 conversations.history is ENQUEUED 
+[08/14/25, 10:00:37:693] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: true -> false 
+[08/14/25, 10:00:37:762] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 30 
+[08/14/25, 10:00:37:852] info: [API-Q] (T02S80P41LN) e890639a-1755145837.689 conversations.history is ACTIVE 
+[08/14/25, 10:00:37:862] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 10:00:38:035] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 10:00:38:036] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 10:00:38:105] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://a.slack-edge.com/bv1-13-br/lato-regular-d9ce515.woff2 
+[08/14/25, 10:00:38:152] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://a.slack-edge.com/bv1-13-br/lato-black-b64f5e4.woff2 
+[08/14/25, 10:00:38:155] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://a.slack-edge.com/bv1-13-br/slack-icons-v2-fe043a5.woff2 
+[08/14/25, 10:00:38:234] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://a.slack-edge.com/bv1-13-br/lato-bold-4b1dc11.woff2 
+[08/14/25, 10:00:38:536] info: [API-Q] (T02S80P41LN) e890639a-1755145838.535 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/14/25, 10:00:38:537] info: [API-Q] (T02S80P41LN) e890639a-1755145838.535 slackAi.permissions.getForUser is ENQUEUED 
+[08/14/25, 10:00:38:537] info: [API-Q] (T02S80P41LN) noversion-1755145838.536 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 10:00:38:537] info: [API-Q] (T02S80P41LN) noversion-1755145838.536 Flannel permissions/info is ENQUEUED 
+[08/14/25, 10:00:38:538] info: [API-Q] (T02S80P41LN) e890639a-1755145838.535 slackAi.permissions.getForUser is ACTIVE 
+[08/14/25, 10:00:38:538] info: [API-Q] (T02S80P41LN) noversion-1755145838.536 Flannel permissions/info is ACTIVE 
+[08/14/25, 10:00:38:700] info: [API-Q] (T02S80P41LN) e890639a-1755145838.699 saved.list called with reason: saved-api/savedList 
+[08/14/25, 10:00:38:700] info: [API-Q] (T02S80P41LN) e890639a-1755145838.699 saved.list is ENQUEUED 
+[08/14/25, 10:00:38:701] info: [API-Q] (T02S80P41LN) e890639a-1755145838.699 saved.list is ACTIVE 
+[08/14/25, 10:00:38:703] info: [API-Q] (T02S80P41LN) e890639a-1755145838.702 files.info called with reason: files-store.ConditionalFetchManager.fetch 
+[08/14/25, 10:00:38:703] info: [API-Q] (T02S80P41LN) e890639a-1755145838.702 files.info is ENQUEUED 
+[08/14/25, 10:00:38:704] info: [API-Q] (T02S80P41LN) e890639a-1755145838.703 files.info called with reason: files-store.ConditionalFetchManager.fetch 
+[08/14/25, 10:00:38:704] info: [API-Q] (T02S80P41LN) e890639a-1755145838.703 files.info is ENQUEUED 
+[08/14/25, 10:00:38:705] info: [API-Q] (T02S80P41LN) e890639a-1755145838.702 files.info is ACTIVE 
+[08/14/25, 10:00:38:705] info: [API-Q] (T02S80P41LN) e890639a-1755145838.703 files.info is ACTIVE 
+[08/14/25, 10:00:38:707] info: [DND_V2] (T02S80P41LN) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U098PJ614F7,U090BR1MDTM 
+[08/14/25, 10:00:38:708] info: [API-Q] (T02S80P41LN) e890639a-1755145838.707 dnd.info called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:self 
+[08/14/25, 10:00:38:708] info: [API-Q] (T02S80P41LN) e890639a-1755145838.707 dnd.info is ENQUEUED 
+[08/14/25, 10:00:38:710] info: [API-Q] (T02S80P41LN) e890639a-1755145838.709 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[08/14/25, 10:00:38:710] info: [API-Q] (T02S80P41LN) e890639a-1755145838.709 dnd.teamInfo is ENQUEUED 
+[08/14/25, 10:00:38:710] info: [API-Q] (T02S80P41LN) e890639a-1755145838.707 dnd.info is ACTIVE 
+[08/14/25, 10:00:38:711] info: [API-Q] (T02S80P41LN) e890639a-1755145838.709 dnd.teamInfo is ACTIVE 
+[08/14/25, 10:00:38:713] info: [API-Q] (T02S80P41LN) noversion-1755145838.712 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 10:00:38:713] info: [API-Q] (T02S80P41LN) noversion-1755145838.712 Flannel users/info is ENQUEUED 
+[08/14/25, 10:00:38:714] info: [API-Q] (T02S80P41LN) noversion-1755145838.712 Flannel users/info is ACTIVE 
+[08/14/25, 10:00:38:715] info: [API-Q] (T02S80P41LN) noversion-1755145838.714 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 10:00:38:715] info: [API-Q] (T02S80P41LN) noversion-1755145838.714 Flannel permissions/info is ENQUEUED 
+[08/14/25, 10:00:38:715] info: [API-Q] (T02S80P41LN) noversion-1755145838.714 Flannel permissions/info is ACTIVE 
+[08/14/25, 10:00:38:716] info: [API-Q] (T02S80P41LN) noversion-1755145838.716 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 10:00:38:717] info: [API-Q] (T02S80P41LN) noversion-1755145838.716 Flannel users/info is ENQUEUED 
+[08/14/25, 10:00:38:718] info: [API-Q] (T02S80P41LN) e890639a-1755145838.717 help.issues.ticketStats called with reason: fetchAndUpsertTicketStats 
+[08/14/25, 10:00:38:718] info: [API-Q] (T02S80P41LN) e890639a-1755145838.717 help.issues.ticketStats is ENQUEUED 
+[08/14/25, 10:00:38:762] info: [API-Q] (T02S80P41LN) noversion-1755145838.761 Flannel emojis/info called with reason: flannel-call:emojis/info 
+[08/14/25, 10:00:38:763] info: [API-Q] (T02S80P41LN) noversion-1755145838.761 Flannel emojis/info is ENQUEUED 
+[08/14/25, 10:00:38:921] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+} 
+[08/14/25, 10:00:38:926] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[08/14/25, 10:00:38:935] info: [API-Q] (T02S80P41LN) noversion-1755145838.712 Flannel users/info is RESOLVED 
+[08/14/25, 10:00:38:935] info: [API-Q] (T02S80P41LN) noversion-1755145838.761 Flannel emojis/info is ACTIVE 
+[08/14/25, 10:00:38:937] info: [API-Q] (T02S80P41LN) noversion-1755145838.536 Flannel permissions/info is RESOLVED 
+[08/14/25, 10:00:38:937] info: [API-Q] (T02S80P41LN) noversion-1755145838.716 Flannel users/info is ACTIVE 
+[08/14/25, 10:00:38:938] info: [API-Q] (T02S80P41LN) noversion-1755145838.714 Flannel permissions/info is RESOLVED 
+[08/14/25, 10:00:38:939] info: [API-Q] (T02S80P41LN) e890639a-1755145838.717 help.issues.ticketStats is ACTIVE 
+[08/14/25, 10:00:39:154] info: [API-Q] (T02S80P41LN) e890639a-1755145838.707 dnd.info is RESOLVED 
+[08/14/25, 10:00:39:155] info: [API-Q] (T02S80P41LN) e890639a-1755145838.699 saved.list is RESOLVED 
+[08/14/25, 10:00:39:156] info: [API-Q] (T02S80P41LN) e890639a-1755145838.535 slackAi.permissions.getForUser is RESOLVED 
+[08/14/25, 10:00:39:157] info: [API-Q] (T02S80P41LN) e890639a-1755145837.689 conversations.history is RESOLVED 
+[08/14/25, 10:00:39:157] info: [API-Q] (T02S80P41LN) e890639a-1755145838.702 files.info is RESOLVED 
+[08/14/25, 10:00:39:159] info: [API-Q] (T02S80P41LN) e890639a-1755145838.709 dnd.teamInfo is RESOLVED 
+[08/14/25, 10:00:39:160] info: [API-Q] (T02S80P41LN) e890639a-1755145838.703 files.info is RESOLVED 
+[08/14/25, 10:00:39:178] info: [DND] (T02S80P41LN) Fetched DND info for the following member: U098PJ614F7 
+[08/14/25, 10:00:39:184] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 10:00:39:191] info: [PLATFORM-CHANNEL-ACTI] (T02S80P41LN) Not updating count for channel D098PJ6AUJH, as count was already set to 0 
+[08/14/25, 10:00:39:195] info: [PINS] (T02S80P41LN) Pins count updated for channel D098PJ6AUJH: 0 
+[08/14/25, 10:00:39:200] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 10:00:39:203] info: [DND] (T02S80P41LN) Fetched DND info for the following members: U090BR1MDTM 
+[08/14/25, 10:00:39:206] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 10:00:39:296] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 30 
+[08/14/25, 10:00:39:363] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: false -> true 
+[08/14/25, 10:00:39:403] info: [API-Q] (T02S80P41LN) e890639a-1755145838.717 help.issues.ticketStats is RESOLVED 
+[08/14/25, 10:00:39:503] info: [API-Q] (T02S80P41LN) noversion-1755145838.761 Flannel emojis/info is RESOLVED 
+[08/14/25, 10:00:39:584] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 10:00:39:584] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 10:00:39:584] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 10:00:39:584] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 10:00:39:584] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 10:00:39:584] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 10:00:39:584] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 10:00:39:585] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 10:00:39:597] info: [PERSIST] (T02S80P41LN) Successfully persisted state 
+[08/14/25, 10:00:39:745] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after unread line became visible 
+[08/14/25, 10:00:39:746] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 10:00:39:892] info: [API-Q] (T02S80P41LN) noversion-1755145838.716 Flannel users/info is RESOLVED 
+[08/14/25, 10:00:44:430] info: [ACTION:CHANNEL-SIDEBAR] Selected C02S02N2FAT 
+[08/14/25, 10:00:44:432] info: [CHANNEL-SIDEBAR] (T02S80P41LN) onItemSelect C02S02N2FAT 
+[08/14/25, 10:00:44:434] info: [NAVIGATE-IN-MAIN-WIND] Starting a new navigation event {"id":"C02S02N2FAT","viewType":"Channel","options":{}} 
+[08/14/25, 10:00:44:438] info: [APPLY-DETAIL-VIEW] ViewSet with detail view applied {"viewSet":{"primary":{"id":"C02S02N2FAT","viewType":"Channel","uiState":{"preventMoveFocus":false}}}} 
+[08/14/25, 10:00:44:438] info: [APPLY-DETAIL-VIEW] ViewSet with channel canvas applied {"viewSet":{"primary":{"id":"C02S02N2FAT","viewType":"Channel","uiState":{"preventMoveFocus":false}}}} 
+[08/14/25, 10:00:44:438] info: [NAVIGATE-IN-MAIN-WIND] Applying changes to the primary container {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"C02S02N2FAT","viewType":"Channel","uiState":{"preventMoveFocus":false}}},"nextTab":"home"} 
+[08/14/25, 10:00:44:439] info: [NAVIGATION-MIDDLEWARE] Starting a new navigation middleware execution {"context":"navigation","nextViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"C02S02N2FAT","viewType":"Channel","uiState":{"preventMoveFocus":false}}},"middlewareCount":18,"nextTab":"home"} 
+[08/14/25, 10:00:44:442] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"ChannelList","viewType":"ChannelList"},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":2.3999999910593033,"nextTab":"home"} 
+[08/14/25, 10:00:44:443] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for sidebar container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"C02S02N2FAT","viewType":"Channel","uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":3.7000000029802322} 
+[08/14/25, 10:00:44:443] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"C02S02N2FAT","viewType":"Channel","uiState":{"preventMoveFocus":false}},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.5999999940395355,"nextTab":"home"} 
+[08/14/25, 10:00:44:444] info: [APPLY-DETAIL-VIEW] ViewSet with detail view applied {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"C02S02N2FAT","viewType":"Channel","params":{"parentTab":"C02S02N2FAT"},"uiState":{"preventMoveFocus":false}}}} 
+[08/14/25, 10:00:44:444] info: [APPLY-DETAIL-VIEW] ViewSet with channel canvas applied {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"C02S02N2FAT","viewType":"Channel","params":{"parentTab":"C02S02N2FAT"},"uiState":{"preventMoveFocus":false}}}} 
+[08/14/25, 10:00:44:444] info: [NAVIGATION-MIDDLEWARE] View has been transformed {"container":"primary","initialView":{"id":"C02S02N2FAT","viewType":"Channel","uiState":{"preventMoveFocus":false}},"transformedView":{"id":"C02S02N2FAT","viewType":"Channel","params":{"parentTab":"C02S02N2FAT"},"uiState":{"preventMoveFocus":false}},"iterationCount":0} 
+[08/14/25, 10:00:44:444] info: [NAVIGATION-MIDDLEWARE] Skipping middleware execution for sidebar container as we have cached value {"initialView":{"id":"ChannelList","viewType":"ChannelList"},"iterationCount":1} 
+[08/14/25, 10:00:44:444] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"C02S02N2FAT","viewType":"Channel","params":{"parentTab":"C02S02N2FAT"},"uiState":{"preventMoveFocus":false}},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.10000000894069672,"nextTab":"home"} 
+[08/14/25, 10:00:44:444] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"C02S02N2FAT","viewType":"Channel","params":{"parentTab":"C02S02N2FAT"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":1,"executionTime":0.29999999701976776} 
+[08/14/25, 10:00:44:444] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"C02S02N2FAT","viewType":"Channel","params":{"parentTab":"C02S02N2FAT"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"isViewTransformed":true,"iterationCount":0,"executionTime":1.7000000029802322} 
+[08/14/25, 10:00:44:445] info: [NAVIGATION-MIDDLEWARE] Navigation middleware execution is complete {"maybeUpdatedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"C02S02N2FAT","viewType":"Channel","params":{"parentTab":"C02S02N2FAT"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"executionTime":5.5,"nextTab":"home"} 
+[08/14/25, 10:00:44:445] info: [NAVIGATE-IN-MAIN-WIND] Built view set after middleware {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"C02S02N2FAT","viewType":"Channel","params":{"parentTab":"C02S02N2FAT"},"uiState":{"preventMoveFocus":false}}},"nextTab":"home"} 
+[08/14/25, 10:00:44:453] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Starting navigation listeners for triggerType NAVIGATION 
+[08/14/25, 10:00:44:466] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Navigation listeners complete without errors 
+[08/14/25, 10:00:44:467] info: [NAVIGATE-IN-MAIN-WIND]  Navigation thunk execution complete {"id":"C02S02N2FAT","viewType":"Channel","options":{}} 
+[08/14/25, 10:00:44:475] info: Breadcrumb: ui.click: div.p-channel_sidebar__channel > span.p-channel_sidebar__name > span  
+[08/14/25, 10:00:44:552] info: [MESSAGE-LIST] (T02S80P41LN) getScrollmark reason:channel_change channelId:D098PJ6AUJH at end 
+[08/14/25, 10:00:44:556] info: [MESSAGE-LIST] (T02S80P41LN) Switching channels: C02S02N2FAT timestamps: 0 
+[08/14/25, 10:00:44:557] info: [MESSAGE-LIST] (T02S80P41LN) requestAround channelId: C02S02N2FAT isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/14/25, 10:00:44:558] info: [HISTORY-FETCH] (T02S80P41LN) Fetching history for message pane: C02S02N2FAT oldest: null latest: null 
+[08/14/25, 10:00:44:559] info: [API-Q] (T02S80P41LN) e890639a-1755145844.558 conversations.history called with reason: message-pane/requestHistory 
+[08/14/25, 10:00:44:559] info: [API-Q] (T02S80P41LN) e890639a-1755145844.558 conversations.history is ENQUEUED 
+[08/14/25, 10:00:44:645] info: [MESSAGE-LIST] (T02S80P41LN) requestAround channelId: C02S02N2FAT isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/14/25, 10:00:44:646] info: [MESSAGE-LIST] (T02S80P41LN) requestAround channelId: C02S02N2FAT isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/14/25, 10:00:44:700] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[08/14/25, 10:00:44:725] info: [API-Q] (T02S80P41LN) noversion-1755145844.724 Flannel users/list called with reason: flannel-call:users/list 
+[08/14/25, 10:00:44:726] info: [API-Q] (T02S80P41LN) noversion-1755145844.724 Flannel users/list is ENQUEUED 
+[08/14/25, 10:00:44:726] info: [API-Q] (T02S80P41LN) e890639a-1755145844.558 conversations.history is ACTIVE 
+[08/14/25, 10:00:44:727] info: [API-Q] (T02S80P41LN) noversion-1755145844.724 Flannel users/list is ACTIVE 
+[08/14/25, 10:00:44:772] info: [API-Q] (T02S80P41LN) e890639a-1755145844.771 conversations.listPrefs called with reason: client_redux_store 
+[08/14/25, 10:00:44:772] info: [API-Q] (T02S80P41LN) e890639a-1755145844.771 conversations.listPrefs is ENQUEUED 
+[08/14/25, 10:00:44:772] info: [API-Q] (T02S80P41LN) e890639a-1755145844.771 conversations.listPrefs is ACTIVE 
+[08/14/25, 10:00:44:774] info: [API-Q] (T02S80P41LN) noversion-1755145844.773 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/14/25, 10:00:44:774] info: [API-Q] (T02S80P41LN) noversion-1755145844.773 Flannel users/counts is ENQUEUED 
+[08/14/25, 10:00:44:774] info: [API-Q] (T02S80P41LN) noversion-1755145844.773 Flannel users/counts is ACTIVE 
+[08/14/25, 10:00:44:775] info: [UFM] (T02S80P41LN) requesting C02S02N2FAT (1) 
+[08/14/25, 10:00:44:775] info: [UFM] (T02S80P41LN) received C02S02N2FAT (1) 
+[08/14/25, 10:00:44:778] info: [UFM-PERMISSIONS] (T02S80P41LN) requesting ASSIGN_CHANNEL_MANAGER,CAN_AT_CHANNEL,CAN_AT_EVERYONE,ARCHIVE_CHANNEL (1) 
+[08/14/25, 10:00:44:779] info: [API-Q] (T02S80P41LN) noversion-1755145844.778 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 10:00:44:779] info: [API-Q] (T02S80P41LN) noversion-1755145844.778 Flannel permissions/info is ENQUEUED 
+[08/14/25, 10:00:44:780] info: [API-Q] (T02S80P41LN) noversion-1755145844.778 Flannel permissions/info is ACTIVE 
+[08/14/25, 10:00:44:787] info: [API-Q] (T02S80P41LN) e890639a-1755145844.786 bookmarks.list called with reason: bookmarks-store/conditional-fetching 
+[08/14/25, 10:00:44:787] info: [API-Q] (T02S80P41LN) e890639a-1755145844.786 bookmarks.list is ENQUEUED 
+[08/14/25, 10:00:44:788] info: [API-Q] (T02S80P41LN) e890639a-1755145844.786 bookmarks.list is ACTIVE 
+[08/14/25, 10:00:44:811] info: [API-Q] (T02S80P41LN) noversion-1755145844.724 Flannel users/list is RESOLVED 
+[08/14/25, 10:00:44:866] info: [API-Q] (T02S80P41LN) noversion-1755145844.773 Flannel users/counts is RESOLVED 
+[08/14/25, 10:00:44:867] info: [API-Q] (T02S80P41LN) noversion-1755145844.778 Flannel permissions/info is RESOLVED 
+[08/14/25, 10:00:44:902] info: [UFM-PERMISSIONS] (T02S80P41LN) received ASSIGN_CHANNEL_MANAGER,CAN_AT_CHANNEL,CAN_AT_EVERYONE,ARCHIVE_CHANNEL (1) 
+[08/14/25, 10:00:45:069] info: [API-Q] (T02S80P41LN) e890639a-1755145844.558 conversations.history is RESOLVED 
+[08/14/25, 10:00:45:070] info: [API-Q] (T02S80P41LN) noversion-1755145845.069 Flannel channels/membership called with reason: flannel-call:channels/membership 
+[08/14/25, 10:00:45:071] info: [API-Q] (T02S80P41LN) noversion-1755145845.069 Flannel channels/membership is ENQUEUED 
+[08/14/25, 10:00:45:071] info: [API-Q] (T02S80P41LN) noversion-1755145845.069 Flannel channels/membership is ACTIVE 
+[08/14/25, 10:00:45:072] info: [API-Q] (T02S80P41LN) e890639a-1755145844.771 conversations.listPrefs is RESOLVED 
+[08/14/25, 10:00:45:091] info: [PLATFORM-CHANNEL-ACTI] (T02S80P41LN) setting count for channel C02S02N2FAT to 0, and marking channel as stale. 
+[08/14/25, 10:00:45:096] info: [PINS] (T02S80P41LN) Pins count updated for channel C02S02N2FAT: 3 
+[08/14/25, 10:00:45:100] info: [CHECK-UNREADS] (T02S80P41LN) Not marking C02S02N2FAT because last_read >= latest && channel is read 
+[08/14/25, 10:00:45:101] info: [API-Q] (T02S80P41LN) e890639a-1755145844.786 bookmarks.list is RESOLVED 
+[08/14/25, 10:00:45:148] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 28 
+[08/14/25, 10:00:45:270] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: false -> true 
+[08/14/25, 10:00:45:547] info: [UFM-MEMBERS] (T02S80P41LN) requesting U05QGA0ERK6,U08T90M1P25 (1) 
+[08/14/25, 10:00:45:548] info: [API-Q] (T02S80P41LN) noversion-1755145845.547 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 10:00:45:548] info: [API-Q] (T02S80P41LN) noversion-1755145845.547 Flannel users/info is ENQUEUED 
+[08/14/25, 10:00:45:548] info: [API-Q] (T02S80P41LN) noversion-1755145845.547 Flannel users/info is ACTIVE 
+[08/14/25, 10:00:45:619] info: [API-Q] (T02S80P41LN) noversion-1755145845.547 Flannel users/info is RESOLVED 
+[08/14/25, 10:00:45:619] info: [UFM-PERMISSIONS] (T02S80P41LN) requesting DELETE_OWN_MESSAGE (1) 
+[08/14/25, 10:00:45:620] info: [API-Q] (T02S80P41LN) noversion-1755145845.619 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 10:00:45:620] info: [API-Q] (T02S80P41LN) noversion-1755145845.619 Flannel permissions/info is ENQUEUED 
+[08/14/25, 10:00:45:621] info: [API-Q] (T02S80P41LN) noversion-1755145845.619 Flannel permissions/info is ACTIVE 
+[08/14/25, 10:00:45:656] info: [API-Q] (T02S80P41LN) noversion-1755145845.619 Flannel permissions/info is RESOLVED 
+[08/14/25, 10:00:45:656] info: [UFM-PERMISSIONS] (T02S80P41LN) received DELETE_OWN_MESSAGE (1) 
+[08/14/25, 10:00:45:784] info: [API-Q] (T02S80P41LN) noversion-1755145845.783 Flannel channels/membership called with reason: flannel-call:channels/membership 
+[08/14/25, 10:00:45:785] info: [API-Q] (T02S80P41LN) noversion-1755145845.783 Flannel channels/membership is ENQUEUED 
+[08/14/25, 10:00:45:785] info: [API-Q] (T02S80P41LN) noversion-1755145845.783 Flannel channels/membership is ACTIVE 
+[08/14/25, 10:00:45:870] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after unread line became visible 
+[08/14/25, 10:00:45:870] info: [CHECK-UNREADS] (T02S80P41LN) Not marking C02S02N2FAT because last_read >= latest && channel is read 
+[08/14/25, 10:00:45:992] info: [API-Q] (T02S80P41LN) e890639a-1755145845.991 users.profile.get called with reason: with-call-menu 
+[08/14/25, 10:00:45:993] info: [API-Q] (T02S80P41LN) e890639a-1755145845.991 users.profile.get is ENQUEUED 
+[08/14/25, 10:00:45:995] info: [API-Q] (T02S80P41LN) e890639a-1755145845.991 users.profile.get is ACTIVE 
+[08/14/25, 10:00:46:150] info: [API-Q] (T02S80P41LN) noversion-1755145846.149 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 10:00:46:151] info: [API-Q] (T02S80P41LN) noversion-1755145846.149 Flannel users/info is ENQUEUED 
+[08/14/25, 10:00:46:151] info: [API-Q] (T02S80P41LN) noversion-1755145846.149 Flannel users/info is ACTIVE 
+[08/14/25, 10:00:46:188] info: [API-Q] (T02S80P41LN) noversion-1755145846.149 Flannel users/info is RESOLVED 
+[08/14/25, 10:00:46:199] info: [API-Q] (T02S80P41LN) noversion-1755145845.783 Flannel channels/membership is RESOLVED 
+[08/14/25, 10:00:46:204] info: [API-Q] (T02S80P41LN) noversion-1755145845.069 Flannel channels/membership is RESOLVED 
+[08/14/25, 10:00:46:270] info: [API-Q] (T02S80P41LN) e890639a-1755145845.991 users.profile.get is RESOLVED 
+[08/14/25, 10:00:47:302] info: [UFM-FLANNELEMOJI] (T02S80P41LN) requesting 1 objects (1) 
+[08/14/25, 10:00:47:303] info: [API-Q] (T02S80P41LN) noversion-1755145847.302 Flannel emojis/info called with reason: flannel-call:emojis/info 
+[08/14/25, 10:00:47:303] info: [API-Q] (T02S80P41LN) noversion-1755145847.302 Flannel emojis/info is ENQUEUED 
+[08/14/25, 10:00:47:304] info: [API-Q] (T02S80P41LN) noversion-1755145847.302 Flannel emojis/info is ACTIVE 
+[08/14/25, 10:00:47:347] info: [API-Q] (T02S80P41LN) noversion-1755145847.346 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 10:00:47:347] info: [API-Q] (T02S80P41LN) noversion-1755145847.346 Flannel users/info is ENQUEUED 
+[08/14/25, 10:00:47:348] info: [API-Q] (T02S80P41LN) noversion-1755145847.346 Flannel users/info is ACTIVE 
+[08/14/25, 10:00:47:349] info: [API-Q] (T02S80P41LN) noversion-1755145847.302 Flannel emojis/info is RESOLVED 
+[08/14/25, 10:00:47:413] info: [UFM-FLANNELEMOJI] (T02S80P41LN) received 1 objects (1) 
+[08/14/25, 10:00:47:416] info: [API-Q] (T02S80P41LN) noversion-1755145847.346 Flannel users/info is RESOLVED 
+[08/14/25, 10:00:47:451] info: [UFM-MEMBERS] (T02S80P41LN) received U05QGA0ERK6,U08T90M1P25 (1) 
+[08/14/25, 10:00:47:518] info: [API-Q] (T02S80P41LN) noversion-1755145847.517 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 10:00:47:518] info: [API-Q] (T02S80P41LN) noversion-1755145847.517 Flannel users/info is ENQUEUED 
+[08/14/25, 10:00:47:518] info: [API-Q] (T02S80P41LN) noversion-1755145847.517 Flannel users/info is ACTIVE 
+[08/14/25, 10:00:47:611] info: [API-Q] (T02S80P41LN) noversion-1755145847.517 Flannel users/info is RESOLVED 
+[08/14/25, 10:00:55:229] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 10:01:01:181] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 10:01:01:274] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 10:01:01:274] info: [CHECK-UNREADS] (T02S80P41LN) Not marking C02S02N2FAT because last_read >= latest && channel is read 
+[08/14/25, 10:01:01:625] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 10:02:15:026] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 10:03:10:531] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 10:03:10:633] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 10:03:10:634] info: [CHECK-UNREADS] (T02S80P41LN) Not marking C02S02N2FAT because last_read >= latest && channel is read 
+[08/14/25, 10:03:10:834] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 10:05:39:208] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 10:05:39:210] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 10:10:39:211] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 10:10:39:213] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 10:12:15:023] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 10:13:38:979] info: Store: SET_SUSPEND_STATUS false 
+[08/14/25, 10:13:38:982] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/14/25, 10:13:38:989] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/14/25, 10:13:38:991] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connected to error 
+[08/14/25, 10:13:38:992] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 10:13:38:993] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 10:13:38:993] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 10:13:38:993] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 833 ms 
+[08/14/25, 10:13:38:994] info: [EVENTLOG] (T02S80P41LN) socket was closed while we were fetching history; cancelling our request 
+[08/14/25, 10:13:38:998] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring sleep 
+[08/14/25, 10:13:38:999] info: Store: SET_SUSPEND_STATUS false 
+[08/14/25, 10:13:39:000] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/14/25, 10:13:39:006] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring sleep 
+[08/14/25, 14:54:37:901] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 14:54:37:902] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 14:54:37:903] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 14:54:37:903] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 14:54:37:904] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/14/25, 14:54:37:904] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/14/25, 14:54:37:904] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/14/25, 14:54:37:904] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/14/25, 14:54:37:905] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/14/25, 14:54:37:905] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/14/25, 14:54:37:912] info: Store: POWER_RESUMED  
+[08/14/25, 14:54:37:912] info: Store: SET_SUSPEND_STATUS true 
+[08/14/25, 14:54:37:913] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/14/25, 14:54:37:916] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring wake 
+[08/14/25, 14:54:37:916] info: [FLANNEL] (T02S80P41LN) received a user_unsubscribe_request call while we are not connected; deferring 
+[08/14/25, 14:54:37:920] info: [API-Q] (T02S80P41LN) noversion-1755163477.920 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 14:54:37:920] info: [API-Q] (T02S80P41LN) noversion-1755163477.920 Flannel permissions/info is ENQUEUED 
+[08/14/25, 14:54:37:920] info: [API-Q] (T02S80P41LN) noversion-1755163477.920 Flannel permissions/info is ACTIVE 
+[08/14/25, 14:54:37:921] info: Store: POWER_RESUMED  
+[08/14/25, 14:54:37:921] info: Store: SET_SUSPEND_STATUS true 
+[08/14/25, 14:54:37:922] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/14/25, 14:54:37:923] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring wake 
+[08/14/25, 14:54:37:923] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/14/25, 14:54:37:924] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to error 
+[08/14/25, 14:54:37:924] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 14:54:37:924] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 14:54:37:924] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 14:54:37:925] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 2425 ms 
+[08/14/25, 14:54:38:227] info: [API-Q] (T02S80P41LN) noversion-1755163477.920 Flannel permissions/info is ERROR: request did not complete 
+[08/14/25, 14:54:38:299] info: Store: DISPLAY_METRICS_CHANGED  
+[08/14/25, 14:54:38:299] info: Store: DISPLAY_METRICS_CHANGED  
+[08/14/25, 14:54:38:367] info: Store: DISPLAY_ADDED  
+[08/14/25, 14:54:38:367] info: Store: DISPLAY_METRICS_CHANGED  
+[08/14/25, 14:54:38:935] info: [FLANNEL] (T02S80P41LN) received a user_subscribe_request call while we are not connected; deferring 
+[08/14/25, 14:54:38:935] info: [API-Q] (T02S80P41LN) noversion-1755163478.935 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 14:54:38:935] info: [API-Q] (T02S80P41LN) noversion-1755163478.935 Flannel users/info is ENQUEUED 
+[08/14/25, 14:54:38:936] info: [API-Q] (T02S80P41LN) noversion-1755163478.935 Flannel users/info is ACTIVE 
+[08/14/25, 14:54:38:938] info: [API-Q] (T02S80P41LN) noversion-1755163478.935 Flannel users/info is ERROR: request did not complete 
+[08/14/25, 14:54:40:350] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 14:54:40:351] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 14:54:40:351] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 14:54:40:351] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 14:54:40:351] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/14/25, 14:54:40:351] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/14/25, 14:54:40:352] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/14/25, 14:54:40:352] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/14/25, 14:54:40:352] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/14/25, 14:54:40:352] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/14/25, 14:54:40:355] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/14/25, 14:54:40:356] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to error 
+[08/14/25, 14:54:40:356] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 14:54:40:356] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 14:54:40:356] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 14:54:40:356] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 1824 ms 
+[08/14/25, 14:54:42:181] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 14:54:42:181] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 14:54:42:182] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 14:54:42:182] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 14:54:42:182] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/14/25, 14:54:42:182] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/14/25, 14:54:42:182] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/14/25, 14:54:42:182] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/14/25, 14:54:42:182] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/14/25, 14:54:42:182] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/14/25, 14:54:42:184] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/14/25, 14:54:42:185] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to error 
+[08/14/25, 14:54:42:185] info: [SOCKET-MANAGER] (T02S80P41LN) Failed to connect 3 times; going into failover mode until we connect 
+[08/14/25, 14:54:42:185] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 14:54:42:185] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 14:54:42:185] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 14:54:42:185] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 5370 ms 
+[08/14/25, 14:54:42:940] info: [API-Q] (T02S80P41LN) noversion-1755163478.935 Flannel users/info is retrying, attempt 2 
+[08/14/25, 14:54:42:940] info: [API-Q] (T02S80P41LN) noversion-1755163478.935 Flannel users/info is ENQUEUED 
+[08/14/25, 14:54:42:940] info: [API-Q] (T02S80P41LN) noversion-1755163478.935 Flannel users/info is ACTIVE 
+[08/14/25, 14:54:44:104] info: [API-Q] (T02S80P41LN) noversion-1755163478.935 Flannel users/info is RESOLVED 
+[08/14/25, 14:54:46:229] info: [API-Q] (T02S80P41LN) noversion-1755163477.920 Flannel permissions/info is retrying, attempt 2 
+[08/14/25, 14:54:46:229] info: [API-Q] (T02S80P41LN) noversion-1755163477.920 Flannel permissions/info is ENQUEUED 
+[08/14/25, 14:54:46:229] info: [API-Q] (T02S80P41LN) noversion-1755163477.920 Flannel permissions/info is ACTIVE 
+[08/14/25, 14:54:46:323] info: [API-Q] (T02S80P41LN) noversion-1755163477.920 Flannel permissions/info is RESOLVED 
+[08/14/25, 14:54:46:326] info: [API-Q] (T02S80P41LN) e890639a-1755163486.325 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/14/25, 14:54:46:326] info: [API-Q] (T02S80P41LN) e890639a-1755163486.325 slackAi.permissions.getForUser is ENQUEUED 
+[08/14/25, 14:54:46:326] info: [API-Q] (T02S80P41LN) e890639a-1755163486.325 slackAi.permissions.getForUser is ACTIVE 
+[08/14/25, 14:54:46:734] info: [API-Q] (T02S80P41LN) e890639a-1755163486.325 slackAi.permissions.getForUser is RESOLVED 
+[08/14/25, 14:54:47:556] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 14:54:47:556] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 14:54:47:557] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 14:54:47:557] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 14:54:47:557] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to backup region 
+[08/14/25, 14:54:47:557] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/14/25, 14:54:47:557] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/14/25, 14:54:47:557] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/14/25, 14:54:47:557] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/14/25, 14:54:47:557] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/14/25, 14:54:48:326] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to prov_connected 
+[08/14/25, 14:54:48:326] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connected state for up to 60000 ms 
+[08/14/25, 14:54:48:329] info: [BOOT-QUEUE] T02S80P41LN noversion-1755163488.329 client.shouldReload called with reason: slow_reconnect 
+[08/14/25, 14:54:48:330] info: [BOOT-QUEUE] T02S80P41LN noversion-1755163488.329 client.shouldReload is ENQUEUED 
+[08/14/25, 14:54:48:330] info: [FLANNEL] (T02S80P41LN) connected and trouble free! Continuing deferred user_unsubscribe_request call 
+[08/14/25, 14:54:48:330] info: [FLANNEL] (T02S80P41LN) connected and trouble free! Continuing deferred user_subscribe_request call 
+[08/14/25, 14:54:48:330] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":true,"error":false} 
+[08/14/25, 14:54:48:330] info: [BOOT-QUEUE] T02S80P41LN noversion-1755163488.329 client.shouldReload is ACTIVE 
+[08/14/25, 14:54:48:331] info: [API-Q] (T02S80P41LN) e890639a-1755163488.330 client.userBoot called with reason: provisionally-connected 
+[08/14/25, 14:54:48:331] info: [API-Q] (T02S80P41LN) e890639a-1755163488.330 client.userBoot is ENQUEUED 
+[08/14/25, 14:54:48:331] info: [API-Q] (T02S80P41LN) e890639a-1755163488.330 client.userBoot is ACTIVE 
+[08/14/25, 14:54:48:399] info: [FLANNEL] (T02S80P41LN) troubled! Exiting deferred user_unsubscribe_request call 
+[08/14/25, 14:54:48:399] error: Uncaught (in promise) Error: Flannel call failed for command 'user_unsubscribe_request' -- error Error: Not currently subscribed to requested unsubscribe ids. 
+[08/14/25, 14:54:48:600] info: [BOOT-QUEUE] T02S80P41LN noversion-1755163488.329 client.shouldReload is RESOLVED 
+[08/14/25, 14:54:48:601] info: [BOOT] No need to reload 
+[08/14/25, 14:54:48:671] info: [API-Q] (T02S80P41LN) e890639a-1755163488.330 client.userBoot is RESOLVED 
+[08/14/25, 14:54:48:674] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connected to prov_finalize 
+[08/14/25, 14:54:48:674] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalize state for up to 10000 ms 
+[08/14/25, 14:54:48:674] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalize to prov_finalizing 
+[08/14/25, 14:54:48:674] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalizing state for up to 10000 ms 
+[08/14/25, 14:54:48:674] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalizing to connected 
+[08/14/25, 14:54:48:674] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connected state for up to Infinity ms 
+[08/14/25, 14:54:48:674] info: [SOCKET-MANAGER] (T02S80P41LN) Connected to backup region 
+[08/14/25, 14:54:48:694] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/14/25, 14:54:48:695] info: [API-Q] (T02S80P41LN) e890639a-1755163488.695 search.autocomplete.topEmojis called with reason: loadEmoji-maybeReloadEmoji-setModelData 
+[08/14/25, 14:54:48:695] info: [API-Q] (T02S80P41LN) e890639a-1755163488.695 search.autocomplete.topEmojis is ENQUEUED 
+[08/14/25, 14:54:48:697] info: [EVENTLOG] (T02S80P41LN) fr=false, lc=false, lt=1755145800.001000 
+[08/14/25, 14:54:48:697] info: [EVENTLOG] (T02S80P41LN) fetching events since 1755145800.001000 (17689 seconds ago) 
+[08/14/25, 14:54:48:697] info: [API-Q] (T02S80P41LN) e890639a-1755163488.697 ublockworkaround.history called with reason: onSocketConnected 
+[08/14/25, 14:54:48:697] info: [API-Q] (T02S80P41LN) e890639a-1755163488.697 ublockworkaround.history is ENQUEUED 
+[08/14/25, 14:54:48:697] info: [MESSAGE-HISTORY] (T02S80P41LN) Resetting reachedEnd 
+[08/14/25, 14:54:48:698] info: [API-Q] (T02S80P41LN) e890639a-1755163488.697 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[08/14/25, 14:54:48:698] info: [API-Q] (T02S80P41LN) e890639a-1755163488.697 users.customStatus.list is ENQUEUED 
+[08/14/25, 14:54:48:698] info: [DND_V2] (T02S80P41LN) Marking all DND times as stale for the following members after connecting to the websocket: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 14:54:48:698] info: [API-Q] (T02S80P41LN) e890639a-1755163488.698 drafts.list called with reason: fetchDraftsOnReconnect 
+[08/14/25, 14:54:48:698] info: [API-Q] (T02S80P41LN) e890639a-1755163488.698 drafts.list is ENQUEUED 
+[08/14/25, 14:54:48:699] info: [DRAFTS] (T02S80P41LN) No local drafts - skipping fetch to purge inactive drafts 
+[08/14/25, 14:54:48:699] info: [API-Q] (T02S80P41LN) e890639a-1755163488.699 usergroups.membership called with reason: user-group-membership-api/fetchUserGroupMembership 
+[08/14/25, 14:54:48:699] info: [API-Q] (T02S80P41LN) e890639a-1755163488.699 usergroups.membership is ENQUEUED 
+[08/14/25, 14:54:48:700] info: [UNREAD-COUNTS] (T02S80P41LN) Fetching counts 
+[08/14/25, 14:54:48:700] info: [API-Q] (T02S80P41LN) e890639a-1755163488.700 client.counts called with reason: fetchClientCountsOnConnect 
+[08/14/25, 14:54:48:700] info: [API-Q] (T02S80P41LN) e890639a-1755163488.700 client.counts is ENQUEUED 
+[08/14/25, 14:54:48:701] info: [API-Q] (T02S80P41LN) e890639a-1755163488.701 sfdc.integration.listOrgs called with reason: fetch-orgs-and-sign-in-silently-v2 
+[08/14/25, 14:54:48:701] info: [API-Q] (T02S80P41LN) e890639a-1755163488.701 sfdc.integration.listOrgs is ENQUEUED 
+[08/14/25, 14:54:48:704] info: [PRESENCE_PROMPT] (T02S80P41LN) ignoring prompt due to presence (active) 
+[08/14/25, 14:54:48:705] info: [API-Q] (T02S80P41LN) e890639a-1755163488.705 users.prefs.get called with reason: fetch-frecency-prefs 
+[08/14/25, 14:54:48:705] info: [API-Q] (T02S80P41LN) e890639a-1755163488.705 users.prefs.get is ENQUEUED 
+[08/14/25, 14:54:48:706] info: [API-Q] (T02S80P41LN) e890639a-1755163488.695 search.autocomplete.topEmojis is ACTIVE 
+[08/14/25, 14:54:48:706] info: [API-Q] (T02S80P41LN) e890639a-1755163488.697 ublockworkaround.history is ACTIVE 
+[08/14/25, 14:54:48:706] info: [API-Q] (T02S80P41LN) e890639a-1755163488.697 users.customStatus.list is ACTIVE 
+[08/14/25, 14:54:48:706] info: [API-Q] (T02S80P41LN) e890639a-1755163488.698 drafts.list is ACTIVE 
+[08/14/25, 14:54:48:706] info: [API-Q] (T02S80P41LN) e890639a-1755163488.699 usergroups.membership is ACTIVE 
+[08/14/25, 14:54:48:706] info: [API-Q] (T02S80P41LN) e890639a-1755163488.700 client.counts is ACTIVE 
+[08/14/25, 14:54:48:707] info: [API-Q] (T02S80P41LN) e890639a-1755163488.701 sfdc.integration.listOrgs is ACTIVE 
+[08/14/25, 14:54:48:707] info: [API-Q] (T02S80P41LN) e890639a-1755163488.705 users.prefs.get is ACTIVE 
+[08/14/25, 14:54:48:707] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[08/14/25, 14:54:48:711] info: [API-Q] (T02S80P41LN) noversion-1755163488.711 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 14:54:48:711] info: [API-Q] (T02S80P41LN) noversion-1755163488.711 Flannel users/info is ENQUEUED 
+[08/14/25, 14:54:48:711] info: [API-Q] (T02S80P41LN) noversion-1755163488.711 Flannel users/info is ACTIVE 
+[08/14/25, 14:54:48:712] info: Store: STORE_USER_WORKSPACES {
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+} 
+[08/14/25, 14:54:48:713] info: [API-Q] (T02S80P41LN) e890639a-1755163488.712 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/14/25, 14:54:48:713] info: [API-Q] (T02S80P41LN) e890639a-1755163488.712 slackAi.permissions.getForUser is ENQUEUED 
+[08/14/25, 14:54:48:713] info: [API-Q] (T02S80P41LN) e890639a-1755163488.712 slackAi.permissions.getForUser is ACTIVE 
+[08/14/25, 14:54:48:713] info: [API-Q] (T02S80P41LN) noversion-1755163488.713 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/14/25, 14:54:48:713] info: [API-Q] (T02S80P41LN) noversion-1755163488.713 Flannel users/counts is ENQUEUED 
+[08/14/25, 14:54:48:713] info: [API-Q] (T02S80P41LN) e890639a-1755163488.713 conversations.listPrefs called with reason: client_redux_store 
+[08/14/25, 14:54:48:713] info: [API-Q] (T02S80P41LN) e890639a-1755163488.713 conversations.listPrefs is ENQUEUED 
+[08/14/25, 14:54:48:970] info: [API-Q] (T02S80P41LN) e890639a-1755163488.697 users.customStatus.list is RESOLVED 
+[08/14/25, 14:54:48:970] info: [API-Q] (T02S80P41LN) noversion-1755163488.713 Flannel users/counts is ACTIVE 
+[08/14/25, 14:54:48:972] info: [API-Q] (T02S80P41LN) e890639a-1755163488.697 ublockworkaround.history is RESOLVED 
+[08/14/25, 14:54:48:973] info: [API-Q] (T02S80P41LN) e890639a-1755163488.713 conversations.listPrefs is ACTIVE 
+[08/14/25, 14:54:48:973] info: [API-Q] (T02S80P41LN) e890639a-1755163488.705 users.prefs.get is RESOLVED 
+[08/14/25, 14:54:48:973] info: [EVENTLOG] (T02S80P41LN) nothing to process 
+[08/14/25, 14:54:48:973] info: [EVENTLOG] (T02S80P41LN) fetched finish (aborted? false) 
+[08/14/25, 14:54:48:974] info: [EVENTLOG] (T02S80P41LN) dispatching signal and clearing timestamp 
+[08/14/25, 14:54:48:984] info: [API-Q] (T02S80P41LN) e890639a-1755163488.695 search.autocomplete.topEmojis is RESOLVED 
+[08/14/25, 14:54:48:986] info: [API-Q] (T02S80P41LN) e890639a-1755163488.699 usergroups.membership is REJECTED: API not ok user_is_restricted 
+[08/14/25, 14:54:48:986] warn: USER_GROUP_MEMBERSHIP (T02S80P41LN) usergroups.membership failed with user_is_restricted: Guests are not allowed to have user groups 
+[08/14/25, 14:54:48:987] info: [USER_GROUP_MEMBERSHIP] (T02S80P41LN) Completed usergroups.membership processing 
+[08/14/25, 14:54:48:987] info: [API-Q] (T02S80P41LN) e890639a-1755163488.698 drafts.list is RESOLVED 
+[08/14/25, 14:54:48:988] info: [API-Q] (T02S80P41LN) e890639a-1755163488.701 sfdc.integration.listOrgs is REJECTED: API not ok restricted_action 
+[08/14/25, 14:54:48:988] error: (T02S80P41LN) API call to sfdc.integration.listOrgs
+						with reason fetch-orgs-and-sign-in-silently-v2 failed, initiated by generated fetcher 
+[08/14/25, 14:54:48:989] error: SALESFORCE_CONNECTIONS (T02S80P41LN) {"error":"Error happened when executing side-effect to call sfdc.integration.listOrgs and sfdc.integration.authUser"} 
+[08/14/25, 14:54:48:991] info: [DRAFTS] (T02S80P41LN) No active drafts 
+[08/14/25, 14:54:48:991] info: [DRAFTS] (T02S80P41LN) Successfully fetched all active and inactive drafts ✨ 
+[08/14/25, 14:54:49:000] info: [API-Q] (T02S80P41LN) e890639a-1755163488.700 client.counts is RESOLVED 
+[08/14/25, 14:54:49:001] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/14/25, 14:54:49:002] info: [COUNTS] (T02S80P41LN) invalidating history for channel D098PJ6AUJH since counts updated 1755149659.000200 > cached updatedTs 1755107914.000100 
+[08/14/25, 14:54:49:003] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/14/25, 14:54:49:004] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/14/25, 14:54:49:062] info: [API-Q] (T02S80P41LN) e890639a-1755163488.712 slackAi.permissions.getForUser is RESOLVED 
+[08/14/25, 14:54:49:192] info: [API-Q] (T02S80P41LN) noversion-1755163488.711 Flannel users/info is RESOLVED 
+[08/14/25, 14:54:49:248] info: [API-Q] (T02S80P41LN) e890639a-1755163488.713 conversations.listPrefs is RESOLVED 
+[08/14/25, 14:54:49:423] info: [API-Q] (T02S80P41LN) noversion-1755163488.713 Flannel users/counts is RESOLVED 
+[08/14/25, 14:54:50:362] info: [RTM-QUEUE] Setting a timeout of 100 ms to process more rtm events 
+[08/14/25, 14:54:50:462] info: [RTM-QUEUE] Waited 100 ms, processing more rtm events now 
+[08/14/25, 14:55:54:927] info: [API-Q] (T02S80P41LN) e890639a-1755163554.926 client.counts called with reason: pollClientCountsAfterTimeout 
+[08/14/25, 14:55:54:927] info: [API-Q] (T02S80P41LN) e890639a-1755163554.926 client.counts is ENQUEUED 
+[08/14/25, 14:55:54:927] info: [API-Q] (T02S80P41LN) e890639a-1755163554.926 client.counts is ACTIVE 
+[08/14/25, 14:55:55:279] info: [API-Q] (T02S80P41LN) e890639a-1755163554.926 client.counts is RESOLVED 
+[08/14/25, 14:55:55:281] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/14/25, 14:55:55:282] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/14/25, 14:55:55:282] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/14/25, 14:56:36:570] info: [DND_V2] (T02S80P41LN) Not checking for changes in DND status as all members are stale 
+[08/14/25, 14:56:49:775] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 14:56:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 14:56:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 14:56:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 14:56:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 14:56:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 14:56:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 14:56:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 14:56:49:776] info: [API-Q] (T02S80P41LN) e890639a-1755163609.775 users.channelSections.list called with reason: conditional-fetch-manager 
+[08/14/25, 14:56:49:776] info: [API-Q] (T02S80P41LN) e890639a-1755163609.775 users.channelSections.list is ENQUEUED 
+[08/14/25, 14:56:49:776] info: [API-Q] (T02S80P41LN) e890639a-1755163609.775 users.channelSections.list is ACTIVE 
+[08/14/25, 14:56:50:060] info: [API-Q] (T02S80P41LN) e890639a-1755163609.775 users.channelSections.list is RESOLVED 
+[08/14/25, 14:58:59:624] info: Store: FOREGROUND_APP  
+[08/14/25, 14:58:59:624] info: Store: FOCUS_WINDOW  
+[08/14/25, 15:03:12:379] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 15:09:14:714] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:714] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:719] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:720] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:726] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:728] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:728] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:728] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:757] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:781] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:808] info: [HISTORY-FETCH] (T02S80P41LN) Fetching history for message pane: C02S02N2FAT oldest: 1755003296.524659 latest: null 
+[08/14/25, 15:09:14:809] info: [API-Q] (T02S80P41LN) e890639a-1755164354.808 conversations.history called with reason: message-pane/requestHistory 
+[08/14/25, 15:09:14:809] info: [API-Q] (T02S80P41LN) e890639a-1755164354.808 conversations.history is ENQUEUED 
+[08/14/25, 15:09:14:810] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: true -> false 
+[08/14/25, 15:09:14:817] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:817] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:820] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:14:827] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 28 
+[08/14/25, 15:09:14:838] info: [API-Q] (T02S80P41LN) e890639a-1755164354.808 conversations.history is ACTIVE 
+[08/14/25, 15:09:14:841] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 15:09:14:850] info: [API-Q] (T02S80P41LN) e890639a-1755164354.850 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/14/25, 15:09:14:850] info: [API-Q] (T02S80P41LN) e890639a-1755164354.850 slackAi.permissions.getForUser is ENQUEUED 
+[08/14/25, 15:09:14:851] info: [API-Q] (T02S80P41LN) noversion-1755164354.850 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 15:09:14:851] info: [API-Q] (T02S80P41LN) noversion-1755164354.850 Flannel permissions/info is ENQUEUED 
+[08/14/25, 15:09:14:851] info: [API-Q] (T02S80P41LN) e890639a-1755164354.850 slackAi.permissions.getForUser is ACTIVE 
+[08/14/25, 15:09:14:851] info: [API-Q] (T02S80P41LN) noversion-1755164354.850 Flannel permissions/info is ACTIVE 
+[08/14/25, 15:09:14:852] info: [API-Q] (T02S80P41LN) noversion-1755164354.851 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 15:09:14:852] info: [API-Q] (T02S80P41LN) noversion-1755164354.851 Flannel users/info is ENQUEUED 
+[08/14/25, 15:09:14:852] info: [API-Q] (T02S80P41LN) noversion-1755164354.851 Flannel users/info is ACTIVE 
+[08/14/25, 15:09:14:852] info: [DND_V2] (T02S80P41LN) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:09:14:853] info: [API-Q] (T02S80P41LN) e890639a-1755164354.852 dnd.info called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:self 
+[08/14/25, 15:09:14:853] info: [API-Q] (T02S80P41LN) e890639a-1755164354.852 dnd.info is ENQUEUED 
+[08/14/25, 15:09:14:853] info: [API-Q] (T02S80P41LN) e890639a-1755164354.853 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[08/14/25, 15:09:14:853] info: [API-Q] (T02S80P41LN) e890639a-1755164354.853 dnd.teamInfo is ENQUEUED 
+[08/14/25, 15:09:14:854] info: [API-Q] (T02S80P41LN) e890639a-1755164354.852 dnd.info is ACTIVE 
+[08/14/25, 15:09:14:854] info: [API-Q] (T02S80P41LN) e890639a-1755164354.853 dnd.teamInfo is ACTIVE 
+[08/14/25, 15:09:14:854] info: [API-Q] (T02S80P41LN) noversion-1755164354.854 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 15:09:14:854] info: [API-Q] (T02S80P41LN) noversion-1755164354.854 Flannel permissions/info is ENQUEUED 
+[08/14/25, 15:09:14:854] info: [API-Q] (T02S80P41LN) noversion-1755164354.854 Flannel permissions/info is ACTIVE 
+[08/14/25, 15:09:14:856] info: [API-Q] (T02S80P41LN) e890639a-1755164354.855 saved.list called with reason: saved-api/savedList 
+[08/14/25, 15:09:14:856] info: [API-Q] (T02S80P41LN) e890639a-1755164354.855 saved.list is ENQUEUED 
+[08/14/25, 15:09:14:856] info: [API-Q] (T02S80P41LN) e890639a-1755164354.855 saved.list is ACTIVE 
+[08/14/25, 15:09:14:856] info: [API-Q] (T02S80P41LN) noversion-1755164354.856 Flannel emojis/info called with reason: flannel-call:emojis/info 
+[08/14/25, 15:09:14:856] info: [API-Q] (T02S80P41LN) noversion-1755164354.856 Flannel emojis/info is ENQUEUED 
+[08/14/25, 15:09:14:857] info: [API-Q] (T02S80P41LN) noversion-1755164354.856 Flannel emojis/info is ACTIVE 
+[08/14/25, 15:09:14:857] info: [API-Q] (T02S80P41LN) e890639a-1755164354.857 help.issues.ticketStats called with reason: fetchAndUpsertTicketStats 
+[08/14/25, 15:09:14:857] info: [API-Q] (T02S80P41LN) e890639a-1755164354.857 help.issues.ticketStats is ENQUEUED 
+[08/14/25, 15:09:14:857] info: [API-Q] (T02S80P41LN) e890639a-1755164354.857 help.issues.ticketStats is ACTIVE 
+[08/14/25, 15:09:14:857] info: [API-Q] (T02S80P41LN) noversion-1755164354.857 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 15:09:14:857] info: [API-Q] (T02S80P41LN) noversion-1755164354.857 Flannel users/info is ENQUEUED 
+[08/14/25, 15:09:14:859] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info called with reason: files-store.ConditionalFetchManager.fetch 
+[08/14/25, 15:09:14:859] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is ENQUEUED 
+[08/14/25, 15:09:14:859] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info called with reason: files-store.ConditionalFetchManager.fetch 
+[08/14/25, 15:09:14:859] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is ENQUEUED 
+[08/14/25, 15:09:14:859] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info called with reason: files-store.ConditionalFetchManager.fetch 
+[08/14/25, 15:09:14:859] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is ENQUEUED 
+[08/14/25, 15:09:14:860] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info called with reason: files-store.ConditionalFetchManager.fetch 
+[08/14/25, 15:09:14:860] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is ENQUEUED 
+[08/14/25, 15:09:14:914] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 15:09:14:914] info: [CHECK-UNREADS] (T02S80P41LN) Not marking C02S02N2FAT because last_read >= latest && channel is read 
+[08/14/25, 15:09:15:005] info: [API-Q] (T02S80P41LN) noversion-1755164354.850 Flannel permissions/info is RESOLVED 
+[08/14/25, 15:09:15:006] info: [API-Q] (T02S80P41LN) noversion-1755164354.857 Flannel users/info is ACTIVE 
+[08/14/25, 15:09:15:007] info: [API-Q] (T02S80P41LN) noversion-1755164354.851 Flannel users/info is RESOLVED 
+[08/14/25, 15:09:15:007] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is ACTIVE 
+[08/14/25, 15:09:15:008] info: [API-Q] (T02S80P41LN) noversion-1755164354.854 Flannel permissions/info is RESOLVED 
+[08/14/25, 15:09:15:008] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is ACTIVE 
+[08/14/25, 15:09:15:019] info: [API-Q] (T02S80P41LN) noversion-1755164355.018 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 15:09:15:019] info: [API-Q] (T02S80P41LN) noversion-1755164355.018 Flannel permissions/info is ENQUEUED 
+[08/14/25, 15:09:15:125] info: [API-Q] (T02S80P41LN) e890639a-1755164354.852 dnd.info is RESOLVED 
+[08/14/25, 15:09:15:126] info: [API-Q] (T02S80P41LN) noversion-1755164355.018 Flannel permissions/info is ACTIVE 
+[08/14/25, 15:09:15:126] info: [DND] (T02S80P41LN) Fetched DND info for the following member: U098PJ614F7 
+[08/14/25, 15:09:15:129] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:15:131] info: [API-Q] (T02S80P41LN) e890639a-1755164354.855 saved.list is RESOLVED 
+[08/14/25, 15:09:15:132] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is ACTIVE 
+[08/14/25, 15:09:15:149] info: [API-Q] (T02S80P41LN) e890639a-1755164354.857 help.issues.ticketStats is RESOLVED 
+[08/14/25, 15:09:15:149] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is ACTIVE 
+[08/14/25, 15:09:15:155] info: [API-Q] (T02S80P41LN) noversion-1755164355.154 Flannel channels/membership called with reason: flannel-call:channels/membership 
+[08/14/25, 15:09:15:155] info: [API-Q] (T02S80P41LN) noversion-1755164355.154 Flannel channels/membership is ENQUEUED 
+[08/14/25, 15:09:15:158] info: [API-Q] (T02S80P41LN) noversion-1755164355.018 Flannel permissions/info is RESOLVED 
+[08/14/25, 15:09:15:158] info: [API-Q] (T02S80P41LN) noversion-1755164355.154 Flannel channels/membership is ACTIVE 
+[08/14/25, 15:09:15:159] info: [API-Q] (T02S80P41LN) e890639a-1755164354.853 dnd.teamInfo is RESOLVED 
+[08/14/25, 15:09:15:160] info: [DND] (T02S80P41LN) Fetched DND info for the following members: U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:09:15:161] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 15:09:15:165] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 15:09:15:172] info: [API-Q] (T02S80P41LN) e890639a-1755164354.808 conversations.history is RESOLVED 
+[08/14/25, 15:09:15:173] info: [API-Q] (T02S80P41LN) e890639a-1755164354.850 slackAi.permissions.getForUser is RESOLVED 
+[08/14/25, 15:09:15:173] info: [PLATFORM-CHANNEL-ACTI] (T02S80P41LN) Not updating count for channel C02S02N2FAT, as count was already set to 0 
+[08/14/25, 15:09:15:177] info: [CHECK-UNREADS] (T02S80P41LN) Not marking C02S02N2FAT because last_read >= latest && channel is read 
+[08/14/25, 15:09:15:186] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 28 
+[08/14/25, 15:09:15:209] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: false -> true 
+[08/14/25, 15:09:15:290] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is RESOLVED 
+[08/14/25, 15:09:15:329] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is RESOLVED 
+[08/14/25, 15:09:15:398] info: [API-Q] (T02S80P41LN) noversion-1755164354.856 Flannel emojis/info is RESOLVED 
+[08/14/25, 15:09:15:402] info: [API-Q] (T02S80P41LN) noversion-1755164355.402 Flannel emojis/info called with reason: flannel-call:emojis/info 
+[08/14/25, 15:09:15:402] info: [API-Q] (T02S80P41LN) noversion-1755164355.402 Flannel emojis/info is ENQUEUED 
+[08/14/25, 15:09:15:402] info: [API-Q] (T02S80P41LN) noversion-1755164355.402 Flannel emojis/info is ACTIVE 
+[08/14/25, 15:09:15:422] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is RESOLVED 
+[08/14/25, 15:09:15:435] info: [API-Q] (T02S80P41LN) noversion-1755164355.402 Flannel emojis/info is RESOLVED 
+[08/14/25, 15:09:15:448] info: [API-Q] (T02S80P41LN) e890639a-1755164354.859 files.info is RESOLVED 
+[08/14/25, 15:09:15:473] info: [API-Q] (T02S80P41LN) noversion-1755164354.857 Flannel users/info is RESOLVED 
+[08/14/25, 15:09:15:512] info: [API-Q] (T02S80P41LN) noversion-1755164355.512 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 15:09:15:512] info: [API-Q] (T02S80P41LN) noversion-1755164355.512 Flannel users/info is ENQUEUED 
+[08/14/25, 15:09:15:512] info: [API-Q] (T02S80P41LN) noversion-1755164355.512 Flannel users/info is ACTIVE 
+[08/14/25, 15:09:15:544] info: [API-Q] (T02S80P41LN) noversion-1755164355.512 Flannel users/info is RESOLVED 
+[08/14/25, 15:09:15:563] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after unread line became visible 
+[08/14/25, 15:09:15:564] info: [CHECK-UNREADS] (T02S80P41LN) Not marking C02S02N2FAT because last_read >= latest && channel is read 
+[08/14/25, 15:09:15:619] info: [API-Q] (T02S80P41LN) noversion-1755164355.154 Flannel channels/membership is RESOLVED 
+[08/14/25, 15:09:16:545] info: [API-Q] (T02S80P41LN) noversion-1755164356.544 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 15:09:16:545] info: [API-Q] (T02S80P41LN) noversion-1755164356.544 Flannel users/info is ENQUEUED 
+[08/14/25, 15:09:16:545] info: [API-Q] (T02S80P41LN) noversion-1755164356.544 Flannel users/info is ACTIVE 
+[08/14/25, 15:09:16:579] info: [API-Q] (T02S80P41LN) noversion-1755164356.544 Flannel users/info is RESOLVED 
+[08/14/25, 15:09:17:915] info: [ACTION:CHANNEL-SIDEBAR] Selected D098PJ6AUJH 
+[08/14/25, 15:09:17:915] info: [CHANNEL-SIDEBAR] (T02S80P41LN) onItemSelect D098PJ6AUJH 
+[08/14/25, 15:09:17:916] info: [NAVIGATE-IN-MAIN-WIND] Starting a new navigation event {"id":"D098PJ6AUJH","viewType":"Channel","options":{}} 
+[08/14/25, 15:09:17:917] info: [APPLY-DETAIL-VIEW] ViewSet with detail view applied {"viewSet":{"primary":{"id":"D098PJ6AUJH","viewType":"Channel","uiState":{"preventMoveFocus":false}}}} 
+[08/14/25, 15:09:17:917] info: [APPLY-DETAIL-VIEW] ViewSet with channel canvas applied {"viewSet":{"primary":{"id":"D098PJ6AUJH","viewType":"Channel","uiState":{"preventMoveFocus":false}}}} 
+[08/14/25, 15:09:17:917] info: [NAVIGATE-IN-MAIN-WIND] Applying changes to the primary container {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AUJH","viewType":"Channel","uiState":{"preventMoveFocus":false}}},"nextTab":"home"} 
+[08/14/25, 15:09:17:918] info: [NAVIGATION-MIDDLEWARE] Starting a new navigation middleware execution {"context":"navigation","nextViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AUJH","viewType":"Channel","uiState":{"preventMoveFocus":false}}},"middlewareCount":18,"nextTab":"home"} 
+[08/14/25, 15:09:17:918] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"ChannelList","viewType":"ChannelList"},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.5999999940395355,"nextTab":"home"} 
+[08/14/25, 15:09:17:919] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for sidebar container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AUJH","viewType":"Channel","uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":0,"executionTime":1.0999999940395355} 
+[08/14/25, 15:09:17:919] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"D098PJ6AUJH","viewType":"Channel","uiState":{"preventMoveFocus":false}},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.30000001192092896,"nextTab":"home"} 
+[08/14/25, 15:09:17:919] info: [APPLY-DETAIL-VIEW] ViewSet with detail view applied {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AUJH","viewType":"Channel","params":{"parentTab":"D098PJ6AUJH"},"uiState":{"preventMoveFocus":false}}}} 
+[08/14/25, 15:09:17:919] info: [APPLY-DETAIL-VIEW] ViewSet with channel canvas applied {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AUJH","viewType":"Channel","params":{"parentTab":"D098PJ6AUJH"},"uiState":{"preventMoveFocus":false}}}} 
+[08/14/25, 15:09:17:919] info: [NAVIGATION-MIDDLEWARE] View has been transformed {"container":"primary","initialView":{"id":"D098PJ6AUJH","viewType":"Channel","uiState":{"preventMoveFocus":false}},"transformedView":{"id":"D098PJ6AUJH","viewType":"Channel","params":{"parentTab":"D098PJ6AUJH"},"uiState":{"preventMoveFocus":false}},"iterationCount":0} 
+[08/14/25, 15:09:17:919] info: [NAVIGATION-MIDDLEWARE] Skipping middleware execution for sidebar container as we have cached value {"initialView":{"id":"ChannelList","viewType":"ChannelList"},"iterationCount":1} 
+[08/14/25, 15:09:17:919] info: [NAVIGATION-MIDDLEWARE] Async action execution is complete for a view {"nextView":{"id":"D098PJ6AUJH","viewType":"Channel","params":{"parentTab":"D098PJ6AUJH"},"uiState":{"preventMoveFocus":false}},"results":[["UserIdToDMIdMiddleware",false],["AttemptToStopEditingInChannel",false],["AttemptToStopEditingSalesforceForm",false],["PreventVideoRecorderModalClose",false],["OpenConversationWithIds",false],["EnsureChannel",false],["EnsureAppViewType",false],["RedirectFileChannel",false],["RedirectChannelCanvasToCanvas",false],["RedirectFileChannel",false],["SyncSearchTab",false],["AttemptToAbortRecapOnboarding",false],["RedirectHuddleRecordChannel",false],["EnsureCannedCanvasTemplates",false],["EnsureChannelHasParentTabMiddleware",false],["TriggerMegaphoneGalleryFlow",false],["MaybeCloseSecondaryViewAfterSplit",false],["CanvasSetScrollParam",false]],"shouldTerminateNavigation":false,"executionTime":0.10000000894069672,"nextTab":"home"} 
+[08/14/25, 15:09:17:919] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AUJH","viewType":"Channel","params":{"parentTab":"D098PJ6AUJH"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"isViewTransformed":false,"iterationCount":1,"executionTime":0.10000000894069672} 
+[08/14/25, 15:09:17:919] info: [NAVIGATION-MIDDLEWARE] Finish middleware execution for primary container {"maybeTransformedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AUJH","viewType":"Channel","params":{"parentTab":"D098PJ6AUJH"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"isViewTransformed":true,"iterationCount":0,"executionTime":0.7000000029802322} 
+[08/14/25, 15:09:17:919] info: [NAVIGATION-MIDDLEWARE] Navigation middleware execution is complete {"maybeUpdatedViewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AUJH","viewType":"Channel","params":{"parentTab":"D098PJ6AUJH"},"uiState":{"preventMoveFocus":false}}},"terminateNavigation":false,"executionTime":1.7999999970197678,"nextTab":"home"} 
+[08/14/25, 15:09:17:920] info: [NAVIGATE-IN-MAIN-WIND] Built view set after middleware {"viewSet":{"sidebar":{"id":"ChannelList","viewType":"ChannelList"},"primary":{"id":"D098PJ6AUJH","viewType":"Channel","params":{"parentTab":"D098PJ6AUJH"},"uiState":{"preventMoveFocus":false}}},"nextTab":"home"} 
+[08/14/25, 15:09:17:923] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Starting navigation listeners for triggerType NAVIGATION 
+[08/14/25, 15:09:17:927] info: [NAVIGATE-LISTENERS] (T02S80P41LN) Navigation listeners complete without errors 
+[08/14/25, 15:09:17:928] info: [NAVIGATE-IN-MAIN-WIND]  Navigation thunk execution complete {"id":"D098PJ6AUJH","viewType":"Channel","options":{}} 
+[08/14/25, 15:09:17:930] info: Breadcrumb: ui.click: div.p-channel_sidebar__close_container > div.p-channel_sidebar__channel  
+[08/14/25, 15:09:17:962] info: [MESSAGE-LIST] (T02S80P41LN) getScrollmark reason:channel_change channelId:C02S02N2FAT at end 
+[08/14/25, 15:09:17:964] info: [MESSAGE-LIST] (T02S80P41LN) Switching channels: D098PJ6AUJH timestamps: 30 
+[08/14/25, 15:09:18:045] info: [HISTORY-FETCH] (T02S80P41LN) Fetching history for message pane: D098PJ6AUJH oldest: 1755059357.879719 latest: null 
+[08/14/25, 15:09:18:045] info: [API-Q] (T02S80P41LN) e890639a-1755164358.045 conversations.history called with reason: message-pane/requestHistory 
+[08/14/25, 15:09:18:045] info: [API-Q] (T02S80P41LN) e890639a-1755164358.045 conversations.history is ENQUEUED 
+[08/14/25, 15:09:18:077] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 30 
+[08/14/25, 15:09:18:086] info: [API-Q] (T02S80P41LN) e890639a-1755164358.045 conversations.history is ACTIVE 
+[08/14/25, 15:09:18:096] info: [API-Q] (T02S80P41LN) e890639a-1755164358.096 conversations.listPrefs called with reason: client_redux_store 
+[08/14/25, 15:09:18:097] info: [API-Q] (T02S80P41LN) e890639a-1755164358.096 conversations.listPrefs is ENQUEUED 
+[08/14/25, 15:09:18:097] info: [API-Q] (T02S80P41LN) e890639a-1755164358.096 conversations.listPrefs is ACTIVE 
+[08/14/25, 15:09:18:098] info: [API-Q] (T02S80P41LN) noversion-1755164358.098 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 15:09:18:098] info: [API-Q] (T02S80P41LN) noversion-1755164358.098 Flannel permissions/info is ENQUEUED 
+[08/14/25, 15:09:18:099] info: [API-Q] (T02S80P41LN) noversion-1755164358.098 Flannel permissions/info is ACTIVE 
+[08/14/25, 15:09:18:099] info: [API-Q] (T02S80P41LN) noversion-1755164358.098 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/14/25, 15:09:18:099] info: [API-Q] (T02S80P41LN) noversion-1755164358.098 Flannel users/counts is ENQUEUED 
+[08/14/25, 15:09:18:099] info: [API-Q] (T02S80P41LN) noversion-1755164358.098 Flannel users/counts is ACTIVE 
+[08/14/25, 15:09:18:100] info: [HISTORY-CFM] (T02S80P41LN) Re-fetching D098PJ6AUJH 1754627651.137139 - 1755059357.879719 
+[08/14/25, 15:09:18:100] info: [API-Q] (T02S80P41LN) e890639a-1755164358.100 conversations.history called with reason: channel-history-store.CFM.fetch 
+[08/14/25, 15:09:18:100] info: [API-Q] (T02S80P41LN) e890639a-1755164358.100 conversations.history is ENQUEUED 
+[08/14/25, 15:09:18:100] info: [API-Q] (T02S80P41LN) e890639a-1755164358.100 conversations.history is ACTIVE 
+[08/14/25, 15:09:18:101] info: [API-Q] (T02S80P41LN) e890639a-1755164358.100 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/14/25, 15:09:18:101] info: [API-Q] (T02S80P41LN) e890639a-1755164358.100 slackAi.permissions.getForUser is ENQUEUED 
+[08/14/25, 15:09:18:101] info: [API-Q] (T02S80P41LN) e890639a-1755164358.100 slackAi.permissions.getForUser is ACTIVE 
+[08/14/25, 15:09:18:101] info: [API-Q] (T02S80P41LN) e890639a-1755164358.101 files.info called with reason: files-store.ConditionalFetchManager.fetch 
+[08/14/25, 15:09:18:101] info: [API-Q] (T02S80P41LN) e890639a-1755164358.101 files.info is ENQUEUED 
+[08/14/25, 15:09:18:101] info: [API-Q] (T02S80P41LN) e890639a-1755164358.101 files.info is ACTIVE 
+[08/14/25, 15:09:18:104] info: [API-Q] (T02S80P41LN) e890639a-1755164358.104 bookmarks.list called with reason: bookmarks-store/conditional-fetching 
+[08/14/25, 15:09:18:104] info: [API-Q] (T02S80P41LN) e890639a-1755164358.104 bookmarks.list is ENQUEUED 
+[08/14/25, 15:09:18:104] info: [API-Q] (T02S80P41LN) e890639a-1755164358.104 bookmarks.list is ACTIVE 
+[08/14/25, 15:09:18:131] info: [API-Q] (T02S80P41LN) noversion-1755164358.098 Flannel permissions/info is RESOLVED 
+[08/14/25, 15:09:18:230] info: [API-Q] (T02S80P41LN) noversion-1755164358.230 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 15:09:18:230] info: [API-Q] (T02S80P41LN) noversion-1755164358.230 Flannel permissions/info is ENQUEUED 
+[08/14/25, 15:09:18:231] info: [API-Q] (T02S80P41LN) noversion-1755164358.230 Flannel permissions/info is ACTIVE 
+[08/14/25, 15:09:18:262] info: [API-Q] (T02S80P41LN) noversion-1755164358.230 Flannel permissions/info is RESOLVED 
+[08/14/25, 15:09:18:355] info: [API-Q] (T02S80P41LN) e890639a-1755164358.096 conversations.listPrefs is RESOLVED 
+[08/14/25, 15:09:18:358] info: [API-Q] (T02S80P41LN) e890639a-1755164358.100 slackAi.permissions.getForUser is RESOLVED 
+[08/14/25, 15:09:18:374] info: [API-Q] (T02S80P41LN) e890639a-1755164358.104 bookmarks.list is RESOLVED 
+[08/14/25, 15:09:18:378] info: [API-Q] (T02S80P41LN) e890639a-1755164358.045 conversations.history is RESOLVED 
+[08/14/25, 15:09:18:382] info: [PLATFORM-CHANNEL-ACTI] (T02S80P41LN) Not updating count for channel D098PJ6AUJH, as count was already set to 0 
+[08/14/25, 15:09:18:383] info: [PINS] (T02S80P41LN) Pins count updated for channel D098PJ6AUJH: 0 
+[08/14/25, 15:09:18:384] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 15:09:18:386] info: [API-Q] (T02S80P41LN) e890639a-1755164358.100 conversations.history is RESOLVED 
+[08/14/25, 15:09:18:390] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 40 
+[08/14/25, 15:09:18:441] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: false -> true 
+[08/14/25, 15:09:18:466] info: [PLATFORM-CHANNEL-ACTI] (T02S80P41LN) Not updating count for channel D098PJ6AUJH, as count was already set to 0 
+[08/14/25, 15:09:18:468] info: [API-Q] (T02S80P41LN) e890639a-1755164358.101 files.info is RESOLVED 
+[08/14/25, 15:09:18:606] info: [API-Q] (T02S80P41LN) noversion-1755164358.098 Flannel users/counts is RESOLVED 
+[08/14/25, 15:09:18:811] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after unread line became visible 
+[08/14/25, 15:09:18:812] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 15:09:20:313] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 15:09:22:376] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 15:09:22:402] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 15:09:22:402] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 15:09:22:709] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 15:09:27:898] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 15:09:27:934] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 15:09:27:934] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 15:09:28:168] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 15:09:28:896] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+} 
+[08/14/25, 15:09:28:899] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[08/14/25, 15:10:06:995] info: [MIN-VERSION] Checking to see if we should reload 
+[08/14/25, 15:10:06:996] info: [BOOT-QUEUE] T02S80P41LN noversion-1755164406.995 client.shouldReload called with reason: polling 
+[08/14/25, 15:10:06:996] info: [BOOT-QUEUE] T02S80P41LN noversion-1755164406.995 client.shouldReload is ENQUEUED 
+[08/14/25, 15:10:06:997] info: [BOOT-QUEUE] T02S80P41LN noversion-1755164406.995 client.shouldReload is ACTIVE 
+[08/14/25, 15:10:07:351] info: [BOOT-QUEUE] T02S80P41LN noversion-1755164406.995 client.shouldReload is RESOLVED 
+[08/14/25, 15:10:07:351] info: [MIN-VERSION] No need to reload 
+[08/14/25, 15:10:34:946] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 15:10:34:977] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 15:10:34:978] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 15:10:40:109] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 15:12:45:277] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 15:12:45:277] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 15:12:45:278] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 15:12:45:278] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 15:12:45:278] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 15:12:45:278] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 15:12:45:278] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 15:12:45:278] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 15:12:45:336] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 15:12:45:370] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 15:12:45:370] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 15:12:46:574] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 15:13:12:379] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 15:14:15:166] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:14:15:167] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 15:19:15:168] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:19:15:169] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 15:23:12:378] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 15:24:15:169] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:24:15:170] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 15:27:28:451] info: [RTM-EVENT-METRICS] Metrics collection enabled for the current interval. 
+[08/14/25, 15:27:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 15:27:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 15:27:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 15:27:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 15:27:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 15:27:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 15:27:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 15:27:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 15:29:15:171] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:29:15:172] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 15:30:03:860] info: [API-Q] (T02S80P41LN) noversion-1755165603.859 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 15:30:03:860] info: [API-Q] (T02S80P41LN) noversion-1755165603.859 Flannel users/info is ENQUEUED 
+[08/14/25, 15:30:03:861] info: [API-Q] (T02S80P41LN) noversion-1755165603.859 Flannel users/info is ACTIVE 
+[08/14/25, 15:30:03:960] info: [API-Q] (T02S80P41LN) noversion-1755165603.859 Flannel users/info is RESOLVED 
+[08/14/25, 15:33:13:381] info: [RTM-EVENT-METRICS] Sending metric report for id: T02S80P41LN 
+[08/14/25, 15:33:13:381] info: [RTM-EVENT-METRICS] T02S80P41LN total dispatch event count: 3 
+[08/14/25, 15:33:13:382] info: [RTM-EVENT-METRICS] T02S80P41LN total incoming event count: 3 
+[08/14/25, 15:33:13:388] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset for id: T02S80P41LN 
+[08/14/25, 15:33:14:379] info: [RTM-EVENT-METRICS] Completed metrics aggregation {"traceId":"e23422c96fdb0c67b250c363ac6897ae"} 
+[08/14/25, 15:34:15:174] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:34:15:175] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 15:39:15:175] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:39:15:176] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 15:42:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 15:42:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 15:42:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 15:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 15:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 15:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 15:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 15:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 15:43:12:378] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 15:44:15:177] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:44:15:178] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 15:49:15:178] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:49:15:179] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 15:50:43:240] info: [RTM-EVENT-METRICS] Metrics collection enabled for the current interval. 
+[08/14/25, 15:53:13:379] info: [RTM-EVENT-METRICS] Sending metric report for id: T02S80P41LN 
+[08/14/25, 15:53:13:379] info: [RTM-EVENT-METRICS] T02S80P41LN total dispatch event count: 2 
+[08/14/25, 15:53:13:379] info: [RTM-EVENT-METRICS] T02S80P41LN total incoming event count: 2 
+[08/14/25, 15:53:13:380] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset for id: T02S80P41LN 
+[08/14/25, 15:53:14:379] info: [RTM-EVENT-METRICS] Completed metrics aggregation {"traceId":"8bc8ccc9a2edc6cb288d66c873f1cb39"} 
+[08/14/25, 15:53:31:379] info: [RTM-EVENT-METRICS] Metrics collection enabled for the current interval. 
+[08/14/25, 15:53:51:351] info: [API-Q] (T02S80P41LN) noversion-1755167031.350 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 15:53:51:351] info: [API-Q] (T02S80P41LN) noversion-1755167031.350 Flannel users/info is ENQUEUED 
+[08/14/25, 15:53:51:352] info: [API-Q] (T02S80P41LN) noversion-1755167031.350 Flannel users/info is ACTIVE 
+[08/14/25, 15:53:51:483] info: [API-Q] (T02S80P41LN) noversion-1755167031.350 Flannel users/info is RESOLVED 
+[08/14/25, 15:54:15:180] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:54:15:180] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 15:57:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 15:57:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 15:57:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 15:57:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 15:57:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 15:57:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 15:57:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 15:57:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 15:59:06:950] info: [API-Q] (T02S80P41LN) e890639a-1755167346.949 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/14/25, 15:59:06:950] info: [API-Q] (T02S80P41LN) e890639a-1755167346.949 slackAi.permissions.getForUser is ENQUEUED 
+[08/14/25, 15:59:06:951] info: [API-Q] (T02S80P41LN) e890639a-1755167346.949 slackAi.permissions.getForUser is ACTIVE 
+[08/14/25, 15:59:07:456] info: [API-Q] (T02S80P41LN) e890639a-1755167346.949 slackAi.permissions.getForUser is RESOLVED 
+[08/14/25, 15:59:08:024] info: [API-Q] (T02S80P41LN) noversion-1755167348.023 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 15:59:08:024] info: [API-Q] (T02S80P41LN) noversion-1755167348.023 Flannel users/info is ENQUEUED 
+[08/14/25, 15:59:08:025] info: [API-Q] (T02S80P41LN) noversion-1755167348.023 Flannel users/info is ACTIVE 
+[08/14/25, 15:59:08:684] info: [API-Q] (T02S80P41LN) noversion-1755167348.023 Flannel users/info is RESOLVED 
+[08/14/25, 15:59:15:181] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 15:59:15:182] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:03:13:379] info: [RTM-EVENT-METRICS] Sending metric report for id: T02S80P41LN 
+[08/14/25, 16:03:13:379] info: [RTM-EVENT-METRICS] T02S80P41LN total dispatch event count: 5 
+[08/14/25, 16:03:13:379] info: [RTM-EVENT-METRICS] T02S80P41LN total incoming event count: 5 
+[08/14/25, 16:03:13:380] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset for id: T02S80P41LN 
+[08/14/25, 16:03:14:379] info: [RTM-EVENT-METRICS] Completed metrics aggregation {"traceId":"1711c20a973e7d4a69a60920e9c756fa"} 
+[08/14/25, 16:04:15:182] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:04:15:183] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:09:15:184] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:09:15:184] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:12:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 16:12:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 16:12:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 16:12:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 16:12:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 16:12:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 16:12:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 16:12:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 16:13:12:385] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 16:14:15:185] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:14:15:185] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:19:15:186] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:19:15:187] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:23:12:378] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 16:24:15:188] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:24:15:188] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:27:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 16:27:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 16:27:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 16:27:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 16:27:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 16:27:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 16:27:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 16:27:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 16:29:15:189] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:29:15:190] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:33:12:378] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 16:34:15:190] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:34:15:192] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:39:15:192] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:39:15:193] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:42:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 16:42:49:776] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 16:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 16:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 16:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 16:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 16:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 16:42:49:777] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 16:43:12:378] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[08/14/25, 16:43:28:916] info: [RTM-EVENT-METRICS] Metrics collection enabled for the current interval. 
+[08/14/25, 16:44:15:193] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:44:15:194] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:47:38:913] info: [SLACK-SOCKET] socket.close() has been initiated with statusCode 4998 and description Too long since we received a pong 
+[08/14/25, 16:47:43:529] warn: SLACK-SOCKET SLACK-SOCKET Tried to send tickle. but our socket is closed; readyState = 2 
+[08/14/25, 16:47:43:529] warn: TICKLE-MS (T02S80P41LN) Sending tickle event failed; will try again the next time we get reconnected 
+[08/14/25, 16:47:43:529] info: [TICKLE-MS] (T02S80P41LN) Retrying tickle event that failed earlier 
+[08/14/25, 16:47:43:530] warn: SLACK-SOCKET SLACK-SOCKET Tried to send tickle. but our socket is closed; readyState = 2 
+[08/14/25, 16:47:43:530] warn: TICKLE-MS (T02S80P41LN) Tickle retry failed with error: Error: socket_closed 
+[08/14/25, 16:48:03:547] warn: SLACK-SOCKET SLACK-SOCKET Tried to send tickle. but our socket is closed; readyState = 2 
+[08/14/25, 16:48:03:547] warn: TICKLE-MS (T02S80P41LN) Sending tickle event failed; will try again the next time we get reconnected 
+[08/14/25, 16:48:03:547] info: [TICKLE-MS] (T02S80P41LN) Retrying tickle event that failed earlier 
+[08/14/25, 16:48:03:547] warn: SLACK-SOCKET SLACK-SOCKET Tried to send tickle. but our socket is closed; readyState = 2 
+[08/14/25, 16:48:03:547] warn: TICKLE-MS (T02S80P41LN) Tickle retry failed with error: Error: socket_closed 
+[08/14/25, 16:48:23:549] warn: SLACK-SOCKET SLACK-SOCKET Tried to send tickle. but our socket is closed; readyState = 2 
+[08/14/25, 16:48:23:549] warn: TICKLE-MS (T02S80P41LN) Sending tickle event failed; will try again the next time we get reconnected 
+[08/14/25, 16:48:23:549] info: [TICKLE-MS] (T02S80P41LN) Retrying tickle event that failed earlier 
+[08/14/25, 16:48:23:549] warn: SLACK-SOCKET SLACK-SOCKET Tried to send tickle. but our socket is closed; readyState = 2 
+[08/14/25, 16:48:23:550] warn: TICKLE-MS (T02S80P41LN) Tickle retry failed with error: Error: socket_closed 
+[08/14/25, 16:48:34:376] info: [MIN-VERSION] Checking to see if we should reload 
+[08/14/25, 16:48:34:377] info: [BOOT-QUEUE] T02S80P41LN noversion-1755170314.377 client.shouldReload called with reason: polling 
+[08/14/25, 16:48:34:377] info: [BOOT-QUEUE] T02S80P41LN noversion-1755170314.377 client.shouldReload is ENQUEUED 
+[08/14/25, 16:48:34:378] info: [BOOT-QUEUE] T02S80P41LN noversion-1755170314.377 client.shouldReload is ACTIVE 
+[08/14/25, 16:48:34:711] info: [BOOT-QUEUE] T02S80P41LN noversion-1755170314.377 client.shouldReload is RESOLVED 
+[08/14/25, 16:48:34:711] info: [MIN-VERSION] No need to reload 
+[08/14/25, 16:48:38:919] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/14/25, 16:48:38:920] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connected to error 
+[08/14/25, 16:48:38:920] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 16:48:38:920] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 16:48:38:920] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 16:48:38:920] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 700 ms 
+[08/14/25, 16:48:38:921] info: [EVENTLOG] (T02S80P41LN) socket was closed while we were fetching history; cancelling our request 
+[08/14/25, 16:48:39:621] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 16:48:39:622] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 16:48:39:622] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 16:48:39:622] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 16:48:39:622] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/14/25, 16:48:39:622] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to fast_reconnecting 
+[08/14/25, 16:48:39:622] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in fast_reconnecting state for up to 20000 ms 
+[08/14/25, 16:48:59:623] warn: SOCKET-MANAGER (T02S80P41LN) Closing socket because we spent 20000 ms in fast_reconnecting state; giving up 
+[08/14/25, 16:48:59:623] info: [SOCKET-MANAGER] (T02S80P41LN) Closing socket because #4107: client state machine got stuck 
+[08/14/25, 16:48:59:623] info: [SLACK-SOCKET] socket.close() has been initiated with statusCode 4107 and description client state machine got stuck 
+[08/14/25, 16:48:59:623] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from fast_reconnecting to error 
+[08/14/25, 16:48:59:623] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 16:48:59:623] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 16:48:59:623] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 16:48:59:624] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 1405 ms 
+[08/14/25, 16:49:01:029] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 16:49:01:030] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 16:49:01:030] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 16:49:01:030] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 16:49:01:030] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/14/25, 16:49:01:030] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to fast_reconnecting 
+[08/14/25, 16:49:01:030] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in fast_reconnecting state for up to 20000 ms 
+[08/14/25, 16:49:15:194] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:49:15:195] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 16:49:21:031] warn: SOCKET-MANAGER (T02S80P41LN) Closing socket because we spent 20000 ms in fast_reconnecting state; giving up 
+[08/14/25, 16:49:21:031] info: [SOCKET-MANAGER] (T02S80P41LN) Closing socket because #4107: client state machine got stuck 
+[08/14/25, 16:49:21:031] info: [SLACK-SOCKET] socket.close() has been initiated with statusCode 4107 and description client state machine got stuck 
+[08/14/25, 16:49:21:031] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from fast_reconnecting to error 
+[08/14/25, 16:49:21:031] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 16:49:21:031] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 16:49:21:031] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 16:49:21:031] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 1141 ms 
+[08/14/25, 16:49:22:173] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 16:49:22:173] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 16:49:22:173] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 16:49:22:174] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 16:49:22:174] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/14/25, 16:49:22:174] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/14/25, 16:49:22:174] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/14/25, 16:49:22:174] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/14/25, 16:49:22:174] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/14/25, 16:49:22:174] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/14/25, 16:49:42:813] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to prov_connected 
+[08/14/25, 16:49:42:813] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connected state for up to 60000 ms 
+[08/14/25, 16:49:42:816] info: [BOOT-QUEUE] T02S80P41LN noversion-1755170382.815 client.shouldReload called with reason: slow_reconnect 
+[08/14/25, 16:49:42:816] info: [BOOT-QUEUE] T02S80P41LN noversion-1755170382.815 client.shouldReload is ENQUEUED 
+[08/14/25, 16:49:42:816] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":true,"error":false} 
+[08/14/25, 16:49:42:817] info: [BOOT-QUEUE] T02S80P41LN noversion-1755170382.815 client.shouldReload is ACTIVE 
+[08/14/25, 16:49:42:817] info: [API-Q] (T02S80P41LN) e890639a-1755170382.816 client.userBoot called with reason: provisionally-connected 
+[08/14/25, 16:49:42:817] info: [API-Q] (T02S80P41LN) e890639a-1755170382.816 client.userBoot is ENQUEUED 
+[08/14/25, 16:49:42:817] info: [API-Q] (T02S80P41LN) e890639a-1755170382.816 client.userBoot is ACTIVE 
+[08/14/25, 16:49:42:818] info: [API-Q] (T02S80P41LN) noversion-1755170382.818 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 16:49:42:818] info: [API-Q] (T02S80P41LN) noversion-1755170382.818 Flannel permissions/info is ENQUEUED 
+[08/14/25, 16:49:42:818] info: [API-Q] (T02S80P41LN) noversion-1755170382.818 Flannel permissions/info is ACTIVE 
+[08/14/25, 16:49:43:098] info: [BOOT-QUEUE] T02S80P41LN noversion-1755170382.815 client.shouldReload is RESOLVED 
+[08/14/25, 16:49:43:098] info: [BOOT] No need to reload 
+[08/14/25, 16:49:43:146] info: [API-Q] (T02S80P41LN) e890639a-1755170382.816 client.userBoot is RESOLVED 
+[08/14/25, 16:49:43:148] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connected to prov_finalize 
+[08/14/25, 16:49:43:148] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalize state for up to 10000 ms 
+[08/14/25, 16:49:43:148] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalize to prov_finalizing 
+[08/14/25, 16:49:43:149] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalizing state for up to 10000 ms 
+[08/14/25, 16:49:43:149] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalizing to connected 
+[08/14/25, 16:49:43:149] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connected state for up to Infinity ms 
+[08/14/25, 16:49:43:149] info: [SOCKET-MANAGER] (T02S80P41LN) Connected to primary region 
+[08/14/25, 16:49:43:167] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/14/25, 16:49:43:168] info: [API-Q] (T02S80P41LN) e890639a-1755170383.167 search.autocomplete.topEmojis called with reason: loadEmoji-maybeReloadEmoji-setModelData 
+[08/14/25, 16:49:43:168] info: [API-Q] (T02S80P41LN) e890639a-1755170383.167 search.autocomplete.topEmojis is ENQUEUED 
+[08/14/25, 16:49:43:169] info: [EVENTLOG] (T02S80P41LN) fr=false, lc=false, lt=1755167346.011000 
+[08/14/25, 16:49:43:169] info: [EVENTLOG] (T02S80P41LN) fetching events since 1755167346.011000 (3038 seconds ago) 
+[08/14/25, 16:49:43:170] info: [API-Q] (T02S80P41LN) e890639a-1755170383.169 ublockworkaround.history called with reason: onSocketConnected 
+[08/14/25, 16:49:43:170] info: [API-Q] (T02S80P41LN) e890639a-1755170383.169 ublockworkaround.history is ENQUEUED 
+[08/14/25, 16:49:43:170] info: [MESSAGE-HISTORY] (T02S80P41LN) Resetting reachedEnd 
+[08/14/25, 16:49:43:170] info: [API-Q] (T02S80P41LN) e890639a-1755170383.170 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[08/14/25, 16:49:43:170] info: [API-Q] (T02S80P41LN) e890639a-1755170383.170 users.customStatus.list is ENQUEUED 
+[08/14/25, 16:49:43:170] info: [DND_V2] (T02S80P41LN) Marking all DND times as stale for the following members after connecting to the websocket: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 16:49:43:170] info: [API-Q] (T02S80P41LN) e890639a-1755170383.170 drafts.list called with reason: fetchDraftsOnReconnect 
+[08/14/25, 16:49:43:171] info: [API-Q] (T02S80P41LN) e890639a-1755170383.170 drafts.list is ENQUEUED 
+[08/14/25, 16:49:43:171] info: [DRAFTS] (T02S80P41LN) No local drafts - skipping fetch to purge inactive drafts 
+[08/14/25, 16:49:43:171] info: [API-Q] (T02S80P41LN) e890639a-1755170383.171 usergroups.membership called with reason: user-group-membership-api/fetchUserGroupMembership 
+[08/14/25, 16:49:43:171] info: [API-Q] (T02S80P41LN) e890639a-1755170383.171 usergroups.membership is ENQUEUED 
+[08/14/25, 16:49:43:172] info: [UNREAD-COUNTS] (T02S80P41LN) Fetching counts 
+[08/14/25, 16:49:43:173] info: [API-Q] (T02S80P41LN) e890639a-1755170383.172 client.counts called with reason: fetchClientCountsOnConnect 
+[08/14/25, 16:49:43:173] info: [API-Q] (T02S80P41LN) e890639a-1755170383.172 client.counts is ENQUEUED 
+[08/14/25, 16:49:43:173] info: [API-Q] (T02S80P41LN) e890639a-1755170383.173 sfdc.integration.listOrgs called with reason: fetch-orgs-and-sign-in-silently-v2 
+[08/14/25, 16:49:43:173] info: [API-Q] (T02S80P41LN) e890639a-1755170383.173 sfdc.integration.listOrgs is ENQUEUED 
+[08/14/25, 16:49:43:174] info: [PRESENCE_PROMPT] (T02S80P41LN) ignoring prompt due to presence (active) 
+[08/14/25, 16:49:43:175] info: [API-Q] (T02S80P41LN) e890639a-1755170383.174 users.prefs.get called with reason: fetch-frecency-prefs 
+[08/14/25, 16:49:43:175] info: [API-Q] (T02S80P41LN) e890639a-1755170383.174 users.prefs.get is ENQUEUED 
+[08/14/25, 16:49:43:175] info: [API-Q] (T02S80P41LN) e890639a-1755170383.167 search.autocomplete.topEmojis is ACTIVE 
+[08/14/25, 16:49:43:175] info: [API-Q] (T02S80P41LN) e890639a-1755170383.169 ublockworkaround.history is ACTIVE 
+[08/14/25, 16:49:43:175] info: [API-Q] (T02S80P41LN) e890639a-1755170383.170 users.customStatus.list is ACTIVE 
+[08/14/25, 16:49:43:176] info: [API-Q] (T02S80P41LN) e890639a-1755170383.170 drafts.list is ACTIVE 
+[08/14/25, 16:49:43:176] info: [API-Q] (T02S80P41LN) e890639a-1755170383.171 usergroups.membership is ACTIVE 
+[08/14/25, 16:49:43:176] info: [API-Q] (T02S80P41LN) e890639a-1755170383.172 client.counts is ACTIVE 
+[08/14/25, 16:49:43:176] info: [API-Q] (T02S80P41LN) e890639a-1755170383.173 sfdc.integration.listOrgs is ACTIVE 
+[08/14/25, 16:49:43:176] info: [API-Q] (T02S80P41LN) e890639a-1755170383.174 users.prefs.get is ACTIVE 
+[08/14/25, 16:49:43:176] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[08/14/25, 16:49:43:181] info: [API-Q] (T02S80P41LN) noversion-1755170383.180 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 16:49:43:181] info: [API-Q] (T02S80P41LN) noversion-1755170383.180 Flannel users/info is ENQUEUED 
+[08/14/25, 16:49:43:181] info: [API-Q] (T02S80P41LN) noversion-1755170383.180 Flannel users/info is ACTIVE 
+[08/14/25, 16:49:43:182] info: Store: STORE_USER_WORKSPACES {
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+} 
+[08/14/25, 16:49:43:182] info: [DND_V2] (T02S80P41LN) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U02T4CP1RMW 
+[08/14/25, 16:49:43:182] info: [API-Q] (T02S80P41LN) e890639a-1755170383.182 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[08/14/25, 16:49:43:182] info: [API-Q] (T02S80P41LN) e890639a-1755170383.182 dnd.teamInfo is ENQUEUED 
+[08/14/25, 16:49:43:183] info: [API-Q] (T02S80P41LN) noversion-1755170383.182 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/14/25, 16:49:43:183] info: [API-Q] (T02S80P41LN) noversion-1755170383.182 Flannel users/counts is ENQUEUED 
+[08/14/25, 16:49:43:183] info: [API-Q] (T02S80P41LN) e890639a-1755170383.183 conversations.listPrefs called with reason: client_redux_store 
+[08/14/25, 16:49:43:183] info: [API-Q] (T02S80P41LN) e890639a-1755170383.183 conversations.listPrefs is ENQUEUED 
+[08/14/25, 16:49:43:338] info: [API-Q] (T02S80P41LN) noversion-1755170382.818 Flannel permissions/info is RESOLVED 
+[08/14/25, 16:49:43:339] info: [API-Q] (T02S80P41LN) noversion-1755170383.182 Flannel users/counts is ACTIVE 
+[08/14/25, 16:49:43:342] info: [API-Q] (T02S80P41LN) e890639a-1755170383.341 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/14/25, 16:49:43:342] info: [API-Q] (T02S80P41LN) e890639a-1755170383.341 slackAi.permissions.getForUser is ENQUEUED 
+[08/14/25, 16:49:43:342] info: [API-Q] (T02S80P41LN) noversion-1755170383.342 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 16:49:43:342] info: [API-Q] (T02S80P41LN) noversion-1755170383.342 Flannel permissions/info is ENQUEUED 
+[08/14/25, 16:49:43:442] info: [API-Q] (T02S80P41LN) e890639a-1755170383.169 ublockworkaround.history is RESOLVED 
+[08/14/25, 16:49:43:442] info: [API-Q] (T02S80P41LN) noversion-1755170383.342 Flannel permissions/info is ACTIVE 
+[08/14/25, 16:49:43:442] info: [EVENTLOG] (T02S80P41LN) nothing to process 
+[08/14/25, 16:49:43:442] info: [EVENTLOG] (T02S80P41LN) fetched finish (aborted? false) 
+[08/14/25, 16:49:43:442] info: [EVENTLOG] (T02S80P41LN) dispatching signal and clearing timestamp 
+[08/14/25, 16:49:43:445] info: [API-Q] (T02S80P41LN) e890639a-1755170383.171 usergroups.membership is REJECTED: API not ok user_is_restricted 
+[08/14/25, 16:49:43:446] warn: USER_GROUP_MEMBERSHIP (T02S80P41LN) usergroups.membership failed with user_is_restricted: Guests are not allowed to have user groups 
+[08/14/25, 16:49:43:447] info: [USER_GROUP_MEMBERSHIP] (T02S80P41LN) Completed usergroups.membership processing 
+[08/14/25, 16:49:43:447] info: [API-Q] (T02S80P41LN) e890639a-1755170383.182 dnd.teamInfo is ACTIVE 
+[08/14/25, 16:49:43:449] info: [API-Q] (T02S80P41LN) e890639a-1755170383.167 search.autocomplete.topEmojis is RESOLVED 
+[08/14/25, 16:49:43:450] info: [API-Q] (T02S80P41LN) e890639a-1755170383.183 conversations.listPrefs is ACTIVE 
+[08/14/25, 16:49:43:450] info: [API-Q] (T02S80P41LN) e890639a-1755170383.173 sfdc.integration.listOrgs is REJECTED: API not ok restricted_action 
+[08/14/25, 16:49:43:451] error: (T02S80P41LN) API call to sfdc.integration.listOrgs
+						with reason fetch-orgs-and-sign-in-silently-v2 failed, initiated by generated fetcher 
+[08/14/25, 16:49:43:451] info: [API-Q] (T02S80P41LN) e890639a-1755170383.341 slackAi.permissions.getForUser is ACTIVE 
+[08/14/25, 16:49:43:451] error: SALESFORCE_CONNECTIONS (T02S80P41LN) {"error":"Error happened when executing side-effect to call sfdc.integration.listOrgs and sfdc.integration.authUser"} 
+[08/14/25, 16:49:43:453] info: [API-Q] (T02S80P41LN) e890639a-1755170383.172 client.counts is RESOLVED 
+[08/14/25, 16:49:43:455] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/14/25, 16:49:43:456] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/14/25, 16:49:43:457] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/14/25, 16:49:43:457] info: [API-Q] (T02S80P41LN) e890639a-1755170383.170 users.customStatus.list is RESOLVED 
+[08/14/25, 16:49:43:464] info: [API-Q] (T02S80P41LN) e890639a-1755170383.174 users.prefs.get is RESOLVED 
+[08/14/25, 16:49:43:472] info: [API-Q] (T02S80P41LN) e890639a-1755170383.170 drafts.list is RESOLVED 
+[08/14/25, 16:49:43:472] info: [DRAFTS] (T02S80P41LN) No active drafts 
+[08/14/25, 16:49:43:472] info: [DRAFTS] (T02S80P41LN) Successfully fetched all active and inactive drafts ✨ 
+[08/14/25, 16:49:43:474] info: [API-Q] (T02S80P41LN) noversion-1755170383.342 Flannel permissions/info is RESOLVED 
+[08/14/25, 16:49:43:671] info: [API-Q] (T02S80P41LN) noversion-1755170383.180 Flannel users/info is RESOLVED 
+[08/14/25, 16:49:43:710] info: [API-Q] (T02S80P41LN) e890639a-1755170383.183 conversations.listPrefs is RESOLVED 
+[08/14/25, 16:49:43:718] info: [API-Q] (T02S80P41LN) e890639a-1755170383.341 slackAi.permissions.getForUser is RESOLVED 
+[08/14/25, 16:49:43:727] info: [API-Q] (T02S80P41LN) e890639a-1755170383.182 dnd.teamInfo is RESOLVED 
+[08/14/25, 16:49:43:727] info: [DND] (T02S80P41LN) Fetched DND info for the following members: U02T4CP1RMW 
+[08/14/25, 16:49:43:728] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 16:49:43:792] info: [API-Q] (T02S80P41LN) noversion-1755170383.182 Flannel users/counts is RESOLVED 
+[08/14/25, 16:49:43:830] info: [RTM-QUEUE] Setting a timeout of 35 ms to process more rtm events 
+[08/14/25, 16:49:43:866] info: [RTM-QUEUE] Waited 35 ms, processing more rtm events now 
+[08/14/25, 16:49:43:887] info: [RTM-QUEUE] Setting a timeout of 79 ms to process more rtm events 
+[08/14/25, 16:49:43:966] info: [RTM-QUEUE] Waited 79 ms, processing more rtm events now 
+[08/14/25, 16:50:54:413] info: [API-Q] (T02S80P41LN) e890639a-1755170454.412 client.counts called with reason: pollClientCountsAfterTimeout 
+[08/14/25, 16:50:54:413] info: [API-Q] (T02S80P41LN) e890639a-1755170454.412 client.counts is ENQUEUED 
+[08/14/25, 16:50:54:413] info: [API-Q] (T02S80P41LN) e890639a-1755170454.412 client.counts is ACTIVE 
+[08/14/25, 16:50:54:801] info: [API-Q] (T02S80P41LN) e890639a-1755170454.412 client.counts is RESOLVED 
+[08/14/25, 16:50:54:802] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/14/25, 16:50:54:803] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/14/25, 16:50:54:804] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/14/25, 16:51:43:175] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 16:51:43:175] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 16:51:43:175] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 16:51:43:175] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 16:51:43:175] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 16:51:43:175] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 16:51:43:175] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 16:51:43:175] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 16:51:43:175] info: [API-Q] (T02S80P41LN) e890639a-1755170503.175 users.channelSections.list called with reason: conditional-fetch-manager 
+[08/14/25, 16:51:43:176] info: [API-Q] (T02S80P41LN) e890639a-1755170503.175 users.channelSections.list is ENQUEUED 
+[08/14/25, 16:51:43:177] info: [API-Q] (T02S80P41LN) e890639a-1755170503.175 users.channelSections.list is ACTIVE 
+[08/14/25, 16:51:43:544] info: [API-Q] (T02S80P41LN) e890639a-1755170503.175 users.channelSections.list is RESOLVED 
+[08/14/25, 16:53:13:379] info: [RTM-EVENT-METRICS] Sending metric report for id: T02S80P41LN 
+[08/14/25, 16:53:13:379] info: [RTM-EVENT-METRICS] T02S80P41LN total dispatch event count: 5 
+[08/14/25, 16:53:13:380] info: [RTM-EVENT-METRICS] T02S80P41LN total incoming event count: 5 
+[08/14/25, 16:53:13:380] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset for id: T02S80P41LN 
+[08/14/25, 16:53:14:379] info: [RTM-EVENT-METRICS] Completed metrics aggregation {"traceId":"453b9e09d63a6253010d9250491da646"} 
+[08/14/25, 16:56:23:300] info: [RTM-EVENT-METRICS] Metrics collection enabled for the current interval. 
+[08/14/25, 17:02:12:139] info: Store: SET_SUSPEND_STATUS false 
+[08/14/25, 17:02:12:139] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/14/25, 17:02:12:142] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/14/25, 17:02:12:143] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connected to error 
+[08/14/25, 17:02:12:143] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 17:02:12:143] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 17:02:12:143] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 17:02:12:144] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 140 ms 
+[08/14/25, 17:02:12:144] info: [EVENTLOG] (T02S80P41LN) socket was closed while we were fetching history; cancelling our request 
+[08/14/25, 17:02:12:147] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring sleep 
+[08/14/25, 17:02:12:147] info: Store: SET_SUSPEND_STATUS false 
+[08/14/25, 17:02:12:148] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/14/25, 17:02:12:151] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring sleep 
+[08/14/25, 17:02:12:235] info: Store: DISPLAY_METRICS_CHANGED  
+[08/14/25, 17:02:12:235] info: Store: DISPLAY_REMOVED  
+[08/14/25, 17:02:12:235] info: Store: DISPLAY_METRICS_CHANGED  
+[08/14/25, 17:02:12:285] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 17:02:12:286] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 17:02:12:287] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 17:02:12:287] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 17:02:12:289] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/14/25, 17:02:12:290] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to fast_reconnecting 
+[08/14/25, 17:02:12:290] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in fast_reconnecting state for up to 20000 ms 
+[08/14/25, 17:02:12:432] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/14/25, 17:02:12:433] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from fast_reconnecting to error 
+[08/14/25, 17:02:12:433] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 17:02:12:434] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 17:02:12:434] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 17:02:12:434] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 847 ms 
+[08/14/25, 21:03:37:908] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 21:03:37:911] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 21:03:37:911] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 21:03:37:911] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 21:03:37:912] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/14/25, 21:03:37:912] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/14/25, 21:03:37:912] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/14/25, 21:03:37:913] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/14/25, 21:03:37:913] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/14/25, 21:03:37:913] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/14/25, 21:03:37:924] info: [FLANNEL] (T02S80P41LN) received a user_subscribe_request call while we are not connected; deferring 
+[08/14/25, 21:03:37:925] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 21:03:37:925] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is ENQUEUED 
+[08/14/25, 21:03:37:925] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is ACTIVE 
+[08/14/25, 21:03:37:926] info: Store: POWER_RESUMED  
+[08/14/25, 21:03:37:926] info: Store: SET_SUSPEND_STATUS true 
+[08/14/25, 21:03:37:927] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/14/25, 21:03:37:933] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring wake 
+[08/14/25, 21:03:37:933] info: Store: POWER_RESUMED  
+[08/14/25, 21:03:37:933] info: Store: SET_SUSPEND_STATUS true 
+[08/14/25, 21:03:37:934] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/14/25, 21:03:37:936] info: [SOCKET-MANAGER] (T02S80P41LN) Ignoring wake 
+[08/14/25, 21:03:37:936] info: [API-Q] (T02S80P41LN) noversion-1755185617.936 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 21:03:37:936] info: [API-Q] (T02S80P41LN) noversion-1755185617.936 Flannel permissions/info is ENQUEUED 
+[08/14/25, 21:03:37:936] info: [API-Q] (T02S80P41LN) noversion-1755185617.936 Flannel permissions/info is ACTIVE 
+[08/14/25, 21:03:37:937] info: [DEVICE-PREFS] Device list change event received at 1755185617936 
+[08/14/25, 21:03:37:937] info: [DEVICE-PREFS] Device list change event received at 1755185617936 
+[08/14/25, 21:03:37:937] info: [DEVICE-PREFS] Available devices update already in progress. Returning existing promise. 
+[08/14/25, 21:03:37:969] info: [DEVICE-PREFS] Amending label for OS default audioinput device: Default -> System Default (Default) 
+[08/14/25, 21:03:37:969] info: [DEVICE-PREFS] Amending label for OS default audiooutput device: Default -> System Default (Default) 
+[08/14/25, 21:03:37:969] info: [DEVICE-PREFS] Device list update complete 
+[08/14/25, 21:03:37:969] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/14/25, 21:03:37:970] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to error 
+[08/14/25, 21:03:37:970] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 21:03:37:970] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 21:03:37:970] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 21:03:37:970] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 1494 ms 
+[08/14/25, 21:03:38:232] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is ERROR: request did not complete 
+[08/14/25, 21:03:38:233] info: [API-Q] (T02S80P41LN) noversion-1755185617.936 Flannel permissions/info is ERROR: request did not complete 
+[08/14/25, 21:03:38:269] info: [DEVICE-PREFS] Propagating device selection history update 
+[08/14/25, 21:03:38:271] info: [DEVICE-PREFS] Setting preferred audioinput device in huddle default 
+[08/14/25, 21:03:38:271] info: [DEVICE-PREFS] Setting preferred audiooutput device in huddle default 
+[08/14/25, 21:03:38:576] info: Store: DISPLAY_METRICS_CHANGED  
+[08/14/25, 21:03:38:576] info: Store: DISPLAY_METRICS_CHANGED  
+[08/14/25, 21:03:38:624] info: Store: DISPLAY_ADDED  
+[08/14/25, 21:03:38:624] info: Store: DISPLAY_METRICS_CHANGED  
+[08/14/25, 21:03:39:465] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 21:03:39:466] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 21:03:39:466] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 21:03:39:466] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 21:03:39:466] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/14/25, 21:03:39:466] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/14/25, 21:03:39:466] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/14/25, 21:03:39:467] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/14/25, 21:03:39:467] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/14/25, 21:03:39:467] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/14/25, 21:03:39:472] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/14/25, 21:03:39:472] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to error 
+[08/14/25, 21:03:39:472] info: [SOCKET-MANAGER] (T02S80P41LN) will dispatch troubleConnectingSig 
+[08/14/25, 21:03:39:473] info: [SOCKET-MANAGER] (T02S80P41LN) Failed to connect 3 times; going into failover mode until we connect 
+[08/14/25, 21:03:39:473] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 21:03:39:473] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 21:03:39:473] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 21:03:39:473] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 3134 ms 
+[08/14/25, 21:03:39:475] info: [FLANNEL] (T02S80P41LN) troubled! Exiting deferred user_subscribe_request call 
+[08/14/25, 21:03:39:475] warn: (T02S80P41LN) Flannel chunk fetch failed: [object Object], U02T4CP1RMW,U098PJ614F7, U02T4CP1RMW,U098PJ614F7 
+[08/14/25, 21:03:42:608] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 21:03:42:609] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 21:03:42:609] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 21:03:42:609] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 21:03:42:610] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to backup region 
+[08/14/25, 21:03:42:610] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/14/25, 21:03:42:610] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/14/25, 21:03:42:610] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/14/25, 21:03:42:610] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/14/25, 21:03:42:610] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/14/25, 21:03:42:614] warn: SOCKET-MANAGER (T02S80P41LN) Socket was closed because #1006: generic error 
+[08/14/25, 21:03:42:614] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to error 
+[08/14/25, 21:03:42:614] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in error state for up to 10000 ms 
+[08/14/25, 21:03:42:615] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from error to wait_for_rate_limit 
+[08/14/25, 21:03:42:615] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in wait_for_rate_limit state for up to 120000 ms 
+[08/14/25, 21:03:42:615] info: [SOCKET-MANAGER] (T02S80P41LN) backing off: will wait for 6410 ms 
+[08/14/25, 21:03:43:234] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is retrying, attempt 2 
+[08/14/25, 21:03:43:234] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is ENQUEUED 
+[08/14/25, 21:03:43:234] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is ACTIVE 
+[08/14/25, 21:03:43:966] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is ERROR: request did not complete 
+[08/14/25, 21:03:47:234] info: [API-Q] (T02S80P41LN) noversion-1755185617.936 Flannel permissions/info is retrying, attempt 2 
+[08/14/25, 21:03:47:234] info: [API-Q] (T02S80P41LN) noversion-1755185617.936 Flannel permissions/info is ENQUEUED 
+[08/14/25, 21:03:47:234] info: [API-Q] (T02S80P41LN) noversion-1755185617.936 Flannel permissions/info is ACTIVE 
+[08/14/25, 21:03:47:344] info: [API-Q] (T02S80P41LN) noversion-1755185617.936 Flannel permissions/info is RESOLVED 
+[08/14/25, 21:03:47:347] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 21:03:47:348] info: [API-Q] (T02S80P41LN) e890639a-1755185627.347 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/14/25, 21:03:47:348] info: [API-Q] (T02S80P41LN) e890639a-1755185627.347 slackAi.permissions.getForUser is ENQUEUED 
+[08/14/25, 21:03:47:348] info: [API-Q] (T02S80P41LN) e890639a-1755185627.347 slackAi.permissions.getForUser is ACTIVE 
+[08/14/25, 21:03:47:756] info: [API-Q] (T02S80P41LN) e890639a-1755185627.347 slackAi.permissions.getForUser is RESOLVED 
+[08/14/25, 21:03:49:025] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/14/25, 21:03:49:026] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/14/25, 21:03:49:026] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/14/25, 21:03:49:026] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/14/25, 21:03:49:026] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to primary region 
+[08/14/25, 21:03:49:026] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/14/25, 21:03:49:026] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/14/25, 21:03:49:027] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/14/25, 21:03:49:027] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/14/25, 21:03:49:027] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/14/25, 21:03:49:628] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to prov_connected 
+[08/14/25, 21:03:49:628] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connected state for up to 60000 ms 
+[08/14/25, 21:03:49:639] info: [BOOT-QUEUE] T02S80P41LN noversion-1755185629.637 client.shouldReload called with reason: slow_reconnect 
+[08/14/25, 21:03:49:639] info: [BOOT-QUEUE] T02S80P41LN noversion-1755185629.637 client.shouldReload is ENQUEUED 
+[08/14/25, 21:03:49:640] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":true,"error":false} 
+[08/14/25, 21:03:49:642] info: [BOOT-QUEUE] T02S80P41LN noversion-1755185629.637 client.shouldReload is ACTIVE 
+[08/14/25, 21:03:49:644] info: [API-Q] (T02S80P41LN) e890639a-1755185629.643 client.userBoot called with reason: provisionally-connected 
+[08/14/25, 21:03:49:644] info: [API-Q] (T02S80P41LN) e890639a-1755185629.643 client.userBoot is ENQUEUED 
+[08/14/25, 21:03:49:645] info: [API-Q] (T02S80P41LN) e890639a-1755185629.643 client.userBoot is ACTIVE 
+[08/14/25, 21:03:49:912] info: [BOOT-QUEUE] T02S80P41LN noversion-1755185629.637 client.shouldReload is RESOLVED 
+[08/14/25, 21:03:49:912] info: [BOOT] No need to reload 
+[08/14/25, 21:03:50:006] info: [API-Q] (T02S80P41LN) e890639a-1755185629.643 client.userBoot is RESOLVED 
+[08/14/25, 21:03:50:011] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connected to prov_finalize 
+[08/14/25, 21:03:50:011] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalize state for up to 10000 ms 
+[08/14/25, 21:03:50:011] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalize to prov_finalizing 
+[08/14/25, 21:03:50:011] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalizing state for up to 10000 ms 
+[08/14/25, 21:03:50:011] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalizing to connected 
+[08/14/25, 21:03:50:011] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connected state for up to Infinity ms 
+[08/14/25, 21:03:50:011] info: [SOCKET-MANAGER] (T02S80P41LN) Connected to primary region 
+[08/14/25, 21:03:50:036] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/14/25, 21:03:50:037] info: [API-Q] (T02S80P41LN) e890639a-1755185630.036 search.autocomplete.topEmojis called with reason: loadEmoji-maybeReloadEmoji-setModelData 
+[08/14/25, 21:03:50:037] info: [API-Q] (T02S80P41LN) e890639a-1755185630.036 search.autocomplete.topEmojis is ENQUEUED 
+[08/14/25, 21:03:50:039] info: [EVENTLOG] (T02S80P41LN) fr=false, lc=false, lt=1755170383.169000 
+[08/14/25, 21:03:50:039] info: [EVENTLOG] (T02S80P41LN) fetching events since 1755170383.169000 (15248 seconds ago) 
+[08/14/25, 21:03:50:040] info: [API-Q] (T02S80P41LN) e890639a-1755185630.039 ublockworkaround.history called with reason: onSocketConnected 
+[08/14/25, 21:03:50:040] info: [API-Q] (T02S80P41LN) e890639a-1755185630.039 ublockworkaround.history is ENQUEUED 
+[08/14/25, 21:03:50:040] info: [MESSAGE-HISTORY] (T02S80P41LN) Resetting reachedEnd 
+[08/14/25, 21:03:50:041] info: [API-Q] (T02S80P41LN) e890639a-1755185630.040 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[08/14/25, 21:03:50:041] info: [API-Q] (T02S80P41LN) e890639a-1755185630.040 users.customStatus.list is ENQUEUED 
+[08/14/25, 21:03:50:041] info: [DND_V2] (T02S80P41LN) Marking all DND times as stale for the following members after connecting to the websocket: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 21:03:50:041] info: [API-Q] (T02S80P41LN) e890639a-1755185630.041 drafts.list called with reason: fetchDraftsOnReconnect 
+[08/14/25, 21:03:50:042] info: [API-Q] (T02S80P41LN) e890639a-1755185630.041 drafts.list is ENQUEUED 
+[08/14/25, 21:03:50:042] info: [DRAFTS] (T02S80P41LN) No local drafts - skipping fetch to purge inactive drafts 
+[08/14/25, 21:03:50:043] info: [API-Q] (T02S80P41LN) e890639a-1755185630.042 usergroups.membership called with reason: user-group-membership-api/fetchUserGroupMembership 
+[08/14/25, 21:03:50:043] info: [API-Q] (T02S80P41LN) e890639a-1755185630.042 usergroups.membership is ENQUEUED 
+[08/14/25, 21:03:50:044] info: [UNREAD-COUNTS] (T02S80P41LN) Fetching counts 
+[08/14/25, 21:03:50:044] info: [API-Q] (T02S80P41LN) e890639a-1755185630.043 client.counts called with reason: fetchClientCountsOnConnect 
+[08/14/25, 21:03:50:044] info: [API-Q] (T02S80P41LN) e890639a-1755185630.043 client.counts is ENQUEUED 
+[08/14/25, 21:03:50:045] info: [API-Q] (T02S80P41LN) e890639a-1755185630.045 sfdc.integration.listOrgs called with reason: fetch-orgs-and-sign-in-silently-v2 
+[08/14/25, 21:03:50:045] info: [API-Q] (T02S80P41LN) e890639a-1755185630.045 sfdc.integration.listOrgs is ENQUEUED 
+[08/14/25, 21:03:50:045] info: [PRESENCE_PROMPT] (T02S80P41LN) ignoring prompt due to presence (active) 
+[08/14/25, 21:03:50:046] info: [API-Q] (T02S80P41LN) e890639a-1755185630.046 users.prefs.get called with reason: fetch-frecency-prefs 
+[08/14/25, 21:03:50:046] info: [API-Q] (T02S80P41LN) e890639a-1755185630.046 users.prefs.get is ENQUEUED 
+[08/14/25, 21:03:50:047] info: [API-Q] (T02S80P41LN) e890639a-1755185630.036 search.autocomplete.topEmojis is ACTIVE 
+[08/14/25, 21:03:50:047] info: [API-Q] (T02S80P41LN) e890639a-1755185630.039 ublockworkaround.history is ACTIVE 
+[08/14/25, 21:03:50:047] info: [API-Q] (T02S80P41LN) e890639a-1755185630.040 users.customStatus.list is ACTIVE 
+[08/14/25, 21:03:50:047] info: [API-Q] (T02S80P41LN) e890639a-1755185630.041 drafts.list is ACTIVE 
+[08/14/25, 21:03:50:047] info: [API-Q] (T02S80P41LN) e890639a-1755185630.042 usergroups.membership is ACTIVE 
+[08/14/25, 21:03:50:047] info: [API-Q] (T02S80P41LN) e890639a-1755185630.043 client.counts is ACTIVE 
+[08/14/25, 21:03:50:048] info: [API-Q] (T02S80P41LN) e890639a-1755185630.045 sfdc.integration.listOrgs is ACTIVE 
+[08/14/25, 21:03:50:048] info: [API-Q] (T02S80P41LN) e890639a-1755185630.046 users.prefs.get is ACTIVE 
+[08/14/25, 21:03:50:048] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[08/14/25, 21:03:50:049] info: [(T02S80P41LN)] Will collect additional stats for the first 10 minutes of this session 
+[08/14/25, 21:03:50:054] info: Store: STORE_USER_WORKSPACES {
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+} 
+[08/14/25, 21:03:50:054] info: [DND_V2] (T02S80P41LN) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U02T4CP1RMW 
+[08/14/25, 21:03:50:055] info: [API-Q] (T02S80P41LN) e890639a-1755185630.054 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[08/14/25, 21:03:50:055] info: [API-Q] (T02S80P41LN) e890639a-1755185630.054 dnd.teamInfo is ENQUEUED 
+[08/14/25, 21:03:50:055] info: [API-Q] (T02S80P41LN) e890639a-1755185630.054 dnd.teamInfo is ACTIVE 
+[08/14/25, 21:03:50:055] info: [API-Q] (T02S80P41LN) e890639a-1755185630.055 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/14/25, 21:03:50:055] info: [API-Q] (T02S80P41LN) e890639a-1755185630.055 slackAi.permissions.getForUser is ENQUEUED 
+[08/14/25, 21:03:50:055] info: [API-Q] (T02S80P41LN) e890639a-1755185630.055 slackAi.permissions.getForUser is ACTIVE 
+[08/14/25, 21:03:50:056] info: [API-Q] (T02S80P41LN) noversion-1755185630.056 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/14/25, 21:03:50:056] info: [API-Q] (T02S80P41LN) noversion-1755185630.056 Flannel users/counts is ENQUEUED 
+[08/14/25, 21:03:50:056] info: [API-Q] (T02S80P41LN) e890639a-1755185630.056 conversations.listPrefs called with reason: client_redux_store 
+[08/14/25, 21:03:50:056] info: [API-Q] (T02S80P41LN) e890639a-1755185630.056 conversations.listPrefs is ENQUEUED 
+[08/14/25, 21:03:50:322] info: [API-Q] (T02S80P41LN) e890639a-1755185630.045 sfdc.integration.listOrgs is REJECTED: API not ok restricted_action 
+[08/14/25, 21:03:50:323] error: (T02S80P41LN) API call to sfdc.integration.listOrgs
+						with reason fetch-orgs-and-sign-in-silently-v2 failed, initiated by generated fetcher 
+[08/14/25, 21:03:50:323] info: [API-Q] (T02S80P41LN) noversion-1755185630.056 Flannel users/counts is ACTIVE 
+[08/14/25, 21:03:50:323] error: SALESFORCE_CONNECTIONS (T02S80P41LN) {"error":"Error happened when executing side-effect to call sfdc.integration.listOrgs and sfdc.integration.authUser"} 
+[08/14/25, 21:03:50:332] info: [API-Q] (T02S80P41LN) e890639a-1755185630.046 users.prefs.get is RESOLVED 
+[08/14/25, 21:03:50:333] info: [API-Q] (T02S80P41LN) e890639a-1755185630.056 conversations.listPrefs is ACTIVE 
+[08/14/25, 21:03:50:334] info: [API-Q] (T02S80P41LN) e890639a-1755185630.042 usergroups.membership is REJECTED: API not ok user_is_restricted 
+[08/14/25, 21:03:50:334] warn: USER_GROUP_MEMBERSHIP (T02S80P41LN) usergroups.membership failed with user_is_restricted: Guests are not allowed to have user groups 
+[08/14/25, 21:03:50:334] info: [USER_GROUP_MEMBERSHIP] (T02S80P41LN) Completed usergroups.membership processing 
+[08/14/25, 21:03:50:337] info: [API-Q] (T02S80P41LN) e890639a-1755185630.041 drafts.list is RESOLVED 
+[08/14/25, 21:03:50:337] info: [DRAFTS] (T02S80P41LN) No active drafts 
+[08/14/25, 21:03:50:337] info: [DRAFTS] (T02S80P41LN) Successfully fetched all active and inactive drafts ✨ 
+[08/14/25, 21:03:50:350] info: [API-Q] (T02S80P41LN) e890639a-1755185630.039 ublockworkaround.history is RESOLVED 
+[08/14/25, 21:03:50:350] info: [EVENTLOG] (T02S80P41LN) nothing to process 
+[08/14/25, 21:03:50:350] info: [EVENTLOG] (T02S80P41LN) fetched finish (aborted? false) 
+[08/14/25, 21:03:50:350] info: [EVENTLOG] (T02S80P41LN) dispatching signal and clearing timestamp 
+[08/14/25, 21:03:50:351] info: [API-Q] (T02S80P41LN) e890639a-1755185630.040 users.customStatus.list is RESOLVED 
+[08/14/25, 21:03:50:371] info: [API-Q] (T02S80P41LN) e890639a-1755185630.054 dnd.teamInfo is RESOLVED 
+[08/14/25, 21:03:50:371] info: [DND] (T02S80P41LN) Fetched DND info for the following members: U02T4CP1RMW 
+[08/14/25, 21:03:50:373] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/14/25, 21:03:50:374] error: Icon undefined not found 
+[08/14/25, 21:03:50:382] info: [API-Q] (T02S80P41LN) e890639a-1755185630.055 slackAi.permissions.getForUser is RESOLVED 
+[08/14/25, 21:03:50:393] info: [API-Q] (T02S80P41LN) e890639a-1755185630.043 client.counts is RESOLVED 
+[08/14/25, 21:03:50:394] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/14/25, 21:03:50:395] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/14/25, 21:03:50:396] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/14/25, 21:03:50:424] info: [API-Q] (T02S80P41LN) e890639a-1755185630.036 search.autocomplete.topEmojis is RESOLVED 
+[08/14/25, 21:03:50:579] info: [RTM-QUEUE] Setting a timeout of 95 ms to process more rtm events 
+[08/14/25, 21:03:50:611] info: [API-Q] (T02S80P41LN) e890639a-1755185630.056 conversations.listPrefs is RESOLVED 
+[08/14/25, 21:03:50:674] info: [RTM-QUEUE] Waited 95 ms, processing more rtm events now 
+[08/14/25, 21:03:51:208] info: [API-Q] (T02S80P41LN) noversion-1755185630.056 Flannel users/counts is RESOLVED 
+[08/14/25, 21:04:00:968] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is retrying, attempt 3 
+[08/14/25, 21:04:00:968] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is ENQUEUED 
+[08/14/25, 21:04:00:968] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is ACTIVE 
+[08/14/25, 21:04:01:008] info: [API-Q] (T02S80P41LN) noversion-1755185617.924 Flannel users/info is RESOLVED 
+[08/14/25, 21:04:01:012] info: [API-Q] (T02S80P41LN) noversion-1755185641.011 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 21:04:01:012] info: [API-Q] (T02S80P41LN) noversion-1755185641.011 Flannel users/info is ENQUEUED 
+[08/14/25, 21:04:01:012] info: [API-Q] (T02S80P41LN) noversion-1755185641.011 Flannel users/info is ACTIVE 
+[08/14/25, 21:04:01:048] info: [API-Q] (T02S80P41LN) noversion-1755185641.011 Flannel users/info is RESOLVED 
+[08/14/25, 21:04:36:513] info: [RTM-EVENT-METRICS] Sending metric report for id: T02S80P41LN 
+[08/14/25, 21:04:36:513] info: [RTM-EVENT-METRICS] T02S80P41LN total dispatch event count: 4 
+[08/14/25, 21:04:36:514] info: [RTM-EVENT-METRICS] T02S80P41LN total incoming event count: 4 
+[08/14/25, 21:04:36:514] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset for id: T02S80P41LN 
+[08/14/25, 21:04:37:513] info: [RTM-EVENT-METRICS] Completed metrics aggregation {"traceId":"c105f06343298bea5a751adfb9bda5f0"} 
+[08/14/25, 21:04:57:465] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 21:04:57:607] info: [HISTORY-FETCH] (T02S80P41LN) Fetching history for message pane: D098PJ6AUJH oldest: 1755149743.974619 latest: null 
+[08/14/25, 21:04:57:607] info: [API-Q] (T02S80P41LN) e890639a-1755185697.607 conversations.history called with reason: message-pane/requestHistory 
+[08/14/25, 21:04:57:607] info: [API-Q] (T02S80P41LN) e890639a-1755185697.607 conversations.history is ENQUEUED 
+[08/14/25, 21:04:57:608] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: true -> false 
+[08/14/25, 21:04:57:641] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 40 
+[08/14/25, 21:04:57:663] info: [API-Q] (T02S80P41LN) e890639a-1755185697.607 conversations.history is ACTIVE 
+[08/14/25, 21:04:57:663] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 21:04:57:664] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 21:04:57:677] info: [API-Q] (T02S80P41LN) e890639a-1755185697.675 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/14/25, 21:04:57:677] info: [API-Q] (T02S80P41LN) e890639a-1755185697.675 slackAi.permissions.getForUser is ENQUEUED 
+[08/14/25, 21:04:57:677] info: [API-Q] (T02S80P41LN) noversion-1755185697.675 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 21:04:57:678] info: [API-Q] (T02S80P41LN) noversion-1755185697.675 Flannel permissions/info is ENQUEUED 
+[08/14/25, 21:04:57:678] info: [API-Q] (T02S80P41LN) e890639a-1755185697.675 slackAi.permissions.getForUser is ACTIVE 
+[08/14/25, 21:04:57:678] info: [API-Q] (T02S80P41LN) noversion-1755185697.675 Flannel permissions/info is ACTIVE 
+[08/14/25, 21:04:57:697] info: [API-Q] (T02S80P41LN) e890639a-1755185697.697 users.channelSections.list called with reason: conditional-fetch-manager 
+[08/14/25, 21:04:57:698] info: [API-Q] (T02S80P41LN) e890639a-1755185697.697 users.channelSections.list is ENQUEUED 
+[08/14/25, 21:04:57:698] info: [API-Q] (T02S80P41LN) e890639a-1755185697.697 users.channelSections.list is ACTIVE 
+[08/14/25, 21:04:57:699] info: [API-Q] (T02S80P41LN) e890639a-1755185697.699 saved.list called with reason: saved-api/savedList 
+[08/14/25, 21:04:57:699] info: [API-Q] (T02S80P41LN) e890639a-1755185697.699 saved.list is ENQUEUED 
+[08/14/25, 21:04:57:699] info: [API-Q] (T02S80P41LN) e890639a-1755185697.699 saved.list is ACTIVE 
+[08/14/25, 21:04:57:699] info: [DND_V2] (T02S80P41LN) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U098PJ614F7,U090BR1MDTM 
+[08/14/25, 21:04:57:699] info: [API-Q] (T02S80P41LN) e890639a-1755185697.699 dnd.info called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:self 
+[08/14/25, 21:04:57:700] info: [API-Q] (T02S80P41LN) e890639a-1755185697.699 dnd.info is ENQUEUED 
+[08/14/25, 21:04:57:700] info: [API-Q] (T02S80P41LN) e890639a-1755185697.700 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[08/14/25, 21:04:57:700] info: [API-Q] (T02S80P41LN) e890639a-1755185697.700 dnd.teamInfo is ENQUEUED 
+[08/14/25, 21:04:57:700] info: [API-Q] (T02S80P41LN) e890639a-1755185697.699 dnd.info is ACTIVE 
+[08/14/25, 21:04:57:700] info: [API-Q] (T02S80P41LN) e890639a-1755185697.700 dnd.teamInfo is ACTIVE 
+[08/14/25, 21:04:57:701] info: [API-Q] (T02S80P41LN) noversion-1755185697.700 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 21:04:57:701] info: [API-Q] (T02S80P41LN) noversion-1755185697.700 Flannel users/info is ENQUEUED 
+[08/14/25, 21:04:57:701] info: [API-Q] (T02S80P41LN) noversion-1755185697.700 Flannel users/info is ACTIVE 
+[08/14/25, 21:04:57:701] info: [API-Q] (T02S80P41LN) noversion-1755185697.701 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/14/25, 21:04:57:702] info: [API-Q] (T02S80P41LN) noversion-1755185697.701 Flannel permissions/info is ENQUEUED 
+[08/14/25, 21:04:57:702] info: [API-Q] (T02S80P41LN) noversion-1755185697.701 Flannel permissions/info is ACTIVE 
+[08/14/25, 21:04:57:703] info: [API-Q] (T02S80P41LN) e890639a-1755185697.702 help.issues.ticketStats called with reason: fetchAndUpsertTicketStats 
+[08/14/25, 21:04:57:703] info: [API-Q] (T02S80P41LN) e890639a-1755185697.702 help.issues.ticketStats is ENQUEUED 
+[08/14/25, 21:04:57:703] info: [API-Q] (T02S80P41LN) e890639a-1755185697.702 help.issues.ticketStats is ACTIVE 
+[08/14/25, 21:04:57:704] info: [API-Q] (T02S80P41LN) noversion-1755185697.703 Flannel users/info called with reason: flannel-call:users/info 
+[08/14/25, 21:04:57:704] info: [API-Q] (T02S80P41LN) noversion-1755185697.703 Flannel users/info is ENQUEUED 
+[08/14/25, 21:04:57:755] info: [API-Q] (T02S80P41LN) noversion-1755185697.755 Flannel emojis/info called with reason: flannel-call:emojis/info 
+[08/14/25, 21:04:57:756] info: [API-Q] (T02S80P41LN) noversion-1755185697.755 Flannel emojis/info is ENQUEUED 
+[08/14/25, 21:04:57:905] info: [PERSIST] (T02S80P41LN) Successfully persisted state 
+[08/14/25, 21:04:58:049] info: [API-Q] (T02S80P41LN) e890639a-1755185697.607 conversations.history is RESOLVED 
+[08/14/25, 21:04:58:049] info: [API-Q] (T02S80P41LN) noversion-1755185697.755 Flannel emojis/info is ACTIVE 
+[08/14/25, 21:04:58:050] info: [API-Q] (T02S80P41LN) e890639a-1755185697.697 users.channelSections.list is RESOLVED 
+[08/14/25, 21:04:58:050] info: [API-Q] (T02S80P41LN) noversion-1755185697.703 Flannel users/info is ACTIVE 
+[08/14/25, 21:04:58:050] info: [PLATFORM-CHANNEL-ACTI] (T02S80P41LN) Not updating count for channel D098PJ6AUJH, as count was already set to 0 
+[08/14/25, 21:04:58:053] info: [PINS] (T02S80P41LN) Pins count updated for channel D098PJ6AUJH: 0 
+[08/14/25, 21:04:58:054] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 21:04:58:054] info: [API-Q] (T02S80P41LN) e890639a-1755185697.699 dnd.info is RESOLVED 
+[08/14/25, 21:04:58:057] info: [API-Q] (T02S80P41LN) e890639a-1755185697.675 slackAi.permissions.getForUser is RESOLVED 
+[08/14/25, 21:04:58:057] info: [API-Q] (T02S80P41LN) e890639a-1755185697.702 help.issues.ticketStats is RESOLVED 
+[08/14/25, 21:04:58:061] info: [API-Q] (T02S80P41LN) e890639a-1755185697.700 dnd.teamInfo is RESOLVED 
+[08/14/25, 21:04:58:061] info: [API-Q] (T02S80P41LN) e890639a-1755185697.699 saved.list is RESOLVED 
+[08/14/25, 21:04:58:077] info: [MESSAGE-LIST] (T02S80P41LN) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 40 
+[08/14/25, 21:04:58:100] info: [CHECK-UNREADS] (T02S80P41LN) unreadLineVisible updated in main window container primary: false -> true 
+[08/14/25, 21:04:58:113] info: [DND] (T02S80P41LN) Fetched DND info for the following member: U098PJ614F7 
+[08/14/25, 21:04:58:115] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 21:04:58:119] info: [DND] (T02S80P41LN) Fetched DND info for the following members: U090BR1MDTM 
+[08/14/25, 21:04:58:120] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 21:04:58:157] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 21:04:58:170] info: [API-Q] (T02S80P41LN) noversion-1755185697.700 Flannel users/info is RESOLVED 
+[08/14/25, 21:04:58:171] info: [API-Q] (T02S80P41LN) noversion-1755185697.675 Flannel permissions/info is RESOLVED 
+[08/14/25, 21:04:58:171] info: [API-Q] (T02S80P41LN) noversion-1755185697.701 Flannel permissions/info is RESOLVED 
+[08/14/25, 21:04:58:455] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+} 
+[08/14/25, 21:04:58:458] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[08/14/25, 21:04:58:488] info: [API-Q] (T02S80P41LN) noversion-1755185697.703 Flannel users/info is RESOLVED 
+[08/14/25, 21:04:58:512] info: [API-Q] (T02S80P41LN) noversion-1755185697.755 Flannel emojis/info is RESOLVED 
+[08/14/25, 21:04:59:872] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 21:04:59:923] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 21:04:59:924] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 21:05:00:279] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 21:05:01:253] info: [API-Q] (T02S80P41LN) e890639a-1755185701.253 client.counts called with reason: pollClientCountsAfterTimeout 
+[08/14/25, 21:05:01:254] info: [API-Q] (T02S80P41LN) e890639a-1755185701.253 client.counts is ENQUEUED 
+[08/14/25, 21:05:01:254] info: [API-Q] (T02S80P41LN) e890639a-1755185701.253 client.counts is ACTIVE 
+[08/14/25, 21:05:01:537] info: [API-Q] (T02S80P41LN) e890639a-1755185701.253 client.counts is RESOLVED 
+[08/14/25, 21:05:01:539] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/14/25, 21:05:01:541] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/14/25, 21:05:01:541] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/14/25, 21:05:01:864] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 21:05:01:902] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 21:05:01:903] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 21:05:04:203] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 21:05:04:221] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 21:05:04:233] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 21:05:04:233] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 21:05:05:197] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+} 
+[08/14/25, 21:05:05:199] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[08/14/25, 21:05:05:739] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 21:05:08:358] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 21:05:08:368] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 21:05:08:383] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 21:05:09:353] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+} 
+[08/14/25, 21:05:09:355] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[08/14/25, 21:05:50:046] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/14/25, 21:05:50:047] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/14/25, 21:05:50:047] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/14/25, 21:05:50:047] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/14/25, 21:05:50:047] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/14/25, 21:05:50:047] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AVKP: Not idle 
+[08/14/25, 21:05:50:047] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/14/25, 21:05:50:047] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/14/25, 21:05:54:651] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 21:05:54:675] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 21:05:54:675] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 21:05:55:649] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": true,
+    "bounds": {
+      "width": 1200,
+      "height": 800,
+      "x": 264,
+      "y": 86
+    }
+  }
+} 
+[08/14/25, 21:05:55:651] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[08/14/25, 21:05:56:983] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 21:05:57:288] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 21:05:57:311] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 21:05:57:312] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 21:05:58:787] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 21:05:58:862] info: [FOCUS-EVENT] (T02S80P41LN) Main window focused 
+[08/14/25, 21:05:58:903] info: [CHECK-UNREADS] (T02S80P41LN) Checking unreads after window became focused 
+[08/14/25, 21:05:58:903] info: [CHECK-UNREADS] (T02S80P41LN) Not marking D098PJ6AUJH because last_read >= latest && channel is read 
+[08/14/25, 21:06:00:631] info: [FOCUS-EVENT] (T02S80P41LN) Main window blurred 
+[08/14/25, 21:06:00:656] info: [VISIBILITY-STATE] (T02S80P41LN) Main window visibility state changed: hidden 
+[08/14/25, 21:07:26:937] info: [RTM-EVENT-METRICS] Metrics collection enabled for the current interval. 
+[08/14/25, 21:09:59:078] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/14/25, 21:09:59:078] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/14/25, 21:09:59:078] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
