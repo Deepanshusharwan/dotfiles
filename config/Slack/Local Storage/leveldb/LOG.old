@@ -1,9 +1,24 @@
-2025/08/13-02:41:35.635 e5f04 Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2025/08/13-02:41:35.636 e5f04 Recovering log #153
-2025/08/13-02:41:35.636 e5f04 Reusing old log /home/deepanshu/.config/Slack/Local Storage/leveldb/000153.log 
-2025/08/13-02:42:35.639 e5f04 Level-0 table #158: started
-2025/08/13-02:42:35.668 e5f04 Level-0 table #158: 16444 bytes OK
-2025/08/13-02:42:35.671 e5f04 Delete type=0 #153
-2025/08/13-02:43:35.822 e5f04 Level-0 table #160: started
-2025/08/13-02:43:35.827 e5f04 Level-0 table #160: 17005 bytes OK
-2025/08/13-02:43:35.829 e5f04 Delete type=0 #157
+2025/08/13-21:48:26.527 11b71c Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2025/08/13-21:48:26.528 11b71c Recovering log #159
+2025/08/13-21:48:26.528 11b71c Reusing old log /home/deepanshu/.config/Slack/Local Storage/leveldb/000159.log 
+2025/08/13-21:49:26.531 11b71c Level-0 table #163: started
+2025/08/13-21:49:26.536 11b71c Level-0 table #163: 17954 bytes OK
+2025/08/13-21:49:26.539 11b71c Delete type=0 #159
+2025/08/14-10:02:11.377 11b71c Level-0 table #165: started
+2025/08/14-10:02:11.408 11b71c Level-0 table #165: 19352 bytes OK
+2025/08/14-10:02:11.412 11b71c Delete type=0 #162
+2025/08/14-10:02:11.412 11b71c Compacting 4@0 + 1@1 files
+2025/08/14-10:02:11.417 11b71c Generated table #166@0: 16 keys, 17029 bytes
+2025/08/14-10:02:11.417 11b71c Compacted 4@0 + 1@1 files => 17029 bytes
+2025/08/14-10:02:11.419 11b71c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/14-10:02:11.420 11b71c Delete type=2 #155
+2025/08/14-10:02:11.420 11b71c Delete type=2 #158
+2025/08/14-10:02:11.420 11b71c Delete type=2 #160
+2025/08/14-10:02:11.420 11b71c Delete type=2 #163
+2025/08/14-10:02:11.420 11b71c Delete type=2 #165
+2025/08/14-15:11:08.733 11b71c Level-0 table #168: started
+2025/08/14-15:11:08.736 11b71c Level-0 table #168: 16634 bytes OK
+2025/08/14-15:11:08.739 11b71c Delete type=0 #164
+2025/08/14-21:06:31.868 11b71c Level-0 table #170: started
+2025/08/14-21:06:31.874 11b71c Level-0 table #170: 18246 bytes OK
+2025/08/14-21:06:31.877 11b71c Delete type=0 #167

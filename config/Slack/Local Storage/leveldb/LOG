@@ -1,24 +1,18 @@
-2025/08/13-21:48:26.527 11b71c Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2025/08/13-21:48:26.528 11b71c Recovering log #159
-2025/08/13-21:48:26.528 11b71c Reusing old log /home/deepanshu/.config/Slack/Local Storage/leveldb/000159.log 
-2025/08/13-21:49:26.531 11b71c Level-0 table #163: started
-2025/08/13-21:49:26.536 11b71c Level-0 table #163: 17954 bytes OK
-2025/08/13-21:49:26.539 11b71c Delete type=0 #159
-2025/08/14-10:02:11.377 11b71c Level-0 table #165: started
-2025/08/14-10:02:11.408 11b71c Level-0 table #165: 19352 bytes OK
-2025/08/14-10:02:11.412 11b71c Delete type=0 #162
-2025/08/14-10:02:11.412 11b71c Compacting 4@0 + 1@1 files
-2025/08/14-10:02:11.417 11b71c Generated table #166@0: 16 keys, 17029 bytes
-2025/08/14-10:02:11.417 11b71c Compacted 4@0 + 1@1 files => 17029 bytes
-2025/08/14-10:02:11.419 11b71c compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/14-10:02:11.420 11b71c Delete type=2 #155
-2025/08/14-10:02:11.420 11b71c Delete type=2 #158
-2025/08/14-10:02:11.420 11b71c Delete type=2 #160
-2025/08/14-10:02:11.420 11b71c Delete type=2 #163
-2025/08/14-10:02:11.420 11b71c Delete type=2 #165
-2025/08/14-15:11:08.733 11b71c Level-0 table #168: started
-2025/08/14-15:11:08.736 11b71c Level-0 table #168: 16634 bytes OK
-2025/08/14-15:11:08.739 11b71c Delete type=0 #164
-2025/08/14-21:06:31.868 11b71c Level-0 table #170: started
-2025/08/14-21:06:31.874 11b71c Level-0 table #170: 18246 bytes OK
-2025/08/14-21:06:31.877 11b71c Delete type=0 #167
+2025/08/18-21:10:41.669 1e07b Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2025/08/18-21:10:41.670 1e07b Recovering log #169
+2025/08/18-21:10:41.670 1e07b Reusing old log /home/deepanshu/.config/Slack/Local Storage/leveldb/000169.log 
+2025/08/18-21:11:41.675 1e07a Level-0 table #173: started
+2025/08/18-21:11:41.680 1e07a Level-0 table #173: 16652 bytes OK
+2025/08/18-21:11:41.683 1e07a Delete type=0 #169
+2025/08/18-21:12:42.163 1e07a Level-0 table #175: started
+2025/08/18-21:12:42.169 1e07a Level-0 table #175: 16307 bytes OK
+2025/08/18-21:12:42.173 1e07a Delete type=0 #172
+2025/08/18-21:12:42.173 1e07a Compacting 4@0 + 1@1 files
+2025/08/18-21:12:42.175 1e07a Generated table #176@0: 16 keys, 17047 bytes
+2025/08/18-21:12:42.175 1e07a Compacted 4@0 + 1@1 files => 17047 bytes
+2025/08/18-21:12:42.178 1e07a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/18-21:12:42.178 1e07a Delete type=2 #166
+2025/08/18-21:12:42.178 1e07a Delete type=2 #168
+2025/08/18-21:12:42.178 1e07a Delete type=2 #170
+2025/08/18-21:12:42.178 1e07a Delete type=2 #173
+2025/08/18-21:12:42.178 1e07a Delete type=2 #175
