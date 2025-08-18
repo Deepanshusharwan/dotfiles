@@ -1,3 +1,6 @@
-2025/08/13-02:41:35.821 e5f04 Reusing MANIFEST /home/deepanshu/.config/Slack/Session Storage/MANIFEST-000001
-2025/08/13-02:41:35.822 e5f04 Recovering log #3
-2025/08/13-02:41:35.822 e5f04 Reusing old log /home/deepanshu/.config/Slack/Session Storage/000003.log 
+2025/08/13-21:48:26.693 11b71d Reusing MANIFEST /home/deepanshu/.config/Slack/Session Storage/MANIFEST-000001
+2025/08/13-21:48:26.693 11b71d Recovering log #3
+2025/08/13-21:48:26.693 11b71d Reusing old log /home/deepanshu/.config/Slack/Session Storage/000003.log 
+2025/08/14-21:12:02.014 11b71d Level-0 table #5: started
+2025/08/14-21:12:02.028 11b71d Level-0 table #5: 16235 bytes OK
+2025/08/14-21:12:02.031 11b71d Delete type=0 #3
