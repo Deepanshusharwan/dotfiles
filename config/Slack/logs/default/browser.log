@@ -45011,3 +45011,86 @@
   "method": "POST",
   "status_code": 200
 }
+[08/18/25, 21:47:23:835] info: Store: QUIT_APP 
+[08/18/25, 21:47:23:837] info: Breadcrumb: electron: window.hide 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/18/25, 21:47:23:838] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": false
+  },
+  "fromEvent": true
+}
+[08/18/25, 21:47:23:839] info: EpicHelpers: Flushing cookie store for session 
+{
+  "sessionId": "PROD_DEFAULT_SESSION"
+}
+[08/18/25, 21:47:23:839] info: Disposing WL… 
+[08/18/25, 21:47:23:839] info: Disposing QL… 
+[08/18/25, 21:47:23:839] info: Disposing VE… 
+[08/18/25, 21:47:23:839] info: Store: DOWNLOADS_CLEANED_UP 
+[08/18/25, 21:47:23:842] info: flushLocalSettings: Flushing local-settings.json 
+{
+  "keys": [
+    "useHwAcceleration",
+    "rxLogging"
+  ]
+}
+[08/18/25, 21:47:23:842] info: Store: persist/FLUSH 
+[08/18/25, 21:47:23:843] info: Closing main window 
+{
+  "id": 1
+}
+[08/18/25, 21:47:23:843] info: closeWindow: attempt to close window 
+{
+  "id": 1
+}
+[08/18/25, 21:47:23:843] info: Breadcrumb: electron: window.close 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/18/25, 21:47:23:881] info: registerLifeCycleEvents: webContents:1 from 'webapp-loaded' to 'page-closed' took 2198918 ms 
+[08/18/25, 21:47:23:881] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "page-closed"
+}
+[08/18/25, 21:47:23:882] info: Breadcrumb: electron: renderer.destroyed 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/18/25, 21:47:23:883] info: Store: REMOVE_WEB_CONTENTS 
+{
+  "id": 1
+}
+[08/18/25, 21:47:23:886] info: Breadcrumb: electron: window.closed 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/18/25, 21:47:23:886] info: Store: REMOVE_WINDOW 1
+[08/18/25, 21:47:23:888] info: 
++-------------------+-------------+
+| FLUSH_COOKIES     | 3.168717ms  |
+|-------------------+-------------+
+| FLUSH_STORE       | 0.291486ms  |
+|-------------------+-------------+
+| REMOVE_DICT       | 0.223631ms  |
+|-------------------+-------------+
+| FLUSH_TELEMETRY   | 0.132802ms  |
+|-------------------+-------------+
+| CLOSE_MAIN_WINDOW | 43.614288ms |
+|-------------------+-------------+
+| TOTAL             | 50.331963ms |
++-------------------+-------------+ 
+[08/18/25, 21:47:23:888] info: quitApplicationEpic: Finished, calling app.quit 
+[08/18/25, 21:47:23:889] info: Breadcrumb: electron: app.before-quit 
+[08/18/25, 21:47:23:891] info: Breadcrumb: electron: app.will-quit 
+[08/18/25, 21:47:23:891] info: Telling native-keymap to ignore all future events as we are quitting 
+[08/18/25, 21:47:24:325] info: Breadcrumb: electron: app.quit 

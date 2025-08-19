@@ -32424,3 +32424,47 @@ Drafts ignored: 0
 [08/18/25, 21:12:45:659] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
 [08/18/25, 21:12:45:659] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
 [08/18/25, 21:12:45:659] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/18/25, 21:15:46:301] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM,U05LM5VT3UN 
+[08/18/25, 21:15:46:301] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/18/25, 21:20:46:302] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM,U05LM5VT3UN 
+[08/18/25, 21:20:46:303] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/18/25, 21:25:46:303] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM,U05LM5VT3UN 
+[08/18/25, 21:25:46:304] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/18/25, 21:28:45:661] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/18/25, 21:28:45:661] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/18/25, 21:28:45:661] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/18/25, 21:28:45:661] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/18/25, 21:28:45:661] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/18/25, 21:28:45:661] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/18/25, 21:28:45:661] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/18/25, 21:30:46:305] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM,U05LM5VT3UN 
+[08/18/25, 21:30:46:306] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/18/25, 21:35:46:306] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM,U05LM5VT3UN 
+[08/18/25, 21:35:46:307] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/18/25, 21:40:46:308] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM,U05LM5VT3UN 
+[08/18/25, 21:40:46:308] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/18/25, 21:43:45:660] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Start cleaning up DMs/MPDMs — starting with 5 entries. 
+[08/18/25, 21:43:45:660] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Eligible DMs/MPDMs for cleanup — [external DMs]:0, [internal DMs]: 3, [app DMs]: 1 
+[08/18/25, 21:43:45:660] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of externalDMs type for closure 
+[08/18/25, 21:43:45:660] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ69TSR: Self DM 
+[08/18/25, 21:43:45:660] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Not eligible D098PJ6AUJH: Not idle 
+[08/18/25, 21:43:45:660] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of internalDMs type for closure 
+[08/18/25, 21:43:45:660] info: [CHECK-FOR-OLD-CHANNEL] (T02S80P41LN) Identified 0 DMs/MPDMs of appDMs type for closure 
+[08/18/25, 21:45:46:309] info: [DND_V2] (T02S80P41LN) Checking for changes in DND status for the following members: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM,U05LM5VT3UN 
+[08/18/25, 21:45:46:310] info: [DND_V2] (T02S80P41LN) Will check for changes in DND status again in 5 minutes 
+[08/18/25, 21:47:23:841] info: Store: QUIT_APP  
+[08/18/25, 21:47:23:841] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/18/25, 21:47:23:861] info: [VISIBILITY-STATE] (T02S80P41LN) Main window visibility state changed: hidden 
+[08/18/25, 21:47:23:867] info: Store: DOWNLOADS_CLEANED_UP  
+[08/18/25, 21:47:23:867] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[08/18/25, 21:47:23:867] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[08/18/25, 21:47:23:868] info: [RELOAD] Page is about to unload. This might not be a reload, it could be a window close or navigation 
+[08/18/25, 21:47:23:868] info: [WINDOW-UNLOADING] (T02S80P41LN) Main window unloading 
+[08/18/25, 21:47:23:870] info: [WINDOW-UNLOADING] (T02S80P41LN) workspace handling window unloading event 
+[08/18/25, 21:47:23:871] info: [MESSAGE-LIST] (T02S80P41LN) getScrollmark reason:with_serialization channelId:D098PJ6AUJH at end 
+[08/18/25, 21:47:23:872] info: [PERSIST] (T02S80P41LN) Persisting state to storage because the window is about to unload 
+[08/18/25, 21:47:23:880] info: [WIN-RESTORE] Flushing current window restoration data and ignoring all future saves due to app quit 
+[08/18/25, 21:47:23:882] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "page-closed"
+} 
