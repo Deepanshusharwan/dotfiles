@@ -1,24 +1,82 @@
-2025/08/13-21:48:26.527 11b71c Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2025/08/13-21:48:26.528 11b71c Recovering log #159
-2025/08/13-21:48:26.528 11b71c Reusing old log /home/deepanshu/.config/Slack/Local Storage/leveldb/000159.log 
-2025/08/13-21:49:26.531 11b71c Level-0 table #163: started
-2025/08/13-21:49:26.536 11b71c Level-0 table #163: 17954 bytes OK
-2025/08/13-21:49:26.539 11b71c Delete type=0 #159
-2025/08/14-10:02:11.377 11b71c Level-0 table #165: started
-2025/08/14-10:02:11.408 11b71c Level-0 table #165: 19352 bytes OK
-2025/08/14-10:02:11.412 11b71c Delete type=0 #162
-2025/08/14-10:02:11.412 11b71c Compacting 4@0 + 1@1 files
-2025/08/14-10:02:11.417 11b71c Generated table #166@0: 16 keys, 17029 bytes
-2025/08/14-10:02:11.417 11b71c Compacted 4@0 + 1@1 files => 17029 bytes
-2025/08/14-10:02:11.419 11b71c compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/14-10:02:11.420 11b71c Delete type=2 #155
-2025/08/14-10:02:11.420 11b71c Delete type=2 #158
-2025/08/14-10:02:11.420 11b71c Delete type=2 #160
-2025/08/14-10:02:11.420 11b71c Delete type=2 #163
-2025/08/14-10:02:11.420 11b71c Delete type=2 #165
-2025/08/14-15:11:08.733 11b71c Level-0 table #168: started
-2025/08/14-15:11:08.736 11b71c Level-0 table #168: 16634 bytes OK
-2025/08/14-15:11:08.739 11b71c Delete type=0 #164
-2025/08/14-21:06:31.868 11b71c Level-0 table #170: started
-2025/08/14-21:06:31.874 11b71c Level-0 table #170: 18246 bytes OK
-2025/08/14-21:06:31.877 11b71c Delete type=0 #167
+2025/08/21-11:17:32.317 64cb Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2025/08/21-11:17:32.317 64cb Recovering log #209
+2025/08/21-11:17:32.318 64cb Level-0 table #212: started
+2025/08/21-11:17:32.321 64cb Level-0 table #212: 16308 bytes OK
+2025/08/21-11:17:32.321 64cb Recovering log #211
+2025/08/21-11:17:32.321 64cb Reusing old log /home/deepanshu/.config/Slack/Local Storage/leveldb/000211.log 
+2025/08/21-11:17:32.324 64cb Delete type=0 #209
+2025/08/21-11:18:32.328 64af Level-0 table #214: started
+2025/08/21-11:18:32.334 64af Level-0 table #214: 16439 bytes OK
+2025/08/21-11:18:32.337 64af Delete type=0 #211
+2025/08/21-11:18:32.337 64af Compacting 4@0 + 1@1 files
+2025/08/21-11:18:32.339 64af Generated table #215@0: 16 keys, 17141 bytes
+2025/08/21-11:18:32.339 64af Compacted 4@0 + 1@1 files => 17141 bytes
+2025/08/21-11:18:32.342 64af compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/21-11:18:32.342 64af Delete type=2 #205
+2025/08/21-11:18:32.342 64af Delete type=2 #207
+2025/08/21-11:18:32.342 64af Delete type=2 #210
+2025/08/21-11:18:32.342 64af Delete type=2 #212
+2025/08/21-11:18:32.342 64af Delete type=2 #214
+2025/08/21-11:19:32.535 64b0 Level-0 table #217: started
+2025/08/21-11:19:32.537 64b0 Level-0 table #217: 16370 bytes OK
+2025/08/21-11:19:32.540 64b0 Delete type=0 #213
+2025/08/21-11:20:32.535 64af Level-0 table #219: started
+2025/08/21-11:20:32.541 64af Level-0 table #219: 16246 bytes OK
+2025/08/21-11:20:32.543 64af Delete type=0 #216
+2025/08/21-15:41:12.684 64af Level-0 table #221: started
+2025/08/21-15:41:12.690 64af Level-0 table #221: 17041 bytes OK
+2025/08/21-15:41:12.693 64af Delete type=0 #218
+2025/08/21-16:01:15.544 64af Level-0 table #223: started
+2025/08/21-16:01:15.550 64af Level-0 table #223: 16671 bytes OK
+2025/08/21-16:01:15.552 64af Delete type=0 #220
+2025/08/21-16:01:15.552 64af Compacting 4@0 + 1@1 files
+2025/08/21-16:01:15.555 64af Generated table #224@0: 16 keys, 17213 bytes
+2025/08/21-16:01:15.555 64af Compacted 4@0 + 1@1 files => 17213 bytes
+2025/08/21-16:01:15.557 64af compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/21-16:01:15.557 64af Delete type=2 #215
+2025/08/21-16:01:15.557 64af Delete type=2 #217
+2025/08/21-16:01:15.558 64af Delete type=2 #219
+2025/08/21-16:01:15.558 64af Delete type=2 #221
+2025/08/21-16:01:15.558 64af Delete type=2 #223
+2025/08/21-16:10:15.544 64af Level-0 table #226: started
+2025/08/21-16:10:15.549 64af Level-0 table #226: 18872 bytes OK
+2025/08/21-16:10:15.552 64af Delete type=0 #222
+2025/08/21-16:12:15.544 64b0 Level-0 table #228: started
+2025/08/21-16:12:15.549 64b0 Level-0 table #228: 16791 bytes OK
+2025/08/21-16:12:15.552 64b0 Delete type=0 #225
+2025/08/21-16:13:15.544 64af Level-0 table #230: started
+2025/08/21-16:13:15.560 64af Level-0 table #230: 16280 bytes OK
+2025/08/21-16:13:15.563 64af Delete type=0 #227
+2025/08/21-16:41:01.288 64b0 Level-0 table #232: started
+2025/08/21-16:41:01.295 64b0 Level-0 table #232: 16555 bytes OK
+2025/08/21-16:41:01.298 64b0 Delete type=0 #229
+2025/08/21-16:41:01.298 64b0 Compacting 4@0 + 1@1 files
+2025/08/21-16:41:01.301 64b0 Generated table #233@0: 16 keys, 17132 bytes
+2025/08/21-16:41:01.301 64b0 Compacted 4@0 + 1@1 files => 17132 bytes
+2025/08/21-16:41:01.303 64b0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/21-16:41:01.304 64b0 Delete type=2 #224
+2025/08/21-16:41:01.304 64b0 Delete type=2 #226
+2025/08/21-16:41:01.304 64b0 Delete type=2 #228
+2025/08/21-16:41:01.304 64b0 Delete type=2 #230
+2025/08/21-16:41:01.304 64b0 Delete type=2 #232
+2025/08/21-16:42:01.288 64af Level-0 table #235: started
+2025/08/21-16:42:01.294 64af Level-0 table #235: 16216 bytes OK
+2025/08/21-16:42:01.297 64af Delete type=0 #231
+2025/08/21-16:48:01.289 64af Level-0 table #237: started
+2025/08/21-16:48:01.294 64af Level-0 table #237: 16337 bytes OK
+2025/08/21-16:48:01.297 64af Delete type=0 #234
+2025/08/21-20:23:02.516 64b0 Level-0 table #239: started
+2025/08/21-20:23:02.523 64b0 Level-0 table #239: 17399 bytes OK
+2025/08/21-20:23:02.527 64b0 Delete type=0 #236
+2025/08/21-20:24:02.515 64af Level-0 table #241: started
+2025/08/21-20:24:02.522 64af Level-0 table #241: 16267 bytes OK
+2025/08/21-20:24:02.525 64af Delete type=0 #238
+2025/08/21-20:24:02.525 64af Compacting 4@0 + 1@1 files
+2025/08/21-20:24:02.529 64af Generated table #242@0: 16 keys, 17092 bytes
+2025/08/21-20:24:02.529 64af Compacted 4@0 + 1@1 files => 17092 bytes
+2025/08/21-20:24:02.532 64af compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/21-20:24:02.532 64af Delete type=2 #233
+2025/08/21-20:24:02.532 64af Delete type=2 #235
+2025/08/21-20:24:02.532 64af Delete type=2 #237
+2025/08/21-20:24:02.532 64af Delete type=2 #239
+2025/08/21-20:24:02.532 64af Delete type=2 #241
