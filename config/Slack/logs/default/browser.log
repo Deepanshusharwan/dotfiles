@@ -56755,3 +56755,102 @@
     "reason": "Not child window URL"
   }
 }
+[08/22/25, 23:31:33:334] info: Store: STORE_USER_WORKSPACES 
+{
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+}
+[08/22/25, 23:31:55:397] info: Store: QUIT_APP 
+[08/22/25, 23:31:55:402] info: Breadcrumb: electron: window.hide 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/22/25, 23:31:55:402] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": false
+  },
+  "fromEvent": true
+}
+[08/22/25, 23:31:55:403] info: EpicHelpers: Flushing cookie store for session 
+{
+  "sessionId": "PROD_DEFAULT_SESSION"
+}
+[08/22/25, 23:31:55:403] info: Disposing WL… 
+[08/22/25, 23:31:55:404] info: Disposing QL… 
+[08/22/25, 23:31:55:404] info: Disposing VE… 
+[08/22/25, 23:31:55:404] info: Store: DOWNLOADS_CLEANED_UP 
+[08/22/25, 23:31:55:409] info: flushLocalSettings: Flushing local-settings.json 
+{
+  "keys": [
+    "useHwAcceleration",
+    "rxLogging"
+  ]
+}
+[08/22/25, 23:31:55:409] info: Store: persist/FLUSH 
+[08/22/25, 23:31:55:411] info: Closing main window 
+{
+  "id": 1
+}
+[08/22/25, 23:31:55:411] info: closeWindow: attempt to close window 
+{
+  "id": 1
+}
+[08/22/25, 23:31:55:412] info: Breadcrumb: electron: window.close 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/22/25, 23:31:55:472] info: registerLifeCycleEvents: webContents:1 from 'webapp-loaded' to 'page-closed' took 25858223 ms 
+[08/22/25, 23:31:55:472] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "page-closed"
+}
+[08/22/25, 23:31:55:475] info: Breadcrumb: electron: renderer.destroyed 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/22/25, 23:31:55:476] info: Store: REMOVE_WEB_CONTENTS 
+{
+  "id": 1
+}
+[08/22/25, 23:31:55:480] info: Breadcrumb: electron: window.closed 
+{
+  "id": 1,
+  "url": "[REDACTED]"
+}
+[08/22/25, 23:31:55:481] info: Store: REMOVE_WINDOW 1
+[08/22/25, 23:31:55:486] info: 
++-------------------+-------------+
+| FLUSH_COOKIES     | 5.467934ms  |
+|-------------------+-------------+
+| FLUSH_STORE       | 0.740375ms  |
+|-------------------+-------------+
+| REMOVE_DICT       | 0.77756ms   |
+|-------------------+-------------+
+| FLUSH_TELEMETRY   | 0.368319ms  |
+|-------------------+-------------+
+| CLOSE_MAIN_WINDOW | 70.232578ms |
+|-------------------+-------------+
+| TOTAL             | 81.916661ms |
++-------------------+-------------+ 
+[08/22/25, 23:31:55:486] info: quitApplicationEpic: Finished, calling app.quit 
+[08/22/25, 23:31:55:487] info: Breadcrumb: electron: app.before-quit 
+[08/22/25, 23:31:55:489] info: Breadcrumb: electron: app.will-quit 
+[08/22/25, 23:31:55:489] info: Telling native-keymap to ignore all future events as we are quitting 
+[08/22/25, 23:31:55:501] info: Permission check granted: 
+{
+  "isMainFrame": false,
+  "permission": "background-sync",
+  "requestingOrigin": "https://[REDACTED].slack.com/",
+  "requestingUrl": null,
+  "securityOrigin": null,
+  "slackChildWindowRequest": false
+}
+[08/22/25, 23:31:55:815] info: Breadcrumb: electron: app.quit 

@@ -1240,3 +1240,149 @@
 [08/22/25, 23:31:24:907] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885684.906 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
 [08/22/25, 23:31:24:907] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885684.906 slackAi.permissions.getForUser is ENQUEUED 
 [08/22/25, 23:31:24:907] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885684.906 slackAi.permissions.getForUser is ACTIVE 
+[08/22/25, 23:31:25:283] info: [API-Q] (T02S80P41LN) noversion-1755885676.783 Flannel users/info is RESOLVED 
+[08/22/25, 23:31:25:377] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885684.906 slackAi.permissions.getForUser is RESOLVED 
+[08/22/25, 23:31:31:612] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from wait_for_rate_limit to connect 
+[08/22/25, 23:31:31:613] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connect state for up to 10000 ms 
+[08/22/25, 23:31:31:614] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from connect to checking_fast_reconnect 
+[08/22/25, 23:31:31:614] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in checking_fast_reconnect state for up to 60000 ms 
+[08/22/25, 23:31:31:614] info: [SOCKET-MANAGER] (T02S80P41LN) Attempting to connect to backup region 
+[08/22/25, 23:31:31:614] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from checking_fast_reconnect to prov_connect 
+[08/22/25, 23:31:31:615] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connect state for up to 10000 ms 
+[08/22/25, 23:31:31:615] info: [SOCKET-MANAGER] (T02S80P41LN) Connecting with token ending: cbbf 
+[08/22/25, 23:31:31:615] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connect to prov_connecting 
+[08/22/25, 23:31:31:615] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connecting state for up to 35000 ms 
+[08/22/25, 23:31:32:639] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connecting to prov_connected 
+[08/22/25, 23:31:32:640] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_connected state for up to 60000 ms 
+[08/22/25, 23:31:32:652] info: [BOOT-QUEUE] T02S80P41LN noversion-1755885692.651 client.shouldReload called with reason: slow_reconnect 
+[08/22/25, 23:31:32:656] info: [BOOT-QUEUE] T02S80P41LN noversion-1755885692.651 client.shouldReload is ENQUEUED 
+[08/22/25, 23:31:32:657] info: [FLANNEL] (T02S80P41LN) connected and trouble free! Continuing deferred user_unsubscribe_request call 
+[08/22/25, 23:31:32:657] info: [FLANNEL] (T02S80P41LN) connected and trouble free! Continuing deferred user_subscribe_request call 
+[08/22/25, 23:31:32:657] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":true,"error":false} 
+[08/22/25, 23:31:32:659] info: [BOOT-QUEUE] T02S80P41LN noversion-1755885692.651 client.shouldReload is ACTIVE 
+[08/22/25, 23:31:32:666] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885692.664 client.userBoot called with reason: provisionally-connected 
+[08/22/25, 23:31:32:666] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885692.664 client.userBoot is ENQUEUED 
+[08/22/25, 23:31:32:671] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885692.664 client.userBoot is ACTIVE 
+[08/22/25, 23:31:32:806] info: [FLANNEL] (T02S80P41LN) troubled! Exiting deferred user_unsubscribe_request call 
+[08/22/25, 23:31:32:808] error: Uncaught (in promise) Error: Flannel call failed for command 'user_unsubscribe_request' -- error Error: Not currently subscribed to requested unsubscribe ids. 
+[08/22/25, 23:31:32:834] info: [API-Q] (T02S80P41LN) noversion-1755885692.831 Flannel users/info called with reason: flannel-call:users/info 
+[08/22/25, 23:31:32:834] info: [API-Q] (T02S80P41LN) noversion-1755885692.831 Flannel users/info is ENQUEUED 
+[08/22/25, 23:31:32:836] info: [API-Q] (T02S80P41LN) noversion-1755885692.831 Flannel users/info is ACTIVE 
+[08/22/25, 23:31:32:883] info: [API-Q] (T02S80P41LN) noversion-1755885692.831 Flannel users/info is RESOLVED 
+[08/22/25, 23:31:33:000] info: [BOOT-QUEUE] T02S80P41LN noversion-1755885692.651 client.shouldReload is RESOLVED 
+[08/22/25, 23:31:33:000] info: [BOOT] No need to reload 
+[08/22/25, 23:31:33:089] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885692.664 client.userBoot is RESOLVED 
+[08/22/25, 23:31:33:109] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_connected to prov_finalize 
+[08/22/25, 23:31:33:109] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalize state for up to 10000 ms 
+[08/22/25, 23:31:33:111] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalize to prov_finalizing 
+[08/22/25, 23:31:33:111] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in prov_finalizing state for up to 10000 ms 
+[08/22/25, 23:31:33:112] info: [SOCKET-MANAGER] (T02S80P41LN) Changing from prov_finalizing to connected 
+[08/22/25, 23:31:33:113] info: [SOCKET-MANAGER] (T02S80P41LN) will stay in connected state for up to Infinity ms 
+[08/22/25, 23:31:33:120] info: [SOCKET-MANAGER] (T02S80P41LN) Connected to backup region 
+[08/22/25, 23:31:33:220] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[08/22/25, 23:31:33:225] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.223 search.autocomplete.topEmojis called with reason: loadEmoji-maybeReloadEmoji-setModelData 
+[08/22/25, 23:31:33:225] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.223 search.autocomplete.topEmojis is ENQUEUED 
+[08/22/25, 23:31:33:233] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.231 links.getDomains called with reason: siws-get-domains 
+[08/22/25, 23:31:33:234] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.231 links.getDomains is ENQUEUED 
+[08/22/25, 23:31:33:242] info: [EVENTLOG] (T02S80P41LN) fr=false, lc=false, lt=1755873042.000300 
+[08/22/25, 23:31:33:243] info: [EVENTLOG] (T02S80P41LN) fetching events since 1755873042.000300 (12652 seconds ago) 
+[08/22/25, 23:31:33:248] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.242 ublockworkaround.history called with reason: onSocketConnected 
+[08/22/25, 23:31:33:249] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.242 ublockworkaround.history is ENQUEUED 
+[08/22/25, 23:31:33:250] info: [MESSAGE-HISTORY] (T02S80P41LN) Resetting reachedEnd 
+[08/22/25, 23:31:33:251] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.249 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[08/22/25, 23:31:33:251] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.249 users.customStatus.list is ENQUEUED 
+[08/22/25, 23:31:33:254] info: [DND_V2] (T02S80P41LN) Marking all DND times as stale for the following members after connecting to the websocket: U098PJ614F7,U02T4CP1RMW,U090BR1MDTM 
+[08/22/25, 23:31:33:256] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.255 drafts.list called with reason: fetchDraftsOnReconnect 
+[08/22/25, 23:31:33:258] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.255 drafts.list is ENQUEUED 
+[08/22/25, 23:31:33:259] info: [DRAFTS] (T02S80P41LN) No local drafts - skipping fetch to purge inactive drafts 
+[08/22/25, 23:31:33:265] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.264 usergroups.membership called with reason: user-group-membership-api/fetchUserGroupMembership 
+[08/22/25, 23:31:33:266] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.264 usergroups.membership is ENQUEUED 
+[08/22/25, 23:31:33:272] info: [UNREAD-COUNTS] (T02S80P41LN) Fetching counts 
+[08/22/25, 23:31:33:280] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.274 client.counts called with reason: fetchClientCountsOnConnect 
+[08/22/25, 23:31:33:280] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.274 client.counts is ENQUEUED 
+[08/22/25, 23:31:33:284] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.283 sfdc.integration.listOrgs called with reason: fetch-orgs-and-sign-in-silently-v2 
+[08/22/25, 23:31:33:285] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.283 sfdc.integration.listOrgs is ENQUEUED 
+[08/22/25, 23:31:33:289] info: [PRESENCE_PROMPT] (T02S80P41LN) ignoring prompt due to presence (active) 
+[08/22/25, 23:31:33:296] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.293 users.prefs.get called with reason: fetch-frecency-prefs 
+[08/22/25, 23:31:33:296] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.293 users.prefs.get is ENQUEUED 
+[08/22/25, 23:31:33:302] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.223 search.autocomplete.topEmojis is ACTIVE 
+[08/22/25, 23:31:33:306] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.231 links.getDomains is ACTIVE 
+[08/22/25, 23:31:33:309] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.242 ublockworkaround.history is ACTIVE 
+[08/22/25, 23:31:33:313] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.249 users.customStatus.list is ACTIVE 
+[08/22/25, 23:31:33:320] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.255 drafts.list is ACTIVE 
+[08/22/25, 23:31:33:320] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.264 usergroups.membership is ACTIVE 
+[08/22/25, 23:31:33:321] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.274 client.counts is ACTIVE 
+[08/22/25, 23:31:33:322] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.283 sfdc.integration.listOrgs is ACTIVE 
+[08/22/25, 23:31:33:333] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.293 users.prefs.get is ACTIVE 
+[08/22/25, 23:31:33:334] info: [DESKTOP-SIDE-EFFECT] (T02S80P41LN) Reacting to  {"type":"[21] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[08/22/25, 23:31:33:386] info: Store: STORE_USER_WORKSPACES {
+  "userTeamId": "T02S80P41LN",
+  "workspaceIds": [
+    "T02S80P41LN"
+  ]
+} 
+[08/22/25, 23:31:33:386] info: [DND_V2] (T02S80P41LN) fetchAndUpsertDndForUsers - Preparing to fetch DND times for the following members: U02T4CP1RMW 
+[08/22/25, 23:31:33:388] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.387 dnd.teamInfo called with reason: fetchAndUpsertDndForUsers-getDndTimesFor:others 
+[08/22/25, 23:31:33:389] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.387 dnd.teamInfo is ENQUEUED 
+[08/22/25, 23:31:33:390] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.387 dnd.teamInfo is ACTIVE 
+[08/22/25, 23:31:33:393] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.389 slackAi.permissions.getForUser called with reason: fetch-slack-ai-permissions 
+[08/22/25, 23:31:33:393] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.389 slackAi.permissions.getForUser is ENQUEUED 
+[08/22/25, 23:31:33:394] info: [API-Q] (T02S80P41LN) noversion-1755885693.391 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/22/25, 23:31:33:394] info: [API-Q] (T02S80P41LN) noversion-1755885693.391 Flannel users/counts is ENQUEUED 
+[08/22/25, 23:31:33:394] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.393 conversations.listPrefs called with reason: client_redux_store 
+[08/22/25, 23:31:33:394] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.393 conversations.listPrefs is ENQUEUED 
+[08/22/25, 23:31:33:599] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.223 search.autocomplete.topEmojis is RESOLVED 
+[08/22/25, 23:31:33:600] info: [API-Q] (T02S80P41LN) noversion-1755885693.391 Flannel users/counts is ACTIVE 
+[08/22/25, 23:31:33:603] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.249 users.customStatus.list is RESOLVED 
+[08/22/25, 23:31:33:605] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.389 slackAi.permissions.getForUser is ACTIVE 
+[08/22/25, 23:31:33:617] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.242 ublockworkaround.history is RESOLVED 
+[08/22/25, 23:31:33:617] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.393 conversations.listPrefs is ACTIVE 
+[08/22/25, 23:31:33:618] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.231 links.getDomains is RESOLVED 
+[08/22/25, 23:31:33:620] info: [EVENTLOG] (T02S80P41LN) nothing to process 
+[08/22/25, 23:31:33:620] info: [EVENTLOG] (T02S80P41LN) fetched finish (aborted? false) 
+[08/22/25, 23:31:33:620] info: [EVENTLOG] (T02S80P41LN) dispatching signal and clearing timestamp 
+[08/22/25, 23:31:33:632] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.264 usergroups.membership is REJECTED: API not ok user_is_restricted 
+[08/22/25, 23:31:33:633] warn: USER_GROUP_MEMBERSHIP (T02S80P41LN) usergroups.membership failed with user_is_restricted: Guests are not allowed to have user groups 
+[08/22/25, 23:31:33:634] info: [USER_GROUP_MEMBERSHIP] (T02S80P41LN) Completed usergroups.membership processing 
+[08/22/25, 23:31:33:635] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.255 drafts.list is RESOLVED 
+[08/22/25, 23:31:33:636] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.283 sfdc.integration.listOrgs is REJECTED: API not ok restricted_action 
+[08/22/25, 23:31:33:638] error: (T02S80P41LN) API call to sfdc.integration.listOrgs
+						with reason fetch-orgs-and-sign-in-silently-v2 failed, initiated by generated fetcher 
+[08/22/25, 23:31:33:640] error: SALESFORCE_CONNECTIONS (T02S80P41LN) {"error":"Error happened when executing side-effect to call sfdc.integration.listOrgs and sfdc.integration.authUser"} 
+[08/22/25, 23:31:33:647] info: [DRAFTS] (T02S80P41LN) No active drafts 
+[08/22/25, 23:31:33:648] info: [DRAFTS] (T02S80P41LN) Successfully fetched all active and inactive drafts ✨ 
+[08/22/25, 23:31:33:648] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.293 users.prefs.get is RESOLVED 
+[08/22/25, 23:31:33:649] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.274 client.counts is RESOLVED 
+[08/22/25, 23:31:33:655] info: [COUNTS] (T02S80P41LN) Applying counts to channels. wasLastConnectFast: false isConnected: true applying: 6 out of total: 6 
+[08/22/25, 23:31:33:655] info: [COUNTS] (T02S80P41LN) invalidating history for channel C02S02N2FAT since counts updated 1755873081.000400 > cached updatedTs 1755870267.000200 
+[08/22/25, 23:31:33:660] info: [COUNTS] (T02S80P41LN) Threads has_unreads:false mention_count:0 
+[08/22/25, 23:31:33:662] info: [COUNTS] (T02S80P41LN) Completed counts processing 
+[08/22/25, 23:31:33:678] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.387 dnd.teamInfo is RESOLVED 
+[08/22/25, 23:31:33:679] info: [DND] (T02S80P41LN) Fetched DND info for the following members: U02T4CP1RMW 
+[08/22/25, 23:31:33:684] info: [DND_V2] (T02S80P41LN) Not setting a timer as all schedules are stale 
+[08/22/25, 23:31:33:690] error: Icon undefined not found 
+[08/22/25, 23:31:33:870] info: [API-Q] (T02S80P41LN) noversion-1755885693.869 Flannel users/info called with reason: flannel-call:users/info 
+[08/22/25, 23:31:33:870] info: [API-Q] (T02S80P41LN) noversion-1755885693.869 Flannel users/info is ENQUEUED 
+[08/22/25, 23:31:33:871] info: [API-Q] (T02S80P41LN) noversion-1755885693.869 Flannel users/info is ACTIVE 
+[08/22/25, 23:31:33:922] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.393 conversations.listPrefs is RESOLVED 
+[08/22/25, 23:31:33:955] info: [API-Q] (T02S80P41LN) 6edf7d2e-1755885693.389 slackAi.permissions.getForUser is RESOLVED 
+[08/22/25, 23:31:34:378] info: [API-Q] (T02S80P41LN) noversion-1755885693.869 Flannel users/info is RESOLVED 
+[08/22/25, 23:31:34:542] info: [API-Q] (T02S80P41LN) noversion-1755885693.391 Flannel users/counts is RESOLVED 
+[08/22/25, 23:31:34:839] info: [RTM-QUEUE] Setting a timeout of 100 ms to process more rtm events 
+[08/22/25, 23:31:34:939] info: [RTM-QUEUE] Waited 100 ms, processing more rtm events now 
+[08/22/25, 23:31:55:408] info: Store: QUIT_APP  
+[08/22/25, 23:31:55:410] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[08/22/25, 23:31:55:415] info: [VISIBILITY-STATE] (T02S80P41LN) Main window visibility state changed: hidden 
+[08/22/25, 23:31:55:415] info: [API-Q] (T02S80P41LN) noversion-1755885715.411 Flannel permissions/info called with reason: flannel-call:permissions/info 
+[08/22/25, 23:31:55:415] info: [API-Q] (T02S80P41LN) noversion-1755885715.411 Flannel permissions/info is ENQUEUED 
+[08/22/25, 23:31:55:415] info: [API-Q] (T02S80P41LN) noversion-1755885715.411 Flannel permissions/info is ACTIVE 
+[08/22/25, 23:31:55:428] info: Store: DOWNLOADS_CLEANED_UP  
+[08/22/25, 23:31:55:429] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[08/22/25, 23:31:55:429] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[08/22/25, 23:31:55:429] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[08/22/25, 23:31:55:432] info: [RELOAD] Page is about to unload. This might not be a reload, it could be a window close or navigation 
+[08/22/25, 23:31:55:432] info: [WINDOW-UNLOADING] (T02S80P41LN) Main window unloading 
+[08/22/25, 23:31:55:442] info: [WINDOW-UNLOADING] (T02S80P41LN) workspace handling window unloading event 
+[08/22/25, 23:31:55:447] info: [MESSAGE-LIST] (T02S80P41LN) getScrollmark reason:with_serialization channelId:D098PJ6AUJH at end 
+[08/22/25, 23:31:55:450] info: [PERSIST] (T02S80P41LN) Persisting state to storage because the window is about to unload 
+[08/22/25, 23:31:55:470] info: [WIN-RESTORE] Flushing current window restoration data and ignoring all future saves due to app quit 
