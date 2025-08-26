@@ -1,9 +1,0 @@
-2025/08/22-16:20:53.600 4056a Reusing MANIFEST /home/deepanshu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2025/08/22-16:20:53.600 4056a Recovering log #240
-2025/08/22-16:20:53.601 4056a Reusing old log /home/deepanshu/.config/Slack/Local Storage/leveldb/000240.log 
-2025/08/22-16:21:53.603 4056a Level-0 table #245: started
-2025/08/22-16:21:53.609 4056a Level-0 table #245: 17067 bytes OK
-2025/08/22-16:21:53.613 4056a Delete type=0 #240
-2025/08/22-17:33:53.768 4056a Level-0 table #247: started
-2025/08/22-17:33:53.773 4056a Level-0 table #247: 17743 bytes OK
-2025/08/22-17:33:53.776 4056a Delete type=0 #244
