@@ -29,7 +29,7 @@ rsync -avh --progress "$HOME/Pictures/wallpaper/." "$repo_path/wallpapers/"
 echo ""
 echo ""
 echo "Backing up the scripts to dotfiles/scripts"
-rsync -avh --progress --delete "$HOME/scripts/." "$repo_path/scripts/"
+rsync -avh --progress --delete --exclude={'drin*'} "$HOME/scripts/." "$repo_path/scripts/"
 echo ""
 
 ## don't need this part anymore --exclude did that

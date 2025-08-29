@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+cd /home/deepanshu/dataring/
+exec "$SHELL"
