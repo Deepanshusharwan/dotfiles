@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+
+repo_path="$HOME/github_repos/my_repositories/wallpapers"
+
+# now we will backup the changes from the wallpaper 
+echo ""
+echo ""
+echo "Backing up the wallpapers to dotfiles/wallpapers"
+rsync -avh --progress "$HOME/Pictures/wallpaper/." "$repo_path/"
+
+echo ""
+echo "All the files have been moved successfully"
+echo "Starting git protocols..."
+echo ""
+echo ""
+
+# if there is a command line argument then the following works
+if [ $# -eq 1 ]; then
+  cd "$repo_path"
+  git add .
+  read -p "Please enter you commit message: " message
+  git commit -m "$message"
+  git push origin main
+
+else
+  cd "$repo_path"
+  git add .
+  git commit -m " $(date) update"
+  git push origin main
+  
+fi
+
+

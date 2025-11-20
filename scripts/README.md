@@ -1,67 +1,269 @@
-# File Tree Structure
+# Scripts
 
+This repository contains a collection of scripts for various purposes.
+
+## Directory Structure
 ```
-├─ alt_swticher.sh
-├─ docpload
-├─ dotpload
-├─ github_repo_enter
-├─ gitunlock
-├─ gpush.sh
-├─ jetbrains
-│   ├─ datagrip
-│   ├─ pycharm
-│   ├─ rustrover
-│   ├─ webstorm
-│   └─ writerside
-├─ mkenter.sh
-├─ okay
-├─ old_scripts
-│   ├─ bash
-│   │   ├─ docpload
-│   │   ├─ dotpload
-│   │   ├─ pload
-│   │   ├─ python_files
-│   │   │   └─ tree
-│   │   │       └─ tree.py
-│   │   ├─ tree
-│   │   └─ yt-search
-│   └─ python
-├─ pload
-├─ python_files
-│   └─ tree
-│       └─ tree.py
-├─ search
-├─ tree
-├─ uptime.sh
-└─ wip
-    ├─ schedule
-    └─ venv_activate
-Total directories: 9
-Total files: 26
+.
+├── README.md
+├── alt_swticher.sh
+├── docpload
+├── dotpload
+├── dring
+├── github_repo_enter
+├── gitunlock
+├── gpush
+├── jetbrains
+│   ├── datagrip
+│   ├── pycharm
+│   ├── rustrover
+│   ├── webstorm
+│   └── writerside
+├── labpload
+├── learning
+├── mkenter.sh
+├── okay
+├── old_scripts
+│   └── bash
+│       ├── docpload
+│       ├── dotpload
+│       ├── pload
+│       ├── python_files
+│       │   └── tree
+│       │       └── tree.py
+│       ├── tree
+│       └── yt-search
+├── pload
+├── python_files
+│   └── tree
+│       └── tree.py
+├── search
+├── speed_net
+├── tree
+├── turn_off_screen
+├── uptime.sh
+├── wallpload
+└── wip
+    ├── schedule
+    ├── search
+    └── venv_activate
 ```
 
-## Scripts
+---
 
-### 1. alt_swticher.sh -- this script makes a gui for switching between apps
+## alt_swticher.sh
+This script provides a window switcher for the Hyprland window manager using `rofi`. It lists all open windows and allows you to focus them.
 
-### 2. docplod -- for syncing the Documents/vaults to the docs github repo in ~/github_repos/my_repositories//docs and then commitng and pushing the commits with the date and time as the commit message. It also has an option of customizing the commit message by passing the c option to it like this "docpload c"
+**Usage:**
+```bash
+./alt_swticher.sh
+```
+This script does not accept any command-line arguments.
 
-### 3. dotpload -- for syncing the ~/Pictures/wallpaper/ , ~/scripts/ , ~/.config/ , ~/.bashrc file to the github repo in github_repos/my_repositories/dotfiles/ and then respective places and then uploading them in the respective folders and then commiting them with the current date and time as the commit message. the commit message can also be customized by passing the c option to this script like "dotpload c" and then it will prompt you for the commit message
+---
 
-### 4. github_repo_enter -- this script is used to enter the ~/github_repos/my_repositories/ or ~/github_repos/clones/ depending on what is chosen it can also be used by giving the repo we want to enter into as a command line argument 'm' for my_repositories and 'c' for clones
+## docpload
+This script automates the process of backing up documents to a Git repository. It uses `rsync` to copy files from `~/Documents/vaults` to the `~/github_repos/my_repositories/docs` repository and then pushes the changes to the `main` branch.
 
-### 5. gitunlock -- this repo is used to delete the index.lock file in the .git dir
+**Usage:**
+```bash
+./docpload [c]
+```
+- If run without arguments, it commits with a default message (the current date and time).
+- If run with the `c` argument, it will prompt you to enter a custom commit message.
 
-### 6. gpush.sh -- this scipt simply stages all the changed file and then after asking for a commit message commits and then pushes those commits to github
+---
 
-### 7. mkenter.sh -- this script asks for the name of the dir you want to create and then cd into it. Altenatively you can also pass the name of the dir as a command line argument if you want to be even faster
+## dotpload
+This script automates the backup of dotfiles. It uses `rsync` to copy configuration files from `~/.config`, `~/.bashrc`, and `~/scripts` to the `~/github_repos/my_repositories/dotfiles` repository. It excludes several directories to avoid backing up sensitive or unnecessary data.
 
-### 8. okay -- a fun lil script and also one of my first scripts that i made that responds with OKAYYYYYY! so what's next? whenever you type okay in the shell
+**Usage:**
+```bash
+./dotpload [c]
+```
+- If run without arguments, it commits with a default message (the current date and time).
+- If run with the `c` argument, it will prompt you to enter a custom commit message.
 
-### 9. pload -- runs both the docpload and the dotpload script normally without any command line arguments but if the 'c' option is given to it like 'pload c' then it runs both the scripts then it passes the c argument to both the scripts
+---
 
-### 10. search -- a script for searching the web checkout 'search -h' for all the details on all the options
+## dring
+A simple script that changes the current directory to `/home/deepanshu/dataring/` and starts a new shell session.
 
-### 11. tree -- gives a file tree structure for all the files in the current dir and all the subsequent sub directries.
+**Usage:**
+```bash
+./dring
+```
+This script does not accept any command-line arguments.
 
-### 12. uptime.sh -- a simple script for giving the output of the uptime command but making it more human readable
+---
+
+## github_repo_enter
+This script provides a convenient way to navigate to your GitHub repositories. It prompts you to choose between your cloned repositories (`c`) and your own repositories (`m`) and then changes the directory accordingly.
+
+**Usage:**
+```bash
+./github_repo_enter [c|m]
+```
+- If run without arguments, it will prompt you to choose a directory.
+- `c`: Navigates to the `clones` directory.
+- `m`: Navigates to the `my_repositories` directory.
+
+---
+
+## gitunlock
+This Python script removes the `index.lock` file from the `.git` directory. This is useful when a Git process is interrupted and leaves the lock file behind, preventing further Git commands from running.
+
+**Usage:**
+```bash
+./gitunlock
+```
+This script does not accept any command-line arguments.
+
+---
+
+## gpush
+This script simplifies the process of pushing changes to a Git repository. It adds all files, prompts for a commit message, and then pushes to the `main` branch by default. You can also specify a different branch as an argument.
+
+**Usage:**
+```bash
+./gpush [branch_name]
+```
+- If run without arguments, it pushes to the `main` branch.
+- `[branch_name]`: The name of the branch to push to.
+
+---
+
+## labpload
+This script automates the backup of your homelab configuration. It uses `rsync` to copy files from `~/homelab_setups` to the `~/github_repos/my_repositories/homelab-config` repository and then pushes the changes to the `main` branch.
+
+**Usage:**
+```bash
+./labpload [c]
+```
+- If run without arguments, it commits with a default message (the current date and time).
+- If run with the `c` argument, it will prompt you to enter a custom commit message.
+
+---
+
+## learning
+This script is a shortcut to your learning projects. It changes the directory to `~/github_repos/my_repositories/learning/` and can also navigate to subdirectories for specific topics like web scraping or Rust.
+
+**Usage:**
+```bash
+./learning [w|r]
+```
+- If run without arguments, it navigates to the `learning` directory.
+- `w`: Navigates to the `webscrapping` subdirectory.
+- `r`: Navigates to the `rust` subdirectory.
+
+---
+
+## mkenter.sh
+This script creates a new directory and then immediately changes the current directory to the newly created one.
+
+**Usage:**
+```bash
+./mkenter.sh [directory_name]
+```
+- If run without arguments, it will prompt you to enter a directory name.
+- `[directory_name]`: The name of the directory to create.
+
+---
+
+## okay
+A simple script that prints a friendly message to the console.
+
+**Usage:**
+```bash
+./okay
+```
+This script does not accept any command-line arguments.
+
+---
+
+## pload
+This script is a master script that runs `dotpload`, `docpload`, and `wallpload` in sequence. This allows you to back up all your configurations, documents, and wallpapers with a single command.
+
+**Usage:**
+```bash
+./pload [c]
+```
+- If run without arguments, it commits with a default message (the current date and time) for each of the sub-scripts.
+- If run with the `c` argument, it will prompt you to enter a custom commit message for each of the sub-scripts.
+
+---
+
+## search
+This script allows you to search the web from the command line. It opens a new Chromium window with your search query. You can specify whether to search on Google or YouTube, and whether to use incognito mode.
+
+**Usage:**
+```bash
+./search [options] [search_query]
+```
+- **Options:**
+  - `i`: Opens the search in incognito mode.
+  - `n`: Opens the search in a new window.
+  - `g`: Searches on Google.
+  - `y`: Searches on YouTube (default).
+  - `fs`: Performs a focused search on a predefined list of websites.
+  - `-h`: Displays a help message.
+
+---
+
+## speed_net
+This script displays the current network traffic, showing the amount of data received (RX) and transmitted (TX). It is designed to be used with a status bar like i3blocks or Polybar.
+
+**Usage:**
+```bash
+./speed_net
+```
+This script does not accept any command-line arguments.
+
+---
+
+## tree
+This Python script provides a visual representation of the directory structure, similar to the `tree` command. It displays the files and directories in a tree-like format.
+
+**Usage:**
+```bash
+./tree [directory]
+```
+- If run without arguments, it displays the tree for the current directory.
+- `[directory]`: The directory to display the tree for.
+
+---
+
+## turn_off_screen
+This script allows you to turn off your laptop or monitor screen using `hyprctl`. This is useful for saving power or for privacy.
+
+**Usage:**
+```bash
+./turn_off_screen [l|m|monitor_name]
+```
+- If run without arguments, it will prompt you to choose a screen.
+- `l`: Turns off the laptop screen (`eDP-1`).
+- `m`: Turns off the monitor screen (`DP-1`).
+- `[monitor_name]`: The name of the monitor to turn off.
+
+---
+
+## uptime.sh
+This script displays the system uptime in a human-readable format.
+
+**Usage:**
+```bash
+./uptime.sh
+```
+This script does not accept any command-line arguments.
+
+---
+
+## wallpload
+This script automates the backup of your wallpapers. It uses `rsync` to copy images from `~/Pictures/wallpaper` to the `~/github_repos/my_repositories/wallpapers` repository and then pushes the changes to the `main` branch.
+
+**Usage:**
+```bash
+./wallpload [c]
+```
+- If run without arguments, it commits with a default message (the current date and time).
+- If run with the `c` argument, it will prompt you to enter a custom commit message.

@@ -3,11 +3,13 @@
 if [ $# -eq 0 ]; then
 dotpload
 docpload
+wallpload
 
 else
   if [ "$1" == 'c' ]; then
    dotpload c 
    docpload c
+   wallpload c
 
   else
     echo "use argument 'c' to give custom commit messages"

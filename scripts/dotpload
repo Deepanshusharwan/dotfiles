@@ -19,11 +19,11 @@ echo ""
 echo "Backing up the bashrc to dotfiles/bashrc"
 rsync -avh --progress "$HOME/.bashrc" "$repo_path/bashrc/"
 
-# now we will backup the changes from the wallpaper 
-echo ""
-echo ""
-echo "Backing up the wallpapers to dotfiles/wallpapers"
-rsync -avh --progress "$HOME/Pictures/wallpaper/." "$repo_path/wallpapers/"
+## now we will backup the changes from the wallpaper 
+#echo ""
+#echo ""
+#echo "Backing up the wallpapers to dotfiles/wallpapers"
+#rsync -avh --progress "$HOME/Pictures/wallpaper/." "$repo_path/wallpapers/"
 
 #now we will backup the changes to the scripts
 echo ""
