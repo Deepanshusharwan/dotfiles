@@ -11,7 +11,7 @@ repo_path="$HOME/github_repos/my_repositories/dotfiles"
 
 # so first lets backup the config directory with the rsync
 echo "Setting up the rsync to backup everything to dotfiles/config"
-rsync -avh --progress --delete --exclude={'chromium','Code*','VirtualBox','Slack','slack','pritunl','QtProject*','dconf','obsidian*','google-chrom*','JetBrains','BraveSoftwar*'} "$HOME/.config/." "$repo_path/config/"
+rsync -avh --progress --delete --exclude={'chromium','gcloud','Code*','VirtualBox','Slack','slack','pritunl','QtProject*','dconf','obsidian*','google-chrom*','JetBrains','BraveSoftwar*'} "$HOME/.config/." "$repo_path/config/"
 
 # now we will backup everything in the bashrc
 echo ""

@@ -1,12 +1,12 @@
 {
     "DesktopAudioDevice1": {
-        "prev_ver": 520159233,
+        "prev_ver": 536870913,
         "name": "Desktop Audio",
-        "uuid": "2dcccd7a-6bea-407d-a3c6-15a1c6256e7c",
+        "uuid": "b9eba123-3e68-4424-b1fc-21fee0da8127",
         "id": "pulse_output_capture",
         "versioned_id": "pulse_output_capture",
         "settings": {
-            "device_id": "bluez_output.3C_B0_ED_99_09_70.1.monitor"
+            "device_id": "default"
         },
         "mixers": 255,
         "sync": 0,
@@ -30,14 +30,14 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "DesktopAudioDevice2": {
-        "prev_ver": 520159233,
-        "name": "Desktop Audio 2",
-        "uuid": "5dade68a-615e-44c3-9f41-29824964fcab",
-        "id": "pulse_output_capture",
-        "versioned_id": "pulse_output_capture",
+    "AuxAudioDevice1": {
+        "prev_ver": 536870913,
+        "name": "Mic/Aux",
+        "uuid": "2454799a-8bfe-4b0a-9ce5-c2bb74568213",
+        "id": "pulse_input_capture",
+        "versioned_id": "pulse_input_capture",
         "settings": {
-            "device_id": "bluez_output.3C_B0_ED_99_09_70.1.monitor"
+            "device_id": "default"
         },
         "mixers": 255,
         "sync": 0,
@@ -71,18 +71,18 @@
     "name": "Untitled",
     "sources": [
         {
-            "prev_ver": 520159233,
+            "prev_ver": 536870913,
             "name": "Scene",
-            "uuid": "a75c90e4-89bc-436c-b8cd-e68bd973fbd0",
+            "uuid": "46071c83-85f5-4d60-9b04-61875c8b2240",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 1,
+                "id_counter": 2,
                 "custom_size": false,
                 "items": [
                     {
                         "name": "Screen Capture (PipeWire)",
-                        "source_uuid": "7d5d1e65-ab54-4950-a69d-cff85043c4bc",
+                        "source_uuid": "fa1ce652-ef31-48b4-bda3-9ae0d3b4e98e",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -101,20 +101,20 @@
                         "id": 1,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 9.0,
-                            "y": 0.0
+                            "x": 106.0,
+                            "y": 79.0
                         },
                         "pos_rel": {
-                            "x": -1.7610609531402588,
-                            "y": -1.0
+                            "x": -1.5814814567565918,
+                            "y": -0.8537037372589111
                         },
                         "scale": {
-                            "x": 0.6621527671813965,
-                            "y": 0.6623457074165344
+                            "x": 0.66015625,
+                            "y": 0.6604166626930237
                         },
                         "scale_rel": {
-                            "x": 0.6621527671813965,
-                            "y": 0.6623457074165344
+                            "x": 0.66015625,
+                            "y": 0.6604166626930237
                         },
                         "bounds": {
                             "x": 0.0,
@@ -160,9 +160,9 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159233,
+            "prev_ver": 536870913,
             "name": "Screen Capture (PipeWire)",
-            "uuid": "7d5d1e65-ab54-4950-a69d-cff85043c4bc",
+            "uuid": "fa1ce652-ef31-48b4-bda3-9ae0d3b4e98e",
             "id": "pipewire-screen-capture-source",
             "versioned_id": "pipewire-screen-capture-source",
             "settings": {
@@ -217,7 +217,7 @@
     "transition_duration": 300,
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": -1,
+    "scaling_level": 0,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "modules": {

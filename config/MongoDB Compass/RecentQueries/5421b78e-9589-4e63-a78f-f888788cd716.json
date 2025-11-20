@@ -1,0 +1,11 @@
+{
+  "filter": {
+    "event_type": "mcp_create"
+  },
+  "_ns": "chalkdoor-db.audit_logs",
+  "_host": "chalkdoor-cluster-pl-0.jptsiv.mongodb.net",
+  "_id": "5421b78e-9589-4e63-a78f-f888788cd716",
+  "_lastExecuted": {
+    "$date": "2025-09-18T16:55:47.944Z"
+  }
+}

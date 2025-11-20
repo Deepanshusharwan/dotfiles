@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+
+# use hyprctl reload to reset the screen (recommended)
+# or you can use `hyprctl keyword monitor "<monitor name>, enable"`
+if [ $# -eq 0 ]; then
+  read -p "Enter 'l' to turn off the laptop screen or enter 'm' to turn off the monitor screen" screen
+  if [ "$screen" == "l" ]; then
+    hyprctl keyword monitor "eDP-1, disable" || { echo "something went wrong while trying to disable the eDP-1 monitor";}
+
+  elif [ "$screen" == "m" ]; then
+    hyprctl keyword monitor "DP-1,disable" || { echo "something went wrong while trying to disable the DP-1 monitor";}
+
+  else 
+  echo "Please choose one of the valid options."
+  fi
+
+else
+  if [ "$1" == "m" ]; then
+    hyprctl keyword monitor "DP-1,disable" || { echo "something went wrong while trying to disable the DP-1 monitor";}
+  elif [ "$1" == "l" ]; then
+    hyprctl keyword monitor "eDP-1, disable" || { echo "something went wrong while trying to disable the eDP-1 monitor";}
+
+  else 
+    hyprctl keyword monitor "$1, disable" || { echo "something went wrong while trying to disable the $1 monitor";}
+
+  fi
+fi

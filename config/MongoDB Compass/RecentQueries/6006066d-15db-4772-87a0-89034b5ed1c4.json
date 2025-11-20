@@ -1,0 +1,11 @@
+{
+  "filter": {
+    "google_id": "68760be6a1406a98fea5ba70"
+  },
+  "_ns": "chalkdoor-db.users",
+  "_host": "chalkdoor-cluster-pl-0.jptsiv.mongodb.net",
+  "_id": "6006066d-15db-4772-87a0-89034b5ed1c4",
+  "_lastExecuted": {
+    "$date": "2025-09-15T17:21:52.445Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "99f3e41a-8ff5-4d41-a006-b98599748ac3",
+  "connectionInfo": {
+    "id": "99f3e41a-8ff5-4d41-a006-b98599748ac3",
+    "connectionOptions": {
+      "connectionString": "mongodb+srv://chalkdoor-mongo@chalkdoor-cluster-pl-0.jptsiv.mongodb.net/?retryWrites=true&w=majority&appName=chalkdoor-cluster",
+      "oidc": {}
+    },
+    "savedConnectionType": "recent",
+    "favorite": {
+      "name": "chalkdoor-cluster-pl-0.jptsiv.mongodb.net"
+    },
+    "lastUsed": "2025-10-17T15:12:11.298Z"
+  },
+  "version": 1
+}
