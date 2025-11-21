@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 echo "-------------------------------------------------------------------------"
-echo "WELCOME TO THE DOCPLOAD SCRIPT"
+echo "WELCOME TO THE WALLPLOAD SCRIPT"
 echo ""
 
 set -e
@@ -10,8 +10,6 @@ set -e
 repo_path="$HOME/github_repos/my_repositories/wallpapers"
 
 # now we will backup the changes from the wallpaper 
-echo ""
-echo ""
 echo "Backing up the wallpapers to /wallpapers"
 rsync -avh --progress "$HOME/Pictures/wallpaper/." "$repo_path/"
 
