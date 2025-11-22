@@ -12,7 +12,7 @@ repo_path="$HOME/github_repos/my_repositories/docs"
 #setting up the rsync
 echo "Setting up the rsync to backup everything to docs/vaults"
 echo ""
-rsync -avh --progress --delete "$HOME/Documents/vaults/." "$repo_path/vaults/"
+rsync -avh --progress --delete "$HOME/Documents/vault/." "$repo_path/vaults/"
 
 
 echo "" 
