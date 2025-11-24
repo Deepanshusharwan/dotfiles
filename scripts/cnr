@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+gcc main.cpp -o bin
+./bin
+
+
+
+#make it so it checks what the main file is .c .cpp or .py etc etc and then handles that accordingly
