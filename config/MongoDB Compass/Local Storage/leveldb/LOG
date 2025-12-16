@@ -10,3 +10,15 @@
 2025/12/16-09:19:06.347 3ec9de Level-0 table #116: started
 2025/12/16-09:19:06.352 3ec9de Level-0 table #116: 15512 bytes OK
 2025/12/16-09:19:06.355 3ec9de Delete type=0 #113
+2025/12/16-09:52:06.347 3ec9de Level-0 table #118: started
+2025/12/16-09:52:06.352 3ec9de Level-0 table #118: 15500 bytes OK
+2025/12/16-09:52:06.354 3ec9de Delete type=0 #115
+2025/12/16-09:52:06.355 3ec9de Compacting 4@0 + 1@1 files
+2025/12/16-09:52:06.356 3ec9de Generated table #119@0: 6 keys, 1358 bytes
+2025/12/16-09:52:06.356 3ec9de Compacted 4@0 + 1@1 files => 1358 bytes
+2025/12/16-09:52:06.359 3ec9de compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/16-09:52:06.359 3ec9de Delete type=2 #109
+2025/12/16-09:52:06.359 3ec9de Delete type=2 #112
+2025/12/16-09:52:06.359 3ec9de Delete type=2 #114
+2025/12/16-09:52:06.359 3ec9de Delete type=2 #116
+2025/12/16-09:52:06.359 3ec9de Delete type=2 #118
