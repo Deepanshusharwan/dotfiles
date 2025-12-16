@@ -1,7 +1,7 @@
 {
   "id": "General",
-  "lastKnownVersion": "1.48.0",
-  "highestInstalledVersion": "1.48.0",
+  "lastKnownVersion": "1.48.2",
+  "highestInstalledVersion": "1.48.2",
   "showedNetworkOptIn": true,
   "theme": "OS_THEME",
   "telemetryAnonymousId": "24323800-90a7-4a05-99a9-e76ad3d559c1",
@@ -9,13 +9,14 @@
   "enableConnectInNewWindow": true,
   "showEndOfLifeConnectionModal": true,
   "windowBounds": {
-    "x": 148,
-    "y": 81,
-    "width": 1432,
-    "height": 810,
+    "x": 2883,
+    "y": 33,
+    "width": 2394,
+    "height": 1314,
     "isMaximized": false,
     "isFullScreen": false
   },
+  "enableGuideCues": true,
   "cloudFeatureRolloutAccess": {
     "GEN_AI_COMPASS": true
   },
@@ -66,6 +67,7 @@
   "enableGlobalWrites": false,
   "enableExportSchema": false,
   "enableDataModeling": false,
+  "enableDataModelingCollapse": false,
   "enableIndexesGuidanceExp": false,
   "showIndexesGuidanceVariant": false,
   "enableContextMenus": false,
@@ -73,5 +75,6 @@
   "enableSearchActivationProgramP1": false,
   "enableAIAssistant": false,
   "enablePerformanceInsightsEntrypoints": false,
+  "enableRestoreWorkspaces": false,
   "enableAutomaticRelationshipInference": false
 }

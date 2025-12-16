@@ -1,3 +1,12 @@
-2025/10/26-19:37:27.695 13670e Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
-2025/10/26-19:37:27.695 13670e Recovering log #107
-2025/10/26-19:37:27.696 13670e Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000107.log 
+2025/12/15-22:44:23.034 3ec9df Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
+2025/12/15-22:44:23.034 3ec9df Recovering log #107
+2025/12/15-22:44:23.038 3ec9df Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000107.log 
+2025/12/15-22:45:23.040 3ec9de Level-0 table #112: started
+2025/12/15-22:45:23.045 3ec9de Level-0 table #112: 15811 bytes OK
+2025/12/15-22:45:23.049 3ec9de Delete type=0 #107
+2025/12/15-23:20:24.173 3ec9de Level-0 table #114: started
+2025/12/15-23:20:24.202 3ec9de Level-0 table #114: 15827 bytes OK
+2025/12/15-23:20:24.205 3ec9de Delete type=0 #111
+2025/12/16-09:19:06.347 3ec9de Level-0 table #116: started
+2025/12/16-09:19:06.352 3ec9de Level-0 table #116: 15512 bytes OK
+2025/12/16-09:19:06.355 3ec9de Delete type=0 #113
