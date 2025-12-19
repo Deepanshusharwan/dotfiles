@@ -1,24 +1,21 @@
-2025/12/15-22:44:23.034 3ec9df Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
-2025/12/15-22:44:23.034 3ec9df Recovering log #107
-2025/12/15-22:44:23.038 3ec9df Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000107.log 
-2025/12/15-22:45:23.040 3ec9de Level-0 table #112: started
-2025/12/15-22:45:23.045 3ec9de Level-0 table #112: 15811 bytes OK
-2025/12/15-22:45:23.049 3ec9de Delete type=0 #107
-2025/12/15-23:20:24.173 3ec9de Level-0 table #114: started
-2025/12/15-23:20:24.202 3ec9de Level-0 table #114: 15827 bytes OK
-2025/12/15-23:20:24.205 3ec9de Delete type=0 #111
-2025/12/16-09:19:06.347 3ec9de Level-0 table #116: started
-2025/12/16-09:19:06.352 3ec9de Level-0 table #116: 15512 bytes OK
-2025/12/16-09:19:06.355 3ec9de Delete type=0 #113
-2025/12/16-09:52:06.347 3ec9de Level-0 table #118: started
-2025/12/16-09:52:06.352 3ec9de Level-0 table #118: 15500 bytes OK
-2025/12/16-09:52:06.354 3ec9de Delete type=0 #115
-2025/12/16-09:52:06.355 3ec9de Compacting 4@0 + 1@1 files
-2025/12/16-09:52:06.356 3ec9de Generated table #119@0: 6 keys, 1358 bytes
-2025/12/16-09:52:06.356 3ec9de Compacted 4@0 + 1@1 files => 1358 bytes
-2025/12/16-09:52:06.359 3ec9de compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/12/16-09:52:06.359 3ec9de Delete type=2 #109
-2025/12/16-09:52:06.359 3ec9de Delete type=2 #112
-2025/12/16-09:52:06.359 3ec9de Delete type=2 #114
-2025/12/16-09:52:06.359 3ec9de Delete type=2 #116
-2025/12/16-09:52:06.359 3ec9de Delete type=2 #118
+2025/12/18-18:14:34.499 cc676 Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
+2025/12/18-18:14:34.500 cc676 Recovering log #131
+2025/12/18-18:14:34.500 cc676 Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000131.log 
+2025/12/18-18:41:34.974 cc675 Level-0 table #135: started
+2025/12/18-18:41:34.980 cc675 Level-0 table #135: 15803 bytes OK
+2025/12/18-18:41:34.983 cc675 Delete type=0 #131
+2025/12/18-19:14:34.974 cc675 Level-0 table #137: started
+2025/12/18-19:14:35.002 cc675 Level-0 table #137: 15497 bytes OK
+2025/12/18-19:14:35.005 cc675 Delete type=0 #134
+2025/12/18-19:14:35.006 cc675 Compacting 4@0 + 1@1 files
+2025/12/18-19:14:35.007 cc675 Generated table #138@0: 7 keys, 1378 bytes
+2025/12/18-19:14:35.007 cc675 Compacted 4@0 + 1@1 files => 1378 bytes
+2025/12/18-19:14:35.010 cc675 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/18-19:14:35.010 cc675 Delete type=2 #128
+2025/12/18-19:14:35.010 cc675 Delete type=2 #130
+2025/12/18-19:14:35.010 cc675 Delete type=2 #132
+2025/12/18-19:14:35.010 cc675 Delete type=2 #135
+2025/12/18-19:14:35.010 cc675 Delete type=2 #137
+2025/12/18-21:08:22.402 cc676 Level-0 table #140: started
+2025/12/18-21:08:22.408 cc676 Level-0 table #140: 15497 bytes OK
+2025/12/18-21:08:22.415 cc676 Delete type=0 #136
