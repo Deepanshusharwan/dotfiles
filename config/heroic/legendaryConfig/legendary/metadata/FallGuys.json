@@ -1,0 +1,266 @@
+{
+  "app_name": "FallGuys",
+  "app_title": "Fall Guys",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {
+      "ACB": {
+        "ageControl": 0,
+        "descriptor": "Online Interactivity",
+        "descriptorIds": [
+          181
+        ],
+        "elementIds": [],
+        "gameRating": "General",
+        "isIARC": false,
+        "isTrad": true,
+        "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ACB_G_192_192x192-7b943fb85a42a888515791340eff2366",
+        "ratingSystem": "ACB",
+        "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/AUS-G_530x530-8de1de50350653f6bf4b2a55fbc1fa05",
+        "title": "General"
+      },
+      "CERO": {
+        "ageControl": 0,
+        "descriptorIds": [],
+        "elementIds": [],
+        "gameRating": "\u5168\u5e74\u9f62\u5bfe\u8c61",
+        "isIARC": false,
+        "isTrad": true,
+        "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/cero_a_208x256-0a7bc37aeba34b1c641c1f3812fcf7d1",
+        "ratingSystem": "CERO",
+        "title": "\u5168\u5e74\u9f62\u5bfe\u8c61"
+      },
+      "ClassInd": {
+        "ageControl": 0,
+        "descriptorIds": [],
+        "element": "Usu\u00e1rios Interagem,Compras no Jogo",
+        "elementIds": [
+          11,
+          21
+        ],
+        "gameRating": "Livre",
+        "isIARC": false,
+        "isTrad": true,
+        "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ClassInd_L_192_192x192-aa1269028601dc012f85035c1d7d7051",
+        "ratingSystem": "ClassInd",
+        "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/CLASSIND-L_530x530-c5b29e0ece4d40ec2f4ebea341c60e23",
+        "title": "Livre"
+      },
+      "ESRB": {
+        "ageControl": 0,
+        "descriptor": "Mild Cartoon Violence",
+        "descriptorIds": [
+          13
+        ],
+        "element": "Users Interact,In-Game Purchases",
+        "elementIds": [
+          11,
+          21
+        ],
+        "gameRating": "Everyone",
+        "isIARC": false,
+        "isTrad": true,
+        "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_E_192_192x192-d19524ed4facfee97d7372b6e5cd51f8",
+        "ratingSystem": "ESRB",
+        "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB-EN-E_354x530-77d61f8b877ae9687a4a40985a5f0105",
+        "title": "Everyone"
+      },
+      "GRAC": {
+        "ageControl": 0,
+        "descriptorIds": [],
+        "elementIds": [],
+        "gameRating": "\uc804\uccb4\uc774\uc6a9\uac00",
+        "isIARC": false,
+        "isTrad": true,
+        "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/GRAC_All_192_192x192-0973b9b3768114fdfa4d864efd697ae2",
+        "ratingSystem": "GRAC",
+        "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRAC-ALL_396x530-56fd85544364d3eab30fe93ed24e9394",
+        "title": "\uc804\uccb4\uc774\uc6a9\uac00"
+      },
+      "PEGI": {
+        "ageControl": 3,
+        "descriptor": "In-Game Purchases",
+        "descriptorIds": [
+          895
+        ],
+        "elementIds": [],
+        "gameRating": "PEGI 3",
+        "isIARC": false,
+        "isTrad": true,
+        "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_3_192_192x192-490b93ddf59fb4ac1148d1eb9083626a",
+        "ratingSystem": "PEGI",
+        "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-3_435x530-c931ab5bb4eb190f6e8e542081c49dc4",
+        "title": "PEGI 3"
+      },
+      "Russia": {
+        "ageControl": 0,
+        "descriptorIds": [],
+        "element": "\u0412\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439,\u0412\u043d\u0443\u0442\u0440\u0438\u0438\u0433\u0440\u043e\u0432\u044b\u0435 \u043f\u043e\u043a\u0443\u043f\u043a\u0438",
+        "elementIds": [
+          11,
+          21
+        ],
+        "gameRating": "\u041b\u0438\u0446\u0430 \u043b\u044e\u0431\u043e\u0433\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430",
+        "isIARC": false,
+        "isTrad": true,
+        "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/Russia_0_192_192x192-b73741456915d13601b44e994db17367",
+        "ratingSystem": "Russia",
+        "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/RU-0plus_530x530-fa9db177f281f5037629b95de7777fe3",
+        "title": "\u041b\u0438\u0446\u0430 \u043b\u044e\u0431\u043e\u0433\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430"
+      },
+      "USK": {
+        "ageControl": 6,
+        "descriptorIds": [],
+        "element": "Chats,In-Game-K\u00e4ufe",
+        "elementIds": [
+          11,
+          21
+        ],
+        "gameRating": "USK ab 6",
+        "isIARC": false,
+        "isTrad": true,
+        "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/USK_6_192_192x192-0e4126fd64745c56a34d5abfb0586390",
+        "ratingSystem": "USK",
+        "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/USK-6_530x530-4607360a9f3e1b1b06f334db4aefe16d",
+        "title": "USK ab 6"
+      }
+    },
+    "applicationId": "fghi45677JW4O6a40cxsOpscCLcr3Z3j",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-10-19T21:38:44.217Z",
+    "customAttributes": {
+      "AppAccessType": {
+        "type": "STRING",
+        "value": "Public"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipCabinedWarning": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "piciEGATest"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "50118b7f954e450f8823df1614b24e80"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "com.epicgames.portal.product.contactSupportUrl": {
+        "type": "STRING",
+        "value": "https://www.epicgames.com/help/c-Category_FallGuys"
+      },
+      "com.epicgames.portal.product.privacyPolicyUrl": {
+        "type": "STRING",
+        "value": "https://www.epicgames.com/site/privacypolicy"
+      },
+      "com.epicgames.portal.product.websiteUrl": {
+        "type": "STRING",
+        "value": "https://www.fallguys.com/"
+      }
+    },
+    "description": "Fall Guys is a free, cross-platform multiplayer party royale game. Dive into escalating rounds of hilarious obstacle courses, lively survival arenas and more!",
+    "developer": "EGFG LLC",
+    "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+    "endOfSupport": false,
+    "entitlementName": "65ea2c9c309d4e6db342fab47b84003c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "epicgames_tos"
+    ],
+    "id": "65ea2c9c309d4e6db342fab47b84003c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1024,
+        "md5": "bf9c76a9240bef4a267c1975148f1354",
+        "size": 820644,
+        "type": "AndroidIcon",
+        "uploadedDate": "2024-10-16T20:16:20.855Z",
+        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/1024x1024_1024x1024-bf9c76a9240bef4a267c1975148f1354",
+        "width": 1024
+      },
+      {
+        "height": 1440,
+        "md5": "39f0af2dacbf4345317c3069e5a88382",
+        "size": 662439,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-06-26T17:08:51.996Z",
+        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/2560x1440-FG-Mob-Diesel-Art-V2-JPG_2560x1440-39f0af2dacbf4345317c3069e5a88382",
+        "width": 2560
+      },
+      {
+        "height": 1179,
+        "md5": "006efb2712f584d8a018a29d3f16f360",
+        "size": 3261137,
+        "type": "Screenshot",
+        "uploadedDate": "2024-06-24T15:39:48.705Z",
+        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/Screenshot11_2556x1179-006efb2712f584d8a018a29d3f16f360",
+        "width": 2556
+      },
+      {
+        "height": 1179,
+        "md5": "ae1821ce5a0add1d4794a73317dbf172",
+        "size": 2524274,
+        "type": "Screenshot",
+        "uploadedDate": "2024-06-24T15:40:18.612Z",
+        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/Screenshot21_2556x1179-ae1821ce5a0add1d4794a73317dbf172",
+        "width": 2556
+      },
+      {
+        "height": 1179,
+        "md5": "e9141c407999996fc17ab8751570891d",
+        "size": 3699274,
+        "type": "Screenshot",
+        "uploadedDate": "2024-06-24T15:40:48.972Z",
+        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/Screenshot31_2556x1179-e9141c407999996fc17ab8751570891d",
+        "width": 2556
+      }
+    ],
+    "lastModifiedDate": "2025-11-28T16:59:28.497Z",
+    "legalFooterText": "\u00a9 2025 Mediatonic Limited. All rights reserved. The Mediatonic logo, Fall Guys, and the Fall Guys logo and characters are trademarks or registered trademarks of Mediatonic Limited in the USA and elsewhere. Items shown may require separate purchase from the in-game store and are subject to availability.",
+    "longDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.\n\nCreate your own Course: Fall Guys Creative is a level editor that allows you to create fiendish custom Rounds and share them with the wider community.\n\nCompetitive & Cooperative: Tumble between competitive free-for-alls and cooperative challenges\u2014or take on the Blunderdome with up to 3 friends!\n\nRanked Knockout: Compete in Ranked Knockout to prove your skills, earn badges, and rise to Superstar status. Unlock unique cosmetic rewards and show the Blunderdome who\u2019s top bean!\n\nPlay with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account.\n\nGloriously Customizable: Choose from a multitude of Colors, Patterns, Costumes and Nameplates. Relish wins with extravagant Celebrations and share your flair with Emotes!\n\nItems shown may require separate purchase from the in-game store and are subject to availability. Contains in-game purchases.",
+    "mainGameItemList": [],
+    "namespace": "50118b7f954e450f8823df1614b24e80",
+    "releaseInfo": [
+      {
+        "appId": "FallGuys",
+        "compatibleApps": [],
+        "dateAdded": "2023-10-19T21:37:00.000Z",
+        "id": "7faacb583b6f4684ab765060765bc115",
+        "platform": [
+          "Android"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "technicalDetails": "* Android 7.0\n* 3 GB RAM\n* 2 GB available space\n* Internet connection\n* Login Accounts Required - Epic Games",
+    "title": "Fall Guys",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

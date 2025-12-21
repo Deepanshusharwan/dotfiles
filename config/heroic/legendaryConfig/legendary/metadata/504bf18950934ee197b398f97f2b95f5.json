@@ -1,0 +1,116 @@
+{
+  "app_name": "504bf18950934ee197b398f97f2b95f5",
+  "app_title": "Hone",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "504bf18950934ee197b398f97f2b95f5",
+      "asset_id": "504bf18950934ee197b398f97f2b95f5",
+      "build_version": "1.1.61",
+      "catalog_item_id": "cb7ad2e2438c42bb965b950d67237090",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b717af4e6cd7465baf3ea6dc2824fa13",
+        "update_type": "PATCH"
+      },
+      "namespace": "6f8addca2fba41539d30094249b6aa91",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567X7FhQcsU6xRmEaLt9HOfbhrl",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-12T14:26:45.963Z",
+    "customAttributes": {
+      "AllowMultipleInstances": {
+        "type": "STRING",
+        "value": "FALSE"
+      },
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "HttpClient, TotalReg, SysInfo, SetTimerResolution, HoneSvc, HoneTune"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Hone"
+      },
+      "LaunchElevated": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "Hone"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "FALSE"
+      },
+      "NotarizedAndSigned": {
+        "type": "STRING",
+        "value": "FALSE"
+      },
+      "SkipAutoInstallDlc": {
+        "type": "STRING",
+        "value": "TRUE"
+      }
+    },
+    "description": "Hone",
+    "developer": "Auraside, Inc.",
+    "developerId": "o-jrknf2q5ssuf7f8yznh3v3r4q75jj3",
+    "endOfSupport": false,
+    "entitlementName": "cb7ad2e2438c42bb965b950d67237090",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "cb7ad2e2438c42bb965b950d67237090",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Hone Offer",
+        "height": 1440,
+        "md5": "00ab4e5f3bcc5cbddf6783e14d947144",
+        "size": 2018808,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-04-16T08:54:22.981Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4690104e45c34445addab9503870dcc9/hone-11rzz.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Hone Offer",
+        "height": 1600,
+        "md5": "6b349ac34d242c362eb33e903de28248",
+        "size": 1193188,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-04-16T08:54:23.618Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4690104e45c34445addab9503870dcc9/hone-17vlq.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-12-19T14:05:32.524Z",
+    "mainGameItemList": [],
+    "namespace": "6f8addca2fba41539d30094249b6aa91",
+    "releaseInfo": [
+      {
+        "appId": "504bf18950934ee197b398f97f2b95f5",
+        "id": "7ae83df6f1c94bdabbfd3236dd1138f6",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Hone",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,3823 @@
+{
+  "app_name": "aa7093efba5b4760ad413c01fbdd0fae",
+  "app_title": "Asphalt Legends",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "aa7093efba5b4760ad413c01fbdd0fae",
+      "asset_id": "aa7093efba5b4760ad413c01fbdd0fae",
+      "build_version": "48.0.5a_v2",
+      "catalog_item_id": "0073e920c0ca49bc8da9cde44836ebe1",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "5bbf1cb7779c45fea08ef51a46ad2226",
+        "update_type": "MAJOR"
+      },
+      "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-01-03T21:52:36.327Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "AsphaltLegendsUnite"
+      }
+    },
+    "description": "Asphalt Legends",
+    "developer": "Gameloft SE",
+    "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:09:05.232Z",
+        "description": "SPass_Legends_Pass_Special_21_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "afb10fdad160432290bb4f34bb3f14fe",
+        "entitlementType": "AUDIENCE",
+        "id": "afb10fdad160432290bb4f34bb3f14fe",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-15T13:45:41.834Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Legends_Pass_Special_21_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T08:58:57.900Z",
+        "description": "PVC Matrix 5_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "e7f827c873074e31a7a078fa2b2b62f2",
+        "entitlementType": "AUDIENCE",
+        "id": "e7f827c873074e31a7a078fa2b2b62f2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:18.251Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "PVC Matrix 5_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T13:19:19.652Z",
+        "description": "BonusPass_Multiplayer_Pass_7_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "58f078ed257e439da8d4dcba4d87d7e0",
+        "entitlementType": "AUDIENCE",
+        "id": "58f078ed257e439da8d4dcba4d87d7e0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.818Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BonusPass_Multiplayer_Pass_7_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T15:55:51.192Z",
+        "description": "Legend Pass_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "dee941893e334213ab7441a64ccf446d",
+        "entitlementType": "AUDIENCE",
+        "id": "dee941893e334213ab7441a64ccf446d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:18.251Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Legend Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T12:44:12.967Z",
+        "description": "Popup_Offer_4_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2f3d562f7eb745498ae55c5f9add9516",
+        "entitlementType": "AUDIENCE",
+        "id": "2f3d562f7eb745498ae55c5f9add9516",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.818Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Popup_Offer_4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:06:52.514Z",
+        "description": "SPass_Legends_Pass_Special_5_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "0f3b74dfed5b45aa8712e83f16d0a5dd",
+        "entitlementType": "AUDIENCE",
+        "id": "0f3b74dfed5b45aa8712e83f16d0a5dd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:18.251Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Legends_Pass_Special_5_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T13:06:02.220Z",
+        "description": "Asphalt - Legends Pro Pack S_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "5db07220797b479e8a9a746a710513b7",
+        "entitlementType": "AUDIENCE",
+        "id": "5db07220797b479e8a9a746a710513b7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:57.869Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt - Legends Pro Pack S_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T08:58:25.978Z",
+        "description": "PVC Matrix 3_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "6a0ab87dcba94b5da4f51fd5bab666e1",
+        "entitlementType": "AUDIENCE",
+        "id": "6a0ab87dcba94b5da4f51fd5bab666e1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.818Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "PVC Matrix 3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:47:49.422Z",
+        "description": "Standard Onboarding Pass_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "11029aa4ec4c4f8a85468f9069d05d5b",
+        "entitlementType": "AUDIENCE",
+        "id": "11029aa4ec4c4f8a85468f9069d05d5b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.818Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Standard Onboarding Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T15:58:44.882Z",
+        "description": "Discounted Legend Pass_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "a10d43d78f3645c8a287cea192f955d6",
+        "entitlementType": "AUDIENCE",
+        "id": "a10d43d78f3645c8a287cea192f955d6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-15T13:45:41.834Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Discounted Legend Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T13:14:35.393Z",
+        "description": "Asphalt - Unite Offer I_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "42555537a434442eb14643fd1d1172a7",
+        "entitlementType": "AUDIENCE",
+        "id": "42555537a434442eb14643fd1d1172a7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-24T07:48:16.517Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt - Unite Offer I_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T08:59:09.682Z",
+        "description": "PVC Matrix 6_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "da46ab042481418fa7052a6e5cb3c5c4",
+        "entitlementType": "AUDIENCE",
+        "id": "da46ab042481418fa7052a6e5cb3c5c4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:19.106Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "PVC Matrix 6_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:38:37.915Z",
+        "description": "LP Tier Up 20 - 25_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "d90942490d314dc0bd20b7906e12ba83",
+        "entitlementType": "AUDIENCE",
+        "id": "d90942490d314dc0bd20b7906e12ba83",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.818Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "LP Tier Up 20 - 25_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:20:03.989Z",
+        "description": "LP Tier Up 15 - 20_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "f4bd0ce9ff7b40e1ae71a9a46c734bf4",
+        "entitlementType": "AUDIENCE",
+        "id": "f4bd0ce9ff7b40e1ae71a9a46c734bf4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:19.106Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "LP Tier Up 15 - 20_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T08:58:01.878Z",
+        "description": "PVC Matrix 2_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "3319c22254104ed791cdd41d415ecd18",
+        "entitlementType": "AUDIENCE",
+        "id": "3319c22254104ed791cdd41d415ecd18",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.818Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "PVC Matrix 2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T12:35:19.902Z",
+        "description": "Popup_Offer_3_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "9bd1ae18a8b7407689cff7f76bc83915",
+        "entitlementType": "AUDIENCE",
+        "id": "9bd1ae18a8b7407689cff7f76bc83915",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:19.106Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Popup_Offer_3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T10:28:47.341Z",
+        "description": "SPass_Legends_Pass_Tierup_26_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "a0cd200dc4a44c2394908fc9b5f28d18",
+        "entitlementType": "AUDIENCE",
+        "id": "a0cd200dc4a44c2394908fc9b5f28d18",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:18.251Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Legends_Pass_Tierup_26_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T10:14:11.957Z",
+        "description": "SPass_Legends_Pass_Tierup_24_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "588dfa91f9a44c84a355b3797c470bfe",
+        "entitlementType": "AUDIENCE",
+        "id": "588dfa91f9a44c84a355b3797c470bfe",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.818Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Legends_Pass_Tierup_24_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T12:50:41.890Z",
+        "description": "Asphalt - Legends Pro Pack A_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "f538c5b345db46d08ba319a80d97af8b",
+        "entitlementType": "AUDIENCE",
+        "id": "f538c5b345db46d08ba319a80d97af8b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:57.869Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt - Legends Pro Pack A_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T12:48:45.212Z",
+        "description": "Asphalt - Legends All Class Pack_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "87ff210e4a144cd5a7b4736427545b23",
+        "entitlementType": "AUDIENCE",
+        "id": "87ff210e4a144cd5a7b4736427545b23",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:58.778Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt - Legends All Class Pack_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:00:25.484Z",
+        "description": "Bundle Legend Pass_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "9100aee107724bfbbbd48c072724ddfd",
+        "entitlementType": "AUDIENCE",
+        "id": "9100aee107724bfbbbd48c072724ddfd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-15T13:45:41.834Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Bundle Legend Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:56:33.209Z",
+        "description": "Onboarding Bundle Pass_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "22e89c06510a492182f1ca8d52ca85ff",
+        "entitlementType": "AUDIENCE",
+        "id": "22e89c06510a492182f1ca8d52ca85ff",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:21.630Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Onboarding Bundle Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T13:16:00.769Z",
+        "description": "Starter_Pack_1_Special_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "19112558a3174e9eb587842a64f1af0d",
+        "entitlementType": "AUDIENCE",
+        "id": "19112558a3174e9eb587842a64f1af0d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:19.106Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Starter_Pack_1_Special_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T13:17:53.624Z",
+        "description": "BonusPass_Daily_Events_Bonus_Pass_3_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "75b2112898d14d31aa02748c927e1d8c",
+        "entitlementType": "AUDIENCE",
+        "id": "75b2112898d14d31aa02748c927e1d8c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:19.106Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BonusPass_Daily_Events_Bonus_Pass_3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T10:07:39.218Z",
+        "description": "SPass_Legends_Pass_Tierup_18_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "47b5229420e743b4b260114af8254e7f",
+        "entitlementType": "AUDIENCE",
+        "id": "47b5229420e743b4b260114af8254e7f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.001Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Legends_Pass_Tierup_18_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T13:22:18.367Z",
+        "description": "BonusPass_Overclock_Pass_8_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2518a905e33a44e99b235ed85dca82da",
+        "entitlementType": "AUDIENCE",
+        "id": "2518a905e33a44e99b235ed85dca82da",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:21.630Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BonusPass_Overclock_Pass_8_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T08:58:42.691Z",
+        "description": "PVC Matrix 4_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "0a3d08e8bbd64c088f02c7a4265d7aa2",
+        "entitlementType": "AUDIENCE",
+        "id": "0a3d08e8bbd64c088f02c7a4265d7aa2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:21.630Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "PVC Matrix 4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:18:26.668Z",
+        "description": "LP Tier Up 10 - 15_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "3ead3ff020d64f9ca21ab9334da824a5",
+        "entitlementType": "AUDIENCE",
+        "id": "3ead3ff020d64f9ca21ab9334da824a5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:21.630Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "LP Tier Up 10 - 15_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:03:06.854Z",
+        "description": "Discounted Bundle Legend Pass_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "0d9005e5ca7e44989760ba766ba6f1fb",
+        "entitlementType": "AUDIENCE",
+        "id": "0d9005e5ca7e44989760ba766ba6f1fb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-15T13:45:41.834Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Discounted Bundle Legend Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:13:38.023Z",
+        "description": "SPass_Legends_Pass_Special_33_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "9c0c38f6c09f4d3280a964977cd6fb09",
+        "entitlementType": "AUDIENCE",
+        "id": "9c0c38f6c09f4d3280a964977cd6fb09",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-15T13:45:41.834Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Legends_Pass_Special_33_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T13:10:49.789Z",
+        "description": "Asphalt - Unite Offer_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2b84c9b9467641c8824423d9d5b9b1ef",
+        "entitlementType": "AUDIENCE",
+        "id": "2b84c9b9467641c8824423d9d5b9b1ef",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:22.489Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt - Unite Offer_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:17:07.457Z",
+        "description": "LP Tier Up 5 - 10_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "ee54f1f8aced4392a677f1e99329eb9e",
+        "entitlementType": "AUDIENCE",
+        "id": "ee54f1f8aced4392a677f1e99329eb9e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:21.630Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "LP Tier Up 5 - 10_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T13:20:35.568Z",
+        "description": "BonusPassBundle_TLE_MP_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "9870fe2b5094486ea63cb5ef99e54b0f",
+        "entitlementType": "AUDIENCE",
+        "id": "9870fe2b5094486ea63cb5ef99e54b0f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.001Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BonusPassBundle_TLE_MP_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T12:46:43.883Z",
+        "description": "Asphalt - Legends Starter Pack I_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "6af15c7b28364cd8a6a82be860b7b66d",
+        "entitlementType": "AUDIENCE",
+        "id": "6af15c7b28364cd8a6a82be860b7b66d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:57.869Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt - Legends Starter Pack I_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:05:16.242Z",
+        "description": "SPass_Legends_Pass_Bundle_Migration_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "a0fcd33189ba4c0aaf5f9f8e13ae4f5c",
+        "entitlementType": "AUDIENCE",
+        "id": "a0fcd33189ba4c0aaf5f9f8e13ae4f5c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.001Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Legends_Pass_Bundle_Migration_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-31T08:23:40.821Z",
+        "description": "PVC Matrix 1_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "d29a75375fbe4b1b8a75744f752a3a0e",
+        "entitlementType": "AUDIENCE",
+        "id": "d29a75375fbe4b1b8a75744f752a3a0e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:22.489Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "PVC Matrix 1_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T10:25:54.864Z",
+        "description": "SPass_Legends_Pass_Tierup_25_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "832d1a3d98274b0caf9dced0400d486f",
+        "entitlementType": "AUDIENCE",
+        "id": "832d1a3d98274b0caf9dced0400d486f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:21.630Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Legends_Pass_Tierup_25_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T10:10:08.203Z",
+        "description": "SPass_Legends_Pass_Tierup_16_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "1d1b158caced41eca54bbdbb6036077b",
+        "entitlementType": "AUDIENCE",
+        "id": "1d1b158caced41eca54bbdbb6036077b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.001Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Legends_Pass_Tierup_16_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T11:12:28.658Z",
+        "description": "Popup_Offer_1_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "927a3db3ba1a4362b19e80e03b699c5d",
+        "entitlementType": "AUDIENCE",
+        "id": "927a3db3ba1a4362b19e80e03b699c5d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.001Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Popup_Offer_1_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-20T16:15:23.124Z",
+        "description": "LP Tier Up 1 - 5_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "5f31a133ed3a4384aa37f773e409e58e",
+        "entitlementType": "AUDIENCE",
+        "id": "5f31a133ed3a4384aa37f773e409e58e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.001Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "LP Tier Up 1 - 5_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-21T11:14:30.097Z",
+        "description": "Popup_Offer_2_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "36a1d650392745438b03c1bf4936fd38",
+        "entitlementType": "AUDIENCE",
+        "id": "36a1d650392745438b03c1bf4936fd38",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:22.489Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Popup_Offer_2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-05T12:07:24.648Z",
+        "description": "Asphalt Legends UNITE: Triple Decal Pack",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2e2e23c407ad49e380665497b13af2e2",
+        "entitlementType": "EXECUTABLE",
+        "id": "2e2e23c407ad49e380665497b13af2e2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Asphalt Legends Unite Asphalt Legends UNITE: Triple Decal Pack Offer",
+            "height": 1440,
+            "md5": "d8cbedd82380682fee94f82d991f11c6",
+            "size": 2614196,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-05-05T13:12:49.655Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-1an1l.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Asphalt Legends Unite Asphalt Legends UNITE: Triple Decal Pack Offer",
+            "height": 1600,
+            "md5": "14a11732ac1cf8ec8294cf256a16d56a",
+            "size": 1668738,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-05-05T13:12:40.900Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-13md7.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T14:20:18.703Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends UNITE: Triple Decal Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:18.271Z",
+        "description": "User Customizable Bundle 15_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "1ccef8651d2740c6b6baea18fe031def",
+        "entitlementType": "AUDIENCE",
+        "id": "1ccef8651d2740c6b6baea18fe031def",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:18.271Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 15_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:18.277Z",
+        "description": "User Customizable Bundle 1_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "f944d68e5b7f4ca3a850daed7d91e52f",
+        "entitlementType": "AUDIENCE",
+        "id": "f944d68e5b7f4ca3a850daed7d91e52f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:18.277Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 1_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:18.272Z",
+        "description": "User Customizable Bundle 10_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "204839445cdd4535a73ec605a9c7ba01",
+        "entitlementType": "AUDIENCE",
+        "id": "204839445cdd4535a73ec605a9c7ba01",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:18.272Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 10_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:18.273Z",
+        "description": "User Customizable Bundle 4_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2a5ba6b2784344468d82faea4e3bd7e7",
+        "entitlementType": "AUDIENCE",
+        "id": "2a5ba6b2784344468d82faea4e3bd7e7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:18.273Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:18.269Z",
+        "description": "User Customizable Bundle 40_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "082f9fd29ac7483e9bf0ba4378ce07b3",
+        "entitlementType": "AUDIENCE",
+        "id": "082f9fd29ac7483e9bf0ba4378ce07b3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:18.269Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 40_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:19.131Z",
+        "description": "Spotight Pass 10_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "a4d3087a25dd4ba1b212652ca0ba3fb6",
+        "entitlementType": "AUDIENCE",
+        "id": "a4d3087a25dd4ba1b212652ca0ba3fb6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:19.131Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Spotight Pass 10_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:19.132Z",
+        "description": "User Customizable Bundle 3_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "bc5d11e8e05e4c42af6c24360e85322b",
+        "entitlementType": "AUDIENCE",
+        "id": "bc5d11e8e05e4c42af6c24360e85322b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:19.132Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:19.134Z",
+        "description": "Spotlight Pass 15_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "e0d33c4ed4c6458ba84af55521d97a40",
+        "entitlementType": "AUDIENCE",
+        "id": "e0d33c4ed4c6458ba84af55521d97a40",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:19.134Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Spotlight Pass 15_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:19.128Z",
+        "description": "User Customizable Bundle 100_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "6674e9d53d3f42a1bfcb99f1aeb276e1",
+        "entitlementType": "AUDIENCE",
+        "id": "6674e9d53d3f42a1bfcb99f1aeb276e1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:19.128Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 100_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:19.134Z",
+        "description": "User Customizable Bundle 2_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "eec64ccca84d47d8a408d4a2fd709637",
+        "entitlementType": "AUDIENCE",
+        "id": "eec64ccca84d47d8a408d4a2fd709637",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:19.134Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:20.032Z",
+        "description": "User Customizable Bundle 50_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "ecbf0e62dc094f298a0bb4fbeaee52dc",
+        "entitlementType": "AUDIENCE",
+        "id": "ecbf0e62dc094f298a0bb4fbeaee52dc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.032Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 50_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-14T12:48:25.584Z",
+        "description": "Spotlight Pass 30_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "7126ca2941f647f0b827aeac02dd7dd1",
+        "entitlementType": "AUDIENCE",
+        "id": "7126ca2941f647f0b827aeac02dd7dd1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:59.655Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Spotlight Pass 30_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:20.026Z",
+        "description": "User Customizable Bundle 30_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "5cec140cbc9e40a9ae04e73ad1fdd547",
+        "entitlementType": "AUDIENCE",
+        "id": "5cec140cbc9e40a9ae04e73ad1fdd547",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.026Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 30_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:20.028Z",
+        "description": "User Customizable Bundle 80_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "695ac58a271348368a11acfac465343e",
+        "entitlementType": "AUDIENCE",
+        "id": "695ac58a271348368a11acfac465343e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.028Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 80_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:20.840Z",
+        "description": "User Customizable Bundle 5_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "cbaf5d8b82814d97bafbeda60160fb86",
+        "entitlementType": "AUDIENCE",
+        "id": "cbaf5d8b82814d97bafbeda60160fb86",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.840Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 5_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:20.838Z",
+        "description": "User Customizable Bundle 20_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "5db83b25c1bb49898eccfe020cac2493",
+        "entitlementType": "AUDIENCE",
+        "id": "5db83b25c1bb49898eccfe020cac2493",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:20.838Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "User Customizable Bundle 20_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-14T12:22:53.391Z",
+        "description": "Spotlight Pass 20_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "9933b51204564119b3b990bcda48076b",
+        "entitlementType": "AUDIENCE",
+        "id": "9933b51204564119b3b990bcda48076b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:59.655Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Spotlight Pass 20_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-05-27T10:34:21.646Z",
+        "description": "Spotlight Pass 5_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2cb0dc347e394c1e815cb7f0ae7586a5",
+        "entitlementType": "AUDIENCE",
+        "id": "2cb0dc347e394c1e815cb7f0ae7586a5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-27T10:34:21.646Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Spotlight Pass 5_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-18T13:41:56.008Z",
+        "description": "Asphalt Legends - Ultimate Game Pass_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "be8741107bce462c8e5bcb7daf5fc2ae",
+        "entitlementType": "AUDIENCE",
+        "id": "be8741107bce462c8e5bcb7daf5fc2ae",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-18T13:41:56.008Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends - Ultimate Game Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-25T08:29:58.139Z",
+        "description": "Leave the competition in the dust with this triple threat, featuring power, precision, and performance.",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "0792f3958a80453397a2397b3d82f84c",
+        "entitlementType": "EXECUTABLE",
+        "id": "0792f3958a80453397a2397b3d82f84c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Asphalt Legends Unite Asphalt Legends - Pro Pack A Offer",
+            "height": 1440,
+            "md5": "b06a4575cb1c5fb704cad7b8d88813ae",
+            "size": 1632416,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-08-25T08:35:19.312Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-2jakl.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Asphalt Legends Unite Asphalt Legends - Pro Pack A Offer",
+            "height": 1600,
+            "md5": "c60bfd01418284f79961563163305028",
+            "size": 816674,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-08-25T08:35:18.626Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-ee77r.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-01T07:35:11.366Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends - Pro Pack A",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-19T15:47:51.265Z",
+        "description": "Get this once-in-a-lifetime pack offering you the chance to get Blueprints for any car in the game! Start collecting now!",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "9a93acb6e0b4458d849d3ae7eabc245e",
+        "entitlementType": "EXECUTABLE",
+        "id": "9a93acb6e0b4458d849d3ae7eabc245e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Asphalt Legends Unite Asphalt Legends - All-Class Card Pack Offer",
+            "height": 1440,
+            "md5": "5d2343b9881669ff7bd00c0b91e82d31",
+            "size": 2495369,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-08-19T15:58:33.429Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-1qgiv.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Asphalt Legends Unite Asphalt Legends - All-Class Card Pack Offer",
+            "height": 1600,
+            "md5": "33b6372fe050ed7e66149d7753796bc0",
+            "size": 1609257,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-08-19T15:58:32.740Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-dr6wc.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-09-24T07:48:15.454Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends - All-Class Card Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-25T09:30:29.884Z",
+        "description": "Accelerate out of the pit lane with this Legends Starting Pack!",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "a55b23ecf41e4c33a8b64a0d1a46845c",
+        "entitlementType": "EXECUTABLE",
+        "id": "a55b23ecf41e4c33a8b64a0d1a46845c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Asphalt Legends Unite Asphalt Legends UNITE - Legends Starting Pack Offer",
+            "height": 1440,
+            "md5": "6bf42e9193bf5d5998441fc4e7ef98e9",
+            "size": 2998878,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-08-25T09:37:23.447Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-cxhbd.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Asphalt Legends Unite Asphalt Legends UNITE - Legends Starting Pack Offer",
+            "height": 1600,
+            "md5": "ad2502616138451c5e81636d2fe90a57",
+            "size": 1770614,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-08-25T09:37:23.578Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-1x4cr.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-01T07:35:11.366Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends UNITE - Legends Starting Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-25T08:52:21.824Z",
+        "description": "Start your career with a well-rounded garage. This all-class pack will give you a competitive edge with a car from each class.",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "3269fd1815114148a748f6398a5b5e52",
+        "entitlementType": "EXECUTABLE",
+        "id": "3269fd1815114148a748f6398a5b5e52",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Asphalt Legends Unite Asphalt Legends - All-Class Pack Offer",
+            "height": 1440,
+            "md5": "48fdbd09a57c522720e92e063547349c",
+            "size": 2793271,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-08-25T09:12:58.900Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-m21h8.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Asphalt Legends Unite Asphalt Legends - All-Class Pack Offer",
+            "height": 1600,
+            "md5": "9cb77575915aceac1422167d70bf7afb",
+            "size": 1571821,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-08-25T09:12:58.342Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-1ly0a.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-01T07:35:11.366Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends - All-Class Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-22T08:34:20.952Z",
+        "description": "Boost your legendary career with these performance-driven supercars!",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "f8b7291ee14b4d0593654c8d8a0d7861",
+        "entitlementType": "EXECUTABLE",
+        "id": "f8b7291ee14b4d0593654c8d8a0d7861",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Asphalt Legends Unite Asphalt Legends - Pro Pack S Offer",
+            "height": 1440,
+            "md5": "01382e05db544b6f141783e85910e8b9",
+            "size": 2125235,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-08-22T08:40:24.320Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-1icfr.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Asphalt Legends Unite Asphalt Legends - Pro Pack S Offer",
+            "height": 1600,
+            "md5": "42e31039032d85dff434eab4d9582814",
+            "size": 1140662,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-08-22T08:40:23.940Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-unite-5e79v.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-01T07:35:11.366Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends - Pro Pack S",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:58.827Z",
+        "description": "Speed Hunter 120_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "5a653cda64d948c694ad41219908c9b4",
+        "entitlementType": "AUDIENCE",
+        "id": "5a653cda64d948c694ad41219908c9b4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:58.827Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 120_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:58.831Z",
+        "description": "Speed Hunter 182_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "80df06dd18094a788b4bfad4b0aa1de3",
+        "entitlementType": "AUDIENCE",
+        "id": "80df06dd18094a788b4bfad4b0aa1de3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:58.831Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 182_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:58.841Z",
+        "description": "Speed Hunter 151_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "ccd14c62a3494ed49f387040ad0caef2",
+        "entitlementType": "AUDIENCE",
+        "id": "ccd14c62a3494ed49f387040ad0caef2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:58.841Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 151_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:58.824Z",
+        "description": "Speed Hunter 152_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "11f01da28c584932b2f76d7e736f99db",
+        "entitlementType": "AUDIENCE",
+        "id": "11f01da28c584932b2f76d7e736f99db",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:58.824Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 152_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:58.837Z",
+        "description": "Speed Hunter 201_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "90fa3f38c24346099ec978a1b2596c8e",
+        "entitlementType": "AUDIENCE",
+        "id": "90fa3f38c24346099ec978a1b2596c8e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:58.837Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 201_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:58.825Z",
+        "description": "Speed Hunter 121_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2fcdceadb84b4b09ab3a8bddd47dde47",
+        "entitlementType": "AUDIENCE",
+        "id": "2fcdceadb84b4b09ab3a8bddd47dde47",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:58.825Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 121_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:58.830Z",
+        "description": "Speed Hunter 181_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "68c4c64e65a04294863fce58e47798d9",
+        "entitlementType": "AUDIENCE",
+        "id": "68c4c64e65a04294863fce58e47798d9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:58.830Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 181_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:59.691Z",
+        "description": "Speed Hunter 200_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "5114365a971948b58bebfd3df3f3584b",
+        "entitlementType": "AUDIENCE",
+        "id": "5114365a971948b58bebfd3df3f3584b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:59.691Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 200_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:59.693Z",
+        "description": "Speed Hunter 122_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "65e24f0caae7496aab325326585e397c",
+        "entitlementType": "AUDIENCE",
+        "id": "65e24f0caae7496aab325326585e397c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:59.693Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 122_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:59.688Z",
+        "description": "Speed Hunter 180_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "4e4e041e43cb4aef8d6a82a1df1ddc06",
+        "entitlementType": "AUDIENCE",
+        "id": "4e4e041e43cb4aef8d6a82a1df1ddc06",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:59.688Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 180_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:59.700Z",
+        "description": "Speed Hunter 202_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "d58bf73361734305a3d09c6eaf9b915b",
+        "entitlementType": "AUDIENCE",
+        "id": "d58bf73361734305a3d09c6eaf9b915b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:59.700Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 202_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-03T09:02:59.686Z",
+        "description": "Speed Hunter 150_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "1acd9f3a689e4cd88cb1021da0a1c30c",
+        "entitlementType": "AUDIENCE",
+        "id": "1acd9f3a689e4cd88cb1021da0a1c30c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-03T09:02:59.686Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Speed Hunter 150_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:21:00.816Z",
+        "description": "Hololive_GTR_Kiara_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "73eaaf65eee94eecb1cc05979117425f",
+        "entitlementType": "AUDIENCE",
+        "id": "73eaaf65eee94eecb1cc05979117425f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:28.486Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_GTR_Kiara_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:26:31.288Z",
+        "description": "Hololive_RTR_Unlock_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "1038e544131443dfa13b4dc811ee953f",
+        "entitlementType": "AUDIENCE",
+        "id": "1038e544131443dfa13b4dc811ee953f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:28.486Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_RTR_Unlock_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:07:30.253Z",
+        "description": "Hololive_Takanashi_Kiara_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "bec681b959fb49908e87efdf55815f90",
+        "entitlementType": "AUDIENCE",
+        "id": "bec681b959fb49908e87efdf55815f90",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:28.486Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_Takanashi_Kiara_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:09:26.518Z",
+        "description": "Hololive_Kureiji_Ollie_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "61dd4136d8f749afb6b339c36690191f",
+        "entitlementType": "AUDIENCE",
+        "id": "61dd4136d8f749afb6b339c36690191f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:28.486Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_Kureiji_Ollie_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:26:09.571Z",
+        "description": "Hololive_003S_Ollie_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "be67ec3032384b21b49670ff3fc66c17",
+        "entitlementType": "AUDIENCE",
+        "id": "be67ec3032384b21b49670ff3fc66c17",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:28.486Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_003S_Ollie_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:20:08.050Z",
+        "description": "Hololive_Civic_Decal_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "09e3f1760b4b4e09b9da3efd3bff42fd",
+        "entitlementType": "AUDIENCE",
+        "id": "09e3f1760b4b4e09b9da3efd3bff42fd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:28.486Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_Civic_Decal_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:09:52.389Z",
+        "description": "Hololive_Kiara_Ollie_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "823eede5894c4bbaa054c637ce873f3a",
+        "entitlementType": "AUDIENCE",
+        "id": "823eede5894c4bbaa054c637ce873f3a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:28.486Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_Kiara_Ollie_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:08:52.521Z",
+        "description": "Hololive_IRyS_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "b5e3baf4f7114ee2b9d323e537e21445",
+        "entitlementType": "AUDIENCE",
+        "id": "b5e3baf4f7114ee2b9d323e537e21445",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:28.486Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_IRyS_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:25:34.163Z",
+        "description": "Hololive_GT3RS_IRyS_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "1be9a6bb7eae4da887f241712eb8edbd",
+        "entitlementType": "AUDIENCE",
+        "id": "1be9a6bb7eae4da887f241712eb8edbd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:29.410Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_GT3RS_IRyS_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:21:28.046Z",
+        "description": "Hololive_Noble_Nerissa_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "23bd9289b9234b7dbe8235f2b67995c9",
+        "entitlementType": "AUDIENCE",
+        "id": "23bd9289b9234b7dbe8235f2b67995c9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:29.410Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_Noble_Nerissa_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:08:13.063Z",
+        "description": "Hololive_Nerissa_Ravencroft_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "276b5ef3518543c48618f0c71b32f7c8",
+        "entitlementType": "AUDIENCE",
+        "id": "276b5ef3518543c48618f0c71b32f7c8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:29.410Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_Nerissa_Ravencroft_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:10:15.230Z",
+        "description": "Hololive_Nerissa_IRyS_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "4acaec0ef6644e6296b53e60ea04a525",
+        "entitlementType": "AUDIENCE",
+        "id": "4acaec0ef6644e6296b53e60ea04a525",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:29.410Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_Nerissa_IRyS_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:26:48.647Z",
+        "description": "Hololive_Vanda_Unlock_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "c2e92afbc7d54f4294d09eef71dfaf72",
+        "entitlementType": "AUDIENCE",
+        "id": "c2e92afbc7d54f4294d09eef71dfaf72",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:29.410Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_Vanda_Unlock_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-15T07:20:30.719Z",
+        "description": "Hololive_Discount_Vanity_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "ede360c9f0d342fbad3627896e92f751",
+        "entitlementType": "AUDIENCE",
+        "id": "ede360c9f0d342fbad3627896e92f751",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-16T14:13:29.410Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hololive_Discount_Vanity_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-11T12:41:45.711Z",
+        "description": "SPass_Ultimate_Pass_Upgrade_40_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "b32caaddff6c4a538b650dbb9c8e9df0",
+        "entitlementType": "AUDIENCE",
+        "id": "b32caaddff6c4a538b650dbb9c8e9df0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-11T12:41:45.711Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Ultimate_Pass_Upgrade_40_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-11T12:41:45.709Z",
+        "description": "SPass_Ultimate_Pass_Upgrade_35_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "1f6bf67e63bd41bb9aa0d17bf2804c7e",
+        "entitlementType": "AUDIENCE",
+        "id": "1f6bf67e63bd41bb9aa0d17bf2804c7e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-11T12:41:45.709Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPass_Ultimate_Pass_Upgrade_35_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-11-17T09:34:06.783Z",
+        "description": "Get three exclusive decals for the Aston Martin DB12, Porsche 911 Carrera RS 3.8 and Chevrolet Corvette Stingray!",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "0975c818284d4c92b8bae7e5f225b84d",
+        "entitlementType": "EXECUTABLE",
+        "id": "0975c818284d4c92b8bae7e5f225b84d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Asphalt Legends Asphalt Legends -- Decal Pack Offer",
+            "height": 1440,
+            "md5": "18466a974ccbe2737a2f9d8fb5894787",
+            "size": 1023061,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-11-26T09:22:20.378Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-i3ecr.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Asphalt Legends Asphalt Legends -- Decal Pack Offer",
+            "height": 1600,
+            "md5": "834a63e05edccae06ba03dde9299a9e1",
+            "size": 2726445,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-11-26T09:22:25.419Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-13xif.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-12-09T10:04:30.158Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- Decal Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "0073e920c0ca49bc8da9cde44836ebe1",
+    "entitlementType": "EXECUTABLE",
+    "id": "0073e920c0ca49bc8da9cde44836ebe1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Asphalt Legends Offer",
+        "height": 1440,
+        "md5": "7e5a3ab7659856a8c47ce98372e8b698",
+        "size": 3584548,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-10-09T12:34:23.346Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-11odw.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Asphalt Legends Offer",
+        "height": 1600,
+        "md5": "3d3b864534cb339d1aa95bf914d750ae",
+        "size": 580298,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-10-09T12:34:47.165Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-za11d.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-20T15:14:55.556Z",
+    "mainGameItemList": [],
+    "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+    "releaseInfo": [
+      {
+        "appId": "aa7093efba5b4760ad413c01fbdd0fae",
+        "id": "9ef51cf3751244879e9e521a32e59cf9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Asphalt Legends",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

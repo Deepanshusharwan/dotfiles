@@ -1,0 +1,228 @@
+{
+	"575efd0b5dd54429b035ffc8fe2d36d0": {
+		"game": {
+			"app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
+			"title": "Marvel Rivals",
+			"version": "1.1.2725685",
+			"platform_versions": {
+				"Windows": "1.1.2725685"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 7193073,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
+			"launch_exe": "epic_launch_helper.exe",
+			"launch_command": "",
+			"build_version": "1.1.2725685",
+			"build_id": "nw0L9-Sxmk2rlXxeRY-l7Q",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 1345,
+			"num_chunks": 107984,
+			"disk_size": 117030959312,
+			"download_size": 94885580868,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"__timestamp": {
+		"575efd0b5dd54429b035ffc8fe2d36d0": "Sun Dec 21 2025 16:11:52 GMT+0530 (India Standard Time)",
+		"a7d28f0e0935490b9d6f92dda1a7a75b": "Sun Dec 21 2025 16:30:16 GMT+0530 (India Standard Time)",
+		"Carnation": "Sun Dec 21 2025 16:30:36 GMT+0530 (India Standard Time)",
+		"0a2d9f6403244d12969e11da6713137b": "Sun Dec 21 2025 16:34:15 GMT+0530 (India Standard Time)",
+		"aa7093efba5b4760ad413c01fbdd0fae": "Sun Dec 21 2025 18:17:39 GMT+0530 (India Standard Time)"
+	},
+	"a7d28f0e0935490b9d6f92dda1a7a75b": {
+		"game": {
+			"app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
+			"title": "Where Winds Meet",
+			"version": "52472_2025-12-12-21-08-11",
+			"platform_versions": {
+				"Windows": "52472_2025-12-12-21-08-11"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 6981890,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
+			"launch_exe": "Engine/Binaries/Win64r/wwm.exe",
+			"launch_command": "--dx11",
+			"build_version": "52472_2025-12-12-21-08-11",
+			"build_id": "qN7662E26UOPFiFrjzKaOw",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 455,
+			"num_chunks": 102762,
+			"disk_size": 109025901737,
+			"download_size": 104825524191,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"Carnation": {
+		"game": {
+			"app_name": "Carnation",
+			"title": "Tom Clancy’s Rainbow Six Siege",
+			"version": "Y8S4.1.1",
+			"platform_versions": {
+				"Windows": "Y8S4.1.1"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": "ubisoft",
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 4851834,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "CarnationStaging",
+			"launch_exe": "UplayLaunch.exe",
+			"launch_command": "-UplayId=635",
+			"build_version": "Y8S4.1.1",
+			"build_id": "th2E5aPSB4LjBk3SyXlEY4rk6ZU",
+			"prerequisites": {
+				"ids": [
+					"uplay"
+				],
+				"name": "",
+				"path": "Uplay/UplayInstaller.exe",
+				"args": "/S"
+			},
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 1048,
+			"num_chunks": 73861,
+			"disk_size": 77645687817,
+			"download_size": 71081290979,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"0a2d9f6403244d12969e11da6713137b": {
+		"game": {
+			"app_name": "0a2d9f6403244d12969e11da6713137b",
+			"title": "Fall Guys",
+			"version": "EGS_11163",
+			"platform_versions": {
+				"Windows": "EGS_11163"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 554736,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "b9600e9e3bc941baa85da0cf1fe14fbf",
+			"launch_exe": "RunFallGuys.exe",
+			"launch_command": "",
+			"build_version": "EGS_11163",
+			"build_id": "JLs-dnAD6oTxF0CYfOblMouXIY4",
+			"prerequisites": {
+				"ids": [
+					"EOSAntiCheatFallGuys"
+				],
+				"name": "",
+				"path": "EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe",
+				"args": "install d42d7101bb7a41c09a810ee418b7d3d0"
+			},
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 760,
+			"num_chunks": 7700,
+			"disk_size": 8069426875,
+			"download_size": 7130667146,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"aa7093efba5b4760ad413c01fbdd0fae": {
+		"game": {
+			"app_name": "aa7093efba5b4760ad413c01fbdd0fae",
+			"title": "Asphalt Legends",
+			"version": "48.0.5a_v2",
+			"platform_versions": {
+				"Windows": "48.0.5a_v2"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 607500,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "aa7093efba5b4760ad413c01fbdd0fae",
+			"launch_exe": "Asphalt9_Epic_x64_rtl.exe",
+			"launch_command": "",
+			"build_version": "48.0.5a_v2",
+			"build_id": "0pR2RcxTLkaPiMxwbWdbfw",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 36,
+			"num_chunks": 9154,
+			"disk_size": 9641572376,
+			"download_size": 9324453001,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	}
+}

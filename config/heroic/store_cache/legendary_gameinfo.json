@@ -1,0 +1,283 @@
+{
+	"38e211ced4e448a5a653a8d1e13fef18": {
+		"about": {
+			"description": "Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10 64-bit (1909 or newer)",
+				"recommended": "Windows 10 64-bit (1909 or newer)",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Intel Core i5-6600K or AMD Ryzen 5 1600X",
+				"recommended": "Intel Core i5-10400 or AMD Ryzen 5 5600X",
+				"title": "CPU"
+			},
+			{
+				"minimum": "12G",
+				"recommended": "16G",
+				"title": "Memory"
+			},
+			{
+				"minimum": "NVIDIA GeForce GTX 1060 / AMD RX 580 / Intel Arc A380",
+				"recommended": "NVIDIA GeForce RTX 2060 (Super) / AMD RX 5700-XT / Intel Arc A750",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 12",
+				"recommended": "DirectX 12",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "70 GB Available Space",
+				"recommended": "70 GB Available Space",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/marvel-rivals-182004"
+	},
+	"__timestamp": {
+		"38e211ced4e448a5a653a8d1e13fef18": "Sun Dec 21 2025 16:11:46 GMT+0530 (India Standard Time)",
+		"4806012311744989a5f96d97a42f7829": "Sun Dec 21 2025 16:30:06 GMT+0530 (India Standard Time)",
+		"carnation": "Sun Dec 21 2025 16:30:21 GMT+0530 (India Standard Time)",
+		"50118b7f954e450f8823df1614b24e80": "Sun Dec 21 2025 16:34:10 GMT+0530 (India Standard Time)",
+		"f9f24f4a353b451297e31f5db9cc54f2": "Sun Dec 21 2025 18:13:25 GMT+0530 (India Standard Time)",
+		"9159cceaae3e48bc9a5ec237d7a4f388": "Sun Dec 21 2025 18:19:58 GMT+0530 (India Standard Time)"
+	},
+	"4806012311744989a5f96d97a42f7829": {
+		"about": {
+			"description": "Where Winds Meet is an epic open-world action-adventure RPG rooted in the rich legacy of Wuxia. Set during the turbulent era of tenth-century China, you take on the role of a young sword master, uncovering forgotten truths and the mysteries of your own identity. ",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10/11 64bit",
+				"recommended": "Windows 10/11 64bit",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Core i7-4770K/Ryzen 5 2400G",
+				"recommended": "Core i7-10700/Ryzen 7 3700X",
+				"title": "CPU"
+			},
+			{
+				"minimum": "8GB",
+				"recommended": "32GB",
+				"title": "Memory"
+			},
+			{
+				"minimum": "GTX 750Ti/RX 550/ARC A380",
+				"recommended": "RTX 2070 SUPER/RX 6700 XT/ARC A750",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 11",
+				"recommended": "DirectX 12",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "100GB",
+				"recommended": "100GB",
+				"title": "Storage"
+			},
+			{
+				"minimum": "We recommend you install the game on SSD drive for better experience.",
+				"recommended": null,
+				"title": "Additional Notes"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/where-winds-meet-58a176"
+	},
+	"carnation": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egst-storeportrait-1200x1600-1200x1600-8dbf1f8cadd5.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Ubisoft",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Ubisoft",
+			"description": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph.\nEnjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.\n\n# CERTAIN FEATURES LIKE RANKED PLAYLISTS, SIEGE CUP, ADDITIONAL OPERATORS, AND COSMETICS, REQUIRE PAYMENT TO UNLOCK.\n\n# HIGH STAKES 5v5 ATTACK VS. DEFENSE\n\nAlternate between attack and defense, adapting your approach to each operator and map. Feel the thrill and intensity of the action as you leverage next-level destruction and gadgetry to outsmart and outplay your opponents in every round.\n\n\n- On defense, transform your surroundings into fortified strongholds. Reinforce walls, set up barricades, and deploy traps to control enemy movement. Use surveillance tools to gather intel and anticipate their approach. Hold your ground, adapt to their tactics, and outplay the attackers at every turn.\n\n- On attack, gather intel on enemy positions and the bomb site using your observation drones. Coordinate with your team to breach reinforced defenses, bypass traps, and create unexpected openings. Take your enemies by surprise with vertical plays—striking from above, below, or making a daring entry through windows by rappel. Plan your assault, execute and defuse every situation.\n\n\n\n# TOOLS OF DESTRUCTION\n\nDestruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity.  Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage.\n\n\n\n# DUAL FRONT: DYNAMIC TACTICAL 6v6 WARFARE\n\nEngage in intense 6v6 battles on the largest map in Siege, where teams push to capture enemy sectors while defending their own. Fight your way to the enemy base and claim victory.\n\nSelect an operator among a curated list of attackers and defenders, fighting side by side, unlocking new tactical possibilities. When respawning, adapt your operator selection and strategy to shift the momentum of battle or venture into the Neutral Sector to take on high-risk, high-reward assignments and earn bonuses that can turn the tide in an instant.\n\nDual Front delivers a bold new way to experience the tactical depth and intensity of Rainbow Six Siege.\n\n\n\n# FROM RECRUIT TO ELITE\n\nA solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action.\n\n\n\n# CONSTANTLY EVOLVING\n\nEvery season brings major updates, with new content and features for renewed tactics and gameplay.\n\n\n# HIGHLY COMPETITIVE\n\nJoin a massive online community of over 80 million players. Watch top-tier pro teams battle for supremacy in the prestigious Rainbow Six Siege Esport Competition.\n\n\nAccess to the game is free; certain features, including competitive game modes, operators, and cosmetics, require payment to unlock.",
+			"shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+			"title": "Tom Clancy's Rainbow Six Siege X - Free Access",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10",
+				"recommended": "Windows 11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "AMD Ryzen3 3100 | Intel i3-8100",
+				"recommended": "AMD Ryzen5 3600 | Intel i5-10400"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "8 GB RAM",
+				"recommended": "16 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA GTX 1650 4GB | AMD RX 5500XT 4GB | INTEL ARC A380 6GB ",
+				"recommended": "NVIDIA RTX 2060 6GB | AMD RX 6600 8GB | INTEL ARC A750 8GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "65 GB SSD",
+				"recommended": "65 GB SSD"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "DirectX",
+				"minimum": "DirectX 12",
+				"recommended": "DirectX 12"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/rainbow-six-siege-x"
+	},
+	"50118b7f954e450f8823df1614b24e80": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/fgss04-keyart-storefrontimageportrait-1200x1600-1200x1600-ef38aea922c2.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Mediatonic",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Epic Games",
+			"description": "# About\nJump into a massive-multiplayer party royale with Fall Guys and be the last Bean standing that takes the Crown. Enter the Blunderdome for a free for all platformer game that invites chaos and high-concentrated fun.\n\nCompetitive & Cooperative: Tumble between competitive free-for-alls and cooperative challenges—or take on the Blunderdome with up to 3 friends!\n\nPlay with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account.\n\nEver-Evolving Content: Play stays fresh with new collabs and game updates which bring new Costumes, Obstacles, and ways to play.\n\nGloriously Customizable: Choose from a multitude of Colors, Patterns, Costumes and Nameplates. Relish wins with extravagant Celebrations and share your flair with Emotes!\n\nItems shown may require separate purchase from the in-game store and are subject to availability. Contains in-game purchases.\n",
+			"shortDescription": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
+			"title": "Fall Guys",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10 64bit",
+				"recommended": "Windows 10 64bit"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel Core i5 or AMD equivalent",
+				"recommended": "Intel Core i5 or AMD equivalent"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "8 GB RAM",
+				"recommended": "8 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "2 GB available space",
+				"recommended": "2 GB available space"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA GTX 660 or AMD Radeon HD 7950",
+				"recommended": "NVIDIA GTX 660 or AMD Radeon HD 7950"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Other",
+				"minimum": "Broadband Internet connection",
+				"recommended": "Broadband Internet connection"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/fall-guys"
+	},
+	"f9f24f4a353b451297e31f5db9cc54f2": {
+		"about": {
+			"description": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier.",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "64-bit Windows 10",
+				"recommended": "64-bit Windows 10",
+				"title": "OS version"
+			},
+			{
+				"minimum": "AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent",
+				"recommended": "Ryzen 5 CPU or Equivalent",
+				"title": "CPU"
+			},
+			{
+				"minimum": "6 GB",
+				"recommended": "8 GB",
+				"title": "Memory"
+			},
+			{
+				"minimum": "AMD Radeon™ HD 7790, NVIDIA GeForce® GTX 950",
+				"recommended": "AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 12",
+				"recommended": "DirectX 12",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "75 GB",
+				"recommended": "75 GB",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/apex-legends-006cde"
+	},
+	"9159cceaae3e48bc9a5ec237d7a4f388": {
+		"about": {
+			"description": "Spark your competitive soul with Asphalt Legends and feel the collective heartbeat of the road! Join forces with other players to speed through intense arcade races, perform jaw-dropping stunts, and charge towards victory while driving the finest hypercars!",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10 or later",
+				"recommended": "Windows 10",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Core i3-3110M | AMD Ryzen 3 3300U or better",
+				"recommended": "Core i5-4460 | AMD Ryzen 5 3400G or better",
+				"title": "CPU"
+			},
+			{
+				"minimum": "8 GB RAM",
+				"recommended": "12 GB RAM",
+				"title": "Memory"
+			},
+			{
+				"minimum": "Intel HD Graphics 4600 | NVIDIA GeForce GT 630 | Radeon HD 6570 or better",
+				"recommended": "Intel Iris | NVIDIA GeForce GT 1030 | ATI Radeon HD 5850 or better",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 12",
+				"recommended": "DirectX 12",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "10 GB available space",
+				"recommended": "10 GB available space",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/asphalt-legends-unite-4db4c6"
+	}
+}

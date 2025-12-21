@@ -1,0 +1,71 @@
+{
+  "app_name": "e57fb902cebf4b0d87164940d400d3a5",
+  "app_title": "Shotgun King: The Final Checkmate",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567npEbvCdm1kVT1lFkOP1TzVqG",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-04-25T13:59:07.657Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "ShotgunKing748cf"
+      }
+    },
+    "description": "Shotgun King: The Final Checkmate",
+    "developer": "Plug In Digital SAS",
+    "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "endOfSupport": false,
+    "entitlementName": "07e8d3a612614107859706598eef116d",
+    "entitlementType": "EXECUTABLE",
+    "id": "07e8d3a612614107859706598eef116d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Shotgun King Offer",
+        "height": 1440,
+        "md5": "1c2cef179737cb8c2630059f3b7a5088",
+        "size": 1156549,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-11-19T09:53:31.904Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-iikqm.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Shotgun King Offer",
+        "height": 1600,
+        "md5": "25001cd9f27d247fa7a5ca0f22b0dc4d",
+        "size": 73323,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-11-19T09:53:31.142Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/dffb5863c83548419a4e7f902b51d40a/shotgun-king-evwyl.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-12-17T20:58:27.254Z",
+    "mainGameItemList": [],
+    "namespace": "ce6f60f1c65644da87de06399935eac6",
+    "releaseInfo": [
+      {
+        "appId": "e57fb902cebf4b0d87164940d400d3a5",
+        "id": "dcbdef90-3a3c-414d-b21d-3b35b9d2fc07",
+        "platform": [
+          "Android"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Shotgun King: The Final Checkmate",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

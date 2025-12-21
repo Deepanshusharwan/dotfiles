@@ -1,0 +1,36 @@
+{
+  "makalu": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFsync": true,
+    "enableWineWayland": true,
+    "enableHDR": true,
+    "enableWoW64": false,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": true,
+    "useGameMode": false,
+    "useSteamRuntime": true,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "verboseLogs": true,
+    "advertiseAvxForRosetta": false,
+    "wineVersion": {
+      "bin": "/home/deepanshu/.config/heroic/tools/proton/GE-Proton-latest/proton",
+      "name": "Proton - GE-Proton-latest",
+      "type": "proton"
+    },
+    "winePrefix": "/home/deepanshu/Games/Heroic/Prefixes/default/Apex Legends",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}

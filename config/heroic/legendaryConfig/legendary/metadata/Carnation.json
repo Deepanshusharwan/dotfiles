@@ -1,0 +1,3273 @@
+{
+  "app_name": "Carnation",
+  "app_title": "Tom Clancy\u2019s Rainbow Six Siege",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Carnation",
+      "asset_id": "Carnation",
+      "build_version": "Y8S4.1.1",
+      "catalog_item_id": "18e6826e1f464668a0aa45635e0bde07",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "carnation",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-02-11T18:08:53.061Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RainbowSixSiege"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "635"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "RainbowSix.exe"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "carnation"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "RainbowSix.exe"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\635"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Ubisoft"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "2e92d360488445048933157725e02c5e"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Tom Clancy\u2019s Rainbow Six Siege",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "games"
+          }
+        ],
+        "creationDate": "2022-05-27T12:03:55.124Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "ff266d05b99c42edbbfaab7e424c0878"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "R6S Y7S2 WP2",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "eec926c6db1d4c5a8917e81b48cd8605",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eec926c6db1d4c5a8917e81b48cd8605",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-11T20:26:36.556Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6SY7S2WP2",
+            "compatibleApps": [],
+            "dateAdded": "2022-10-11T20:26:35.724Z",
+            "id": "c2ed835090844bd3ae779213f751f087",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "R6S Y7S2 WP2",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-08-31T16:25:45.455Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "50823d3a1fdf45c9bc403f6deb754869"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Rainbow Six Siege Welcome Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "ec860b01bc234a54ab98dfaeff3477e0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ec860b01bc234a54ab98dfaeff3477e0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1080,
+            "md5": "f5ef73d9125023a05114542464cce554",
+            "size": 362153,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-09-08T14:39:03.766Z",
+            "url": "https://cdn1.epicgames.com/carnation/item/R6SIEGE_WelcomePk_Edition_Thumbnail_1920X1080-1920x1080-f5ef73d9125023a05114542464cce554.jpg",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "8384698c31b45d0010131f1c1f9c57b3",
+            "size": 471839,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-09-08T14:39:15.315Z",
+            "url": "https://cdn1.epicgames.com/carnation/item/R6SIEGE_WelcomePk_Store_Portrait_1200x1600-1200x1600-8384698c31b45d0010131f1c1f9c57b3.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-03-16T13:18:55.400Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "CarnationWP",
+            "compatibleApps": [],
+            "dateAdded": "2019-08-13T00:00:00.000Z",
+            "id": "9cb891b7de284e44929cc8b1c0a95012",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rainbow Six Siege Welcome Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-02-15T20:25:33.336Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "20e86b2a4fe642ecbadab2d16922bc0c"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "R6S Year 7 Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "f42535598b4147f39c6022c1cc33f536",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f42535598b4147f39c6022c1cc33f536",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-02-21T17:37:36.757Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "CarnationYear7",
+            "compatibleApps": [],
+            "dateAdded": "2022-02-15T20:25:07.877Z",
+            "id": "95060257b50e4af092f4fc5751489e6c",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "R6S Year 7 Pass",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-26T15:16:44.347Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "22f2d9d083c24592823e2c4a098dd210"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "R6S BWP",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "ab906c856d0c4a1dac37c43441927cbb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ab906c856d0c4a1dac37c43441927cbb",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-11T20:25:09.072Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6SBWP",
+            "compatibleApps": [],
+            "dateAdded": "2022-10-11T20:25:08.928Z",
+            "id": "41cfb6e076b74d4e86d355276b984c4d",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "R6S BWP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-14T02:30:55.761Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "035d81cef9754b2ab4a1ab7d4813f2b2"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Rainbow Six Siege Year 5",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "0b00a55cee3348c3902a592a8946b4d4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0b00a55cee3348c3902a592a8946b4d4",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-16T13:18:55.400Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "CarnationYear5",
+            "compatibleApps": [],
+            "dateAdded": "2019-08-13T00:00:00.000Z",
+            "id": "9cb891b7de284e44929cc8b1c0a95012",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Rainbow Six Siege Year 5",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-02-25T21:08:56.175Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "d6b8d3eed6a145608303bbf7485b4350"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Rainbow Six Siege Year 7 Welcome Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "e7c53ef7a89e4c12b063ddadba1991d8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e7c53ef7a89e4c12b063ddadba1991d8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "e3a6a6ffb7cfd571eca6563f36ee3895",
+            "size": 1373107,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-02-25T21:08:15.610Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/UK_R6S_WELCOMEPACK_EPIC_Store Landscape_2560x1440_2560x1440-e3a6a6ffb7cfd571eca6563f36ee3895",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "a33afed47d69bf58faacbf119f4a91b3",
+            "size": 689132,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-02-25T21:08:25.870Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/UK_R6S_WELCOMEPACK_EPIC_Store Portrait_1200x1600_1200x1600-a33afed47d69bf58faacbf119f4a91b3",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-03-08T06:51:09.720Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "CarnationY7WP",
+            "compatibleApps": [],
+            "dateAdded": "2022-02-25T21:05:00.000Z",
+            "id": "9adf75fba4514962af30da427d3169ee",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rainbow Six Siege Year 7 Welcome Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-08-13T02:06:40.540Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "18f905d1615e43339288d7f59956c020"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Carnation Year 4",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "07025e724b49449eaa689d173e1bd5e3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "07025e724b49449eaa689d173e1bd5e3",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-16T13:18:48.554Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "CarnationYear4",
+            "compatibleApps": [],
+            "dateAdded": "2019-08-13T00:00:00.000Z",
+            "id": "d14c3ab82bf5428b9e7c0a5d6c3437b4",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Carnation Year 4",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-02-15T20:35:47.825Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "2ce3074973d948fcb5fb5ae309bb03fd"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "R6S Year 7 Bundle Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "21c9e922e193432eb6563925f9ac5d02",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "21c9e922e193432eb6563925f9ac5d02",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-02-21T17:37:36.757Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "CarnationYear7Bundle",
+            "compatibleApps": [],
+            "dateAdded": "2022-02-15T20:35:00.000Z",
+            "id": "36e4879d90f042279e664aaacc5b7cdc",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "R6S Year 7 Bundle Pass",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-27T11:38:17.537Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "3086a8621ec34eb28837882e8fa3eb42"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "R6S Y7S2 WP",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "6570ea0eb4344a3cba6c6a1ed961ed0b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6570ea0eb4344a3cba6c6a1ed961ed0b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-11T20:27:10.195Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6SY7S2WP",
+            "compatibleApps": [],
+            "dateAdded": "2022-10-11T20:27:12.053Z",
+            "id": "28ce091119da48aeaa725a20fb313056",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "R6S Y7S2 WP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-26T15:31:38.903Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "2f91a0c635794b4e963cdc0c92ef155d"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "R6S SWP",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "b60c01eda48d4271b6906a431daf8a0b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b60c01eda48d4271b6906a431daf8a0b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-11T20:24:28.180Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6SSWP",
+            "compatibleApps": [],
+            "dateAdded": "2022-10-11T20:24:29.283Z",
+            "id": "f59db7ec883144dba6ff3a3d3a4ce42e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "R6S SWP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-22T10:56:49.289Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "7d76212267e640f99d8a1006046c5540"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "R6S Y7S4 2670 R6C WP",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "64d2077ccb224c0f912e6c96eaf2d1cc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "64d2077ccb224c0f912e6c96eaf2d1cc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-09T19:36:56.577Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6SY7S4_2670WP_DLC",
+            "compatibleApps": [],
+            "id": "8c27471d47d94696896493b5e923f7bc",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "R6S Y7S4 2670 R6C WP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-22T10:58:59.744Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "33fe629741be4f46a6c423454fe5dd7d"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "R6S Y7S4 7560 R6C WP",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "3794ac9b916d44febb87fda250c99873",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3794ac9b916d44febb87fda250c99873",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-09T19:37:21.534Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6SY7S4_7560WP_DLC",
+            "compatibleApps": [],
+            "id": "4c2e519128de4f40b3f92118c6d01a01",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "R6S Y7S4 7560 R6C WP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-14T11:18:13.938Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "1644f9c90f9048899593747fb686969c"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Rainbow Six\u00ae Siege Year 8 Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "972a49ab9e2c499eb3a9493a6d1086f5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "972a49ab9e2c499eb3a9493a6d1086f5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-20T14:58:30.078Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6 Siege Year 8 Pass",
+            "compatibleApps": [],
+            "dateAdded": "2023-02-14T12:06:07.693Z",
+            "id": "44af0630a0084fe182777866fc06630f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rainbow Six\u00ae Siege Year 8 Pass",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-14T11:20:38.052Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "9bdf58502a6b4696835c90ebfbfcf9a9"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Rainbow Six\u00ae Siege Year 8 Premium Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "26b47b4ed1b143f4b220eebde066feca",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "26b47b4ed1b143f4b220eebde066feca",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-20T14:58:30.056Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6 Siege Year 8 Premium Pass",
+            "compatibleApps": [],
+            "dateAdded": "2023-02-14T12:01:35.464Z",
+            "id": "9d96f7267e2e4f0fb2817e85b2f4f317",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rainbow Six\u00ae Siege Year 8 Premium Pass",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-01T20:24:12.102Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "cd2ccedec589482893e43c197fb36d8f"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Rainbow Six\u00ae Siege Year 8 S1 Signature Skin Welcome Pack (7,560 Welcome Pack)",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "915da11dd4db48c990bc49523376c9e2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "915da11dd4db48c990bc49523376c9e2",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-07T14:59:45.371Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "Y8S1SSWP",
+            "compatibleApps": [],
+            "dateAdded": "2023-03-07T05:38:02.877Z",
+            "id": "6ec62613c3074e1abef961812b6aa74f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rainbow Six\u00ae Siege Year 8 S1 Signature Skin Welcome Pack (7,560 Welcome Pack)",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-01T20:18:31.047Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "519ca50021904281833e5c81009f8312"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Rainbow Six\u00ae Siege Year 8 S1 Wamai Welcome Pack (2,670 Welcome Pack)",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "834eaf21f3c8410381b47b0eed5bdb06",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "834eaf21f3c8410381b47b0eed5bdb06",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-07T14:59:45.366Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6SWWP2",
+            "compatibleApps": [],
+            "id": "cc5bedc0c03b48e5a01c5e2ad692ea26",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rainbow Six\u00ae Siege Year 8 S1 Wamai Welcome Pack (2,670 Welcome Pack)",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-05-23T09:09:40.532Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "3dd362aa464c4eaca0d52c3e509a5dff"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy\u2019s Rainbow Six\u00ae Siege 7,560 Signature Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "acfbeef11b454bf4a606ba3b0db0d6e8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "acfbeef11b454bf4a606ba3b0db0d6e8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "6d53d5e1d87f97520c6d93131b4bbb89",
+            "size": 1483012,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-05-23T14:55:44.003Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StoreLandscape_2560x1440_2560x1440-6d53d5e1d87f97520c6d93131b4bbb89",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "49540cef1222a9f2d286d3f1ad5162d7",
+            "size": 716238,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-05-23T14:55:47.217Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StorePortrait_1200x1600_1200x1600-49540cef1222a9f2d286d3f1ad5162d7",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-05-29T09:42:40.573Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6S Y8S2 7560 SP",
+            "compatibleApps": [],
+            "dateAdded": "2023-05-29T09:41:07.722Z",
+            "id": "c03c3ae4185849aea97e70e3a16eb7d8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tom Clancy\u2019s Rainbow Six\u00ae Siege 7,560 Signature Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-05-23T09:08:11.749Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "9888d002c8e34801824ef5e551b9ba6c"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy\u2019s Rainbow Six\u00ae Siege 2,670 Premier Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "b60d184140604816afef0ed3def811a5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b60d184140604816afef0ed3def811a5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "63b2f98566f056c338d191165f64a509",
+            "size": 638867,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-05-23T14:40:47.988Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StoreLandscape_2560x1440_2560x1440-63b2f98566f056c338d191165f64a509",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "acb88ca192681188847590e22d3bf714",
+            "size": 452546,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-05-23T14:40:52.373Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StorePortrait_1200x1600_1200x1600-acb88ca192681188847590e22d3bf714",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-05-29T09:42:40.582Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "R6S Y8S2 2670 PP",
+            "compatibleApps": [],
+            "id": "26f75284aeb8459aa5642e9b98d62271",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tom Clancy\u2019s Rainbow Six\u00ae Siege 2,670 Premier Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-22T17:11:53.575Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "a4f6282589ee42dbaf4a915528c64d94"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Y8S3PP",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "fcdc3370f29f41058e901084a6f473c0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fcdc3370f29f41058e901084a6f473c0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-29T15:58:54.344Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Y8S3PP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-22T17:11:57.048Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "250a7334a763487abe3b5118c7797299"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Y8S3SP",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "c1670df106ae4cdc9939d39ab1ec3f38",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c1670df106ae4cdc9939d39ab1ec3f38",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-29T15:58:54.339Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Y8S3SP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-15T15:15:38.382Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "5c20fd9ece7e4167a4d4d38238824a47"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Y8S34920PP",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "8c6ee86b6fa643e6ab3cd8316bdea007",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8c6ee86b6fa643e6ab3cd8316bdea007",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-09-26T20:57:54.876Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Y8S34920PP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-01-30T15:19:17.409Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "63a924546aa74b09aaea63bf092bcf52"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy\u2019s Rainbow Six Siege 4,920 Premier Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "7761e222b775436490b055e2ff414b18",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7761e222b775436490b055e2ff414b18",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1080,
+            "md5": "5b7c749288426c15ece91d3b3431f533",
+            "size": 396660,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-02-06T20:24:32.876Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_Edition_Thumbnail_1920X1080_1920x1080-5b7c749288426c15ece91d3b3431f533",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "1917be5b6a49586136cf78f29a74a401",
+            "size": 420276,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-02-06T20:24:37.884Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StorePortrait_1200x1600_1200x1600-1917be5b6a49586136cf78f29a74a401",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-02-08T16:50:55.078Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "4920premierpack",
+            "compatibleApps": [],
+            "dateAdded": "2024-01-31T20:55:27.181Z",
+            "id": "1c823d575d494d85afa6b63ab2dfbdf0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tom Clancy\u2019s Rainbow Six Siege 4,920 Premier Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-05T17:03:11.147Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "72a1b42ba4814d518dd0ac5cb078fdea"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy\u2019s Rainbow Six Siege - 2,670 R6 Credits Premier Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "8858f97eafad42bab3d163063debb710",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8858f97eafad42bab3d163063debb710",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-12T14:19:37.619Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "Y9S12670PP",
+            "compatibleApps": [],
+            "dateAdded": "2024-03-05T17:07:00.000Z",
+            "id": "b190d11e4d3f4b60979db4a8b890de5d",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tom Clancy\u2019s Rainbow Six Siege - 2,670 R6 Credits Premier Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-05T17:04:00.150Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "54d1dc325a31494abd8c8cdbfd33e4fa"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy\u2019s Rainbow Six Siege - 7,560 R6 Credits Signature Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "2462d80cdadb4515a9b5f4867c5d0aef",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2462d80cdadb4515a9b5f4867c5d0aef",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-12T14:19:37.612Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "Y9S17560SP",
+            "compatibleApps": [],
+            "dateAdded": "2024-03-05T17:19:08.493Z",
+            "id": "23f360ca767c433bb36c48ea5315d8ce",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tom Clancy\u2019s Rainbow Six Siege - 7,560 R6 Credits Signature Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T15:44:05.495Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "neverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "249db68a056a4567b164f23bd87ae7d6"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Rainbow Six Siege Y9S1 4920 Premier Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "3aff3b2696ad44ac92f6557dce7cf69f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3aff3b2696ad44ac92f6557dce7cf69f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0f0b665ba3026710d893577dd8d69778",
+            "size": 573962,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-02T15:48:41.557Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StoreLandscape_2560x1440_2560x1440-0f0b665ba3026710d893577dd8d69778",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "b9ea7ef0bc75f379cbaaddf56b810702",
+            "size": 404077,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-02T15:48:44.721Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StorePortrait_1200x1600_1200x1600-b9ea7ef0bc75f379cbaaddf56b810702",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-09T15:00:25.416Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rainbow Six Siege Y9S1 4920 Premier Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-03T16:11:54.485Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "neverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "c91290bac482424698266566274a1bbf"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Y9S2 7560 Signature Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "1dcf7e79bc6545a98ce14de47565bd7e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1dcf7e79bc6545a98ce14de47565bd7e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-11T15:00:18.970Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Y9S2 7560 Signature Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-03T16:11:54.007Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "neverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "66e7eeec29484cb8a4b819660493bf2f"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "2,670 Premier Pack \u2013 Tom Clancy\u2019s Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "b2b37b53f739489eab1793b46bee746d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b2b37b53f739489eab1793b46bee746d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-11T15:00:18.977Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2,670 Premier Pack \u2013 Tom Clancy\u2019s Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-25T18:33:50.924Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "bd3fdba7b2bd46fb8128803bd7cc164d"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "4,920 Premier Pack \u2013 Tom Clancy\u2019s Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "0fb25b11204a43deafd2d58f7e9d5571",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0fb25b11204a43deafd2d58f7e9d5571",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-07-09T14:58:05.086Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "4,920 Premier Pack \u2013 Tom Clancy\u2019s Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-04T18:35:56.877Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "15fa93df7010419687e0a68a82a2d53d"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "7,560 Signature Pack - Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "75d4dd6ebf2a474491afa62c0e6a1da9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "75d4dd6ebf2a474491afa62c0e6a1da9",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "a69859555768cf1415f72be2677496a5",
+            "size": 614643,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-09T15:07:12.915Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StorePortrait_1200x1600_1200x1600-a69859555768cf1415f72be2677496a5",
+            "width": 1200
+          },
+          {
+            "height": 1080,
+            "md5": "a49eaa63f231743a80ea8d46924fd5a1",
+            "size": 705127,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-09T15:07:17.159Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_Edition_Thumbnail_1920X1080_1920x1080-a49eaa63f231743a80ea8d46924fd5a1",
+            "width": 1920
+          }
+        ],
+        "lastModifiedDate": "2024-09-10T12:34:38.682Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "Y9S37560SP",
+            "compatibleApps": [],
+            "id": "f6b98d95a6cd4d9d9c5e3967cefc8cd0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "7,560 Signature Pack - Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-04T18:36:13.842Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "a3a0454756f6469692982fe28606e34b"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "2,670 Premier Pack - Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "e3a30cc815864cb5911edf5187ee501c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e3a30cc815864cb5911edf5187ee501c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1080,
+            "md5": "8753961d1784202c671b699adbf27c69",
+            "size": 450162,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-09T14:58:32.339Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_Edition_Thumbnail_1920X1080_1920x1080-8753961d1784202c671b699adbf27c69",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "1d4e3da981db6bb61dc76b422021356d",
+            "size": 444484,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-09T14:58:38.330Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StorePortrait_1200x1600_1200x1600-1d4e3da981db6bb61dc76b422021356d",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-10T12:34:38.685Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "Y9S32670PP",
+            "compatibleApps": [],
+            "id": "46dcbbc0f1614375b8c41d632bee10aa",
+            "platform": []
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2,670 Premier Pack - Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-03T22:46:11.850Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "ad191208eb0944fcb3a519df0c056f2f"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "4,920 Premier Pack - Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "2626a84640134abfa34b3f06a5b85eff",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2626a84640134abfa34b3f06a5b85eff",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1080,
+            "md5": "bed11913da81312b9aceb5e707d502d8",
+            "size": 415703,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-10-08T13:08:43.825Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_Edition_Thumbnail_1920X1080_1920x1080-bed11913da81312b9aceb5e707d502d8",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "dfd2f3bdfb3e8a4f9061cd0933c8184e",
+            "size": 429464,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-10-08T13:08:48.404Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StorePortrait_1200x1600_1200x1600-dfd2f3bdfb3e8a4f9061cd0933c8184e",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-10-08T15:01:39.507Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "4920PremierPackY9S3",
+            "compatibleApps": [],
+            "id": "b6cbea1958e34350bf535f74cdb9da61",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "4,920 Premier Pack - Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-28T14:48:38.789Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "99f3129b15d7407fbee32236c7956cc4"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Y9S4 2,670 Premier Pack - Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "daf9d2de8e424809a0b96ff697eb4203",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "daf9d2de8e424809a0b96ff697eb4203",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-03T14:56:17.440Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "2670PremierPackY9S4",
+            "compatibleApps": [],
+            "id": "ebc022599a7b4e708d459e4c5692744e",
+            "platform": []
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Y9S4 2,670 Premier Pack - Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-28T14:50:09.025Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "680163c3d48d4c6281033051b241d43f"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Y9S4 7,560 Signature Pack - Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "242fb071ffea4f8b9a32403e83877f52",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "242fb071ffea4f8b9a32403e83877f52",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-03T14:56:17.437Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "7560SignaturePackY9S4",
+            "compatibleApps": [],
+            "id": "7321ded1f259414fa33ab3344f8ffefe",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Y9S4 7,560 Signature Pack - Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-01-17T18:50:20.805Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "14f494c225e940c5876e58181e41dd58"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "4,920 Premier Pack - Tom Clancy's Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "e06a245dfc7f40b684abc6781ac597e0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e06a245dfc7f40b684abc6781ac597e0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-01-21T14:58:29.011Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "4,920 Premier Pack - Tom Clancy's Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-03-07T15:30:19.513Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "7e0e1814a9314ac1a2c5310c43d2fc76"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Siege X Pack - Tom Clancy\u2019s Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "b390e9eff6b2470d9134689be3a26b68",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b390e9eff6b2470d9134689be3a26b68",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1080,
+            "md5": "ac3bc56e93d7bea13459451dadf3f9be",
+            "size": 665397,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-03-13T11:29:10.725Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_Edition_Thumbnail_1920X1080_1920x1080-ac3bc56e93d7bea13459451dadf3f9be",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "a8faaf961d3d16cfe0c0cfaefddb9b08",
+            "size": 669815,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-03-13T11:29:14.270Z",
+            "url": "https://cdn1.epicgames.com/item/carnation/EGST_StorePortrait_1200x1600_1200x1600-a8faaf961d3d16cfe0c0cfaefddb9b08",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-13T18:53:41.864Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "SiegeXpack",
+            "compatibleApps": [],
+            "id": "0c3d6e515d064d97aa94722b29c60d1e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Siege X Pack - Tom Clancy\u2019s Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-02T18:29:58.417Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "3f6981940ee6436b863f5da2a8d584e0"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "5,000 Premier Pack - Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "80dd27d33bd34e449a270b65f7183d18",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "80dd27d33bd34e449a270b65f7183d18",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-09T19:31:20.593Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "5,000 Premier Pack - Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-02T18:30:49.666Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "c3dea6844096459b82ab3a3a9e96161e"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "3,300 Premier Pack - Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "2f02c30d8d324cc7a52d030627aa8ecd",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2f02c30d8d324cc7a52d030627aa8ecd",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-09T19:31:20.586Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "3300PremierPackY10S2",
+            "compatibleApps": [],
+            "id": "8ae1dd8ff9254090911525135ccc8b02",
+            "platform": []
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "3,300 Premier Pack - Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-18T18:47:43.736Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "558acb73c7d14d2fa529f197ea916cc6"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy's Rainbow Six Siege X - Elite Edition",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "59ba625327554278a17af39db5e98037",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "59ba625327554278a17af39db5e98037",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-20T13:01:44.062Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "EliteEdition",
+            "compatibleApps": [],
+            "id": "53764ce38d454ead89b6b7993269a2eb",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tom Clancy's Rainbow Six Siege X - Elite Edition",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-18T18:48:10.490Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "64801c53a19a414caa6a317193a36e00"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy's Rainbow Six Siege X - Ultimate Edition",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "4d901d9174f44ff4ac8bb7de3e47ed0b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4d901d9174f44ff4ac8bb7de3e47ed0b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-20T13:01:44.060Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "UltimateEdition",
+            "compatibleApps": [],
+            "id": "b32d070721b143e8bbe42e045f9ca74a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tom Clancy's Rainbow Six Siege X - Ultimate Edition",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-29T15:32:40.551Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "d55e9f0df12e40b69efadf8c8a74680b"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "7,200 Premier Pack - Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "410c8cce986949c897f6e0ae33194888",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "410c8cce986949c897f6e0ae33194888",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-02T15:08:22.107Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "7200PremierPackY10S3",
+            "compatibleApps": [],
+            "id": "aa52b1c0e6844b7f9fc9aedc6ff3cf05",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "7,200 Premier Pack - Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-29T15:33:36.860Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "1cb1b010a83a41618bab381465745a27"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "3,300 Premier Pack - Rainbow Six Siege",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "c9862f3e52484f7eb5d6768140669522",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c9862f3e52484f7eb5d6768140669522",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-02T15:08:22.110Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "3300PremierPackY10S3",
+            "compatibleApps": [],
+            "id": "948ef882eb8b4a8eb4ae521e29befa09",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "3,300 Premier Pack - Rainbow Six Siege",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-11-25T19:32:08.250Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "2e92d360488445048933157725e02c5e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "962662da2c7b483b92e32c7079adcd6b"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Rainbow Six Siege X - Welcome Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "eb556e5448664eb0b3a2bd79feafe512",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eb556e5448664eb0b3a2bd79feafe512",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-12-01T23:40:30.360Z",
+        "mainGameItem": {
+          "id": "18e6826e1f464668a0aa45635e0bde07",
+          "namespace": "carnation",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "18e6826e1f464668a0aa45635e0bde07",
+            "namespace": "carnation",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "carnation",
+        "releaseInfo": [
+          {
+            "appId": "WelomePack",
+            "compatibleApps": [],
+            "id": "9bca204f49bd41eaaf435051c804c620",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rainbow Six Siege X - Welcome Pack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "18e6826e1f464668a0aa45635e0bde07",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "18e6826e1f464668a0aa45635e0bde07",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "da05d44b4d209f4544afe33bd1762d1d",
+        "size": 597185,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-06-10T18:25:43.619Z",
+        "url": "https://cdn1.epicgames.com/item/carnation/EGST_Edition_Thumbnail_1920X1080_1920x1080-da05d44b4d209f4544afe33bd1762d1d",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "4bcc097540bf83ca52d162de7c8db4e6",
+        "size": 527232,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-06-10T18:25:46.797Z",
+        "url": "https://cdn1.epicgames.com/item/carnation/EGST_StorePortrait_1200x1600_1200x1600-4bcc097540bf83ca52d162de7c8db4e6",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-25T19:32:08.262Z",
+    "mainGameItemList": [],
+    "namespace": "carnation",
+    "releaseInfo": [
+      {
+        "appId": "Carnation",
+        "compatibleApps": [],
+        "dateAdded": "2019-02-11T00:00:00.000Z",
+        "id": "cf0220a5a96f468ba32ccd5a42ee5775",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Tom Clancy\u2019s Rainbow Six Siege",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

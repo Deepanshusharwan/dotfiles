@@ -1,0 +1,186 @@
+{
+  "Windows": [
+    {
+      "app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
+      "asset_id": "575efd0b5dd54429b035ffc8fe2d36d0",
+      "build_version": "1.1.2725685",
+      "catalog_item_id": "27556e7cd968479daee8cc7bd77aebdd",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c24166cdcbc64321a0eedaa8716160e5",
+        "update_type": "PATCH"
+      },
+      "namespace": "38e211ced4e448a5a653a8d1e13fef18",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "6f73f8ed06a74026a84af9c66c4f345f",
+      "asset_id": "6f73f8ed06a74026a84af9c66c4f345f",
+      "build_version": "1.12.0.901.26",
+      "catalog_item_id": "56db75beddbf4000bcb6f65693ea4cef",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c83c99e20b9f41f3a5a78d73fc542b4d",
+        "update_type": "PATCH"
+      },
+      "namespace": "3e2c28241611405aa231308a39bee638",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
+      "asset_id": "a7d28f0e0935490b9d6f92dda1a7a75b",
+      "build_version": "52472_2025-12-12-21-08-11",
+      "catalog_item_id": "d53f8dc5825748849ca0890279c3dad7",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "6d37669d67c14aa0a8be55b532902050",
+        "update_type": "PATCH"
+      },
+      "namespace": "4806012311744989a5f96d97a42f7829",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "0a2d9f6403244d12969e11da6713137b",
+      "asset_id": "0a2d9f6403244d12969e11da6713137b",
+      "build_version": "EGS_11163",
+      "catalog_item_id": "38ec4849ea4f4de6aa7b6fb0f2d278e1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "50118b7f954e450f8823df1614b24e80",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "504bf18950934ee197b398f97f2b95f5",
+      "asset_id": "504bf18950934ee197b398f97f2b95f5",
+      "build_version": "1.1.61",
+      "catalog_item_id": "cb7ad2e2438c42bb965b950d67237090",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b717af4e6cd7465baf3ea6dc2824fa13",
+        "update_type": "PATCH"
+      },
+      "namespace": "6f8addca2fba41539d30094249b6aa91",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "41869934302e4b8cafac2d3c0e7c293d",
+      "asset_id": "41869934302e4b8cafac2d3c0e7c293d",
+      "build_version": "111",
+      "catalog_item_id": "7d690c122fde4c60bed85405f343ad10",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "aa7093efba5b4760ad413c01fbdd0fae",
+      "asset_id": "aa7093efba5b4760ad413c01fbdd0fae",
+      "build_version": "48.0.5a_v2",
+      "catalog_item_id": "0073e920c0ca49bc8da9cde44836ebe1",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "5bbf1cb7779c45fea08ef51a46ad2226",
+        "update_type": "MAJOR"
+      },
+      "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Sugar",
+      "asset_id": "Sugar",
+      "build_version": "BC2_Update57+504897",
+      "catalog_item_id": "530145df28a24424923f5828cc9031a1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "87be9bd6707748888bce1f79b025c5dd",
+      "asset_id": "87be9bd6707748888bce1f79b025c5dd",
+      "build_version": "CL_2023_07_14_17_29",
+      "catalog_item_id": "64420630dd13480a9e472935cc2c3826",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9a4a6536096c4307bfb235d811f754ce",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "86ae9acccf8443e18fca6950e0181288",
+      "asset_id": "86ae9acccf8443e18fca6950e0181288",
+      "build_version": "1.11.2",
+      "catalog_item_id": "101391ece6024e069a7cb8cf22104399",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "Carnation",
+      "asset_id": "Carnation",
+      "build_version": "Y8S4.1.1",
+      "catalog_item_id": "18e6826e1f464668a0aa45635e0bde07",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "carnation",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
+      "asset_id": "8b6a0e1413744785a43c9f9f9547b4d6",
+      "build_version": "aircombat_store_windows_e84fcf63_2025-12-09_13-48",
+      "catalog_item_id": "37bdf2283730476b89fa027acfab7491",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "fa4240e57a3c46b39f169041b7811293",
+      "asset_id": "fa4240e57a3c46b39f169041b7811293",
+      "build_version": "1613387",
+      "catalog_item_id": "864c7bc2c2394f7dbd1b534aa068ff56",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e97659b501af4e3981d5430dad170911",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
+      "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
+      "build_version": "39.1.2.3",
+      "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "29f16fcf528b4a33b4e086a05b16d882",
+        "update_type": "PATCH"
+      },
+      "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "makalu",
+      "asset_id": "makalu",
+      "build_version": "v01.00",
+      "catalog_item_id": "1a628e9e37234b39a3e88e67a1bcb291",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Fortnite",
+      "asset_id": "Fortnite",
+      "build_version": "++Fortnite+Release-39.11-CL-49242330-Windows",
+      "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "FortniteInstallationPool"
+      },
+      "namespace": "fn",
+      "sidecar_rev": 0
+    }
+  ]
+}

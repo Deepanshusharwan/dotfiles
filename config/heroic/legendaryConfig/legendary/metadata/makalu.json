@@ -1,0 +1,287 @@
+{
+  "app_name": "makalu",
+  "app_title": "Apex Legends\u2122",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "makalu",
+      "asset_id": "makalu",
+      "build_version": "v01.00",
+      "catalog_item_id": "1a628e9e37234b39a3e88e67a1bcb291",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-06-24T18:32:08.688Z",
+    "customAttributes": {
+      "AdditionalCommandline": {
+        "type": "STRING",
+        "value": "&platform=epic"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Apex"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "r5apex.exe"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "r5apex.exe"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "Install Dir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Respawn\\Apex"
+      },
+      "ThirdPartyManagedApp": {
+        "type": "STRING",
+        "value": "The EA App"
+      }
+    },
+    "description": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier.",
+    "developer": "Electronic Arts",
+    "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-14T12:01:38.300Z",
+        "customAttributes": {},
+        "description": "Care package here! Grab the Conduit Free Unlock Bundle and drop straight into Apex Legends\u2122: Shockwave for energetic mayhem and fun.",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "c6045d2cd9614fb9bca9d7bcb69d8136",
+        "entitlementType": "EXECUTABLE",
+        "id": "c6045d2cd9614fb9bca9d7bcb69d8136",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Apex Legends Apex Legends\u2122: Conduit Free Unlock Bundle Offer",
+            "height": 1440,
+            "md5": "e7d9f5feb8311b38c70ad8b27723f729",
+            "size": 852058,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-08-05T21:51:24.513Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-x7g0u.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Apex Legends Apex Legends\u2122: Conduit Free Unlock Bundle Offer",
+            "height": 1600,
+            "md5": "df6a26ee6fad95f09d33f313fa13759c",
+            "size": 530356,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-08-05T21:51:24.825Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-ockjq.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-08-23T21:08:45.565Z",
+        "mainGameItem": {
+          "id": "1a628e9e37234b39a3e88e67a1bcb291",
+          "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1a628e9e37234b39a3e88e67a1bcb291",
+            "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Apex Legends\u2122: Conduit Free Unlock Bundle",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-14T12:02:08.414Z",
+        "customAttributes": {},
+        "description": "Grab the Ash Free Unlock Bundle and drop straight into Apex Legends: From The Rift,  for energetic mayhem and fun.\nThe bundle includes: Ash unlocked and Ash 'Burning Chrome' Epic Skin",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "51c20c2e8a914a37bdf0dce2f6514adf",
+        "entitlementType": "EXECUTABLE",
+        "id": "51c20c2e8a914a37bdf0dce2f6514adf",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Apex Legends Season 23 - Epic Content Offer Offer",
+            "height": 1440,
+            "md5": "c473b4f8c8a606572600cef2ae0efd62",
+            "size": 983086,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-10-24T10:19:26.752Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-4glku.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Apex Legends Season 23 - Epic Content Offer Offer",
+            "height": 1600,
+            "md5": "76ed304f0dd12dcd8ab545d0d18fb7d5",
+            "size": 541385,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-10-24T10:19:30.283Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-v08o3.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-11-07T16:54:16.472Z",
+        "mainGameItem": {
+          "id": "1a628e9e37234b39a3e88e67a1bcb291",
+          "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1a628e9e37234b39a3e88e67a1bcb291",
+            "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Apex Legends\u2122: Ash Free Unlock Bundle",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-14T12:02:24.018Z",
+        "customAttributes": {},
+        "description": "Grab the Loba Free Unlock Bundle and drop straight into Apex Legends: Takeover,  for energetic mayhem and fun.\nThe bundle includes: Loba unlocked and Loba 'Torrent' Epic Skin",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "0728235606d54d62bbe73b4a3e97558e",
+        "entitlementType": "EXECUTABLE",
+        "id": "0728235606d54d62bbe73b4a3e97558e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Apex Legends Apex Legends\u2122: Loba Free Unlock Bundle Offer",
+            "height": 1440,
+            "md5": "8ea6bea73516ee1977515cd8a1d4a517",
+            "size": 904674,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-01-28T09:48:55.874Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-33e0z.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Apex Legends Apex Legends\u2122: Loba Free Unlock Bundle Offer",
+            "height": 1600,
+            "md5": "deec51b4e3a770d26866f663d10af73b",
+            "size": 652583,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-01-28T09:48:56.918Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1xaqs.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T22:30:47.208Z",
+        "mainGameItem": {
+          "id": "1a628e9e37234b39a3e88e67a1bcb291",
+          "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1a628e9e37234b39a3e88e67a1bcb291",
+            "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Apex Legends\u2122: Loba Free Unlock Bundle",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "1a628e9e37234b39a3e88e67a1bcb291",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "1a628e9e37234b39a3e88e67a1bcb291",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Apex Legends Offer",
+        "height": 1440,
+        "md5": "90ed5e5e2486cc50e0f1501660361240",
+        "size": 849066,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-10-24T10:33:52.955Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-j4s91.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Apex Legends Offer",
+        "height": 1600,
+        "md5": "f2936d3ef682ce08d57074fbdadf845b",
+        "size": 521338,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-10-24T10:33:55.681Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-r4uwg.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-10T09:35:26.067Z",
+    "mainGameItemList": [],
+    "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+    "releaseInfo": [
+      {
+        "appId": "makalu",
+        "id": "fcd63d928aeb4c26b33c1f48f4df8852",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Apex Legends\u2122",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

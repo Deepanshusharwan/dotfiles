@@ -1,0 +1,91 @@
+{
+  "app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
+  "app_title": "Where Winds Meet",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
+      "asset_id": "a7d28f0e0935490b9d6f92dda1a7a75b",
+      "build_version": "52472_2025-12-12-21-08-11",
+      "catalog_item_id": "d53f8dc5825748849ca0890279c3dad7",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "6d37669d67c14aa0a8be55b532902050",
+        "update_type": "PATCH"
+      },
+      "namespace": "4806012311744989a5f96d97a42f7829",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-02-24T08:35:42.253Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "WhereWindsMeetUJJch"
+      },
+      "LaunchElevated": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "An epic open-world action-adventure RPG rooted in the rich legacy of Wuxia. Set during the turbulent era of tenth-century China, you take on the role of a young sword master, uncovering forgotten truths and the mysteries of your own identity.",
+    "developer": "Netease Interactive Entertainment Pte.Ltd",
+    "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+    "endOfSupport": false,
+    "entitlementName": "d53f8dc5825748849ca0890279c3dad7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "d53f8dc5825748849ca0890279c3dad7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Where Winds Meet Offer",
+        "height": 1440,
+        "md5": "9ca07f0f4357562ed7280a0e97a4f24a",
+        "size": 2288130,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-11-11T07:53:32.614Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a55e4c8b015d445195aab2f028deace6/where-winds-meet-vxg8i.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Where Winds Meet Offer",
+        "height": 1600,
+        "md5": "d02c9d59a0edc9f627885b87716a5a87",
+        "size": 3357332,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-11-11T07:53:45.521Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a55e4c8b015d445195aab2f028deace6/where-winds-meet-121rv.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-17T15:42:30.016Z",
+    "mainGameItemList": [],
+    "namespace": "4806012311744989a5f96d97a42f7829",
+    "releaseInfo": [
+      {
+        "appId": "a7d28f0e0935490b9d6f92dda1a7a75b",
+        "id": "fcaf76cb2d69441a8f19fbfb3e3a947b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Where Winds Meet",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

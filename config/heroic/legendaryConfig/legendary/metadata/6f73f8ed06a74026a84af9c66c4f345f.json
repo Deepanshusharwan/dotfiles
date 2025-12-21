@@ -1,0 +1,85 @@
+{
+  "app_name": "6f73f8ed06a74026a84af9c66c4f345f",
+  "app_title": "Delta Force",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6f73f8ed06a74026a84af9c66c4f345f",
+      "asset_id": "6f73f8ed06a74026a84af9c66c4f345f",
+      "build_version": "1.12.0.901.26",
+      "catalog_item_id": "56db75beddbf4000bcb6f65693ea4cef",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c83c99e20b9f41f3a5a78d73fc542b4d",
+        "update_type": "PATCH"
+      },
+      "namespace": "3e2c28241611405aa231308a39bee638",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-11-15T07:29:09.506Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeltaForce77xWn"
+      }
+    },
+    "description": "Delta Force is back! The iconic series returns as the definitive free-to-play tactical shooter and featuring three distinct gameplay modes: large-scale PvP warfare, intense extraction shooter action, and a remake of the legendary Black Hawk Down campaign.",
+    "developer": "Proxima Beta Europe B.V.",
+    "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+    "endOfSupport": false,
+    "entitlementName": "56db75beddbf4000bcb6f65693ea4cef",
+    "entitlementType": "EXECUTABLE",
+    "id": "56db75beddbf4000bcb6f65693ea4cef",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Delta Force Offer",
+        "height": 1440,
+        "md5": "4b00ce77ef3bb7b07f934aa2756ea557",
+        "size": 2258498,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-08-20T05:53:36.389Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5e13bf477ca8474e9bd01ae88d6710e7/delta-force-wsa74.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Delta Force Offer",
+        "height": 1600,
+        "md5": "a173f2b0e94d297c63a35cf06f269d65",
+        "size": 1022259,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-08-20T05:53:41.302Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5e13bf477ca8474e9bd01ae88d6710e7/delta-force-1rtdm.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-28T06:19:03.732Z",
+    "mainGameItemList": [],
+    "namespace": "3e2c28241611405aa231308a39bee638",
+    "releaseInfo": [
+      {
+        "appId": "6f73f8ed06a74026a84af9c66c4f345f",
+        "id": "72c086c5e4d741c9b23aeb94a3b82ef1",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Delta Force",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

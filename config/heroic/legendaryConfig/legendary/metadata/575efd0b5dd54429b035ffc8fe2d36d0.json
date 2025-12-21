@@ -1,0 +1,89 @@
+{
+  "app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
+  "app_title": "Marvel Rivals",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
+      "asset_id": "575efd0b5dd54429b035ffc8fe2d36d0",
+      "build_version": "1.1.2725685",
+      "catalog_item_id": "27556e7cd968479daee8cc7bd77aebdd",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c24166cdcbc64321a0eedaa8716160e5",
+        "update_type": "PATCH"
+      },
+      "namespace": "38e211ced4e448a5a653a8d1e13fef18",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [
+    "https://fastly-download.epicgames.com/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default",
+    "https://download.epicgames.com/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default",
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default",
+    "https://cloudflare.epicgamescdn.com/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default"
+  ],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-02-29T06:52:18.980Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "MarvelRivalsjKtnW"
+      }
+    },
+    "description": "Marvel Rivals is a Super Hero Team-Based PVP Shooterr! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
+    "developer": "uk netease",
+    "developerId": "o-ltu2tnmqgvxdewx2mk3zujxsrum4tf",
+    "endOfSupport": false,
+    "entitlementName": "27556e7cd968479daee8cc7bd77aebdd",
+    "entitlementType": "EXECUTABLE",
+    "id": "27556e7cd968479daee8cc7bd77aebdd",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Marvel Rivals Offer",
+        "height": 1440,
+        "md5": "78d2166b9a08e245841831f64f809aac",
+        "size": 3768726,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-03-05T06:14:00.645Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1jakr.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Marvel Rivals Offer",
+        "height": 1600,
+        "md5": "1bfc50dddefe8eb95d3c8634f114313c",
+        "size": 2017364,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-03-05T06:13:57.615Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1ho8d.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-23T02:30:19.846Z",
+    "mainGameItemList": [],
+    "namespace": "38e211ced4e448a5a653a8d1e13fef18",
+    "releaseInfo": [
+      {
+        "appId": "575efd0b5dd54429b035ffc8fe2d36d0",
+        "id": "5cb5aad75e1548d7899f2284ce007c90",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Marvel Rivals",
+    "unsearchable": false
+  },
+  "sidecar": null
+}
