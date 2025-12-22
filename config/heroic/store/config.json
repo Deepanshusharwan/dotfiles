@@ -68,9 +68,26 @@
 	"games": {
 		"recent": [
 			{
+				"appName": "iF34kg1P1ePHfAEE5weSmp",
+				"title": "silksong"
+			},
+			{
+				"appName": "aa7093efba5b4760ad413c01fbdd0fae",
+				"title": "Asphalt Legends"
+			},
+			{
+				"appName": "0a2d9f6403244d12969e11da6713137b",
+				"title": "Fall Guys"
+			},
+			{
+				"appName": "575efd0b5dd54429b035ffc8fe2d36d0",
+				"title": "Marvel Rivals"
+			},
+			{
 				"appName": "makalu",
 				"title": "Apex Legends™"
 			}
 		]
-	}
+	},
+	"theme": "nord-dark"
 }

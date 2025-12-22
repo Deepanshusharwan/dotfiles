@@ -45,7 +45,11 @@
 		"a7d28f0e0935490b9d6f92dda1a7a75b": "Sun Dec 21 2025 16:30:16 GMT+0530 (India Standard Time)",
 		"Carnation": "Sun Dec 21 2025 16:30:36 GMT+0530 (India Standard Time)",
 		"0a2d9f6403244d12969e11da6713137b": "Sun Dec 21 2025 16:34:15 GMT+0530 (India Standard Time)",
-		"aa7093efba5b4760ad413c01fbdd0fae": "Sun Dec 21 2025 18:17:39 GMT+0530 (India Standard Time)"
+		"aa7093efba5b4760ad413c01fbdd0fae": "Sun Dec 21 2025 18:17:39 GMT+0530 (India Standard Time)",
+		"87be9bd6707748888bce1f79b025c5dd": "Sun Dec 21 2025 21:42:05 GMT+0530 (India Standard Time)",
+		"9361c8c6d2f34b42b5f2f61093eedf48": "Sun Dec 21 2025 21:42:27 GMT+0530 (India Standard Time)",
+		"6f73f8ed06a74026a84af9c66c4f345f": "Sun Dec 21 2025 21:46:02 GMT+0530 (India Standard Time)",
+		"Sugar": "Mon Dec 22 2025 10:10:09 GMT+0530 (India Standard Time)"
 	},
 	"a7d28f0e0935490b9d6f92dda1a7a75b": {
 		"game": {
@@ -221,6 +225,173 @@
 			"num_chunks": 9154,
 			"disk_size": 9641572376,
 			"download_size": 9324453001,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"87be9bd6707748888bce1f79b025c5dd": {
+		"game": {
+			"app_name": "87be9bd6707748888bce1f79b025c5dd",
+			"title": "Neverwinter",
+			"version": "CL_2023_07_14_17_29",
+			"platform_versions": {
+				"Windows": "CL_2023_07_14_17_29"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 23654,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "87be9bd6707748888bce1f79b025c5dd",
+			"launch_exe": "Neverwinter.exe",
+			"launch_command": "-launchedfrom Epic",
+			"build_version": "CL_2023_07_14_17_29",
+			"build_id": "9D8kcU0_8viuBoRR9ElQCTvaFfA",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 21,
+			"num_chunks": 424,
+			"disk_size": 443182085,
+			"download_size": 216170769,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"9361c8c6d2f34b42b5f2f61093eedf48": {
+		"game": {
+			"app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
+			"title": "PUBG: BATTLEGROUNDS",
+			"version": "39.1.2.3",
+			"platform_versions": {
+				"Windows": "39.1.2.3"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 2940759,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "c8b945ab8f024e5c8f5b5c32ee2021bc",
+			"launch_exe": "TslGame/Binaries/Win64/ExecPubg.exe",
+			"launch_command": "-LobbyUrl=https://prod-live-front.playbattlegrounds.com?provider=epic -EnableScreenshotWhenCrash -CrashSendLog -HitchFpsPercentage=5 -EnableSSLCertCheck -NoAce -EnableIntegrityCheck -CohDiskCache",
+			"build_version": "39.1.2.3",
+			"build_id": "m6QhKr-C7rdI7vHc7O_kyiHw9zI",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 597,
+			"num_chunks": 44086,
+			"disk_size": 46739751476,
+			"download_size": 45250723476,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"6f73f8ed06a74026a84af9c66c4f345f": {
+		"game": {
+			"app_name": "6f73f8ed06a74026a84af9c66c4f345f",
+			"title": "Delta Force",
+			"version": "1.12.0.901.26",
+			"platform_versions": {
+				"Windows": "1.12.0.901.26"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 76390,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "6f73f8ed06a74026a84af9c66c4f345f",
+			"launch_exe": "Launcher/df_launcher_global.exe",
+			"launch_command": "-gamesubchannel=4",
+			"build_version": "1.12.0.901.26",
+			"build_id": "DmpA42ocYkWuEVucaWTHxw",
+			"prerequisites": null,
+			"uninstaller": {
+				"path": "Launcher/ACE-Setup64.exe",
+				"args": "silent"
+			},
+			"install_tags": [
+				""
+			],
+			"num_files": 604,
+			"num_chunks": 437,
+			"disk_size": 457456702,
+			"download_size": 218695326,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"Sugar": {
+		"game": {
+			"app_name": "Sugar",
+			"title": "Rocket League®",
+			"version": "BC2_Update57+504897",
+			"platform_versions": {
+				"Windows": "BC2_Update57+504897"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 3106113,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "SugarStaging",
+			"launch_exe": "Binaries/Win64/RocketLeague.exe",
+			"launch_command": "",
+			"build_version": "BC2_Update57+504897",
+			"build_id": "hOofzdMgE_Mf7huqdDwwog0A2Ls",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 19299,
+			"num_chunks": 35910,
+			"disk_size": 40035838803,
+			"download_size": 36947713094,
 			"tag_disk_size": [],
 			"tag_download_size": []
 		}

@@ -44,7 +44,11 @@
 		"carnation": "Sun Dec 21 2025 16:30:21 GMT+0530 (India Standard Time)",
 		"50118b7f954e450f8823df1614b24e80": "Sun Dec 21 2025 16:34:10 GMT+0530 (India Standard Time)",
 		"f9f24f4a353b451297e31f5db9cc54f2": "Sun Dec 21 2025 18:13:25 GMT+0530 (India Standard Time)",
-		"9159cceaae3e48bc9a5ec237d7a4f388": "Sun Dec 21 2025 18:19:58 GMT+0530 (India Standard Time)"
+		"9159cceaae3e48bc9a5ec237d7a4f388": "Sun Dec 21 2025 18:19:58 GMT+0530 (India Standard Time)",
+		"9773aa1aa54f4f7b80e44bef04986cea": "Sun Dec 21 2025 19:00:41 GMT+0530 (India Standard Time)",
+		"9a4a6536096c4307bfb235d811f754ce": "Sun Dec 21 2025 21:42:01 GMT+0530 (India Standard Time)",
+		"eb99ee4694474e8da0b05a8ab391825c": "Sun Dec 21 2025 21:42:21 GMT+0530 (India Standard Time)",
+		"3e2c28241611405aa231308a39bee638": "Sun Dec 21 2025 21:45:58 GMT+0530 (India Standard Time)"
 	},
 	"4806012311744989a5f96d97a42f7829": {
 		"about": {
@@ -279,5 +283,180 @@
 			}
 		],
 		"storeUrl": "https://www.epicgames.com/store/product/asphalt-legends-unite-4db4c6"
+	},
+	"9773aa1aa54f4f7b80e44bef04986cea": {
+		"about": {
+			"image": {
+				"altText": "Rocket League | Download & Play Rocket League for Free on PC – Epic Games Store",
+				"src": "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-s2-1200x1600-a0806520e0e0.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Psyonix LLC",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Psyonix LLC",
+			"description": "PLAY ROCKET LEAGUE FOR FREE!\n\nDownload and compete in the high-octane hybrid of arcade-style soccer and vehicular mayhem! customize your car, hit the field, and compete in one of the most critically acclaimed sports games of all time! Download and take your shot!\n\nHit the field by yourself or with friends in 1v1, 2v2, and 3v3 Online Modes, or enjoy Extra Modes like Rumble, Snow Day, or Hoops. Unlock items in Rocket Pass, climb the Competitive Ranks, compete in Competitive Tournaments, complete Challenges, enjoy cross-platform progression and more! The field is waiting. Take your shot! \n\n# New Challenges\nComplete Weekly and season-long Challenges to unlock customization items for free!\n\n![rl_s1_section_challenges.jpg](https://cdn2.unrealengine.com/rl-s1-section-challenges-3840x2160-073994219.jpg)\n\n# Tournaments\nFeel the competitive energy! Join free Tournaments and compete all season against teams at your Rank! Win and earn new rewards! \n\n![rl_s21 tournament](https://cdn2.unrealengine.com/rl-s21-tournament-rewards-1920x1080-1920x1080-5eb86c05bfef.jpg)\n\n# In-Game Events and Limited Time Modes\nFrom Haunted Hallows to Frosty Fest, enjoy limited time events that feature festive in-game items that can be unlocked by playing online! Keep on the lookout for Limited Time Modes and arenas.\n\n![rl_home_f2p-launch_event.jpg](https://cdn2.unrealengine.com/rl-home-f2p-launch-event-3840x2160-073793665.jpg)\n\n# Cross-Platform Progression\nShare your Rocket League Inventory, Competitive Rank, and Rocket Pass Tier on any connected platform!\n\n![rl_home_f2p-launch_cross.jpg](https://cdn2.unrealengine.com/rl-home-f2p-launch-cross-3840x2160-073994250.jpg)\n\n# Item Shop & Blueprints\nMake your car your own with nearly endless customization possibilities! Get in-game items for completing challenges, browse the Item Shop, or build Blueprints for premium content for your car. \n\n![rl_s6_section_keyart](https://cdn2.unrealengine.com/rl-playerschoice-bundle-3840x2160-723248b32611.jpg)",
+			"shortDescription": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+			"title": "Rocket League®",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 7 (64 bit) or Newer (64 bit) Windows OS",
+				"recommended": "Windows 7 (64 bit) or Newer (64 bit) Windows OS"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "2.5 GHz Dual core",
+				"recommended": "3.0+ GHz Quad core"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4GB",
+				"recommended": "8GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "20GB",
+				"recommended": "20GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "DirectX 11",
+				"recommended": "DirectX 11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA GeForce 760, AMD Radeon R7 270X, or better",
+				"recommended": "NVIDIA GeForce GTX 1060, AMD Radeon RX 470, or better"
+			}
+		],
+		"releaseDate": "2020-09-23T22:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/rocket-league"
+	},
+	"9a4a6536096c4307bfb235d811f754ce": {
+		"about": {
+			"description": "Neverwinter is a free, action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. Epic stories, action combat and classic roleplaying await those heroes courageous enough to enter the fantastic world of Neverwinter!",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows® 10/11 (64-bit)",
+				"recommended": "Windows® 10/11 (64-bit)",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Core 2 Duo 2.2Ghz (or equivalent AMD CPU)",
+				"recommended": "Core i5-6xxx Quad Core or better",
+				"title": "CPU"
+			},
+			{
+				"minimum": "4 GB RAM",
+				"recommended": "6 GB RAM or better",
+				"title": "Memory"
+			},
+			{
+				"minimum": "NVidia GeForce GTX 4xx, ATI/AMD Radeon HD 5xxx, or Intel HD Graphics 4xxx (Direct3D Hardware Feature Level 11)",
+				"recommended": "NVidia GeForce GTX 9xx or AMD Radeon RX 4xx or better",
+				"title": "GPU"
+			},
+			{
+				"minimum": null,
+				"recommended": null,
+				"title": "DirectX"
+			},
+			{
+				"minimum": "21 GB available space",
+				"recommended": "21 GB available space",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/neverwinter"
+	},
+	"eb99ee4694474e8da0b05a8ab391825c": {
+		"about": {
+			"description": "Play PUBG: BATTLEGROUNDS for free!\nLand on strategic locations, loot weapons and supplies, and survive to become the last team standing across various, diverse Battlegrounds.",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "64-bit Windows 10",
+				"recommended": "64-bit Windows 10",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Intel Core i5-4430 / AMD FX-6300",
+				"recommended": "Intel Core i5-6600K / AMD Ryzen 5 1600",
+				"title": "CPU"
+			},
+			{
+				"minimum": "8 GB RAM",
+				"recommended": "16 GB RAM",
+				"title": "Memory"
+			},
+			{
+				"minimum": "NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB",
+				"recommended": "NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 11",
+				"recommended": null,
+				"title": "DirectX"
+			},
+			{
+				"minimum": "40 GB",
+				"recommended": "50 GB",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/pubg-59c1d9"
+	},
+	"3e2c28241611405aa231308a39bee638": {
+		"about": {
+			"description": "Delta Force is back! The iconic series returns as the definitive free-to-play tactical shooter and featuring three distinct gameplay modes: large-scale PvP warfare, intense extraction shooter action, and a remake of the legendary Black Hawk Down campaign.",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10 64 bit",
+				"recommended": "Windows 10 64 bit",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Intel Core i3-4150 / AMD FX-6300",
+				"recommended": "Intel Core i5-6500 / AMD Ryzen 5 1500x",
+				"title": "CPU"
+			},
+			{
+				"minimum": "12GB",
+				"recommended": "16GB",
+				"title": "Memory"
+			},
+			{
+				"minimum": "Nvidia Geforce GTX 960 / AMD R9 380 / Intel Arc A380",
+				"recommended": "Nvidia Geforce GTX 1060 5G / AMD RX5500 XT / Intel Arc A580",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 12",
+				"recommended": "DirectX 12",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "88 GB",
+				"recommended": "88 GB",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/delta-force-acea48"
 	}
 }

@@ -212,6 +212,76 @@
 			"store_url": "https://www.epicgames.com/store/product/apex-legends"
 		},
 		{
+			"app_name": "0a2d9f6403244d12969e11da6713137b",
+			"art_cover": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImageLandscape_2560x1440_2560x1440-89c8edd4ffe307f5d760f286a28c3404",
+			"art_square": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImagePortrait_1200x1600_1200x1600-4bd46574e78464352e1f2c55714701f7",
+			"cloud_save_enabled": false,
+			"developer": "EGFG LLC",
+			"extra": {
+				"about": {
+					"description": "Fall Guys",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/fall-guys"
+			},
+			"folder_name": "FallGuys",
+			"install": {
+				"executable": "RunFallGuys.exe",
+				"install_path": "/home/deepanshu/Games/Heroic/FallGuys",
+				"install_size": "7.52 GiB",
+				"is_dlc": false,
+				"version": "EGS_11163",
+				"platform": "Windows"
+			},
+			"is_installed": true,
+			"namespace": "50118b7f954e450f8823df1614b24e80",
+			"is_mac_native": false,
+			"save_folder": "",
+			"save_path": null,
+			"title": "Fall Guys",
+			"canRunOffline": true,
+			"isEAManaged": false,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/fall-guys"
+		},
+		{
+			"app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
+			"art_cover": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1jakr.png",
+			"art_square": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1ho8d.png",
+			"cloud_save_enabled": false,
+			"developer": "uk netease",
+			"extra": {
+				"about": {
+					"description": "Marvel Rivals is a Super Hero Team-Based PVP Shooterr! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/marvel-rivals"
+			},
+			"folder_name": "MarvelRivalsjKtnW",
+			"install": {
+				"executable": "epic_launch_helper.exe",
+				"install_path": "/home/deepanshu/Games/Heroic/MarvelRivalsjKtnW",
+				"install_size": "108.99 GiB",
+				"is_dlc": false,
+				"version": "1.1.2725685",
+				"platform": "Windows"
+			},
+			"is_installed": true,
+			"namespace": "38e211ced4e448a5a653a8d1e13fef18",
+			"is_mac_native": false,
+			"save_folder": "",
+			"save_path": null,
+			"title": "Marvel Rivals",
+			"canRunOffline": false,
+			"isEAManaged": false,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/marvel-rivals"
+		},
+		{
 			"app_name": "aa7093efba5b4760ad413c01fbdd0fae",
 			"art_cover": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-11odw.jpg",
 			"art_square": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-za11d.jpg",
@@ -4010,36 +4080,6 @@
 			"store_url": "https://www.epicgames.com/store/product/delta-force"
 		},
 		{
-			"app_name": "0a2d9f6403244d12969e11da6713137b",
-			"art_cover": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImageLandscape_2560x1440_2560x1440-89c8edd4ffe307f5d760f286a28c3404",
-			"art_square": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImagePortrait_1200x1600_1200x1600-4bd46574e78464352e1f2c55714701f7",
-			"cloud_save_enabled": false,
-			"developer": "EGFG LLC",
-			"extra": {
-				"about": {
-					"description": "Fall Guys",
-					"shortDescription": ""
-				},
-				"reqs": [],
-				"storeUrl": "https://www.epicgames.com/store/product/fall-guys"
-			},
-			"folder_name": "FallGuys",
-			"install": {
-				"install_size": "0",
-				"is_dlc": false
-			},
-			"is_installed": false,
-			"namespace": "50118b7f954e450f8823df1614b24e80",
-			"is_mac_native": false,
-			"save_folder": "",
-			"title": "Fall Guys",
-			"canRunOffline": true,
-			"isEAManaged": false,
-			"is_linux_native": false,
-			"runner": "legendary",
-			"store_url": "https://www.epicgames.com/store/product/fall-guys"
-		},
-		{
 			"app_name": "Fortnite",
 			"art_cover": "https://cdn1.epicgames.com/item/fn/FNBR_39-11_Winterfest2025_KeyArt_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-52725082466d4b77a6312aae07873e6f",
 			"art_square": "https://cdn1.epicgames.com/item/fn/FNBR_39-11_Winterfest2025_KeyArt_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-eb78fa1a84ed4895ae6756b7c7e0d265",
@@ -7836,36 +7876,6 @@
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/honkai-star-rail"
-		},
-		{
-			"app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
-			"art_cover": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1jakr.png",
-			"art_square": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1ho8d.png",
-			"cloud_save_enabled": false,
-			"developer": "uk netease",
-			"extra": {
-				"about": {
-					"description": "Marvel Rivals is a Super Hero Team-Based PVP Shooterr! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
-					"shortDescription": ""
-				},
-				"reqs": [],
-				"storeUrl": "https://www.epicgames.com/store/product/marvel-rivals"
-			},
-			"folder_name": "MarvelRivalsjKtnW",
-			"install": {
-				"install_size": "0",
-				"is_dlc": false
-			},
-			"is_installed": false,
-			"namespace": "38e211ced4e448a5a653a8d1e13fef18",
-			"is_mac_native": false,
-			"save_folder": "",
-			"title": "Marvel Rivals",
-			"canRunOffline": false,
-			"isEAManaged": false,
-			"is_linux_native": false,
-			"runner": "legendary",
-			"store_url": "https://www.epicgames.com/store/product/marvel-rivals"
 		},
 		{
 			"app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
@@ -21490,13 +21500,18 @@
 			],
 			"folder_name": "rocketleague",
 			"install": {
-				"install_size": "0",
-				"is_dlc": false
+				"executable": "Binaries/Win64/RocketLeague.exe",
+				"install_path": "/home/deepanshu/Games/Heroic/rocketleague",
+				"install_size": "37.29 GiB",
+				"is_dlc": false,
+				"version": "BC2_Update57+504897",
+				"platform": "Windows"
 			},
-			"is_installed": false,
+			"is_installed": true,
 			"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
 			"is_mac_native": false,
 			"save_folder": "",
+			"save_path": null,
 			"title": "Rocket League®",
 			"canRunOffline": true,
 			"isEAManaged": false,
@@ -24688,6 +24703,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Sun Dec 21 2025 18:25:02 GMT+0530 (India Standard Time)"
+		"library": "Mon Dec 22 2025 10:39:07 GMT+0530 (India Standard Time)"
 	}
 }

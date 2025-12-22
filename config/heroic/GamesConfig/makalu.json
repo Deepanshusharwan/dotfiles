@@ -21,7 +21,7 @@
     "language": "",
     "beforeLaunchScriptPath": "",
     "afterLaunchScriptPath": "",
-    "verboseLogs": true,
+    "verboseLogs": false,
     "advertiseAvxForRosetta": false,
     "wineVersion": {
       "bin": "/home/deepanshu/.config/heroic/tools/proton/GE-Proton-latest/proton",
