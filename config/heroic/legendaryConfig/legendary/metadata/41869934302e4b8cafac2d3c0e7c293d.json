@@ -5,10 +5,12 @@
     "Windows": {
       "app_name": "41869934302e4b8cafac2d3c0e7c293d",
       "asset_id": "41869934302e4b8cafac2d3c0e7c293d",
-      "build_version": "111",
+      "build_version": "113",
       "catalog_item_id": "7d690c122fde4c60bed85405f343ad10",
       "label_name": "Live-Windows",
-      "metadata": {},
+      "metadata": {
+        "update_type": "MAJOR"
+      },
       "namespace": "879b0d8776ab46a59a129983ba78f0ce",
       "sidecar_rev": 1
     }
@@ -865,25 +867,27 @@
     "itemType": "DURABLE",
     "keyImages": [
       {
+        "alt": "Genshin Impact Offer",
         "height": 1440,
         "md5": "91c6cd7312cc2647c3ebccca10f30399",
         "size": 997652,
         "type": "DieselGameBox",
-        "uploadedDate": "2021-06-02T03:36:36.214Z",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Landscape Product image-EN_2560x1440-91c6cd7312cc2647c3ebccca10f30399",
+        "uploadedDate": "2025-12-16T08:50:00.601Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/99dc46c68ea14324964a856d18dcac5b/genshin-impact-y8r0c.jpg",
         "width": 2560
       },
       {
+        "alt": "Download Genshin Impact Offer",
         "height": 1600,
         "md5": "c12cdcc2cac330df2185aa58c508e820",
         "size": 796187,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2021-06-02T03:36:49.983Z",
-        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Portrait Product Image-en_1200x1600-c12cdcc2cac330df2185aa58c508e820",
+        "uploadedDate": "2025-12-16T08:50:03.747Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/99dc46c68ea14324964a856d18dcac5b/genshin-impact-1bso7.jpg",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-11-11T02:59:40.057Z",
+    "lastModifiedDate": "2025-12-23T02:50:45.395Z",
     "mainGameItemList": [],
     "namespace": "879b0d8776ab46a59a129983ba78f0ce",
     "releaseInfo": [

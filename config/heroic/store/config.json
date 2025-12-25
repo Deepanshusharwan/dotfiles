@@ -51,7 +51,8 @@
 		"downloadProtonToSteam": false,
 		"advertiseAvxForRosetta": false,
 		"noTrayIcon": false,
-		"showValveProton": false
+		"showValveProton": false,
+		"allowInstallationBrokenAnticheat": true
 	},
 	"userInfo": {
 		"account_id": "fdbe9feeeb494c26bedf3d04d50bb4ad",
@@ -59,10 +60,10 @@
 		"user": "deepanshu"
 	},
 	"window-props": {
-		"x": 2883,
+		"x": 3,
 		"y": 33,
-		"width": 2394,
-		"height": 1314,
+		"width": 1722,
+		"height": 936,
 		"maximized": false
 	},
 	"games": {
@@ -70,6 +71,10 @@
 			{
 				"appName": "iF34kg1P1ePHfAEE5weSmp",
 				"title": "silksong"
+			},
+			{
+				"appName": "Fortnite",
+				"title": "Fortnite"
 			},
 			{
 				"appName": "aa7093efba5b4760ad413c01fbdd0fae",

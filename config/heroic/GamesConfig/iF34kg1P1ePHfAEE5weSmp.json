@@ -10,10 +10,16 @@
     "enableWineWayland": false,
     "enableHDR": false,
     "enableWoW64": false,
+    "launcherArgs": "",
     "nvidiaPrime": false,
-    "enviromentOptions": [],
+    "enviromentOptions": [
+      {
+        "key": "WINEDLLOVERRIDES",
+        "value": "winhttp=n,b"
+      }
+    ],
     "wrapperOptions": [],
-    "showFps": false,
+    "showFps": true,
     "useGameMode": false,
     "battlEyeRuntime": true,
     "eacRuntime": true,
@@ -23,8 +29,8 @@
     "verboseLogs": true,
     "advertiseAvxForRosetta": false,
     "wineVersion": {
-      "bin": "/home/deepanshu/.config/heroic/tools/proton/GE-Proton-latest/proton",
-      "name": "Proton - GE-Proton-latest",
+      "bin": "/home/deepanshu/.config/heroic/tools/proton/GE-Proton10-27/proton",
+      "name": "Proton - GE-Proton10-27",
       "type": "proton"
     },
     "winePrefix": "/home/deepanshu/Games/Heroic/Prefixes/default/silksong",

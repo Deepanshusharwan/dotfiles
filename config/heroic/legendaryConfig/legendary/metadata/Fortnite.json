@@ -15,7 +15,12 @@
       "sidecar_rev": 0
     }
   },
-  "base_urls": [],
+  "base_urls": [
+    "https://fastly-download.epicgames.com/Builds/Fortnite/CloudDir",
+    "https://download.epicgames.com/Builds/Fortnite/CloudDir",
+    "https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir",
+    "https://cloudflare.epicgamescdn.com/Builds/Fortnite/CloudDir"
+  ],
   "metadata": {
     "ageGatings": {
       "ACB": {

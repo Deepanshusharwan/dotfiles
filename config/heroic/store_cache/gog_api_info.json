@@ -143,32 +143,32 @@
 			"videos": [
 				{
 					"provider": "youtube",
-					"video_id": "QTC04hq4qQQ",
-					"thumbnail_id": "QTC04hq4qQQ",
-					"name": "Dev Diary"
-				},
-				{
-					"provider": "youtube",
-					"video_id": "XSuj5KD17Xs",
-					"thumbnail_id": "XSuj5KD17Xs",
-					"name": "Trailer"
-				},
-				{
-					"provider": "youtube",
 					"video_id": "a49DJ2bj9Gs",
 					"thumbnail_id": "a49DJ2bj9Gs",
 					"name": "Release Date Trailer"
 				},
 				{
 					"provider": "youtube",
-					"video_id": "DA4iVv4MARE",
-					"thumbnail_id": "DA4iVv4MARE",
-					"name": "Announcement Trailer"
+					"video_id": "QTC04hq4qQQ",
+					"thumbnail_id": "QTC04hq4qQQ",
+					"name": "Dev Diary"
 				},
 				{
 					"provider": "youtube",
 					"video_id": "aXPO-dFyFp8",
 					"thumbnail_id": "aXPO-dFyFp8",
+					"name": "Announcement Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "FFWzIbkXxBU",
+					"thumbnail_id": "FFWzIbkXxBU",
+					"name": "Cinematic Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "DA4iVv4MARE",
+					"thumbnail_id": "DA4iVv4MARE",
 					"name": "Announcement Trailer"
 				},
 				{
@@ -179,15 +179,15 @@
 				},
 				{
 					"provider": "youtube",
-					"video_id": "6QtF-z25nIA",
-					"thumbnail_id": "6QtF-z25nIA",
-					"name": "Launch Trailer"
+					"video_id": "XSuj5KD17Xs",
+					"thumbnail_id": "XSuj5KD17Xs",
+					"name": "Trailer"
 				},
 				{
 					"provider": "youtube",
-					"video_id": "FFWzIbkXxBU",
-					"thumbnail_id": "FFWzIbkXxBU",
-					"name": "Cinematic Trailer"
+					"video_id": "6QtF-z25nIA",
+					"thumbnail_id": "6QtF-z25nIA",
+					"name": "Launch Trailer"
 				},
 				{
 					"provider": "youtube",
@@ -321,19 +321,20 @@
 		"logo": {
 			"url_format": "https://images.gog.com/c4ff1884273977c8ec60d317171e9e9b45699fd7a80595dac7eceef7084d32e4{formatter}.{ext}?namespace=gamesdb"
 		},
-		"etag": "W/\"a9c542234272c2ae651ecc29c9e563a8\""
+		"etag": "W/\"9dddc69ca65bb4a42b8c34a493f511dc\""
 	},
 	"__timestamp": {
-		"epic_575efd0b5dd54429b035ffc8fe2d36d0": "Sun Dec 21 2025 21:47:02 GMT+0530 (India Standard Time)",
+		"epic_575efd0b5dd54429b035ffc8fe2d36d0": "Tue Dec 23 2025 08:21:23 GMT+0530 (India Standard Time)",
 		"epic_a7d28f0e0935490b9d6f92dda1a7a75b": "Sun Dec 21 2025 16:30:05 GMT+0530 (India Standard Time)",
 		"epic_Carnation": "Sun Dec 21 2025 21:46:13 GMT+0530 (India Standard Time)",
 		"epic_0a2d9f6403244d12969e11da6713137b": "Sun Dec 21 2025 19:26:26 GMT+0530 (India Standard Time)",
-		"epic_makalu": "Sun Dec 21 2025 19:07:24 GMT+0530 (India Standard Time)",
-		"epic_aa7093efba5b4760ad413c01fbdd0fae": "Sun Dec 21 2025 23:13:01 GMT+0530 (India Standard Time)",
+		"epic_makalu": "Tue Dec 23 2025 08:18:21 GMT+0530 (India Standard Time)",
+		"epic_aa7093efba5b4760ad413c01fbdd0fae": "Tue Dec 23 2025 08:19:33 GMT+0530 (India Standard Time)",
 		"epic_Sugar": "Sun Dec 21 2025 23:13:30 GMT+0530 (India Standard Time)",
 		"epic_87be9bd6707748888bce1f79b025c5dd": "Sun Dec 21 2025 21:42:01 GMT+0530 (India Standard Time)",
-		"epic_9361c8c6d2f34b42b5f2f61093eedf48": "Sun Dec 21 2025 21:42:19 GMT+0530 (India Standard Time)",
-		"epic_6f73f8ed06a74026a84af9c66c4f345f": "Sun Dec 21 2025 21:45:57 GMT+0530 (India Standard Time)"
+		"epic_9361c8c6d2f34b42b5f2f61093eedf48": "Tue Dec 23 2025 08:17:52 GMT+0530 (India Standard Time)",
+		"epic_6f73f8ed06a74026a84af9c66c4f345f": "Sun Dec 21 2025 21:45:57 GMT+0530 (India Standard Time)",
+		"epic_Fortnite": "Tue Dec 23 2025 08:25:10 GMT+0530 (India Standard Time)"
 	},
 	"epic_a7d28f0e0935490b9d6f92dda1a7a75b": {
 		"id": "59161759469752655",
@@ -5202,5 +5203,798 @@
 			"slug": "delta-force"
 		},
 		"etag": "W/\"9de6a3725b802b6118829a15d96d4095\""
+	},
+	"epic_Fortnite": {
+		"id": "52214313435702487",
+		"game_id": "51152882072859886",
+		"platform_id": "epic",
+		"external_id": "Fortnite",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "osx",
+				"name": "macOS"
+			},
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51152882072859886",
+			"parent_id": null,
+			"dlcs_ids": [
+				"52947335566007024",
+				"52947344281818270",
+				"53153064056476527",
+				"53536470167695825",
+				"53776533165085801",
+				"54368571176858425",
+				"55220843593566929",
+				"55458654312304077",
+				"55458654667882563",
+				"55458660177787679",
+				"55458660434198974",
+				"55458660757866419",
+				"55458661640891220",
+				"55458661919568686",
+				"55458662283659998",
+				"55669214934822458",
+				"55669215190352561",
+				"55669215591167393",
+				"55669216037990390",
+				"55669216345098558",
+				"55669216606602659",
+				"55669216853956558",
+				"55669217131089684",
+				"55669218997202394",
+				"55687127850028249",
+				"57111802791774918",
+				"57111802922275444",
+				"57119960514033123",
+				"58175360093041735",
+				"58181489112832074",
+				"58186997419311053",
+				"58186997629696193"
+			],
+			"mods_ids": [],
+			"first_release_date": "2020-06-29T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51645675977406134",
+					"platform_id": "xboxone",
+					"external_id": "267695549",
+					"release_per_platform_id": "xboxone_267695549",
+					"availability": 0
+				},
+				{
+					"id": "52092243572804396",
+					"platform_id": "psn",
+					"external_id": "CUSA07669_00",
+					"release_per_platform_id": "psn_CUSA07669_00",
+					"availability": 0
+				},
+				{
+					"id": "52214313435702487",
+					"platform_id": "epic",
+					"external_id": "Fortnite",
+					"release_per_platform_id": "epic_Fortnite",
+					"availability": 0
+				},
+				{
+					"id": "52312705221853939",
+					"platform_id": "epic",
+					"external_id": "InfiltratorDemo_4.13",
+					"release_per_platform_id": "epic_InfiltratorDemo_4.13",
+					"availability": 0
+				},
+				{
+					"id": "52312716687713818",
+					"platform_id": "epic",
+					"external_id": "Zen_4.18",
+					"release_per_platform_id": "epic_Zen_4.18",
+					"availability": 0
+				},
+				{
+					"id": "52312719944127977",
+					"platform_id": "epic",
+					"external_id": "Zen_4.22",
+					"release_per_platform_id": "epic_Zen_4.22",
+					"availability": 0
+				},
+				{
+					"id": "52374015780181815",
+					"platform_id": "psn",
+					"external_id": "CUSA07022_00",
+					"release_per_platform_id": "psn_CUSA07022_00",
+					"availability": 0
+				},
+				{
+					"id": "52614038726857931",
+					"platform_id": "test",
+					"external_id": "Fortnite",
+					"release_per_platform_id": "test_Fortnite",
+					"availability": 0
+				},
+				{
+					"id": "52655507429307882",
+					"platform_id": "epic",
+					"external_id": "FortniteDevPlaytestI",
+					"release_per_platform_id": "epic_FortniteDevPlaytestI",
+					"availability": 0
+				},
+				{
+					"id": "52655507571039449",
+					"platform_id": "epic",
+					"external_id": "FortniteLiveBroadcasting",
+					"release_per_platform_id": "epic_FortniteLiveBroadcasting",
+					"availability": 0
+				},
+				{
+					"id": "52655507792346623",
+					"platform_id": "epic",
+					"external_id": "FortniteExtQAUETesting",
+					"release_per_platform_id": "epic_FortniteExtQAUETesting",
+					"availability": 0
+				},
+				{
+					"id": "52776274983824097",
+					"platform_id": "epic",
+					"external_id": "FortniteDevPlaytestL",
+					"release_per_platform_id": "epic_FortniteDevPlaytestL",
+					"availability": 0
+				},
+				{
+					"id": "52776275141900401",
+					"platform_id": "epic",
+					"external_id": "FortniteDevPlaytestK",
+					"release_per_platform_id": "epic_FortniteDevPlaytestK",
+					"availability": 0
+				},
+				{
+					"id": "52776275306890433",
+					"platform_id": "epic",
+					"external_id": "FortnitePredeployCN",
+					"release_per_platform_id": "epic_FortnitePredeployCN",
+					"availability": 0
+				},
+				{
+					"id": "52776275491355660",
+					"platform_id": "epic",
+					"external_id": "FortniteDevPlaytestN",
+					"release_per_platform_id": "epic_FortniteDevPlaytestN",
+					"availability": 0
+				},
+				{
+					"id": "52776275637256651",
+					"platform_id": "epic",
+					"external_id": "FortniteDevPlaytestM",
+					"release_per_platform_id": "epic_FortniteDevPlaytestM",
+					"availability": 0
+				},
+				{
+					"id": "52776275791380457",
+					"platform_id": "epic",
+					"external_id": "FortniteDevPlaytestJ",
+					"release_per_platform_id": "epic_FortniteDevPlaytestJ",
+					"availability": 0
+				},
+				{
+					"id": "52827043615784965",
+					"platform_id": "xboxone",
+					"external_id": "2137224547",
+					"release_per_platform_id": "xboxone_2137224547",
+					"availability": 0
+				},
+				{
+					"id": "52833862482511756",
+					"platform_id": "psvita",
+					"external_id": "CUSA07022_00",
+					"release_per_platform_id": "psvita_CUSA07022_00",
+					"availability": 0
+				},
+				{
+					"id": "52881322829296767",
+					"platform_id": "test",
+					"external_id": "CUSA07669_00",
+					"release_per_platform_id": "test_CUSA07669_00",
+					"availability": 0
+				},
+				{
+					"id": "53025795355403489",
+					"platform_id": "humble",
+					"external_id": "fortnite_deluxefounderspack_epicgames",
+					"release_per_platform_id": "humble_fortnite_deluxefounderspack_epicgames",
+					"availability": 0
+				},
+				{
+					"id": "53025849103059862",
+					"platform_id": "humble",
+					"external_id": "fortnitebattleroyale_starterpack_epicgames",
+					"release_per_platform_id": "humble_fortnitebattleroyale_starterpack_epicgames",
+					"availability": 0
+				},
+				{
+					"id": "53104263767592754",
+					"platform_id": "epic",
+					"external_id": "fn",
+					"release_per_platform_id": "epic_fn",
+					"availability": 0
+				},
+				{
+					"id": "53449078732891370",
+					"platform_id": "epic",
+					"external_id": "FortniteDevPlaytestU",
+					"release_per_platform_id": "epic_FortniteDevPlaytestU",
+					"availability": 0
+				},
+				{
+					"id": "53457017114877588",
+					"platform_id": "psx",
+					"external_id": "CUSA07669_00",
+					"release_per_platform_id": "psx_CUSA07669_00",
+					"availability": 0
+				},
+				{
+					"id": "54374103458353535",
+					"platform_id": "psn",
+					"external_id": "PPSA01923_00",
+					"release_per_platform_id": "psn_PPSA01923_00",
+					"availability": 0
+				},
+				{
+					"id": "54670164992822590",
+					"platform_id": "psn",
+					"external_id": "PPSA01922_00",
+					"release_per_platform_id": "psn_PPSA01922_00",
+					"availability": 0
+				},
+				{
+					"id": "54908478811050496",
+					"platform_id": "test",
+					"external_id": "gfn_100013311",
+					"release_per_platform_id": "test_gfn_100013311",
+					"availability": 0
+				},
+				{
+					"id": "55334052071996361",
+					"platform_id": "beamdog",
+					"external_id": "GAME_FROM_DATA_FILE-0-20220404154047",
+					"release_per_platform_id": "beamdog_GAME_FROM_DATA_FILE-0-20220404154047",
+					"availability": 0
+				},
+				{
+					"id": "55334067115552674",
+					"platform_id": "beamdog",
+					"external_id": "GAME_FROM_DATA_FILE-0-20220404154816",
+					"release_per_platform_id": "beamdog_GAME_FROM_DATA_FILE-0-20220404154816",
+					"availability": 0
+				},
+				{
+					"id": "55334074772970637",
+					"platform_id": "beamdog",
+					"external_id": "GAME_FROM_DATA_FILE-0-20220404155204",
+					"release_per_platform_id": "beamdog_GAME_FROM_DATA_FILE-0-20220404155204",
+					"availability": 0
+				},
+				{
+					"id": "55334080001773450",
+					"platform_id": "beamdog",
+					"external_id": "GAME_FROM_DATA_FILE-0-20220404155440",
+					"release_per_platform_id": "beamdog_GAME_FROM_DATA_FILE-0-20220404155440",
+					"availability": 0
+				},
+				{
+					"id": "55334096702261783",
+					"platform_id": "beamdog",
+					"external_id": "bd9eb298-158a-4f7e-8656-c0da5ccd8123",
+					"release_per_platform_id": "beamdog_bd9eb298-158a-4f7e-8656-c0da5ccd8123",
+					"availability": 0
+				},
+				{
+					"id": "55406709861044598",
+					"platform_id": "beamdog",
+					"external_id": "Fortnite",
+					"release_per_platform_id": "beamdog_Fortnite",
+					"availability": 0
+				},
+				{
+					"id": "55407077028036115",
+					"platform_id": "humble",
+					"external_id": "Fortnite",
+					"release_per_platform_id": "humble_Fortnite",
+					"availability": 0
+				},
+				{
+					"id": "55420955984224585",
+					"platform_id": "egg",
+					"external_id": "Fortnite",
+					"release_per_platform_id": "egg_Fortnite",
+					"availability": 0
+				},
+				{
+					"id": "56163502275626439",
+					"platform_id": "test",
+					"external_id": "epic_Fortnite",
+					"release_per_platform_id": "test_epic_Fortnite",
+					"availability": 0
+				},
+				{
+					"id": "56163627154396441",
+					"platform_id": "test",
+					"external_id": "100013311",
+					"release_per_platform_id": "test_100013311",
+					"availability": 0
+				},
+				{
+					"id": "56775070720531225",
+					"platform_id": "epic",
+					"external_id": "Fortnite_Studio",
+					"release_per_platform_id": "epic_Fortnite_Studio",
+					"availability": 0
+				},
+				{
+					"id": "56777367239584526",
+					"platform_id": "epic",
+					"external_id": "afdb5a85efcc45d8ae8e406e2121d81c",
+					"release_per_platform_id": "epic_afdb5a85efcc45d8ae8e406e2121d81c",
+					"availability": 0
+				},
+				{
+					"id": "57162942073200073",
+					"platform_id": "epic",
+					"external_id": "d8f7763e07d74c209d760a679f9ed6ac",
+					"release_per_platform_id": "epic_d8f7763e07d74c209d760a679f9ed6ac",
+					"availability": 0
+				},
+				{
+					"id": "57941255371413644",
+					"platform_id": "epic",
+					"external_id": "5291abb43ba449859549cb41535e8c8f",
+					"release_per_platform_id": "epic_5291abb43ba449859549cb41535e8c8f",
+					"availability": 0
+				},
+				{
+					"id": "57941255372942398",
+					"platform_id": "epic",
+					"external_id": "09e442f830a341f698b4da42abd98c9b",
+					"release_per_platform_id": "epic_09e442f830a341f698b4da42abd98c9b",
+					"availability": 0
+				},
+				{
+					"id": "51152882072859886",
+					"platform_id": "generic",
+					"external_id": "51152882072859886",
+					"release_per_platform_id": "generic_51152882072859886",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "Fortnite",
+				"en-US": "Fortnite"
+			},
+			"sorting_title": {
+				"*": "Fortnite",
+				"en-US": "Fortnite"
+			},
+			"type": "game",
+			"developers_ids": [
+				"52372461744305993"
+			],
+			"developers": [
+				{
+					"id": "52372461744305993",
+					"name": "Epic Games",
+					"slug": "epic-games"
+				}
+			],
+			"publishers_ids": [
+				"52372461744305993"
+			],
+			"publishers": [
+				{
+					"id": "52372461744305993",
+					"name": "Epic Games",
+					"slug": "epic-games"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51071842251704278",
+				"51071904337940794",
+				"51141224821260861",
+				"51141224846123521"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51071904337940794",
+					"name": {
+						"*": "Strategy",
+						"en-US": "Strategy"
+					},
+					"slug": "strategy"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				},
+				{
+					"id": "51141224846123521",
+					"name": {
+						"*": "Simulator",
+						"en-US": "Simulator"
+					},
+					"slug": "simulator"
+				}
+			],
+			"themes_ids": [
+				"51071842227872529",
+				"51071842231533391",
+				"51141225990825995",
+				"51141226418224461"
+			],
+			"themes": [
+				{
+					"id": "51071842227872529",
+					"name": {
+						"*": "Open world",
+						"en-US": "Open world"
+					},
+					"slug": "open-world"
+				},
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141225990825995",
+					"name": {
+						"*": "Sandbox",
+						"en-US": "Sandbox"
+					},
+					"slug": "sandbox"
+				},
+				{
+					"id": "51141226418224461",
+					"name": {
+						"*": "Survival",
+						"en-US": "Survival"
+					},
+					"slug": "survival"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/350000a7777afff8de13ca4d95c39a2ca39330c1ee57f51748a46634f06fce94{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d2d1bf81bd7f916c83b5425e5f62b1e3bfdc18101afd98f41c5fc48bc7a568ce{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5af46a640bbadf40307cf2bd1057a605502d7e989fae4715e62a738cabda1692{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/88fd89ad98c69f53d211e5979bc0fda7b9ad63a7c029c6f00df1971a59a6d218{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e5f30918b81dd868f528f0d636743f306ef13af016ea0048d188b56ce1bc84b9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c9db7bd5bb5f3e17a96271e3b8fba6478c0f7618c41cfca35e921fac254cc002{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7d55ea113ac486228c9d5efad099a8d215d316dde46666dc03f3517312910a6b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3dbf2a379d869e4fa9467f2e80dff2956b477272aeec29a71b831af2a5d188c1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/648b1d062a76c60876b34325bbae3d566d1b1d4e9af70f5c277e182e3ae895ad{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5b11590a4af4d96380ed8d67f0bcdf7d3d9d3e6e80898095705931e83b263539{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b36967bddd9457458316abfbe1e093c030c0f61737259d09ed322948b735a9dc{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4c7101ac74c431018f0a579e34f516cf0914e8c2e3b595d3bc6e55dc9465409b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/31f233c86964ce29aa1815c82fb18932bff05a1d3e9acd4f5209da5d65c20ec7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8fc72da23fafd4d92a74208ef21404f306d606181ec6a267344cd8ded0cdd9fd{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5c168eaed0c96a05a778e39e44a9d9d365f64e4a2c4c96b702770f008963ffe1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/50f28170e3b70ab0abff925b773bdc2807b47e5b5c2a8e1ef08d29e14c3dbd5c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3af6524e0811f6ed6f9e5b2ee1f52fbd1c7392aabefcb0093bf1c058eb48d52e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/bf17a2607d776af99a15a74343d97a2fe11ab80286d40f39e14e518912b83c41{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8caae521e444f6ddf4f786ca40171185f66be6e0a45a04939dac234900fbf47d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ef2ef4fba587cf84a965ed8fd6bfd3633aefea3c0f164c97185689f848d152a7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6e16c3b69f1ad81076a82c9bd5d284338135760e2a26ac1ae96f52f3f8b1ef6c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e4c09f4ce31023c0ff8302aecf23779f9d2861469a773dd5c7df33f1e0e8c3e4{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d26fcfff867f5997520afd5f52396e1d46947691d14fa683d724687be1e63e0f{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "3KgmY5NrEzU",
+					"thumbnail_id": "3KgmY5NrEzU",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "qG-8ry32yvc",
+					"thumbnail_id": "qG-8ry32yvc",
+					"name": "Launch Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "WMeHjYlRi14",
+					"thumbnail_id": "WMeHjYlRi14",
+					"name": "TGA 2020 Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "_0VdUBtrcdA",
+					"thumbnail_id": "_0VdUBtrcdA",
+					"name": "TGA 2020 Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "Dk56OpKuFts",
+					"thumbnail_id": "Dk56OpKuFts",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "ldr0bg3S6MY",
+					"thumbnail_id": "ldr0bg3S6MY",
+					"name": "E3 2017 Gameplay Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "xYKt-HRalUU",
+					"thumbnail_id": "xYKt-HRalUU",
+					"name": "TGA 2017 Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "2GSfjeYVpkQ",
+					"thumbnail_id": "2GSfjeYVpkQ",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "H-sFdMgJ93M",
+					"thumbnail_id": "H-sFdMgJ93M",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "B3z1Gkud9Cc",
+					"thumbnail_id": "B3z1Gkud9Cc",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "d9gRvP9daPg",
+					"thumbnail_id": "d9gRvP9daPg",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "Gq2GZCc1K2k",
+					"thumbnail_id": "Gq2GZCc1K2k",
+					"name": "Battle Royale Announcement Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/9be486d3828f752b75e7aeff4dea63a89f4e778f6b01090f12ec23f7d31c3545{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/590acce94725ca24a9fe4fec1c8d0b966b529d37ff047adff85031478d36bb9c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ce5b19ecd837e3a4ba9313a1a9857aa46b95c629e05bdaac59bbf943387762c0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5be65cd38b303f63b2a13542c32aafff790164ccde83ef4c8b4fa45b54d4bffc{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c8201cd7ed5262b21ab71d946b52718df0d0f2b7aa2267eb3c346cad2f1748be{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/160d8e3f18824db3673a9aeb802dfa627517c233bb8dba5e14975ecbaa42f439{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9333fd6800378f6077d01f2fe382a81cdb0eed0e1f8a9f560156c437554a94da{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/aeaf5dad3dfee4ec4aded1ca3a2701c4fb1a16afedb9935c3a77c8fe2345d14b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1c5585112fa039f0da9add5bdc734a4d544fbc2157fe8437155ca39e1702c903{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/25615d87c17adf3a60e21d563d29c377d8efab78877ab730aa7bbdedf26b0f1b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/af926a41425e413af06f62fb6ba72ebd35104ba6475cd2d8390f058e9fea8966{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9c70888ed9d0c90875437c0aaacd4f3e0953e1cc932cc9b549cc7b889f8bb511{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4e1556a58dadff892e5f1ee96339ca83e81d80ecb3459b0376ecbc14b9eccb54{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/33e9d8dd0c2dce39f3a98cf51283265842ac033420e46a6bb4291ff1f9e49adc{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/97095e4a54847d9cf95420fe28eaaaa9e09b3df492036bc305af0c10ec54ba53{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1432bd3c32ee675380a0bdae92b5fa144a07fe62b82f1bbeda7263bb61a0b010{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1c8308499e55092475f9f3529d1b6139dbb8132b01a8685bdf95b1ecf3d28178{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/036c2313077dedd082b990ebd647e49a51ffef209dd9ed0920f03e4477d7bba8{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Fortnite is the living, action building game from the developer formerly known as Epic MegaGames. You and your friends will lead a group of Heroes to reclaim and rebuild a homeland that has been left empty by mysterious darkness only known as \"the Storm\". \r\n \r\nBand together online to build extravagant forts, find or build insane weapons and traps and protect your towns from the strange monsters that emerge during the Storm. In an action experience from the only company smart enough to attach chainsaws to guns, get out there to push back the Storm and save the world. And don't forget to loot all the things.",
+				"en-US": "Fortnite is a free-to-play online game where you and your friends fight to be the last one standing in Battle Royale, join forces to make your own Creative games, or catch a live show at Party Royale."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 82.6,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				},
+				{
+					"id": "53051956424090444",
+					"name": "Split screen",
+					"slug": "split-screen"
+				},
+				{
+					"id": "53316265339172328",
+					"name": "Battle Royale",
+					"slug": "battle-royale"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/cd801498cd1f3b53da4838b118a23d132c4ec4db4ce8079081f814466b91104a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/cd801498cd1f3b53da4838b118a23d132c4ec4db4ce8079081f814466b91104a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/4c94af4bda1d75b8364bb2ff2e18bce56b2931639660840d133974d0751a68ba{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/4c94af4bda1d75b8364bb2ff2e18bce56b2931639660840d133974d0751a68ba{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/4c94af4bda1d75b8364bb2ff2e18bce56b2931639660840d133974d0751a68ba{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/97095e4a54847d9cf95420fe28eaaaa9e09b3df492036bc305af0c10ec54ba53{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "fortnite-2017"
+		},
+		"title": {
+			"*": "Fortnite",
+			"en-US": "Fortnite"
+		},
+		"sorting_title": {
+			"*": "Fortnite",
+			"en-US": "Fortnite"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Fortnite is the living, action building game from the developer formerly known as Epic MegaGames. You and your friends will lead a group of Heroes to reclaim and rebuild a homeland that has been left empty by mysterious darkness only known as \"the Storm\". \r\n \r\nBand together online to build extravagant forts, find or build insane weapons and traps and protect your towns from the strange monsters that emerge during the Storm. In an action experience from the only company smart enough to attach chainsaws to guns, get out there to push back the Storm and save the world. And don't forget to loot all the things.",
+			"en-US": "Fortnite is a free-to-play online game where you and your friends fight to be the last one standing in Battle Royale, join forces to make your own Creative games, or catch a live show at Party Royale."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			},
+			{
+				"id": "53051956424090444",
+				"name": "Split screen",
+				"slug": "split-screen"
+			},
+			{
+				"id": "53316265339172328",
+				"name": "Battle Royale",
+				"slug": "battle-royale"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/4c94af4bda1d75b8364bb2ff2e18bce56b2931639660840d133974d0751a68ba{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"f12d1ee04218d7c02f68432f94c420f6\""
 	}
 }

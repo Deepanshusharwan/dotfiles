@@ -29,7 +29,7 @@
     {
       "app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
       "asset_id": "a7d28f0e0935490b9d6f92dda1a7a75b",
-      "build_version": "52472_2025-12-12-21-08-11",
+      "build_version": "52472_2025-12-23-02-37-13",
       "catalog_item_id": "d53f8dc5825748849ca0890279c3dad7",
       "label_name": "Live-Windows",
       "metadata": {
@@ -65,10 +65,12 @@
     {
       "app_name": "41869934302e4b8cafac2d3c0e7c293d",
       "asset_id": "41869934302e4b8cafac2d3c0e7c293d",
-      "build_version": "111",
+      "build_version": "113",
       "catalog_item_id": "7d690c122fde4c60bed85405f343ad10",
       "label_name": "Live-Windows",
-      "metadata": {},
+      "metadata": {
+        "update_type": "MAJOR"
+      },
       "namespace": "879b0d8776ab46a59a129983ba78f0ce",
       "sidecar_rev": 1
     },
@@ -108,7 +110,7 @@
     {
       "app_name": "86ae9acccf8443e18fca6950e0181288",
       "asset_id": "86ae9acccf8443e18fca6950e0181288",
-      "build_version": "1.11.2",
+      "build_version": "1.12.0",
       "catalog_item_id": "101391ece6024e069a7cb8cf22104399",
       "label_name": "Live-Windows",
       "metadata": {
@@ -130,7 +132,7 @@
     {
       "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
       "asset_id": "8b6a0e1413744785a43c9f9f9547b4d6",
-      "build_version": "aircombat_store_windows_e84fcf63_2025-12-09_13-48",
+      "build_version": "aircombat_store_windows_76e266fe_2025-12-19_15-16",
       "catalog_item_id": "37bdf2283730476b89fa027acfab7491",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -150,7 +152,7 @@
     {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "39.1.2.3",
+      "build_version": "39.1.2.5",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {

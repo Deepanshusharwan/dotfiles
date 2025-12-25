@@ -464,12 +464,24 @@
 		{
 			"version": "GE-Proton-latest",
 			"type": "GE-Proton",
-			"date": "2025-12-07",
-			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-26/GE-Proton10-26.tar.gz",
-			"downsize": 512762307,
+			"date": "2025-12-22",
+			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-27/GE-Proton10-27.tar.gz",
+			"downsize": 512857380,
 			"disksize": 1459017472,
-			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-26/GE-Proton10-26.sha512sum",
+			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-27/GE-Proton10-27.sha512sum",
 			"installDir": "/home/deepanshu/.config/heroic/tools/proton/GE-Proton-latest",
+			"isInstalled": true,
+			"hasUpdate": true
+		},
+		{
+			"version": "GE-Proton10-27",
+			"type": "GE-Proton",
+			"date": "2025-12-22",
+			"disksize": 1459399841,
+			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-27/GE-Proton10-27.sha512sum",
+			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-27/GE-Proton10-27.tar.gz",
+			"downsize": 512857380,
+			"installDir": "/home/deepanshu/.config/heroic/tools/proton/GE-Proton10-27",
 			"isInstalled": true
 		},
 		{
@@ -912,15 +924,6 @@
 			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-4/GE-Proton9-4.sha512sum",
 			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-4/GE-Proton9-4.tar.gz",
 			"downsize": 435270624
-		},
-		{
-			"version": "GE-Proton9-3",
-			"type": "GE-Proton",
-			"date": "2024-04-14",
-			"disksize": 0,
-			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-3/GE-Proton9-3.sha512sum",
-			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-3/GE-Proton9-3.tar.gz",
-			"downsize": 435294359
 		}
 	]
 }

@@ -33,22 +33,45 @@
     "uninstaller": null,
     "version": "EGS_11163"
   },
-  "575efd0b5dd54429b035ffc8fe2d36d0": {
-    "app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
+  "Fortnite": {
+    "app_name": "Fortnite",
     "base_urls": [
-      "https://fastly-download.epicgames.com/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default",
-      "https://download.epicgames.com/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default",
-      "https://epicgames-download1.akamaized.net/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default",
-      "https://cloudflare.epicgamescdn.com/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default"
+      "https://fastly-download.epicgames.com/Builds/Fortnite/CloudDir",
+      "https://download.epicgames.com/Builds/Fortnite/CloudDir",
+      "https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir",
+      "https://cloudflare.epicgamescdn.com/Builds/Fortnite/CloudDir"
     ],
     "can_run_offline": true,
     "egl_guid": "",
-    "executable": "epic_launch_helper.exe",
-    "install_path": "/home/deepanshu/Games/Heroic/MarvelRivalsjKtnW",
-    "install_size": 117030959312,
-    "install_tags": [],
+    "executable": "FortniteGame/Binaries/Win64/FortniteLauncher.exe",
+    "install_path": "/home/deepanshu/Games/Heroic/Fortnite",
+    "install_size": 80432513954,
+    "install_tags": [
+      "",
+      "Startup",
+      "FrontEnd",
+      "Encrypted",
+      "Globals",
+      "DefaultGameplayChunk",
+      "UnusedOldEarlyStartupPatcherChunk",
+      "CosmeticPreInstall",
+      "GFP_BaseInstallRoot",
+      "GFP_BRCosmetics",
+      "GFP_BRCosmeticsInstallOnDemand",
+      "GFP_BRCosmeticsInstallOnDemandFat",
+      "GFP_CreativeRoot",
+      "GFP_BRRoot",
+      "GFP_JunoRoot",
+      "GFP_DelMarRoot",
+      "GFP_Sparks",
+      "GFP_BlitzRoot",
+      "GFP_StrideMiceRoot",
+      "FortniteBR",
+      "FNOne",
+      "GFP_SaveTheWorldRoot"
+    ],
     "is_dlc": false,
-    "launch_parameters": "",
+    "launch_parameters": " -obfuscationid=UwRPTxU8N2MNdGPGmU6mHEHRDaIbBg",
     "manifest_path": null,
     "needs_verification": false,
     "platform": "Windows",
@@ -56,9 +79,12 @@
     "requires_ot": false,
     "save_path": null,
     "save_timestamp": null,
-    "title": "Marvel Rivals",
-    "uninstaller": null,
-    "version": "1.1.2725685"
+    "title": "Fortnite",
+    "uninstaller": {
+      "args": "-GameName=FortniteGame -InstallDir=../../../ -InstallDirRelativeToExecutableDir=1 -UninstallActionsManifest=UninstallActionsManifest-Win64.txt",
+      "path": "Engine/Binaries/Win64/UninstallHelper-Win64-Shipping.exe"
+    },
+    "version": "++Fortnite+Release-39.11-CL-49242330-Windows"
   },
   "Sugar": {
     "app_name": "Sugar",

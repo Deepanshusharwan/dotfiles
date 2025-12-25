@@ -1,54 +1,16 @@
 {
-	"38e211ced4e448a5a653a8d1e13fef18": {
-		"about": {
-			"description": "Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
-			"shortDescription": ""
-		},
-		"reqs": [
-			{
-				"minimum": "Windows 10 64-bit (1909 or newer)",
-				"recommended": "Windows 10 64-bit (1909 or newer)",
-				"title": "OS version"
-			},
-			{
-				"minimum": "Intel Core i5-6600K or AMD Ryzen 5 1600X",
-				"recommended": "Intel Core i5-10400 or AMD Ryzen 5 5600X",
-				"title": "CPU"
-			},
-			{
-				"minimum": "12G",
-				"recommended": "16G",
-				"title": "Memory"
-			},
-			{
-				"minimum": "NVIDIA GeForce GTX 1060 / AMD RX 580 / Intel Arc A380",
-				"recommended": "NVIDIA GeForce RTX 2060 (Super) / AMD RX 5700-XT / Intel Arc A750",
-				"title": "GPU"
-			},
-			{
-				"minimum": "DirectX 12",
-				"recommended": "DirectX 12",
-				"title": "DirectX"
-			},
-			{
-				"minimum": "70 GB Available Space",
-				"recommended": "70 GB Available Space",
-				"title": "Storage"
-			}
-		],
-		"storeUrl": "https://www.epicgames.com/store/product/marvel-rivals-182004"
-	},
 	"__timestamp": {
-		"38e211ced4e448a5a653a8d1e13fef18": "Sun Dec 21 2025 16:11:46 GMT+0530 (India Standard Time)",
 		"4806012311744989a5f96d97a42f7829": "Sun Dec 21 2025 16:30:06 GMT+0530 (India Standard Time)",
 		"carnation": "Sun Dec 21 2025 16:30:21 GMT+0530 (India Standard Time)",
 		"50118b7f954e450f8823df1614b24e80": "Sun Dec 21 2025 16:34:10 GMT+0530 (India Standard Time)",
-		"f9f24f4a353b451297e31f5db9cc54f2": "Sun Dec 21 2025 18:13:25 GMT+0530 (India Standard Time)",
-		"9159cceaae3e48bc9a5ec237d7a4f388": "Sun Dec 21 2025 18:19:58 GMT+0530 (India Standard Time)",
 		"9773aa1aa54f4f7b80e44bef04986cea": "Sun Dec 21 2025 19:00:41 GMT+0530 (India Standard Time)",
 		"9a4a6536096c4307bfb235d811f754ce": "Sun Dec 21 2025 21:42:01 GMT+0530 (India Standard Time)",
-		"eb99ee4694474e8da0b05a8ab391825c": "Sun Dec 21 2025 21:42:21 GMT+0530 (India Standard Time)",
-		"3e2c28241611405aa231308a39bee638": "Sun Dec 21 2025 21:45:58 GMT+0530 (India Standard Time)"
+		"3e2c28241611405aa231308a39bee638": "Sun Dec 21 2025 21:45:58 GMT+0530 (India Standard Time)",
+		"eb99ee4694474e8da0b05a8ab391825c": "Tue Dec 23 2025 08:17:53 GMT+0530 (India Standard Time)",
+		"f9f24f4a353b451297e31f5db9cc54f2": "Tue Dec 23 2025 08:18:22 GMT+0530 (India Standard Time)",
+		"9159cceaae3e48bc9a5ec237d7a4f388": "Tue Dec 23 2025 08:19:34 GMT+0530 (India Standard Time)",
+		"38e211ced4e448a5a653a8d1e13fef18": "Tue Dec 23 2025 08:21:23 GMT+0530 (India Standard Time)",
+		"fn": "Tue Dec 23 2025 08:25:11 GMT+0530 (India Standard Time)"
 	},
 	"4806012311744989a5f96d97a42f7829": {
 		"about": {
@@ -206,84 +168,6 @@
 		],
 		"storeUrl": "https://www.epicgames.com/store/product/fall-guys"
 	},
-	"f9f24f4a353b451297e31f5db9cc54f2": {
-		"about": {
-			"description": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier.",
-			"shortDescription": ""
-		},
-		"reqs": [
-			{
-				"minimum": "64-bit Windows 10",
-				"recommended": "64-bit Windows 10",
-				"title": "OS version"
-			},
-			{
-				"minimum": "AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent",
-				"recommended": "Ryzen 5 CPU or Equivalent",
-				"title": "CPU"
-			},
-			{
-				"minimum": "6 GB",
-				"recommended": "8 GB",
-				"title": "Memory"
-			},
-			{
-				"minimum": "AMD Radeon™ HD 7790, NVIDIA GeForce® GTX 950",
-				"recommended": "AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970",
-				"title": "GPU"
-			},
-			{
-				"minimum": "DirectX 12",
-				"recommended": "DirectX 12",
-				"title": "DirectX"
-			},
-			{
-				"minimum": "75 GB",
-				"recommended": "75 GB",
-				"title": "Storage"
-			}
-		],
-		"storeUrl": "https://www.epicgames.com/store/product/apex-legends-006cde"
-	},
-	"9159cceaae3e48bc9a5ec237d7a4f388": {
-		"about": {
-			"description": "Spark your competitive soul with Asphalt Legends and feel the collective heartbeat of the road! Join forces with other players to speed through intense arcade races, perform jaw-dropping stunts, and charge towards victory while driving the finest hypercars!",
-			"shortDescription": ""
-		},
-		"reqs": [
-			{
-				"minimum": "Windows 10 or later",
-				"recommended": "Windows 10",
-				"title": "OS version"
-			},
-			{
-				"minimum": "Core i3-3110M | AMD Ryzen 3 3300U or better",
-				"recommended": "Core i5-4460 | AMD Ryzen 5 3400G or better",
-				"title": "CPU"
-			},
-			{
-				"minimum": "8 GB RAM",
-				"recommended": "12 GB RAM",
-				"title": "Memory"
-			},
-			{
-				"minimum": "Intel HD Graphics 4600 | NVIDIA GeForce GT 630 | Radeon HD 6570 or better",
-				"recommended": "Intel Iris | NVIDIA GeForce GT 1030 | ATI Radeon HD 5850 or better",
-				"title": "GPU"
-			},
-			{
-				"minimum": "DirectX 12",
-				"recommended": "DirectX 12",
-				"title": "DirectX"
-			},
-			{
-				"minimum": "10 GB available space",
-				"recommended": "10 GB available space",
-				"title": "Storage"
-			}
-		],
-		"storeUrl": "https://www.epicgames.com/store/product/asphalt-legends-unite-4db4c6"
-	},
 	"9773aa1aa54f4f7b80e44bef04986cea": {
 		"about": {
 			"image": {
@@ -381,6 +265,45 @@
 		],
 		"storeUrl": "https://www.epicgames.com/store/product/neverwinter"
 	},
+	"3e2c28241611405aa231308a39bee638": {
+		"about": {
+			"description": "Delta Force is back! The iconic series returns as the definitive free-to-play tactical shooter and featuring three distinct gameplay modes: large-scale PvP warfare, intense extraction shooter action, and a remake of the legendary Black Hawk Down campaign.",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10 64 bit",
+				"recommended": "Windows 10 64 bit",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Intel Core i3-4150 / AMD FX-6300",
+				"recommended": "Intel Core i5-6500 / AMD Ryzen 5 1500x",
+				"title": "CPU"
+			},
+			{
+				"minimum": "12GB",
+				"recommended": "16GB",
+				"title": "Memory"
+			},
+			{
+				"minimum": "Nvidia Geforce GTX 960 / AMD R9 380 / Intel Arc A380",
+				"recommended": "Nvidia Geforce GTX 1060 5G / AMD RX5500 XT / Intel Arc A580",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 12",
+				"recommended": "DirectX 12",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "88 GB",
+				"recommended": "88 GB",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/delta-force-acea48"
+	},
 	"eb99ee4694474e8da0b05a8ab391825c": {
 		"about": {
 			"description": "Play PUBG: BATTLEGROUNDS for free!\nLand on strategic locations, loot weapons and supplies, and survive to become the last team standing across various, diverse Battlegrounds.",
@@ -420,30 +343,30 @@
 		],
 		"storeUrl": "https://www.epicgames.com/store/product/pubg-59c1d9"
 	},
-	"3e2c28241611405aa231308a39bee638": {
+	"f9f24f4a353b451297e31f5db9cc54f2": {
 		"about": {
-			"description": "Delta Force is back! The iconic series returns as the definitive free-to-play tactical shooter and featuring three distinct gameplay modes: large-scale PvP warfare, intense extraction shooter action, and a remake of the legendary Black Hawk Down campaign.",
+			"description": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier.",
 			"shortDescription": ""
 		},
 		"reqs": [
 			{
-				"minimum": "Windows 10 64 bit",
-				"recommended": "Windows 10 64 bit",
+				"minimum": "64-bit Windows 10",
+				"recommended": "64-bit Windows 10",
 				"title": "OS version"
 			},
 			{
-				"minimum": "Intel Core i3-4150 / AMD FX-6300",
-				"recommended": "Intel Core i5-6500 / AMD Ryzen 5 1500x",
+				"minimum": "AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent",
+				"recommended": "Ryzen 5 CPU or Equivalent",
 				"title": "CPU"
 			},
 			{
-				"minimum": "12GB",
-				"recommended": "16GB",
+				"minimum": "6 GB",
+				"recommended": "8 GB",
 				"title": "Memory"
 			},
 			{
-				"minimum": "Nvidia Geforce GTX 960 / AMD R9 380 / Intel Arc A380",
-				"recommended": "Nvidia Geforce GTX 1060 5G / AMD RX5500 XT / Intel Arc A580",
+				"minimum": "AMD Radeon™ HD 7790, NVIDIA GeForce® GTX 950",
+				"recommended": "AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970",
 				"title": "GPU"
 			},
 			{
@@ -452,11 +375,147 @@
 				"title": "DirectX"
 			},
 			{
-				"minimum": "88 GB",
-				"recommended": "88 GB",
+				"minimum": "75 GB",
+				"recommended": "75 GB",
 				"title": "Storage"
 			}
 		],
-		"storeUrl": "https://www.epicgames.com/store/product/delta-force-acea48"
+		"storeUrl": "https://www.epicgames.com/store/product/apex-legends-006cde"
+	},
+	"9159cceaae3e48bc9a5ec237d7a4f388": {
+		"about": {
+			"description": "Spark your competitive soul with Asphalt Legends and feel the collective heartbeat of the road! Join forces with other players to speed through intense arcade races, perform jaw-dropping stunts, and charge towards victory while driving the finest hypercars!",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10 or later",
+				"recommended": "Windows 10",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Core i3-3110M | AMD Ryzen 3 3300U or better",
+				"recommended": "Core i5-4460 | AMD Ryzen 5 3400G or better",
+				"title": "CPU"
+			},
+			{
+				"minimum": "8 GB RAM",
+				"recommended": "12 GB RAM",
+				"title": "Memory"
+			},
+			{
+				"minimum": "Intel HD Graphics 4600 | NVIDIA GeForce GT 630 | Radeon HD 6570 or better",
+				"recommended": "Intel Iris | NVIDIA GeForce GT 1030 | ATI Radeon HD 5850 or better",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 12",
+				"recommended": "DirectX 12",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "10 GB available space",
+				"recommended": "10 GB available space",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/asphalt-legends-unite-4db4c6"
+	},
+	"38e211ced4e448a5a653a8d1e13fef18": {
+		"about": {
+			"description": "Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10 64-bit (1909 or newer)",
+				"recommended": "Windows 10 64-bit (1909 or newer)",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Intel Core i5-6600K or AMD Ryzen 5 1600X",
+				"recommended": "Intel Core i5-10400 or AMD Ryzen 5 5600X",
+				"title": "CPU"
+			},
+			{
+				"minimum": "12G",
+				"recommended": "16G",
+				"title": "Memory"
+			},
+			{
+				"minimum": "NVIDIA GeForce GTX 1060 / AMD RX 580 / Intel Arc A380",
+				"recommended": "NVIDIA GeForce RTX 2060 (Super) / AMD RX 5700-XT / Intel Arc A750",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 12",
+				"recommended": "DirectX 12",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "70 GB Available Space",
+				"recommended": "70 GB Available Space",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/marvel-rivals-182004"
+	},
+	"fn": {
+		"about": {
+			"image": {
+				"altText": "Fortnite",
+				"src": "https://cdn2.unrealengine.com/fnbr-39-11-winterfest2025-keyart-egs-launcher-keyart-blade-1200x1600-1200x1600-a64049827673.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Epic Games",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Epic Games",
+			"description": "Everything you love, all in Fortnite. \n\nDrop into the action you love or discover something new with your squad. Be the last player standing in Battle Royale. Get nostalgic in Fortnite OG. Go tactical in Reload. Headline Fortnite Festival. Explore the worlds of LEGO Fortnite. There is always something new for you and your friends.\n\nPlay thousands of games made by developers like deathruns, tycoons, racing, zombie survival and more! Or, build your own games with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools for everyone to play.  Each game has an individual age rating so you can find what’s right for you.\n\n# Chapter 7 Pacific Break\n\n![KeyArt Image](https://cdn2.unrealengine.com/fnbr-39-11-winterfest2025-keyart-egs-launcher-keyart-carousel-pdp-2560x1440-logo-2560x1440-728155930856.jpg)\n\nChapter Seven kicks off a new era for Fortnite Battle Royale’s story, where the greatest stories are told — the Golden Coast. Surf the Storm to an all-new sun-soaked Island and become the last player standing with an all-new new arsenal at your disposal. Drive the reboot vans, soar through the sky in a Wingsuit, and unlock your cast in a star-studded Battle Pass in Chapter Seven: Pacific Break!\n\n# Everything you love, all in Fortnite!\n\nSprint, climb, and smash your way to a Victory Royale whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.\n\n![FNBR keyart with logo](https://cdn2.unrealengine.com/fnbr-39-11-winterfest2025-keyart-egs-launcher-keyart-blade-2560x1440-2560x1440-67daa47bc16d.jpg)\n\n# Take the offensive in Fortnite Zero Build No Build Battle Royale\n\nIntroducing a new, tactical take on Fortnite Battle Royale with the launch of Fortnite Zero Build. Show off your sharp shooting, sharp thinking, and sharp sense of space as you take on the Battle full-tilt in Fortnite Zero Build. \n\nWithout building, all players have the recharging Overshield as their first line of defense in Zero Build. Slide downhill to avoid enemy fire or use mantling to get the high ground on opponents. Don’t forget to sprint between cover on your way to a Victory Royale!\n\n![FNBR screenshot](https://cdn2.unrealengine.com/fnbr-39-11-winterfest2025-firstparty-environmental-screenshot1-3840x2160-3840x2160-8d9250685c26.jpg)\n\n# Zero Build is a pure test of weapon, item, and traversal skill - no building required.\n\nZero Build is a pure test of weapon, item, and traversal ability. Zero Build can be found in the Discover page as Solo, Duos, Trios, and Squads playlists. (Access the Discover page by clicking on the “CHANGE” button above “PLAY!” in the Lobby.)\n\nFortnite Zero Build shares XP progression and Quests with Fortnite Battle Royale, meaning you can earn XP towards your Battle Pass in either Fortnite Zero Build or Fortnite Battle Royale. Take on a new challenge and level up along the way!\n\n\n![FNCrew Image](https://cdn2.unrealengine.com/en-fneco-crewupdate-egs-pdp-carousel-2560x1440-2560x1440-221e010a39ef.jpg)\n\n# Fortnite Crew\n\nThe Ultimate Fortnite Offer\n\nThe best way to maximize your Fortnite experience. Joining Fortnite Crew gets members everything below for only $11.99 each month.\n\n• Any Pass, Any Time! Subscribe to Fortnite Crew to claim premium rewards from each Pass (Battle Pass, Music Pass, LEGO® Pass, and the Fortnite OG Pass on Dec 6)\n\n• 1,000 V-Bucks Each Month - Fortnite Crew members will receive 1,000 V-Bucks every month. Spend it on your favorite Item Shop content!\n\n• Get A Monthly Crew Pack! - Get an exclusive Fortnite Crew Pack, an always-new Outfit Bundle that only Fortnite Crew members can get.\n\nRecurring fee charged monthly until cancelled. Cancel anytime.\n\nIf you’d like to learn more about Fortnite Crew, you can find all details and FAQs at <https://www.epicgames.com/fortnite/fortnite-crew-subscription>",
+			"shortDescription": "Drop into the action you love or discover something new with your squad. Be the last player standing in Battle Royale. Get nostalgic in Fortnite OG. Go tactical in Reload. Headline Fortnite Festival. Explore the worlds of LEGO Fortnite. There is always something new for you and your friends.",
+			"title": "",
+			"developerLogo": {
+				"src": "https://cdn2.unrealengine.com/Diesel%2Flogo%2FLogo_EpicGames_Black-1360x1360-f15ee5845c95eacd424199bdf326047631b4bc69.png",
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10 64-bit version 1703",
+				"recommended": "Windows 10/11 64-bit"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "CPU",
+				"minimum": "Core i3-3225 3.3 GHz",
+				"recommended": "Core i5-7300U 3.5 GHz, AMD Ryzen 3 3300U, or equivalent"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "8 GB RAM",
+				"recommended": "16 GB RAM or higher"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "GPU",
+				"minimum": "Intel HD 4000 on PC; AMD Radeon Vega 8",
+				"recommended": "Nvidia GTX 960, AMD R9 280, or equivalent DX11 GPU"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "VRAM ",
+				"minimum": "",
+				"recommended": "8 GB VRAM or higher"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Additional",
+				"recommended": "NVMe Solid State Drive"
+			}
+		],
+		"releaseDate": "2017-07-25T04:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/fortnite"
 	}
 }
