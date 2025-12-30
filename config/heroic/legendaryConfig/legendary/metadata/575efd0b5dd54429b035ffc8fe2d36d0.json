@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
       "asset_id": "575efd0b5dd54429b035ffc8fe2d36d0",
-      "build_version": "1.1.2725685",
+      "build_version": "1.1.2749717",
       "catalog_item_id": "27556e7cd968479daee8cc7bd77aebdd",
       "label_name": "Live-Windows",
       "metadata": {
@@ -16,12 +16,7 @@
       "sidecar_rev": 0
     }
   },
-  "base_urls": [
-    "https://fastly-download.epicgames.com/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default",
-    "https://download.epicgames.com/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default",
-    "https://epicgames-download1.akamaized.net/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default",
-    "https://cloudflare.epicgamescdn.com/Builds/Org/o-lh5svzljjbq48pejvadxzemdmv45ww/eb15454c010f4a748498cd3a62096a52/default"
-  ],
+  "base_urls": [],
   "metadata": {
     "categories": [
       {
