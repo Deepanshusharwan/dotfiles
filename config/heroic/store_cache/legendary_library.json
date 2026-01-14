@@ -37,8 +37,8 @@
 		},
 		{
 			"app_name": "Fortnite",
-			"art_cover": "https://cdn1.epicgames.com/item/fn/FNBR_39-11_Winterfest2025_KeyArt_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-52725082466d4b77a6312aae07873e6f",
-			"art_square": "https://cdn1.epicgames.com/item/fn/FNBR_39-11_Winterfest2025_KeyArt_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-eb78fa1a84ed4895ae6756b7c7e0d265",
+			"art_cover": "https://cdn1.epicgames.com/item/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-4a3ead1d446c4518865e848d6ad65533",
+			"art_square": "https://cdn1.epicgames.com/item/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-00fd34439ec948bdbba9d9bfc06d2807",
 			"cloud_save_enabled": false,
 			"developer": "Epic Games",
 			"extra": {
@@ -18821,7 +18821,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "59e7e1adf9774598a96da5f20ff31e93",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-12-03T00:00:20.235Z",
+					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -18859,7 +18859,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "cf32093d3f444167966b7d08a82062cc",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-12-03T00:00:20.235Z",
+					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -18897,7 +18897,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "5fe30d97bcac4130abbed745cb9e48c0",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-12-03T00:00:20.235Z",
+					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -18935,7 +18935,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "7df47cc650744d12829ed9995f8a167a",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-12-03T00:00:20.235Z",
+					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -18973,7 +18973,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "18f04d12c558442f87193545610b9ab8",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-12-03T00:00:20.235Z",
+					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -19011,7 +19011,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "15c6cc9b41e242859e028b1850a649fd",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-12-03T00:00:20.235Z",
+					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -19049,7 +19049,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "2173e8136e374afb833169723bf7325c",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-12-03T00:00:20.235Z",
+					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -19087,7 +19087,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "211f08a072c749d88813e2759872dc88",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-12-03T00:00:20.235Z",
+					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -21499,6 +21499,43 @@
 					"requiresSecureAccount": false,
 					"status": "ACTIVE",
 					"title": "#39.1 Survivor Pass_SeasonPassAudience",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2026-01-07T00:00:05.966Z",
+					"description": "#39.2 Survivor Pass: Off Range_SeasonPassAudience",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "032d2d69f6964461a828f46d59eee301",
+					"entitlementType": "AUDIENCE",
+					"id": "032d2d69f6964461a828f46d59eee301",
+					"itemType": "DURABLE",
+					"lastModifiedDate": "2026-01-07T00:00:05.966Z",
+					"mainGameItem": {
+						"id": "498ff2997ac2491a9fc7c0e95991afd8",
+						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "498ff2997ac2491a9fc7c0e95991afd8",
+							"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+							"unsearchable": false
+						}
+					],
+					"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "#39.2 Survivor Pass: Off Range_SeasonPassAudience",
 					"unsearchable": false
 				}
 			],
@@ -24702,6 +24739,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Wed Dec 31 2025 12:22:06 GMT+0530 (India Standard Time)"
+		"library": "Tue Jan 13 2026 12:16:12 GMT+0530 (India Standard Time)"
 	}
 }

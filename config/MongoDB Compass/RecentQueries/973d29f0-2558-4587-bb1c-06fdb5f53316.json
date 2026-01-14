@@ -1,0 +1,14 @@
+{
+  "sort": {
+    "profile_id": 1
+  },
+  "project": {
+    "profile_id": "013e0c6b-9723-40d4-af1d-0f0c3f846a1c"
+  },
+  "_ns": "sherlock_db.cost_events",
+  "_host": "localhost:27017",
+  "_id": "973d29f0-2558-4587-bb1c-06fdb5f53316",
+  "_lastExecuted": {
+    "$date": "2026-01-13T18:22:49.747Z"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "filter": {
+    "service": "content_safety"
+  },
+  "sort": {
+    "timestamp": -1
+  },
+  "_id": "0d93ef89-4f6d-4e3d-b364-a5fa54a97d4e",
+  "_lastExecuted": {
+    "$date": "2026-01-07T13:08:50.487Z"
+  },
+  "_ns": "sherlock_db.cost_events",
+  "_host": "localhost:27017"
+}

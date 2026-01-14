@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-39.11-CL-49242330-Windows",
+      "build_version": "++Fortnite+Release-39.20-CL-49564179-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
@@ -15,12 +15,7 @@
       "sidecar_rev": 0
     }
   },
-  "base_urls": [
-    "https://fastly-download.epicgames.com/Builds/Fortnite/CloudDir",
-    "https://download.epicgames.com/Builds/Fortnite/CloudDir",
-    "https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir",
-    "https://cloudflare.epicgamescdn.com/Builds/Fortnite/CloudDir"
-  ],
+  "base_urls": [],
   "metadata": {
     "ageGatings": {
       "ACB": {
@@ -1467,44 +1462,44 @@
     "itemType": "DURABLE",
     "keyImages": [
       {
-        "height": 1024,
-        "md5": "3060f9cb175cf2b1e0f1b0e80884c124",
-        "size": 1538585,
-        "type": "AndroidIcon",
-        "uploadedDate": "2025-12-17T18:46:38.959Z",
-        "url": "https://cdn1.epicgames.com/item/fn/RosyChuckle_Crop_-_Export_PNG_1024x1024-739bcba56a1448e7b2904e1029cfe998",
-        "width": 1024
-      },
-      {
-        "height": 1440,
-        "md5": "e0ee4c32efbecb0f928e812407100882",
-        "size": 3149755,
-        "type": "DieselGameBox",
-        "uploadedDate": "2025-12-17T18:47:15.303Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-11_Winterfest2025_KeyArt_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-52725082466d4b77a6312aae07873e6f",
-        "width": 2560
-      },
-      {
         "height": 1600,
-        "md5": "64eb253cf89a00e403b29d7f3a4cc330",
-        "size": 463283,
+        "md5": "5039dd85173feadc291f2dc9df37d3c3",
+        "size": 286600,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2025-12-17T18:47:11.959Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-11_Winterfest2025_KeyArt_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-eb78fa1a84ed4895ae6756b7c7e0d265",
+        "uploadedDate": "2026-01-08T00:38:46.032Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-00fd34439ec948bdbba9d9bfc06d2807",
         "width": 1200
       },
       {
+        "height": 1440,
+        "md5": "2712f920c6ba09bb26b565d03fb8b46d",
+        "size": 669280,
+        "type": "DieselGameBox",
+        "uploadedDate": "2026-01-08T00:38:48.707Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-4a3ead1d446c4518865e848d6ad65533",
+        "width": 2560
+      },
+      {
         "height": 800,
-        "md5": "0e75caaed8947055fd00416187413983",
-        "size": 156944,
+        "md5": "40268be1751331a227de1f9bbb8a9867",
+        "size": 158509,
         "type": "Featured",
-        "uploadedDate": "2025-12-17T18:47:08.979Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-11_Winterfest2025_KeyArt_EGS_Launcher_KeyArt_MobileFeaturedArt_800x800_800x800-955725475cd74561970e1ef73de964d3",
+        "uploadedDate": "2026-01-08T00:38:51.889Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Mobile_800x800_800x800-03c819857f6b46aa925867ecdf25b6fc",
         "width": 800
+      },
+      {
+        "height": 1024,
+        "md5": "aa621c702d6544cd0ad91f5c611d929d",
+        "size": 1637288,
+        "type": "AndroidIcon",
+        "uploadedDate": "2026-01-08T00:38:56.818Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-10_Safflower_Mobile_VisID_AppIcons_Crop_Cartman_1024x1024_1024x1024-226f93daf0764c45a96a80dbc3040fe6",
+        "width": 1024
       }
     ],
-    "lastModifiedDate": "2025-12-19T20:10:19.941Z",
-    "legalFooterText": "\u00a92024 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League \u00a92024 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a92024 The LEGO Group. All other trademarks are the property of their respective owners.",
+    "lastModifiedDate": "2026-01-09T09:14:43.061Z",
+    "legalFooterText": "\u00a92026 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League \u00a92026 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a92026 The LEGO Group. All other trademarks are the property of their respective owners.",
     "longDescription": "Fortnite on mobile brings everything you love about the game onto your favorite on-the-go device. Join and chat with your friends -- regardless of what platform they\u2019re on -- and make progress on your Battle Pass the same way you would on a PC or console!\n\nRequires an internet connection.\n\nPowered by Unreal Engine.",
     "mainGameItemList": [],
     "namespace": "fn",

@@ -1,0 +1,11 @@
+{
+  "filter": {
+    "source": "judge"
+  },
+  "_ns": "sherlock_db.cost_events",
+  "_host": "localhost:27017",
+  "_id": "72590b16-2125-4000-a6cc-47990c3e9d57",
+  "_lastExecuted": {
+    "$date": "2026-01-06T16:18:19.432Z"
+  }
+}

@@ -1,0 +1,5 @@
+[
+  "{\n  \"$sort\": { \"timestamp\": -1 }\n}\n",
+  "{\n  \"$sort\": { \"createdAt\": -1 }\n}\n",
+  "{\n  \"$sort\": { \"createdAt\": -1 }\n}\ndb[\"cost_events\"].find()"
+]
