@@ -1,1 +1,1174 @@
-{}
+{
+	"epic_9361c8c6d2f34b42b5f2f61093eedf48": {
+		"id": "56046147915347024",
+		"game_id": "51153463561912315",
+		"platform_id": "epic",
+		"external_id": "9361c8c6d2f34b42b5f2f61093eedf48",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51153463561912315",
+			"parent_id": null,
+			"dlcs_ids": [
+				"53101217004107030",
+				"53283696651321169",
+				"53637174388533424",
+				"54046281244452064"
+			],
+			"mods_ids": [],
+			"first_release_date": "2017-12-20T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51153463561603076",
+					"platform_id": "steam",
+					"external_id": "578080",
+					"release_per_platform_id": "steam_578080",
+					"availability": 0
+				},
+				{
+					"id": "51605913057049594",
+					"platform_id": "steam",
+					"external_id": "622590",
+					"release_per_platform_id": "steam_622590",
+					"availability": 0
+				},
+				{
+					"id": "51605913496188337",
+					"platform_id": "steam",
+					"external_id": "813000",
+					"release_per_platform_id": "steam_813000",
+					"availability": 0
+				},
+				{
+					"id": "51645675953683453",
+					"platform_id": "xboxone",
+					"external_id": "950328474",
+					"release_per_platform_id": "xboxone_950328474",
+					"availability": 0
+				},
+				{
+					"id": "51753434833722074",
+					"platform_id": "xboxone",
+					"external_id": "172342998",
+					"release_per_platform_id": "xboxone_172342998",
+					"availability": 0
+				},
+				{
+					"id": "52133108816904701",
+					"platform_id": "psn",
+					"external_id": "CUSA14085_00",
+					"release_per_platform_id": "psn_CUSA14085_00",
+					"availability": 0
+				},
+				{
+					"id": "52138681981966819",
+					"platform_id": "psn",
+					"external_id": "CUSA14391_00",
+					"release_per_platform_id": "psn_CUSA14391_00",
+					"availability": 0
+				},
+				{
+					"id": "52382542259562619",
+					"platform_id": "psn",
+					"external_id": "CUSA14081_00",
+					"release_per_platform_id": "psn_CUSA14081_00",
+					"availability": 0
+				},
+				{
+					"id": "52905934694835109",
+					"platform_id": "humble",
+					"external_id": "playerunknownsbattlegrounds_staem",
+					"release_per_platform_id": "humble_playerunknownsbattlegrounds_staem",
+					"availability": 0
+				},
+				{
+					"id": "53323994976046090",
+					"platform_id": "stadia",
+					"external_id": "PLAYERUNKNOWN&#39;S BATTLEGROUNDS",
+					"release_per_platform_id": "stadia_PLAYERUNKNOWN&#39;S BATTLEGROUNDS",
+					"availability": 0
+				},
+				{
+					"id": "53472660579491310",
+					"platform_id": "steam",
+					"external_id": "100001",
+					"release_per_platform_id": "steam_100001",
+					"availability": 0
+				},
+				{
+					"id": "53480651624005025",
+					"platform_id": "origin",
+					"external_id": "412020",
+					"release_per_platform_id": "origin_412020",
+					"availability": 0
+				},
+				{
+					"id": "53571320052806303",
+					"platform_id": "stadia",
+					"external_id": "a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/71e7c4fc5ca24f0f8301da6d042bf18e",
+					"release_per_platform_id": "stadia_a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/71e7c4fc5ca24f0f8301da6d042bf18e",
+					"availability": 0
+				},
+				{
+					"id": "53699783852788652",
+					"platform_id": "test",
+					"external_id": "CUSA14085_00",
+					"release_per_platform_id": "test_CUSA14085_00",
+					"availability": 0
+				},
+				{
+					"id": "53699860573294688",
+					"platform_id": "test",
+					"external_id": "CUSA14391_00",
+					"release_per_platform_id": "test_CUSA14391_00",
+					"availability": 0
+				},
+				{
+					"id": "53803545952200415",
+					"platform_id": "stadia",
+					"external_id": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
+					"release_per_platform_id": "stadia_a4c5eb3f4e614b7fadbba64cba68f849rcp1",
+					"availability": 0
+				},
+				{
+					"id": "54670115219611496",
+					"platform_id": "psn",
+					"external_id": "CUSA14380_00",
+					"release_per_platform_id": "psn_CUSA14380_00",
+					"availability": 0
+				},
+				{
+					"id": "54884391896437897",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-41-20211031081221",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-41-20211031081221",
+					"availability": 0
+				},
+				{
+					"id": "54884403651740680",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211031081810",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211031081810",
+					"availability": 0
+				},
+				{
+					"id": "54884451824949718",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211031084204",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211031084204",
+					"availability": 0
+				},
+				{
+					"id": "54884567638949250",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211031093937",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211031093937",
+					"availability": 0
+				},
+				{
+					"id": "54888057836953038",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211101143308",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211101143308",
+					"availability": 0
+				},
+				{
+					"id": "54888100687636148",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211101145422",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211101145422",
+					"availability": 0
+				},
+				{
+					"id": "54888221540992585",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211101155422",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211101155422",
+					"availability": 0
+				},
+				{
+					"id": "54888342309126039",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211101165422",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211101165422",
+					"availability": 0
+				},
+				{
+					"id": "54888463133717783",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211101175422",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211101175422",
+					"availability": 0
+				},
+				{
+					"id": "54888583924560573",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211101185422",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211101185422",
+					"availability": 0
+				},
+				{
+					"id": "54888704679758656",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211101195422",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211101195422",
+					"availability": 0
+				},
+				{
+					"id": "54889147484554636",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211101233423",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211101233423",
+					"availability": 0
+				},
+				{
+					"id": "54889268274301993",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102003423",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102003423",
+					"availability": 0
+				},
+				{
+					"id": "54889389109540303",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102013423",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102013423",
+					"availability": 0
+				},
+				{
+					"id": "54890264171522772",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102084900",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102084900",
+					"availability": 0
+				},
+				{
+					"id": "54890385005760023",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102094900",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102094900",
+					"availability": 0
+				},
+				{
+					"id": "54890506027221761",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102104900",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102104900",
+					"availability": 0
+				},
+				{
+					"id": "54890626663496679",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102114900",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102114900",
+					"availability": 0
+				},
+				{
+					"id": "54890747417580670",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102124900",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102124900",
+					"availability": 0
+				},
+				{
+					"id": "54890868198864736",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102134901",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102134901",
+					"availability": 0
+				},
+				{
+					"id": "54890989046825324",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102144901",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102144901",
+					"availability": 0
+				},
+				{
+					"id": "54891110007619767",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102154901",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102154901",
+					"availability": 0
+				},
+				{
+					"id": "54891230575340562",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102164901",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102164901",
+					"availability": 0
+				},
+				{
+					"id": "54891351462145845",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102174901",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102174901",
+					"availability": 0
+				},
+				{
+					"id": "54891472333805772",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102184901",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102184901",
+					"availability": 0
+				},
+				{
+					"id": "54891593069534737",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102194901",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102194901",
+					"availability": 0
+				},
+				{
+					"id": "54891713784923132",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102204901",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102204901",
+					"availability": 0
+				},
+				{
+					"id": "54891834679841400",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102214901",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102214901",
+					"availability": 0
+				},
+				{
+					"id": "54891955404094476",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102224902",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102224902",
+					"availability": 0
+				},
+				{
+					"id": "54892076264932412",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211102234902",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211102234902",
+					"availability": 0
+				},
+				{
+					"id": "54892197181534112",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103004902",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103004902",
+					"availability": 0
+				},
+				{
+					"id": "54892318114550326",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103014902",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103014902",
+					"availability": 0
+				},
+				{
+					"id": "54892438904968298",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103024902",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103024902",
+					"availability": 0
+				},
+				{
+					"id": "54892559600134207",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103034902",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103034902",
+					"availability": 0
+				},
+				{
+					"id": "54892680366728562",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103044902",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103044902",
+					"availability": 0
+				},
+				{
+					"id": "54892801206104362",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103054902",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103054902",
+					"availability": 0
+				},
+				{
+					"id": "54892922052040643",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103064903",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103064903",
+					"availability": 0
+				},
+				{
+					"id": "54893042797117285",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103074903",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103074903",
+					"availability": 0
+				},
+				{
+					"id": "54893163724170570",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103084903",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103084903",
+					"availability": 0
+				},
+				{
+					"id": "54893284326248629",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103094903",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103094903",
+					"availability": 0
+				},
+				{
+					"id": "54893405141061419",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103104903",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103104903",
+					"availability": 0
+				},
+				{
+					"id": "54893526023262675",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103114903",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103114903",
+					"availability": 0
+				},
+				{
+					"id": "54893646792213186",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103124908",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103124908",
+					"availability": 0
+				},
+				{
+					"id": "54893767537991238",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103134908",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103134908",
+					"availability": 0
+				},
+				{
+					"id": "54893888372544378",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103144908",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103144908",
+					"availability": 0
+				},
+				{
+					"id": "54894009161640094",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103154909",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103154909",
+					"availability": 0
+				},
+				{
+					"id": "54894130132149394",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103164909",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103164909",
+					"availability": 0
+				},
+				{
+					"id": "54894250870810640",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103174909",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103174909",
+					"availability": 0
+				},
+				{
+					"id": "54894371597641264",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103184909",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103184909",
+					"availability": 0
+				},
+				{
+					"id": "54894492394493610",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103194909",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103194909",
+					"availability": 0
+				},
+				{
+					"id": "54894613251860761",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103204909",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103204909",
+					"availability": 0
+				},
+				{
+					"id": "54894734024079501",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103214909",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103214909",
+					"availability": 0
+				},
+				{
+					"id": "54894854754297884",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103224910",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103224910",
+					"availability": 0
+				},
+				{
+					"id": "54894975658104102",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211103234910",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211103234910",
+					"availability": 0
+				},
+				{
+					"id": "54896121188768225",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104091814",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104091814",
+					"availability": 0
+				},
+				{
+					"id": "54896242174057089",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104101811",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104101811",
+					"availability": 0
+				},
+				{
+					"id": "54896362778122450",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104111811",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104111811",
+					"availability": 0
+				},
+				{
+					"id": "54896483582293672",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104121811",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104121811",
+					"availability": 0
+				},
+				{
+					"id": "54896604352116594",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104131811",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104131811",
+					"availability": 0
+				},
+				{
+					"id": "54896725200468920",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104141811",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104141811",
+					"availability": 0
+				},
+				{
+					"id": "54896845919698183",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104151811",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104151811",
+					"availability": 0
+				},
+				{
+					"id": "54896966967460473",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104161812",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104161812",
+					"availability": 0
+				},
+				{
+					"id": "54897087624869204",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104171812",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104171812",
+					"availability": 0
+				},
+				{
+					"id": "54897208494135787",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104181812",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104181812",
+					"availability": 0
+				},
+				{
+					"id": "54897329265812518",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104191812",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104191812",
+					"availability": 0
+				},
+				{
+					"id": "54897450072315942",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104201812",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104201812",
+					"availability": 0
+				},
+				{
+					"id": "54897570718727509",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104211812",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104211812",
+					"availability": 0
+				},
+				{
+					"id": "54897691538709844",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211104221812",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211104221812",
+					"availability": 0
+				},
+				{
+					"id": "54898461816961141",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211105044052",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211105044052",
+					"availability": 0
+				},
+				{
+					"id": "54899048643071320",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211105093221",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211105093221",
+					"availability": 0
+				},
+				{
+					"id": "54900332203031867",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211105200952",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211105200952",
+					"availability": 0
+				},
+				{
+					"id": "54927860641938833",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115070325",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115070325",
+					"availability": 0
+				},
+				{
+					"id": "54927961421925001",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115075327",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115075327",
+					"availability": 0
+				},
+				{
+					"id": "54928082228016044",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115085328",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115085328",
+					"availability": 0
+				},
+				{
+					"id": "54928203191667358",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115095328",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115095328",
+					"availability": 0
+				},
+				{
+					"id": "54928323892455996",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115105328",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115105328",
+					"availability": 0
+				},
+				{
+					"id": "54928444816953125",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115115329",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115115329",
+					"availability": 0
+				},
+				{
+					"id": "54928565548773703",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115125329",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115125329",
+					"availability": 0
+				},
+				{
+					"id": "54928686369578729",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115135331",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115135331",
+					"availability": 0
+				},
+				{
+					"id": "54928807094211094",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115145332",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115145332",
+					"availability": 0
+				},
+				{
+					"id": "54928928019122816",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115155332",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115155332",
+					"availability": 0
+				},
+				{
+					"id": "54929048715441732",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115165332",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115165332",
+					"availability": 0
+				},
+				{
+					"id": "54929169735584494",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115175333",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115175333",
+					"availability": 0
+				},
+				{
+					"id": "54929290577486175",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115185333",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115185333",
+					"availability": 0
+				},
+				{
+					"id": "54929411233444638",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115195333",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115195333",
+					"availability": 0
+				},
+				{
+					"id": "54929531988543603",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115205333",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115205333",
+					"availability": 0
+				},
+				{
+					"id": "54929652822715910",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115215334",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115215334",
+					"availability": 0
+				},
+				{
+					"id": "54929773639373347",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115225336",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115225336",
+					"availability": 0
+				},
+				{
+					"id": "54929894493567322",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211115235336",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211115235336",
+					"availability": 0
+				},
+				{
+					"id": "54930015333374985",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-36-20211116005336",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-36-20211116005336",
+					"availability": 0
+				},
+				{
+					"id": "54931900691058564",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211116163008",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211116163008",
+					"availability": 0
+				},
+				{
+					"id": "54935792709398845",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118004318",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118004318",
+					"availability": 0
+				},
+				{
+					"id": "54935845735111278",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118010938",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118010938",
+					"availability": 0
+				},
+				{
+					"id": "54935966569912971",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118020938",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118020938",
+					"availability": 0
+				},
+				{
+					"id": "54936087417780268",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118030938",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118030938",
+					"availability": 0
+				},
+				{
+					"id": "54936208200521183",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118040939",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118040939",
+					"availability": 0
+				},
+				{
+					"id": "54936328985724678",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118050939",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118050939",
+					"availability": 0
+				},
+				{
+					"id": "54936449816264652",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118060939",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118060939",
+					"availability": 0
+				},
+				{
+					"id": "54936652066787109",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118075007",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118075007",
+					"availability": 0
+				},
+				{
+					"id": "54936772877593698",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118085008",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118085008",
+					"availability": 0
+				},
+				{
+					"id": "54936893648326377",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118095008",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118095008",
+					"availability": 0
+				},
+				{
+					"id": "54937014468823294",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118105008",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118105008",
+					"availability": 0
+				},
+				{
+					"id": "54937135290823130",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118115008",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118115008",
+					"availability": 0
+				},
+				{
+					"id": "54937256098955580",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118125008",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118125008",
+					"availability": 0
+				},
+				{
+					"id": "54937376960138297",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118135008",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118135008",
+					"availability": 0
+				},
+				{
+					"id": "54937497806998209",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118145008",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118145008",
+					"availability": 0
+				},
+				{
+					"id": "54937618499632054",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211118155008",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211118155008",
+					"availability": 0
+				},
+				{
+					"id": "54986841711977421",
+					"platform_id": "fanatical",
+					"external_id": "GAME_FROM_DATA_FILE-37-20211205151938",
+					"release_per_platform_id": "fanatical_GAME_FROM_DATA_FILE-37-20211205151938",
+					"availability": 0
+				},
+				{
+					"id": "55283310818498568",
+					"platform_id": "psn",
+					"external_id": "23286",
+					"release_per_platform_id": "psn_23286",
+					"availability": 0
+				},
+				{
+					"id": "55283315145927326",
+					"platform_id": "psn",
+					"external_id": "23285",
+					"release_per_platform_id": "psn_23285",
+					"availability": 0
+				},
+				{
+					"id": "56046147915347024",
+					"platform_id": "epic",
+					"external_id": "9361c8c6d2f34b42b5f2f61093eedf48",
+					"release_per_platform_id": "epic_9361c8c6d2f34b42b5f2f61093eedf48",
+					"availability": 0
+				},
+				{
+					"id": "59292202673824220",
+					"platform_id": "psn",
+					"external_id": "PPSA27367_00",
+					"release_per_platform_id": "psn_PPSA27367_00",
+					"availability": 0
+				},
+				{
+					"id": "51153463561912315",
+					"platform_id": "generic",
+					"external_id": "51153463561912315",
+					"release_per_platform_id": "generic_51153463561912315",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "PUBG: Battlegrounds",
+				"en-US": "PUBG: Battlegrounds"
+			},
+			"sorting_title": {
+				"*": "PUBG Battlegrounds",
+				"en-US": "PUBG Battlegrounds"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51153463559076064"
+			],
+			"developers": [
+				{
+					"id": "51153463559076064",
+					"name": "PUBG Corp",
+					"slug": "pubg-corp"
+				}
+			],
+			"publishers_ids": [
+				"51141402271326512",
+				"51141442957724222"
+			],
+			"publishers": [
+				{
+					"id": "51141402271326512",
+					"name": "Microsoft Studios",
+					"slug": "microsoft-studios"
+				},
+				{
+					"id": "51141442957724222",
+					"name": "Bluehole Studio",
+					"slug": "bluehole-studio"
+				}
+			],
+			"genres_ids": [
+				"51141224821260861"
+			],
+			"genres": [
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51141225108229618"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141225108229618",
+					"name": {
+						"*": "Warfare",
+						"en-US": "Warfare"
+					},
+					"slug": "warfare"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/52acc0a8dbdd0362a91f5bbb28803b59a1686b99e24ccecb34d5441dabc767ec{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/027c56e56baf41e13daabd6dc69efdc318c48be709899ccf07d2548e1e0b96ed{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/47b8f5ef1887375d5fa08863dad7487d2c71438ba01340f99cb73f6e6ae20aba{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/20221e3ccf02933bdcc0ddb3ac040325bf0aa9edfa3689dfd7c24d2368819ccd{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d1dfd3a21d86092ba5138b19c6bf4de85c011c3029f9f272da5aa0bfedc9a931{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/63d54eb53d5454cbac8a6d5ac2efb83829c8e1124eb6bfb08919712becc117c9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f447c95178194f79e28dc9130d8a993c3c544890d24b5db98d3867dec27eee60{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/abf76860c4bf68fad5f1604fba8ebe126ac6ba8cc4f433897493082134c2562c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b0219bae9c8d4110c8d3ba46c220bb0d5dd17559535381a8f224e97b4c649a9b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d06fa42a8b946272af6d3985402ed8d7817fffdf91922efa8553a59675468a23{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "4rG9noTfb4A",
+					"thumbnail_id": "4rG9noTfb4A",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "b2dc3YK2HVo",
+					"thumbnail_id": "b2dc3YK2HVo",
+					"name": "Xbox One Launch Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "6TOSV3-7hzU",
+					"thumbnail_id": "6TOSV3-7hzU",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "y0DhWQM40XQ",
+					"thumbnail_id": "y0DhWQM40XQ",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "RU_AcN_72K8",
+					"thumbnail_id": "RU_AcN_72K8",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [],
+			"summary": {
+				"*": "PUBG: Battlegrounds is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing.",
+				"en-US": "PUBG: Battlegrounds is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 75.0625,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				},
+				{
+					"id": "53316265339172328",
+					"name": "Battle Royale",
+					"slug": "battle-royale"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/4c9c8800ba351ae7300756ef2f1e27588e40ce7cd29c1bc00b084dcdca18b0c9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/4c9c8800ba351ae7300756ef2f1e27588e40ce7cd29c1bc00b084dcdca18b0c9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/9fa664804eb54799fed25670fb58047f44248db897f65c8e2579490c5481a3d9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/9fa664804eb54799fed25670fb58047f44248db897f65c8e2579490c5481a3d9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/9fa664804eb54799fed25670fb58047f44248db897f65c8e2579490c5481a3d9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/e48c7185a89de272924886688884871b5a33ca77155d142dd87af600ccfe64c3{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "pubg-battlegrounds-2017"
+		},
+		"title": {
+			"*": "PUBG: BATTLEGROUNDS",
+			"en-US": "PUBG: Battlegrounds"
+		},
+		"sorting_title": {
+			"*": "PUBG BATTLEGROUNDS",
+			"en-US": "PUBG BATTLEGROUNDS"
+		},
+		"type": "game",
+		"summary": {
+			"*": "PUBG: Battlegrounds is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing.",
+			"en-US": "PUBG: Battlegrounds is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			},
+			{
+				"id": "53316265339172328",
+				"name": "Battle Royale",
+				"slug": "battle-royale"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/9fa664804eb54799fed25670fb58047f44248db897f65c8e2579490c5481a3d9{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"6803bc5d6968e39dd8f95830d7bf13d5\""
+	},
+	"__timestamp": {
+		"epic_9361c8c6d2f34b42b5f2f61093eedf48": "Thu Jan 29 2026 20:58:13 GMT+0530 (India Standard Time)"
+	}
+}

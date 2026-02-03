@@ -1,0 +1,11 @@
+{
+  "filter": {
+    "username": "analjello"
+  },
+  "_ns": "sherlock_db.profiles",
+  "_host": "localhost:27017",
+  "_id": "b97c5ce5-28b4-4345-b688-73ab6dce9d42",
+  "_lastExecuted": {
+    "$date": "2026-01-16T13:57:30.551Z"
+  }
+}

@@ -3,7 +3,7 @@
     {
       "app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
       "asset_id": "575efd0b5dd54429b035ffc8fe2d36d0",
-      "build_version": "1.1.2809676",
+      "build_version": "1.1.2916560",
       "catalog_item_id": "27556e7cd968479daee8cc7bd77aebdd",
       "label_name": "Live-Windows",
       "metadata": {
@@ -29,7 +29,7 @@
     {
       "app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
       "asset_id": "a7d28f0e0935490b9d6f92dda1a7a75b",
-      "build_version": "53262_2026-01-08-13-31-55",
+      "build_version": "53590_2026-01-15-00-13-07",
       "catalog_item_id": "d53f8dc5825748849ca0890279c3dad7",
       "label_name": "Live-Windows",
       "metadata": {
@@ -90,7 +90,7 @@
     {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "BC2_Update57+504897",
+      "build_version": "BC2_Update57.1+507183",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -110,7 +110,7 @@
     {
       "app_name": "86ae9acccf8443e18fca6950e0181288",
       "asset_id": "86ae9acccf8443e18fca6950e0181288",
-      "build_version": "1.12.0",
+      "build_version": "1.12.1",
       "catalog_item_id": "101391ece6024e069a7cb8cf22104399",
       "label_name": "Live-Windows",
       "metadata": {
@@ -132,7 +132,7 @@
     {
       "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
       "asset_id": "8b6a0e1413744785a43c9f9f9547b4d6",
-      "build_version": "aircombat_store_windows_76e266fe_2025-12-19_15-16",
+      "build_version": "aircombat_store_windows_2e021872_2026-01-20_17-53",
       "catalog_item_id": "37bdf2283730476b89fa027acfab7491",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -152,7 +152,7 @@
     {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "39.2.1.57",
+      "build_version": "39.2.2.3",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -175,7 +175,7 @@
     {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-39.20-CL-49564179-Windows",
+      "build_version": "++Fortnite+Release-39.30-CL-50141518-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {

@@ -1,0 +1,11 @@
+{
+  "sort": {
+    "created_at": -1
+  },
+  "_id": "56adaf61-342c-4496-95cf-38a0eb52b7d2",
+  "_lastExecuted": {
+    "$date": "2026-01-20T09:57:51.343Z"
+  },
+  "_ns": "sherlock_db.profile_history",
+  "_host": "localhost:27017"
+}

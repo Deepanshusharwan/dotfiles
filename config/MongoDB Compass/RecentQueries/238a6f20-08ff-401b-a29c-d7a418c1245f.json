@@ -1,0 +1,11 @@
+{
+  "sort": {
+    "timestamp": -1
+  },
+  "_ns": "sherlock_db.parallel_ai_errors",
+  "_host": "localhost:27017",
+  "_id": "238a6f20-08ff-401b-a29c-d7a418c1245f",
+  "_lastExecuted": {
+    "$date": "2026-01-21T04:44:57.462Z"
+  }
+}

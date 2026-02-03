@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "BC2_Update57+504897",
+      "build_version": "BC2_Update57.1+507183",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -13,12 +13,7 @@
       "sidecar_rev": 0
     }
   },
-  "base_urls": [
-    "https://fastly-download.epicgames.com/Builds/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/e6bcca5b37d0457ca881aec508205542/default",
-    "https://download.epicgames.com/Builds/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/e6bcca5b37d0457ca881aec508205542/default",
-    "https://epicgames-download1.akamaized.net/Builds/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/e6bcca5b37d0457ca881aec508205542/default",
-    "https://cloudflare.epicgamescdn.com/Builds/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/e6bcca5b37d0457ca881aec508205542/default"
-  ],
+  "base_urls": [],
   "metadata": {
     "ageGatings": {},
     "applicationId": "fghi4567OXA1CdeeCuAmUWMhmfiO3EAl",
