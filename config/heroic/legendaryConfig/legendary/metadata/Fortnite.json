@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-39.30-CL-50141518-Windows",
+      "build_version": "++Fortnite+Release-39.40-CL-50577083-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
@@ -35,6 +35,7 @@
         "isTrad": true,
         "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ACB_M_192_192x192-b702f1ebcbc6daa7458356527d4bba16",
         "ratingSystem": "ACB",
+        "ratingSystemDescription": "Australian Classification Board",
         "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/AUS-M_530x530-0cd57de8a21291d9377b2a9dc312c0b4",
         "title": "Mature"
       },
@@ -45,12 +46,14 @@
           60,
           69
         ],
+        "element": "",
         "elementIds": [],
         "gameRating": "12 anos",
         "isIARC": false,
         "isTrad": true,
-        "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ClassInd_12_192_192x192-74a171f6c8e7f9ee5d7583241d68d081",
+        "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ClassInd_12_272_272x272-8d50e21d94aa492292a7db4c5f8f5eb1",
         "ratingSystem": "ClassInd",
+        "ratingSystemDescription": "Classifica\u00e7\u00e3o Indicativa",
         "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/CLASSIND-12_530x530-7f499e56148e56d5e17b6b6c18b854cd",
         "title": "12 anos"
       },
@@ -70,6 +73,7 @@
         "isTrad": true,
         "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_T_192_192x192-a0885066a34083cd647dc10db21717f1",
         "ratingSystem": "ESRB",
+        "ratingSystemDescription": "Entertainment Software Rating Board",
         "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB-EN-T_354x530-baae04c009da6ffc5139341c31182e67",
         "title": "Teen"
       },
@@ -79,17 +83,20 @@
         "descriptorIds": [
           440
         ],
+        "element": "",
         "elementIds": [],
         "gameRating": "12\uc138\uc774\uc6a9\uac00",
         "isIARC": false,
         "isTrad": true,
         "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/GRAC_12_192_192x192-2873c81e2512ccd4d3fb02a00458ab19",
         "ratingSystem": "GRAC",
+        "ratingSystemDescription": "Game Rating and Administration Committee",
         "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRAC-12_397x530-84396e7355c346dd8875a2f9afdfce89",
         "title": "12\uc138\uc774\uc6a9\uac00"
       },
       "PEGI": {
         "ageControl": 12,
+        "descriptor": "",
         "descriptorIds": [],
         "element": "Users Interact,In-App Purchases",
         "elementIds": [
@@ -101,6 +108,7 @@
         "isTrad": true,
         "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_EXC_192_192x192-4b60638de38c759ed1cdb5c19a573256",
         "ratingSystem": "PEGI",
+        "ratingSystemDescription": "Pan European Game Information",
         "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-info_435x530-d763ff1e493324dfef7ffd688b61476a",
         "title": "PARENTAL GUIDANCE RECOMMENDED"
       },
@@ -121,6 +129,7 @@
         "isTrad": true,
         "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/USK_12_192_192x192-656fa1e0a9c59f9495ee94c58ffbebf5",
         "ratingSystem": "USK",
+        "ratingSystemDescription": "Unterhaltungssoftware Selbstkontrolle",
         "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/USK-12_530x530-dc467955d1aaff843843ee070d83c596",
         "title": "USK ab 12"
       }
@@ -494,24 +503,29 @@
               198,
               964
             ],
+            "element": "",
             "elementIds": [],
             "gameRating": "Parental guidance",
             "isIARC": false,
             "isTrad": true,
             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ACB_PG_192_192x192-e0cb71e555d104463b8cb6ace89895d9",
             "ratingSystem": "ACB",
+            "ratingSystemDescription": "Australian Classification Board",
             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/AUS-PG_530x530-b3b0143b27b1e3837cca000e7d5f2912",
             "title": "Parental guidance"
           },
           "CERO": {
             "ageControl": 12,
+            "descriptor": "",
             "descriptorIds": [],
+            "element": "",
             "elementIds": [],
             "gameRating": "12\u6b73\u4ee5\u4e0a\u5bfe\u8c61",
             "isIARC": false,
             "isTrad": true,
             "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/cero_b_208x256-65b61e49ae62c43559b290c6f1ce87eb",
             "ratingSystem": "CERO",
+            "ratingSystemDescription": "Computer Entertainment Rating Organization",
             "title": "12\u6b73\u4ee5\u4e0a\u5bfe\u8c61"
           },
           "ClassInd": {
@@ -530,8 +544,9 @@
             "gameRating": "12 anos",
             "isIARC": false,
             "isTrad": true,
-            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ClassInd_12_192_192x192-74a171f6c8e7f9ee5d7583241d68d081",
+            "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ClassInd_12_272_272x272-8d50e21d94aa492292a7db4c5f8f5eb1",
             "ratingSystem": "ClassInd",
+            "ratingSystemDescription": "Classifica\u00e7\u00e3o Indicativa",
             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/CLASSIND-12_530x530-7f499e56148e56d5e17b6b6c18b854cd",
             "title": "12 anos"
           },
@@ -551,29 +566,37 @@
             "isTrad": true,
             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_T_192_192x192-a0885066a34083cd647dc10db21717f1",
             "ratingSystem": "ESRB",
+            "ratingSystemDescription": "Entertainment Software Rating Board",
             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB-EN-T_354x530-baae04c009da6ffc5139341c31182e67",
             "title": "Teen"
           },
           "GRAC": {
             "ageControl": 0,
+            "descriptor": "",
             "descriptorIds": [],
+            "element": "",
             "elementIds": [],
             "gameRating": "\uc804\uccb4\uc774\uc6a9\uac00",
             "isIARC": false,
             "isTrad": true,
             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/GRAC_All_192_192x192-0973b9b3768114fdfa4d864efd697ae2",
             "ratingSystem": "GRAC",
+            "ratingSystemDescription": "Game Rating and Administration Committee",
             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRAC-ALL_396x530-56fd85544364d3eab30fe93ed24e9394",
             "title": "\uc804\uccb4\uc774\uc6a9\uac00"
           },
           "OFLC": {
             "ageControl": 8,
+            "descriptor": "",
+            "descriptorIds": [],
+            "element": "",
             "elementIds": [],
             "gameRating": "PG",
             "isIARC": false,
             "isTrad": true,
             "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/oflc_pg_256x256-ba3755202c132b84708dadf34e17b930",
             "ratingSystem": "OFLC",
+            "ratingSystemDescription": "Office of Film and Literature Classification",
             "title": "PG"
           },
           "PEGI": {
@@ -584,17 +607,20 @@
               54,
               895
             ],
+            "element": "",
             "elementIds": [],
             "gameRating": "PEGI 12",
             "isIARC": false,
             "isTrad": true,
             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
             "ratingSystem": "PEGI",
+            "ratingSystemDescription": "Pan European Game Information",
             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
             "title": "PEGI 12"
           },
           "USK": {
             "ageControl": 12,
+            "descriptor": "",
             "descriptorIds": [],
             "element": "In-Game-K\u00e4ufe,Chats",
             "elementIds": [
@@ -606,6 +632,7 @@
             "isTrad": true,
             "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/USK_12_192_192x192-656fa1e0a9c59f9495ee94c58ffbebf5",
             "ratingSystem": "USK",
+            "ratingSystemDescription": "Unterhaltungssoftware Selbstkontrolle",
             "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/USK-12_530x530-dc467955d1aaff843843ee070d83c596",
             "title": "USK ab 12"
           }
@@ -647,24 +674,24 @@
         "keyImages": [
           {
             "height": 1600,
-            "md5": "8d852a4faeadf20bf5361773c9c6c9ba",
-            "size": 474773,
+            "md5": "dae66bb5094dd072ad7c952eb7c77983",
+            "size": 269332,
             "type": "DieselGameBoxTall",
-            "uploadedDate": "2025-11-22T00:21:46.215Z",
-            "url": "https://cdn1.epicgames.com/item/fn/FNSP_39-00_ChimeCurl_EGS_Blades_1200x1600_1200x1600-8d852a4faeadf20bf5361773c9c6c9ba",
+            "uploadedDate": "2026-02-04T17:02:25.613Z",
+            "url": "https://cdn1.epicgames.com/item/fn/FNSP_39-40_ForestJean_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-5cd30878fd2e41c3b81babd33616d181",
             "width": 1200
           },
           {
             "height": 1440,
-            "md5": "431dba8fcdb7f41cf077809080260ea7",
-            "size": 831701,
+            "md5": "261f3ca59fbaa00aa93c2bb1aa8555f2",
+            "size": 574280,
             "type": "DieselGameBox",
-            "uploadedDate": "2025-11-22T00:21:52.725Z",
-            "url": "https://cdn1.epicgames.com/item/fn/FNSP_39-00_ChimeCurl_EGS_Blades_2560x1440_2560x1440-431dba8fcdb7f41cf077809080260ea7",
+            "uploadedDate": "2026-02-04T17:02:30.164Z",
+            "url": "https://cdn1.epicgames.com/item/fn/FNSP_39-40_ForestJean_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-bb12f3cea4db41e08515dd136b882d73",
             "width": 2560
           }
         ],
-        "lastModifiedDate": "2025-11-29T19:44:44.454Z",
+        "lastModifiedDate": "2026-02-05T09:13:31.200Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1019,7 +1046,7 @@
         "customAttributes": {
           "AdditionalCommandLine": {
             "type": "STRING",
-            "value": "-epicapp=Fortnite -IslandOverride=set_blastberry_playlists"
+            "value": "-epicapp=Fortnite -IslandOverride=experience_reload"
           },
           "CanRunOffline": {
             "type": "STRING",
@@ -1057,7 +1084,7 @@
             "width": 2560
           }
         ],
-        "lastModifiedDate": "2025-12-04T14:13:38.667Z",
+        "lastModifiedDate": "2026-02-05T09:20:25.213Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1107,7 +1134,7 @@
         "customAttributes": {
           "AdditionalCommandLine": {
             "type": "STRING",
-            "value": "-epicapp=Fortnite -IslandOverride=set_figment_playlists"
+            "value": "-epicapp=Fortnite -IslandOverride=experience_og"
           }
         },
         "description": "Fortnite OG",
@@ -1141,7 +1168,7 @@
             "width": 2560
           }
         ],
-        "lastModifiedDate": "2025-12-11T09:31:56.534Z",
+        "lastModifiedDate": "2026-02-05T09:19:36.039Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1462,43 +1489,43 @@
     "itemType": "DURABLE",
     "keyImages": [
       {
-        "height": 1600,
-        "md5": "5039dd85173feadc291f2dc9df37d3c3",
-        "size": 286600,
-        "type": "DieselGameBoxTall",
-        "uploadedDate": "2026-01-08T00:38:46.032Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-00fd34439ec948bdbba9d9bfc06d2807",
-        "width": 1200
+        "height": 512,
+        "md5": "e21b1225ea1f508edaa8ac86e33eef44",
+        "size": 442590,
+        "type": "AndroidIcon",
+        "uploadedDate": "2026-02-04T17:04:33.327Z",
+        "url": "https://cdn1.epicgames.com/item/fn/ForestJean_AppIcon_1024x1024_512x512-8df526fa1ac54d82b35334d99ecaf80f",
+        "width": 512
       },
       {
         "height": 1440,
-        "md5": "2712f920c6ba09bb26b565d03fb8b46d",
-        "size": 669280,
+        "md5": "4f5c9160201195a5ef0687c57f9a5299",
+        "size": 4463578,
         "type": "DieselGameBox",
-        "uploadedDate": "2026-01-08T00:38:48.707Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-4a3ead1d446c4518865e848d6ad65533",
+        "uploadedDate": "2026-02-04T19:38:04.910Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-b95c5ba66cd744609924dd05211160a0",
         "width": 2560
       },
       {
-        "height": 800,
-        "md5": "40268be1751331a227de1f9bbb8a9867",
-        "size": 158509,
-        "type": "Featured",
-        "uploadedDate": "2026-01-08T00:38:51.889Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Mobile_800x800_800x800-03c819857f6b46aa925867ecdf25b6fc",
-        "width": 800
+        "height": 1600,
+        "md5": "a4a9050ce11c477082c46b5ba5de79da",
+        "size": 2159483,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2026-02-04T19:37:59.453Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-a83c05f8efb3444dbedb307f9030ca9b",
+        "width": 1200
       },
       {
-        "height": 1024,
-        "md5": "aa621c702d6544cd0ad91f5c611d929d",
-        "size": 1637288,
-        "type": "AndroidIcon",
-        "uploadedDate": "2026-01-08T00:38:56.818Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-10_Safflower_Mobile_VisID_AppIcons_Crop_Cartman_1024x1024_1024x1024-226f93daf0764c45a96a80dbc3040fe6",
-        "width": 1024
+        "height": 800,
+        "md5": "f3ff1d4420f5d2e05e421f6fcbaaec06",
+        "size": 859927,
+        "type": "Featured",
+        "uploadedDate": "2026-02-04T19:36:48.635Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNECO_39-40_LoveAndLegends_EGS_Mobile_FeaturedArt_800x800_800x800-ea7446aa107245c380c26dca634f53d6",
+        "width": 800
       }
     ],
-    "lastModifiedDate": "2026-01-09T09:14:43.061Z",
+    "lastModifiedDate": "2026-02-05T09:14:13.234Z",
     "legalFooterText": "\u00a92026 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League \u00a92026 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a92026 The LEGO Group. All other trademarks are the property of their respective owners.",
     "longDescription": "Fortnite on mobile brings everything you love about the game onto your favorite on-the-go device. Join and chat with your friends -- regardless of what platform they\u2019re on -- and make progress on your Battle Pass the same way you would on a PC or console!\n\nRequires an internet connection.\n\nPowered by Unreal Engine.",
     "mainGameItemList": [],

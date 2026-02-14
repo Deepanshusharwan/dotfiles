@@ -1,0 +1,14 @@
+{
+  "filter": {
+    "username": "deepanshusharwan"
+  },
+  "sort": {
+    "Timestamp": -1
+  },
+  "_id": "ebfd1071-3fb7-45a4-ad41-eae0f340d754",
+  "_lastExecuted": {
+    "$date": "2026-02-10T12:29:42.581Z"
+  },
+  "_ns": "sherlock_db.profiles",
+  "_host": "localhost:27017"
+}

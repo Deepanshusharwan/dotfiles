@@ -5,23 +5,17 @@
     "Windows": {
       "app_name": "aa7093efba5b4760ad413c01fbdd0fae",
       "asset_id": "aa7093efba5b4760ad413c01fbdd0fae",
-      "build_version": "48.0.5a_v2",
+      "build_version": "49.1.2a",
       "catalog_item_id": "0073e920c0ca49bc8da9cde44836ebe1",
       "label_name": "Live-Windows",
       "metadata": {
-        "installationPoolId": "5bbf1cb7779c45fea08ef51a46ad2226",
-        "update_type": "MAJOR"
+        "installationPoolId": "5bbf1cb7779c45fea08ef51a46ad2226"
       },
       "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
       "sidecar_rev": 0
     }
   },
-  "base_urls": [
-    "https://fastly-download.epicgames.com/Builds/Org/o-p55z3hey6z3yqmg4f475wbbcznxvxh/d8ab81c396c540228dbbfdfbff3369c6/default",
-    "https://download.epicgames.com/Builds/Org/o-p55z3hey6z3yqmg4f475wbbcznxvxh/d8ab81c396c540228dbbfdfbff3369c6/default",
-    "https://epicgames-download1.akamaized.net/Builds/Org/o-p55z3hey6z3yqmg4f475wbbcznxvxh/d8ab81c396c540228dbbfdfbff3369c6/default",
-    "https://cloudflare.epicgamescdn.com/Builds/Org/o-p55z3hey6z3yqmg4f475wbbcznxvxh/d8ab81c396c540228dbbfdfbff3369c6/default"
-  ],
+  "base_urls": [],
   "metadata": {
     "applicationId": "",
     "categories": [
@@ -935,7 +929,7 @@
         "entitlementType": "AUDIENCE",
         "id": "75b2112898d14d31aa02748c927e1d8c",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-05-27T10:34:19.106Z",
+        "lastModifiedDate": "2026-01-12T07:57:09.682Z",
         "mainGameItem": {
           "id": "0073e920c0ca49bc8da9cde44836ebe1",
           "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
@@ -1277,7 +1271,7 @@
         "entitlementType": "AUDIENCE",
         "id": "9870fe2b5094486ea63cb5ef99e54b0f",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-05-27T10:34:20.001Z",
+        "lastModifiedDate": "2026-01-12T07:57:09.682Z",
         "mainGameItem": {
           "id": "0073e920c0ca49bc8da9cde44836ebe1",
           "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
@@ -3760,7 +3754,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-12-09T10:04:30.158Z",
+        "lastModifiedDate": "2026-01-08T16:00:18.990Z",
         "mainGameItem": {
           "id": "0073e920c0ca49bc8da9cde44836ebe1",
           "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",

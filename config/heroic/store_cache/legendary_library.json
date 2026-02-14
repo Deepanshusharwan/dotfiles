@@ -37,8 +37,8 @@
 		},
 		{
 			"app_name": "Fortnite",
-			"art_cover": "https://cdn1.epicgames.com/item/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-4a3ead1d446c4518865e848d6ad65533",
-			"art_square": "https://cdn1.epicgames.com/item/fn/FNBR_39-20_Safflower_MSEE_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-00fd34439ec948bdbba9d9bfc06d2807",
+			"art_cover": "https://cdn1.epicgames.com/item/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-b95c5ba66cd744609924dd05211160a0",
+			"art_square": "https://cdn1.epicgames.com/item/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-a83c05f8efb3444dbedb307f9030ca9b",
 			"cloud_save_enabled": false,
 			"developer": "Epic Games",
 			"extra": {
@@ -343,24 +343,29 @@
 								198,
 								964
 							],
+							"element": "",
 							"elementIds": [],
 							"gameRating": "Parental guidance",
 							"isIARC": false,
 							"isTrad": true,
 							"ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ACB_PG_192_192x192-e0cb71e555d104463b8cb6ace89895d9",
 							"ratingSystem": "ACB",
+							"ratingSystemDescription": "Australian Classification Board",
 							"rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/AUS-PG_530x530-b3b0143b27b1e3837cca000e7d5f2912",
 							"title": "Parental guidance"
 						},
 						"CERO": {
 							"ageControl": 12,
+							"descriptor": "",
 							"descriptorIds": [],
+							"element": "",
 							"elementIds": [],
 							"gameRating": "12歳以上対象",
 							"isIARC": false,
 							"isTrad": true,
 							"ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/cero_b_208x256-65b61e49ae62c43559b290c6f1ce87eb",
 							"ratingSystem": "CERO",
+							"ratingSystemDescription": "Computer Entertainment Rating Organization",
 							"title": "12歳以上対象"
 						},
 						"ClassInd": {
@@ -379,8 +384,9 @@
 							"gameRating": "12 anos",
 							"isIARC": false,
 							"isTrad": true,
-							"ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ClassInd_12_192_192x192-74a171f6c8e7f9ee5d7583241d68d081",
+							"ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ClassInd_12_272_272x272-8d50e21d94aa492292a7db4c5f8f5eb1",
 							"ratingSystem": "ClassInd",
+							"ratingSystemDescription": "Classificação Indicativa",
 							"rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/CLASSIND-12_530x530-7f499e56148e56d5e17b6b6c18b854cd",
 							"title": "12 anos"
 						},
@@ -400,29 +406,37 @@
 							"isTrad": true,
 							"ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_T_192_192x192-a0885066a34083cd647dc10db21717f1",
 							"ratingSystem": "ESRB",
+							"ratingSystemDescription": "Entertainment Software Rating Board",
 							"rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB-EN-T_354x530-baae04c009da6ffc5139341c31182e67",
 							"title": "Teen"
 						},
 						"GRAC": {
 							"ageControl": 0,
+							"descriptor": "",
 							"descriptorIds": [],
+							"element": "",
 							"elementIds": [],
 							"gameRating": "전체이용가",
 							"isIARC": false,
 							"isTrad": true,
 							"ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/GRAC_All_192_192x192-0973b9b3768114fdfa4d864efd697ae2",
 							"ratingSystem": "GRAC",
+							"ratingSystemDescription": "Game Rating and Administration Committee",
 							"rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRAC-ALL_396x530-56fd85544364d3eab30fe93ed24e9394",
 							"title": "전체이용가"
 						},
 						"OFLC": {
 							"ageControl": 8,
+							"descriptor": "",
+							"descriptorIds": [],
+							"element": "",
 							"elementIds": [],
 							"gameRating": "PG",
 							"isIARC": false,
 							"isTrad": true,
 							"ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/oflc_pg_256x256-ba3755202c132b84708dadf34e17b930",
 							"ratingSystem": "OFLC",
+							"ratingSystemDescription": "Office of Film and Literature Classification",
 							"title": "PG"
 						},
 						"PEGI": {
@@ -433,17 +447,20 @@
 								54,
 								895
 							],
+							"element": "",
 							"elementIds": [],
 							"gameRating": "PEGI 12",
 							"isIARC": false,
 							"isTrad": true,
 							"ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
 							"ratingSystem": "PEGI",
+							"ratingSystemDescription": "Pan European Game Information",
 							"rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
 							"title": "PEGI 12"
 						},
 						"USK": {
 							"ageControl": 12,
+							"descriptor": "",
 							"descriptorIds": [],
 							"element": "In-Game-Käufe,Chats",
 							"elementIds": [
@@ -455,6 +472,7 @@
 							"isTrad": true,
 							"ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/USK_12_192_192x192-656fa1e0a9c59f9495ee94c58ffbebf5",
 							"ratingSystem": "USK",
+							"ratingSystemDescription": "Unterhaltungssoftware Selbstkontrolle",
 							"rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/USK-12_530x530-dc467955d1aaff843843ee070d83c596",
 							"title": "USK ab 12"
 						}
@@ -496,24 +514,24 @@
 					"keyImages": [
 						{
 							"height": 1600,
-							"md5": "8d852a4faeadf20bf5361773c9c6c9ba",
-							"size": 474773,
+							"md5": "dae66bb5094dd072ad7c952eb7c77983",
+							"size": 269332,
 							"type": "DieselGameBoxTall",
-							"uploadedDate": "2025-11-22T00:21:46.215Z",
-							"url": "https://cdn1.epicgames.com/item/fn/FNSP_39-00_ChimeCurl_EGS_Blades_1200x1600_1200x1600-8d852a4faeadf20bf5361773c9c6c9ba",
+							"uploadedDate": "2026-02-04T17:02:25.613Z",
+							"url": "https://cdn1.epicgames.com/item/fn/FNSP_39-40_ForestJean_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-5cd30878fd2e41c3b81babd33616d181",
 							"width": 1200
 						},
 						{
 							"height": 1440,
-							"md5": "431dba8fcdb7f41cf077809080260ea7",
-							"size": 831701,
+							"md5": "261f3ca59fbaa00aa93c2bb1aa8555f2",
+							"size": 574280,
 							"type": "DieselGameBox",
-							"uploadedDate": "2025-11-22T00:21:52.725Z",
-							"url": "https://cdn1.epicgames.com/item/fn/FNSP_39-00_ChimeCurl_EGS_Blades_2560x1440_2560x1440-431dba8fcdb7f41cf077809080260ea7",
+							"uploadedDate": "2026-02-04T17:02:30.164Z",
+							"url": "https://cdn1.epicgames.com/item/fn/FNSP_39-40_ForestJean_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-bb12f3cea4db41e08515dd136b882d73",
 							"width": 2560
 						}
 					],
-					"lastModifiedDate": "2025-11-29T19:44:44.454Z",
+					"lastModifiedDate": "2026-02-05T09:13:31.200Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -868,7 +886,7 @@
 					"customAttributes": {
 						"AdditionalCommandLine": {
 							"type": "STRING",
-							"value": "-epicapp=Fortnite -IslandOverride=set_blastberry_playlists"
+							"value": "-epicapp=Fortnite -IslandOverride=experience_reload"
 						},
 						"CanRunOffline": {
 							"type": "STRING",
@@ -906,7 +924,7 @@
 							"width": 2560
 						}
 					],
-					"lastModifiedDate": "2025-12-04T14:13:38.667Z",
+					"lastModifiedDate": "2026-02-05T09:20:25.213Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -956,7 +974,7 @@
 					"customAttributes": {
 						"AdditionalCommandLine": {
 							"type": "STRING",
-							"value": "-epicapp=Fortnite -IslandOverride=set_figment_playlists"
+							"value": "-epicapp=Fortnite -IslandOverride=experience_og"
 						}
 					},
 					"description": "Fortnite OG",
@@ -990,7 +1008,7 @@
 							"width": 2560
 						}
 					],
-					"lastModifiedDate": "2025-12-11T09:31:56.534Z",
+					"lastModifiedDate": "2026-02-05T09:19:36.039Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -11269,7 +11287,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "75b2112898d14d31aa02748c927e1d8c",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-05-27T10:34:19.106Z",
+					"lastModifiedDate": "2026-01-12T07:57:09.682Z",
 					"mainGameItem": {
 						"id": "0073e920c0ca49bc8da9cde44836ebe1",
 						"namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
@@ -11611,7 +11629,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "9870fe2b5094486ea63cb5ef99e54b0f",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-05-27T10:34:20.001Z",
+					"lastModifiedDate": "2026-01-12T07:57:09.682Z",
 					"mainGameItem": {
 						"id": "0073e920c0ca49bc8da9cde44836ebe1",
 						"namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
@@ -14094,7 +14112,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-12-09T10:04:30.158Z",
+					"lastModifiedDate": "2026-01-08T16:00:18.990Z",
 					"mainGameItem": {
 						"id": "0073e920c0ca49bc8da9cde44836ebe1",
 						"namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
@@ -18821,7 +18839,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "59e7e1adf9774598a96da5f20ff31e93",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
+					"lastModifiedDate": "2026-02-04T00:00:20.145Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -18859,7 +18877,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "cf32093d3f444167966b7d08a82062cc",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
+					"lastModifiedDate": "2026-02-04T00:00:20.145Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -18897,7 +18915,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "5fe30d97bcac4130abbed745cb9e48c0",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
+					"lastModifiedDate": "2026-02-04T00:00:20.145Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -18935,7 +18953,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "7df47cc650744d12829ed9995f8a167a",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
+					"lastModifiedDate": "2026-02-04T00:00:20.145Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -18973,7 +18991,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "18f04d12c558442f87193545610b9ab8",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
+					"lastModifiedDate": "2026-02-04T00:00:20.145Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -19011,7 +19029,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "15c6cc9b41e242859e028b1850a649fd",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
+					"lastModifiedDate": "2026-02-04T00:00:20.145Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -19049,7 +19067,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "2173e8136e374afb833169723bf7325c",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
+					"lastModifiedDate": "2026-02-04T00:00:20.145Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -19087,7 +19105,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "211f08a072c749d88813e2759872dc88",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2026-01-07T00:00:05.936Z",
+					"lastModifiedDate": "2026-02-04T00:00:20.145Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -21536,6 +21554,43 @@
 					"requiresSecureAccount": false,
 					"status": "ACTIVE",
 					"title": "#39.2 Survivor Pass: Off Range_SeasonPassAudience",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2026-02-04T00:00:20.192Z",
+					"description": "#40.1 Crafper Pass: Transcendents_SeasonPassAudience",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "4e2a0fc86b6a440389d96a2cc99c7421",
+					"entitlementType": "AUDIENCE",
+					"id": "4e2a0fc86b6a440389d96a2cc99c7421",
+					"itemType": "DURABLE",
+					"lastModifiedDate": "2026-02-04T00:00:20.192Z",
+					"mainGameItem": {
+						"id": "498ff2997ac2491a9fc7c0e95991afd8",
+						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "498ff2997ac2491a9fc7c0e95991afd8",
+							"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+							"unsearchable": false
+						}
+					],
+					"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "#40.1 Crafper Pass: Transcendents_SeasonPassAudience",
 					"unsearchable": false
 				}
 			],
@@ -24739,6 +24794,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Fri Jan 30 2026 14:42:08 GMT+0530 (India Standard Time)"
+		"library": "Wed Feb 11 2026 20:56:56 GMT+0530 (India Standard Time)"
 	}
 }

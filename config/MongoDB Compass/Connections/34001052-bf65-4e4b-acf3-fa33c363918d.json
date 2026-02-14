@@ -1,0 +1,16 @@
+{
+  "_id": "34001052-bf65-4e4b-acf3-fa33c363918d",
+  "connectionInfo": {
+    "id": "34001052-bf65-4e4b-acf3-fa33c363918d",
+    "connectionOptions": {
+      "connectionString": "mongodb+srv://bmc_stg_user@cluster0.tcota1.mongodb.net/sherlock_db",
+      "oidc": {}
+    },
+    "savedConnectionType": "recent",
+    "favorite": {
+      "name": "cluster0.tcota1.mongodb.net"
+    },
+    "lastUsed": "2026-02-10T04:10:55.414Z"
+  },
+  "version": 1
+}

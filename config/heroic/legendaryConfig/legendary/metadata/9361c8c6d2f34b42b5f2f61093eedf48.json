@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "39.2.2.3",
+      "build_version": "40.1.1.47",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -57,7 +57,7 @@
         "entitlementType": "AUDIENCE",
         "id": "59e7e1adf9774598a96da5f20ff31e93",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-01-07T00:00:05.936Z",
+        "lastModifiedDate": "2026-02-04T00:00:20.145Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -95,7 +95,7 @@
         "entitlementType": "AUDIENCE",
         "id": "cf32093d3f444167966b7d08a82062cc",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-01-07T00:00:05.936Z",
+        "lastModifiedDate": "2026-02-04T00:00:20.145Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -133,7 +133,7 @@
         "entitlementType": "AUDIENCE",
         "id": "5fe30d97bcac4130abbed745cb9e48c0",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-01-07T00:00:05.936Z",
+        "lastModifiedDate": "2026-02-04T00:00:20.145Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -171,7 +171,7 @@
         "entitlementType": "AUDIENCE",
         "id": "7df47cc650744d12829ed9995f8a167a",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-01-07T00:00:05.936Z",
+        "lastModifiedDate": "2026-02-04T00:00:20.145Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -209,7 +209,7 @@
         "entitlementType": "AUDIENCE",
         "id": "18f04d12c558442f87193545610b9ab8",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-01-07T00:00:05.936Z",
+        "lastModifiedDate": "2026-02-04T00:00:20.145Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -247,7 +247,7 @@
         "entitlementType": "AUDIENCE",
         "id": "15c6cc9b41e242859e028b1850a649fd",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-01-07T00:00:05.936Z",
+        "lastModifiedDate": "2026-02-04T00:00:20.145Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -285,7 +285,7 @@
         "entitlementType": "AUDIENCE",
         "id": "2173e8136e374afb833169723bf7325c",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-01-07T00:00:05.936Z",
+        "lastModifiedDate": "2026-02-04T00:00:20.145Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -323,7 +323,7 @@
         "entitlementType": "AUDIENCE",
         "id": "211f08a072c749d88813e2759872dc88",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-01-07T00:00:05.936Z",
+        "lastModifiedDate": "2026-02-04T00:00:20.145Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -2773,6 +2773,43 @@
         "status": "ACTIVE",
         "title": "#39.2 Survivor Pass: Off Range_SeasonPassAudience",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-02-04T00:00:20.192Z",
+        "description": "#40.1 Crafper Pass: Transcendents_SeasonPassAudience",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "4e2a0fc86b6a440389d96a2cc99c7421",
+        "entitlementType": "AUDIENCE",
+        "id": "4e2a0fc86b6a440389d96a2cc99c7421",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-02-04T00:00:20.192Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "#40.1 Crafper Pass: Transcendents_SeasonPassAudience",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -2803,7 +2840,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-01-07T00:00:06.726Z",
+    "lastModifiedDate": "2026-02-04T00:00:21.012Z",
     "mainGameItemList": [],
     "namespace": "eb99ee4694474e8da0b05a8ab391825c",
     "releaseInfo": [
