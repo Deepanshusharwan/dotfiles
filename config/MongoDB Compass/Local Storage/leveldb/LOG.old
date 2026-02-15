@@ -1,48 +1,36 @@
-2026/02/10-09:35:42.241 14ef48 Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
-2026/02/10-09:35:42.242 14ef48 Recovering log #250
-2026/02/10-09:35:42.242 14ef48 Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000250.log 
-2026/02/10-10:04:43.253 14ef48 Level-0 table #254: started
-2026/02/10-10:04:43.261 14ef48 Level-0 table #254: 15776 bytes OK
-2026/02/10-10:04:43.265 14ef48 Delete type=0 #250
-2026/02/10-10:37:43.252 14ef48 Level-0 table #256: started
-2026/02/10-10:37:43.255 14ef48 Level-0 table #256: 15495 bytes OK
-2026/02/10-10:37:43.259 14ef48 Delete type=0 #253
-2026/02/10-10:37:43.259 14ef48 Compacting 4@0 + 1@1 files
-2026/02/10-10:37:43.261 14ef48 Generated table #257@0: 9 keys, 1417 bytes
-2026/02/10-10:37:43.262 14ef48 Compacted 4@0 + 1@1 files => 1417 bytes
-2026/02/10-10:37:43.264 14ef48 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/10-10:37:43.264 14ef48 Delete type=2 #247
-2026/02/10-10:37:43.264 14ef48 Delete type=2 #249
-2026/02/10-10:37:43.264 14ef48 Delete type=2 #251
-2026/02/10-10:37:43.264 14ef48 Delete type=2 #254
-2026/02/10-10:37:43.264 14ef48 Delete type=2 #256
-2026/02/10-11:10:57.365 14ef49 Level-0 table #259: started
-2026/02/10-11:10:57.369 14ef49 Level-0 table #259: 15507 bytes OK
-2026/02/10-11:10:57.379 14ef49 Delete type=0 #255
-2026/02/10-11:47:22.835 14ef49 Level-0 table #261: started
-2026/02/10-11:47:22.838 14ef49 Level-0 table #261: 15512 bytes OK
-2026/02/10-11:47:22.842 14ef49 Delete type=0 #258
-2026/02/10-12:20:22.834 14ef49 Level-0 table #263: started
-2026/02/10-12:20:22.837 14ef49 Level-0 table #263: 15527 bytes OK
-2026/02/10-12:20:22.841 14ef49 Delete type=0 #260
-2026/02/10-12:53:22.835 14ef49 Level-0 table #265: started
-2026/02/10-12:53:22.840 14ef49 Level-0 table #265: 15505 bytes OK
-2026/02/10-12:53:22.844 14ef49 Delete type=0 #262
-2026/02/10-12:53:22.860 14ef49 Compacting 4@0 + 1@1 files
-2026/02/10-12:53:22.866 14ef49 Generated table #266@0: 9 keys, 1418 bytes
-2026/02/10-12:53:22.867 14ef49 Compacted 4@0 + 1@1 files => 1418 bytes
-2026/02/10-12:53:22.869 14ef49 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/10-12:53:22.874 14ef49 Delete type=2 #257
-2026/02/10-12:53:22.874 14ef49 Delete type=2 #259
-2026/02/10-12:53:22.874 14ef49 Delete type=2 #261
-2026/02/10-12:53:22.874 14ef49 Delete type=2 #263
-2026/02/10-12:53:22.874 14ef49 Delete type=2 #265
-2026/02/10-14:12:28.966 14ef49 Level-0 table #268: started
-2026/02/10-14:12:28.970 14ef49 Level-0 table #268: 15522 bytes OK
-2026/02/10-14:12:28.973 14ef49 Delete type=0 #264
-2026/02/10-14:45:29.702 14ef49 Level-0 table #270: started
-2026/02/10-14:45:29.705 14ef49 Level-0 table #270: 15508 bytes OK
-2026/02/10-14:45:29.708 14ef49 Delete type=0 #267
-2026/02/10-15:18:29.699 14ef48 Level-0 table #272: started
-2026/02/10-15:18:29.912 14ef48 Level-0 table #272: 15527 bytes OK
-2026/02/10-15:18:29.953 14ef48 Delete type=0 #269
+2026/02/14-22:05:26.661 2434f4 Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
+2026/02/14-22:05:26.662 2434f4 Recovering log #271
+2026/02/14-22:05:26.662 2434f4 Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000271.log 
+2026/02/14-22:09:27.142 2434f3 Level-0 table #275: started
+2026/02/14-22:09:27.147 2434f3 Level-0 table #275: 15796 bytes OK
+2026/02/14-22:09:27.149 2434f3 Delete type=0 #271
+2026/02/14-22:09:27.150 2434f3 Compacting 4@0 + 1@1 files
+2026/02/14-22:09:27.151 2434f3 Generated table #276@0: 9 keys, 1414 bytes
+2026/02/14-22:09:27.151 2434f3 Compacted 4@0 + 1@1 files => 1414 bytes
+2026/02/14-22:09:27.153 2434f3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/14-22:09:27.154 2434f3 Delete type=2 #266
+2026/02/14-22:09:27.154 2434f3 Delete type=2 #268
+2026/02/14-22:09:27.154 2434f3 Delete type=2 #270
+2026/02/14-22:09:27.154 2434f3 Delete type=2 #272
+2026/02/14-22:09:27.154 2434f3 Delete type=2 #275
+2026/02/14-22:42:27.140 2434f3 Level-0 table #278: started
+2026/02/14-22:42:27.146 2434f3 Level-0 table #278: 15488 bytes OK
+2026/02/14-22:42:27.149 2434f3 Delete type=0 #274
+2026/02/14-23:15:27.140 2434f3 Level-0 table #280: started
+2026/02/14-23:15:27.145 2434f3 Level-0 table #280: 15504 bytes OK
+2026/02/14-23:15:27.147 2434f3 Delete type=0 #277
+2026/02/15-09:24:29.604 2434f3 Level-0 table #282: started
+2026/02/15-09:24:29.610 2434f3 Level-0 table #282: 15543 bytes OK
+2026/02/15-09:24:29.614 2434f3 Delete type=0 #279
+2026/02/15-09:57:30.649 2434f4 Level-0 table #284: started
+2026/02/15-09:57:30.655 2434f4 Level-0 table #284: 15504 bytes OK
+2026/02/15-09:57:30.658 2434f4 Delete type=0 #281
+2026/02/15-09:57:30.658 2434f4 Compacting 4@0 + 1@1 files
+2026/02/15-09:57:30.660 2434f4 Generated table #285@0: 9 keys, 1417 bytes
+2026/02/15-09:57:30.660 2434f4 Compacted 4@0 + 1@1 files => 1417 bytes
+2026/02/15-09:57:30.662 2434f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/15-09:57:30.662 2434f4 Delete type=2 #276
+2026/02/15-09:57:30.662 2434f4 Delete type=2 #278
+2026/02/15-09:57:30.662 2434f4 Delete type=2 #280
+2026/02/15-09:57:30.662 2434f4 Delete type=2 #282
+2026/02/15-09:57:30.662 2434f4 Delete type=2 #284
