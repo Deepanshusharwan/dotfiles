@@ -1,0 +1,11 @@
+{
+  "filter": {
+    "username": "probablechris"
+  },
+  "_ns": "sherlock_db.parallel_ai_errors",
+  "_host": "localhost:27017",
+  "_id": "e076a2f4-0ffb-4c88-9cb1-7730e2bfc2b8",
+  "_lastExecuted": {
+    "$date": "2026-02-16T04:04:51.618Z"
+  }
+}

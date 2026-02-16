@@ -1,0 +1,11 @@
+{
+  "sort": {
+    "analyzed_at": -1
+  },
+  "_ns": "sherlock_db.link_analyses",
+  "_host": "localhost:27017",
+  "_id": "e8ca1c05-1053-4a5c-ae4f-e1f033910329",
+  "_lastExecuted": {
+    "$date": "2026-02-16T08:22:00.771Z"
+  }
+}

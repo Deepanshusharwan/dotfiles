@@ -1,0 +1,16 @@
+{
+  "filter": {
+    "triage_report.risk_score": {
+      "$gt": 10
+    }
+  },
+  "sort": {
+    "created_at": -1
+  },
+  "_ns": "sherlock_db.profile_risk_vs_bans",
+  "_host": "localhost:27017",
+  "_id": "8afe6ccf-d1dd-4f7c-9e58-271f6b44005d",
+  "_lastExecuted": {
+    "$date": "2026-02-16T04:12:57.939Z"
+  }
+}

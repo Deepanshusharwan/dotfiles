@@ -1,0 +1,14 @@
+{
+  "sort": {
+    "created_at": -1
+  },
+  "project": {
+    "username": "probablechris"
+  },
+  "_ns": "sherlock_db.profiles",
+  "_host": "localhost:27017",
+  "_id": "b7ba6acf-ffea-4a17-862b-457a7fa264e3",
+  "_lastExecuted": {
+    "$date": "2026-02-16T04:04:09.917Z"
+  }
+}

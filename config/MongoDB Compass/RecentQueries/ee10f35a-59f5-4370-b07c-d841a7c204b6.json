@@ -1,0 +1,14 @@
+{
+  "filter": {
+    "username": "rickyleehbo"
+  },
+  "sort": {
+    "created_at": -1
+  },
+  "_ns": "sherlock_db.profiles",
+  "_host": "localhost:27017",
+  "_id": "ee10f35a-59f5-4370-b07c-d841a7c204b6",
+  "_lastExecuted": {
+    "$date": "2026-02-16T04:06:52.744Z"
+  }
+}

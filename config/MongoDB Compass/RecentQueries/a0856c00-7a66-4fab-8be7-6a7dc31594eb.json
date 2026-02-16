@@ -1,0 +1,14 @@
+{
+  "filter": {
+    "username": "achu137"
+  },
+  "sort": {
+    "created_at": -1
+  },
+  "_ns": "sherlock_db.profile_history",
+  "_host": "localhost:27017",
+  "_id": "a0856c00-7a66-4fab-8be7-6a7dc31594eb",
+  "_lastExecuted": {
+    "$date": "2026-02-16T04:06:17.969Z"
+  }
+}

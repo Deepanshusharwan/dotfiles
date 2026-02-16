@@ -10,3 +10,81 @@
 2026/02/15-11:50:53.216 25edaf Level-0 table #292: started
 2026/02/15-11:50:53.244 25edaf Level-0 table #292: 15551 bytes OK
 2026/02/15-11:50:53.247 25edaf Delete type=0 #289
+2026/02/15-15:08:32.514 25edae Level-0 table #294: started
+2026/02/15-15:08:32.519 25edae Level-0 table #294: 15570 bytes OK
+2026/02/15-15:08:32.522 25edae Delete type=0 #291
+2026/02/15-15:08:32.522 25edae Compacting 4@0 + 1@1 files
+2026/02/15-15:08:32.524 25edae Generated table #295@0: 9 keys, 1417 bytes
+2026/02/15-15:08:32.524 25edae Compacted 4@0 + 1@1 files => 1417 bytes
+2026/02/15-15:08:32.526 25edae compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/15-15:08:32.526 25edae Delete type=2 #285
+2026/02/15-15:08:32.526 25edae Delete type=2 #288
+2026/02/15-15:08:32.526 25edae Delete type=2 #290
+2026/02/15-15:08:32.526 25edae Delete type=2 #292
+2026/02/15-15:08:32.526 25edae Delete type=2 #294
+2026/02/15-15:41:32.514 25edae Level-0 table #297: started
+2026/02/15-15:41:32.543 25edae Level-0 table #297: 15575 bytes OK
+2026/02/15-15:41:32.547 25edae Delete type=0 #293
+2026/02/15-16:14:32.513 25edae Level-0 table #299: started
+2026/02/15-16:14:32.519 25edae Level-0 table #299: 15561 bytes OK
+2026/02/15-16:14:32.523 25edae Delete type=0 #296
+2026/02/15-16:47:32.513 25edae Level-0 table #301: started
+2026/02/15-16:47:32.521 25edae Level-0 table #301: 15529 bytes OK
+2026/02/15-16:47:32.525 25edae Delete type=0 #298
+2026/02/16-09:32:38.445 25edae Level-0 table #303: started
+2026/02/16-09:32:38.450 25edae Level-0 table #303: 15516 bytes OK
+2026/02/16-09:32:38.453 25edae Delete type=0 #300
+2026/02/16-09:32:38.453 25edae Compacting 4@0 + 1@1 files
+2026/02/16-09:32:38.455 25edae Generated table #304@0: 9 keys, 1417 bytes
+2026/02/16-09:32:38.455 25edae Compacted 4@0 + 1@1 files => 1417 bytes
+2026/02/16-09:32:38.457 25edae compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/16-09:32:38.457 25edae Delete type=2 #295
+2026/02/16-09:32:38.458 25edae Delete type=2 #297
+2026/02/16-09:32:38.458 25edae Delete type=2 #299
+2026/02/16-09:32:38.458 25edae Delete type=2 #301
+2026/02/16-09:32:38.458 25edae Delete type=2 #303
+2026/02/16-10:09:22.591 25edae Level-0 table #306: started
+2026/02/16-10:09:22.596 25edae Level-0 table #306: 15501 bytes OK
+2026/02/16-10:09:22.600 25edae Delete type=0 #302
+2026/02/16-11:12:47.337 25edae Level-0 table #308: started
+2026/02/16-11:12:47.342 25edae Level-0 table #308: 15525 bytes OK
+2026/02/16-11:12:47.346 25edae Delete type=0 #305
+2026/02/16-13:11:28.802 25edaf Level-0 table #310: started
+2026/02/16-13:11:28.808 25edaf Level-0 table #310: 15513 bytes OK
+2026/02/16-13:11:28.811 25edaf Delete type=0 #307
+2026/02/16-13:44:31.312 25edae Level-0 table #312: started
+2026/02/16-13:44:31.318 25edae Level-0 table #312: 15493 bytes OK
+2026/02/16-13:44:31.321 25edae Delete type=0 #309
+2026/02/16-13:44:31.321 25edae Compacting 4@0 + 1@1 files
+2026/02/16-13:44:31.323 25edae Generated table #313@0: 9 keys, 1417 bytes
+2026/02/16-13:44:31.323 25edae Compacted 4@0 + 1@1 files => 1417 bytes
+2026/02/16-13:44:31.325 25edae compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/16-13:44:31.325 25edae Delete type=2 #304
+2026/02/16-13:44:31.326 25edae Delete type=2 #306
+2026/02/16-13:44:31.326 25edae Delete type=2 #308
+2026/02/16-13:44:31.326 25edae Delete type=2 #310
+2026/02/16-13:44:31.326 25edae Delete type=2 #312
+2026/02/16-18:43:55.776 25edae Level-0 table #315: started
+2026/02/16-18:43:55.781 25edae Level-0 table #315: 15496 bytes OK
+2026/02/16-18:43:55.785 25edae Delete type=0 #311
+2026/02/16-19:16:55.776 25edae Level-0 table #317: started
+2026/02/16-19:16:55.782 25edae Level-0 table #317: 15512 bytes OK
+2026/02/16-19:16:55.785 25edae Delete type=0 #314
+2026/02/16-19:49:55.776 25edae Level-0 table #319: started
+2026/02/16-19:49:55.782 25edae Level-0 table #319: 15539 bytes OK
+2026/02/16-19:49:55.786 25edae Delete type=0 #316
+2026/02/16-21:39:31.077 25edae Level-0 table #321: started
+2026/02/16-21:39:31.081 25edae Level-0 table #321: 15533 bytes OK
+2026/02/16-21:39:31.085 25edae Delete type=0 #318
+2026/02/16-21:39:31.085 25edae Compacting 4@0 + 1@1 files
+2026/02/16-21:39:31.088 25edae Generated table #322@0: 9 keys, 1417 bytes
+2026/02/16-21:39:31.088 25edae Compacted 4@0 + 1@1 files => 1417 bytes
+2026/02/16-21:39:31.090 25edae compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/16-21:39:31.090 25edae Delete type=2 #313
+2026/02/16-21:39:31.090 25edae Delete type=2 #315
+2026/02/16-21:39:31.090 25edae Delete type=2 #317
+2026/02/16-21:39:31.090 25edae Delete type=2 #319
+2026/02/16-21:39:31.090 25edae Delete type=2 #321
+2026/02/16-22:12:31.073 25edae Level-0 table #324: started
+2026/02/16-22:12:31.075 25edae Level-0 table #324: 15507 bytes OK
+2026/02/16-22:12:31.078 25edae Delete type=0 #320

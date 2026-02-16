@@ -1,0 +1,11 @@
+{
+  "sort": {
+    "created_at": -1
+  },
+  "_ns": "sherlock_db.profile_risk_vs_bans",
+  "_host": "localhost:27017",
+  "_id": "4240674f-ea40-43fa-bfd7-22058a21bc4c",
+  "_lastExecuted": {
+    "$date": "2026-02-16T04:08:35.413Z"
+  }
+}

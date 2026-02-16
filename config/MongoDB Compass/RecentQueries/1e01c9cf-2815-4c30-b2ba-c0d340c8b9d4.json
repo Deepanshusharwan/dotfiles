@@ -1,0 +1,11 @@
+{
+  "project": {
+    "username": "achu137"
+  },
+  "_ns": "sherlock_db.profiles",
+  "_host": "localhost:27017",
+  "_id": "1e01c9cf-2815-4c30-b2ba-c0d340c8b9d4",
+  "_lastExecuted": {
+    "$date": "2026-02-16T04:05:29.122Z"
+  }
+}

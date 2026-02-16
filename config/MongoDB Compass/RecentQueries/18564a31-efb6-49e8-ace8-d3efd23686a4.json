@@ -1,0 +1,11 @@
+{
+  "filter": {
+    "username": "rickyleehbo"
+  },
+  "_ns": "sherlock_db.profile_risk_vs_bans",
+  "_host": "localhost:27017",
+  "_id": "18564a31-efb6-49e8-ace8-d3efd23686a4",
+  "_lastExecuted": {
+    "$date": "2026-02-16T04:07:19.628Z"
+  }
+}
