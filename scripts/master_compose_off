@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# this script is to turn off the master docker compose for the homelab
 
 cd /home/deepanshu/homelab_setups/master-compose/ 
 docker compose down
