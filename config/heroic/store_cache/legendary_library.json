@@ -17460,6 +17460,158 @@
 					"title": "Starter bundle_ConsumableAudience",
 					"unsearchable": false,
 					"useCount": 1
+				},
+				{
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2026-02-13T19:17:14.843Z",
+					"description": "Metalstorm - Special Silver Offer_ConsumableAudience",
+					"developer": "Starform Inc.",
+					"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+					"endOfSupport": false,
+					"entitlementName": "84e3be3d6e9c42c08f1ee167ff1d7b20",
+					"entitlementType": "AUDIENCE",
+					"id": "84e3be3d6e9c42c08f1ee167ff1d7b20",
+					"itemType": "CONSUMABLE",
+					"lastModifiedDate": "2026-02-13T19:17:14.843Z",
+					"mainGameItem": {
+						"id": "37bdf2283730476b89fa027acfab7491",
+						"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "37bdf2283730476b89fa027acfab7491",
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"unsearchable": false
+						}
+					],
+					"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Metalstorm - Special Silver Offer_ConsumableAudience",
+					"unsearchable": false,
+					"useCount": 1
+				},
+				{
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2026-02-13T19:17:14.847Z",
+					"description": "Metalstorm - Special Silver Offer_ConsumableAudience",
+					"developer": "Starform Inc.",
+					"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+					"endOfSupport": false,
+					"entitlementName": "977952dbe4bb4831a10cac207deb4fcd",
+					"entitlementType": "AUDIENCE",
+					"id": "977952dbe4bb4831a10cac207deb4fcd",
+					"itemType": "CONSUMABLE",
+					"lastModifiedDate": "2026-02-13T19:17:14.847Z",
+					"mainGameItem": {
+						"id": "37bdf2283730476b89fa027acfab7491",
+						"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "37bdf2283730476b89fa027acfab7491",
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"unsearchable": false
+						}
+					],
+					"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Metalstorm - Special Silver Offer_ConsumableAudience",
+					"unsearchable": false,
+					"useCount": 1
+				},
+				{
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2026-02-13T19:17:14.840Z",
+					"description": "Metalstorm - Special Silver Offer_ConsumableAudience",
+					"developer": "Starform Inc.",
+					"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+					"endOfSupport": false,
+					"entitlementName": "35cfe96216f24c29979f3cd3249268fa",
+					"entitlementType": "AUDIENCE",
+					"id": "35cfe96216f24c29979f3cd3249268fa",
+					"itemType": "CONSUMABLE",
+					"lastModifiedDate": "2026-02-13T19:17:14.840Z",
+					"mainGameItem": {
+						"id": "37bdf2283730476b89fa027acfab7491",
+						"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "37bdf2283730476b89fa027acfab7491",
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"unsearchable": false
+						}
+					],
+					"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Metalstorm - Special Silver Offer_ConsumableAudience",
+					"unsearchable": false,
+					"useCount": 1
+				},
+				{
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2026-02-13T19:17:14.850Z",
+					"description": "Metalstorm - Special Silver Offer_ConsumableAudience",
+					"developer": "Starform Inc.",
+					"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+					"endOfSupport": false,
+					"entitlementName": "de80b252b36d476896892b6c76d6c709",
+					"entitlementType": "AUDIENCE",
+					"id": "de80b252b36d476896892b6c76d6c709",
+					"itemType": "CONSUMABLE",
+					"lastModifiedDate": "2026-02-13T19:17:14.850Z",
+					"mainGameItem": {
+						"id": "37bdf2283730476b89fa027acfab7491",
+						"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "37bdf2283730476b89fa027acfab7491",
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"unsearchable": false
+						}
+					],
+					"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Metalstorm - Special Silver Offer_ConsumableAudience",
+					"unsearchable": false,
+					"useCount": 1
 				}
 			],
 			"folder_name": "Metalstorm",
@@ -24794,6 +24946,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Wed Feb 11 2026 20:56:56 GMT+0530 (India Standard Time)"
+		"library": "Thu Feb 19 2026 21:50:57 GMT+0530 (India Standard Time)"
 	}
 }
