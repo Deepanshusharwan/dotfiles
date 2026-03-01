@@ -1,6 +1,21 @@
-2026/02/18-14:11:39.716 30a0ba Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
-2026/02/18-14:11:39.717 30a0ba Recovering log #329
-2026/02/18-14:11:39.718 30a0ba Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000329.log 
-2026/02/18-14:31:40.606 30a0bb Level-0 table #334: started
-2026/02/18-14:31:40.609 30a0bb Level-0 table #334: 15762 bytes OK
-2026/02/18-14:31:40.612 30a0bb Delete type=0 #329
+2026/02/26-13:55:42.020 c8471 Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
+2026/02/26-13:55:42.020 c8471 Recovering log #366
+2026/02/26-13:55:42.020 c8471 Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000366.log 
+2026/02/26-14:27:42.489 c8470 Level-0 table #370: started
+2026/02/26-14:27:42.494 c8470 Level-0 table #370: 15737 bytes OK
+2026/02/26-14:27:42.496 c8470 Delete type=0 #366
+2026/02/26-14:27:42.496 c8470 Compacting 4@0 + 1@1 files
+2026/02/26-14:27:42.498 c8470 Generated table #371@0: 9 keys, 1418 bytes
+2026/02/26-14:27:42.498 c8470 Compacted 4@0 + 1@1 files => 1418 bytes
+2026/02/26-14:27:42.501 c8470 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/26-14:27:42.501 c8470 Delete type=2 #361
+2026/02/26-14:27:42.501 c8470 Delete type=2 #363
+2026/02/26-14:27:42.501 c8470 Delete type=2 #365
+2026/02/26-14:27:42.501 c8470 Delete type=2 #367
+2026/02/26-14:27:42.501 c8470 Delete type=2 #370
+2026/02/26-15:00:42.489 c8470 Level-0 table #373: started
+2026/02/26-15:00:42.493 c8470 Level-0 table #373: 15512 bytes OK
+2026/02/26-15:00:42.496 c8470 Delete type=0 #369
+2026/02/26-15:34:02.254 c8470 Level-0 table #375: started
+2026/02/26-15:34:02.260 c8470 Level-0 table #375: 15495 bytes OK
+2026/02/26-15:34:02.264 c8470 Delete type=0 #372
