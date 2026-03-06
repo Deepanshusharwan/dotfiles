@@ -1,0 +1,11 @@
+{
+  "filter": {
+    "is_banned": true
+  },
+  "_id": "926c7ebb-107c-4195-9435-8077de0031ae",
+  "_lastExecuted": {
+    "$date": "2026-03-03T07:27:20.005Z"
+  },
+  "_ns": "tumban.profiles_risk_vs_ban",
+  "_host": "localhost:27017"
+}

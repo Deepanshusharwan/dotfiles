@@ -60,11 +60,11 @@
 		"user": "deepanshu"
 	},
 	"window-props": {
-		"x": 3,
-		"y": 33,
+		"x": 0,
+		"y": 0,
 		"width": 1722,
 		"height": 936,
-		"maximized": false
+		"maximized": true
 	},
 	"games": {
 		"recent": [
