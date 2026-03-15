@@ -1,24 +1,24 @@
-2026/03/03-12:46:11.398 63174 Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
-2026/03/03-12:46:11.400 63174 Recovering log #393
-2026/03/03-12:46:11.401 63174 Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000393.log 
-2026/03/03-12:49:12.491 63175 Level-0 table #397: started
-2026/03/03-12:49:12.498 63175 Level-0 table #397: 15743 bytes OK
-2026/03/03-12:49:12.502 63175 Delete type=0 #393
-2026/03/03-13:22:13.148 63174 Level-0 table #399: started
-2026/03/03-13:22:13.155 63174 Level-0 table #399: 15506 bytes OK
-2026/03/03-13:22:13.158 63174 Delete type=0 #396
-2026/03/03-13:22:13.159 63174 Compacting 4@0 + 1@1 files
-2026/03/03-13:22:13.161 63174 Generated table #400@0: 10 keys, 1429 bytes
-2026/03/03-13:22:13.161 63174 Compacted 4@0 + 1@1 files => 1429 bytes
-2026/03/03-13:22:13.163 63174 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/03-13:22:13.164 63174 Delete type=2 #390
-2026/03/03-13:22:13.164 63174 Delete type=2 #392
-2026/03/03-13:22:13.164 63174 Delete type=2 #394
-2026/03/03-13:22:13.164 63174 Delete type=2 #397
-2026/03/03-13:22:13.164 63174 Delete type=2 #399
-2026/03/03-15:41:45.417 63175 Level-0 table #402: started
-2026/03/03-15:41:45.422 63175 Level-0 table #402: 15518 bytes OK
-2026/03/03-15:41:45.425 63175 Delete type=0 #398
-2026/03/03-16:14:46.655 63175 Level-0 table #404: started
-2026/03/03-16:14:46.661 63175 Level-0 table #404: 15510 bytes OK
-2026/03/03-16:14:46.664 63175 Delete type=0 #401
+2026/03/15-06:48:56.246 124df0 Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
+2026/03/15-06:48:56.249 124df0 Recovering log #406
+2026/03/15-06:48:56.250 124df0 Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000406.log 
+2026/03/15-08:40:00.437 124def Level-0 table #410: started
+2026/03/15-08:40:00.443 124def Level-0 table #410: 15772 bytes OK
+2026/03/15-08:40:00.446 124def Delete type=0 #406
+2026/03/15-08:40:00.446 124def Compacting 4@0 + 1@1 files
+2026/03/15-08:40:00.448 124def Generated table #411@0: 10 keys, 1430 bytes
+2026/03/15-08:40:00.448 124def Compacted 4@0 + 1@1 files => 1430 bytes
+2026/03/15-08:40:00.451 124def compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/15-08:40:00.451 124def Delete type=2 #400
+2026/03/15-08:40:00.451 124def Delete type=2 #402
+2026/03/15-08:40:00.451 124def Delete type=2 #404
+2026/03/15-08:40:00.451 124def Delete type=2 #407
+2026/03/15-08:40:00.451 124def Delete type=2 #410
+2026/03/15-10:02:12.862 124def Level-0 table #413: started
+2026/03/15-10:02:12.868 124def Level-0 table #413: 15516 bytes OK
+2026/03/15-10:02:12.871 124def Delete type=0 #409
+2026/03/15-10:35:13.659 124def Level-0 table #415: started
+2026/03/15-10:35:13.665 124def Level-0 table #415: 15519 bytes OK
+2026/03/15-10:35:13.668 124def Delete type=0 #412
+2026/03/15-11:08:13.660 124def Level-0 table #417: started
+2026/03/15-11:08:13.665 124def Level-0 table #417: 15502 bytes OK
+2026/03/15-11:08:13.668 124def Delete type=0 #414

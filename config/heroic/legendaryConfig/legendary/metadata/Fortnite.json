@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-39.50-CL-51043566-Windows",
+      "build_version": "++Fortnite+Release-39.51-CL-51287198-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
@@ -175,7 +175,7 @@
       },
       "LaunchSocialOnFirstInstall": {
         "type": "STRING",
-        "value": "false"
+        "value": "true"
       },
       "RequirementsJson": {
         "type": "STRING",
@@ -1499,33 +1499,33 @@
       },
       {
         "height": 1440,
-        "md5": "4f5c9160201195a5ef0687c57f9a5299",
-        "size": 4463578,
+        "md5": "f240b7a1027b6897a9b505afdd35c122",
+        "size": 951147,
         "type": "DieselGameBox",
-        "uploadedDate": "2026-02-04T19:38:04.910Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-b95c5ba66cd744609924dd05211160a0",
+        "uploadedDate": "2026-02-19T22:44:10.899Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Blade_2560x1440_2560x1440-49a5d545bb8c410c96e758884ab2ca56",
         "width": 2560
       },
       {
         "height": 1600,
-        "md5": "a4a9050ce11c477082c46b5ba5de79da",
-        "size": 2159483,
+        "md5": "127107447c05fa1fae4e2e8ba30fa258",
+        "size": 585545,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2026-02-04T19:37:59.453Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNECO_39-40_LoveAndLegends_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-a83c05f8efb3444dbedb307f9030ca9b",
+        "uploadedDate": "2026-02-19T22:44:16.588Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Blade_1200x1600_1200x1600-5f2dbebb69aa47a498890e6ef8869bd7",
         "width": 1200
       },
       {
         "height": 800,
-        "md5": "f3ff1d4420f5d2e05e421f6fcbaaec06",
-        "size": 859927,
+        "md5": "7bda7f14d422c526ac7232a046c391de",
+        "size": 173918,
         "type": "Featured",
-        "uploadedDate": "2026-02-04T19:36:48.635Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNECO_39-40_LoveAndLegends_EGS_Mobile_FeaturedArt_800x800_800x800-ea7446aa107245c380c26dca634f53d6",
+        "uploadedDate": "2026-02-19T22:44:05.096Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Mobile_FeaturedArt_800x800_800x800-1a163281e52b41a0be0a5c64de0031fe",
         "width": 800
       }
     ],
-    "lastModifiedDate": "2026-02-13T21:07:35.170Z",
+    "lastModifiedDate": "2026-03-05T09:07:01.691Z",
     "legalFooterText": "\u00a92026 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League \u00a92026 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a92026 The LEGO Group. All other trademarks are the property of their respective owners.",
     "longDescription": "Fortnite on mobile brings everything you love about the game onto your favorite on-the-go device. Join and chat with your friends -- regardless of what platform they\u2019re on -- and make progress on your Battle Pass the same way you would on a PC or console!\n\nRequires an internet connection.\n\nPowered by Unreal Engine.",
     "mainGameItemList": [],
