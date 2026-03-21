@@ -9,10 +9,10 @@
   "enableConnectInNewWindow": true,
   "showEndOfLifeConnectionModal": true,
   "windowBounds": {
-    "x": 2883,
+    "x": 3,
     "y": 33,
-    "width": 2394,
-    "height": 1314,
+    "width": 1722,
+    "height": 936,
     "isMaximized": false,
     "isFullScreen": false
   },

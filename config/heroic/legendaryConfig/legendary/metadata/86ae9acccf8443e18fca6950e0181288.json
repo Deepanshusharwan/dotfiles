@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "86ae9acccf8443e18fca6950e0181288",
       "asset_id": "86ae9acccf8443e18fca6950e0181288",
-      "build_version": "1.12.1",
+      "build_version": "1.14.2",
       "catalog_item_id": "101391ece6024e069a7cb8cf22104399",
       "label_name": "Live-Windows",
       "metadata": {
@@ -54,7 +54,7 @@
         "value": "false"
       }
     },
-    "description": "Honkai: Star Rail is a new HoYoverse space fantasy RPG. Hop aboard the Astral Express and experience the galaxy's infinite wonders on this journey filled with adventure and thrills.",
+    "description": "Honkai:\u00a0Star\u00a0Rail\u00a0is\u00a0a\u00a0HoYoverse\u00a0space\u00a0fantasy\u00a0RPG.\nHop\u00a0aboard\u00a0the\u00a0Astral\u00a0Express\u00a0and\u00a0experience\u00a0the\u00a0galaxy's\u00a0infinite\u00a0wonders\u00a0filled\u00a0with\u00a0adventure\u00a0and\u00a0thrills.",
     "developer": "COGNOSPHERE PTE. LTD.",
     "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
     "dlcItemList": [
@@ -1360,7 +1360,7 @@
             "path": "public"
           }
         ],
-        "creationDate": "2025-06-16T06:17:08.521Z",
+        "creationDate": "2025-04-21T08:35:52.461Z",
         "description": "Speical Ticket Gift Box 3.4_ConsumableAudience",
         "developer": "COGNOSPHERE PTE. LTD.",
         "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
@@ -1369,7 +1369,7 @@
         "entitlementType": "AUDIENCE",
         "id": "8acbc59499854c59a829fa314fc653c4",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-06-16T06:17:08.521Z",
+        "lastModifiedDate": "2026-02-13T01:58:03.984Z",
         "mainGameItem": {
           "id": "101391ece6024e069a7cb8cf22104399",
           "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
@@ -1464,6 +1464,120 @@
         "title": "Special Ticket Pack_ConsumableAudience",
         "unsearchable": false,
         "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-12-01T08:38:55.334Z",
+        "description": "4.0 Main Character Headgear_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "4be9ec97b6d04596915a7eb8f62c5715",
+        "entitlementType": "AUDIENCE",
+        "id": "4be9ec97b6d04596915a7eb8f62c5715",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-02-06T11:13:18.886Z",
+        "mainGameItem": {
+          "id": "101391ece6024e069a7cb8cf22104399",
+          "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "101391ece6024e069a7cb8cf22104399",
+            "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "4.0 Main Character Headgear_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-12-10T05:58:24.863Z",
+        "description": "rpgglbskintier4_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "1821f204b83749e4a12c3117fc54ed80",
+        "entitlementType": "AUDIENCE",
+        "id": "1821f204b83749e4a12c3117fc54ed80",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-02-06T11:13:18.886Z",
+        "mainGameItem": {
+          "id": "101391ece6024e069a7cb8cf22104399",
+          "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "101391ece6024e069a7cb8cf22104399",
+            "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "rpgglbskintier4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-02-13T01:58:04.008Z",
+        "description": "Special Pass Exclusive Giftbox_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "b4cfec97603a41da9402677f36beff77",
+        "entitlementType": "AUDIENCE",
+        "id": "b4cfec97603a41da9402677f36beff77",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-02-13T01:58:04.008Z",
+        "mainGameItem": {
+          "id": "101391ece6024e069a7cb8cf22104399",
+          "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "101391ece6024e069a7cb8cf22104399",
+            "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Pass Exclusive Giftbox_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
       }
     ],
     "endOfSupport": false,
@@ -1478,25 +1592,25 @@
       {
         "alt": "Honkai Star Rail Offer",
         "height": 1440,
-        "md5": "fede380bbccfe970b03d1064770c6f3b",
-        "size": 1742757,
+        "md5": "51fd3b0510aade3b6c229024a1c8f689",
+        "size": 1307504,
         "type": "DieselGameBox",
-        "uploadedDate": "2025-12-09T09:53:22.830Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-1k91q.jpg",
+        "uploadedDate": "2026-02-07T03:01:57.510Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-i7gne.jpg",
         "width": 2560
       },
       {
         "alt": "Download Honkai Star Rail Offer",
         "height": 1600,
-        "md5": "5041612193b74d2c52038e0dade9d26e",
-        "size": 909738,
+        "md5": "72b75232206fcd434b2ff9e06040a226",
+        "size": 389553,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2025-12-09T09:53:45.407Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-u3qgb.jpg",
+        "uploadedDate": "2026-02-07T03:02:09.841Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-1ilk3.jpg",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-12-16T22:00:09.941Z",
+    "lastModifiedDate": "2026-02-27T00:00:24.896Z",
     "mainGameItemList": [],
     "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
     "releaseInfo": [

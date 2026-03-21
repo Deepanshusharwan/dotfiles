@@ -50,3 +50,4 @@ if [ -f '/home/deepanshu/files/google-cloud-sdk/path.bash.inc' ]; then . '/home/
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/home/deepanshu/files/google-cloud-sdk/completion.bash.inc' ]; then . '/home/deepanshu/files/google-cloud-sdk/completion.bash.inc'; fi
+alias packettracer="/usr/lib/packettracer/packettracer.AppImage QT_QPA_PLATFORM=xcb QT_SCALE_FACTOR=1.25 packettracer"

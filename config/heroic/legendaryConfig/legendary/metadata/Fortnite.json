@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-39.51-CL-51287198-Windows",
+      "build_version": "++Fortnite+Release-40.00-CL-51746096-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
@@ -1477,6 +1477,82 @@
         "status": "ACTIVE",
         "title": "LEGO\u00ae Fortnite Brick Life",
         "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons/launchable"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2026-03-04T02:47:45.738Z",
+        "customAttributes": {},
+        "description": "Fortnite Save the World",
+        "developer": "Epic Games",
+        "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+        "endOfSupport": false,
+        "entitlementName": "f205453fa3384a61a9b40ff76279bef2",
+        "entitlementType": "ENTITLEMENT",
+        "eulaIds": [
+          "epicgames_tos"
+        ],
+        "id": "f205453fa3384a61a9b40ff76279bef2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "ef7f261563775cf47fac6b66c95fca24",
+            "size": 1275530,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-03-11T00:44:41.830Z",
+            "url": "https://cdn1.epicgames.com/item/fn/EN-FNECO_40-20_Save-The-World__KeyArt_EGS_Launcher_Blade_1200x1600_1200x1600-e969de03b3564fadb12022cf3f4aa2a3",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "14e5b6dfaff7d46374bb09e6df87674c",
+            "size": 2238783,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-03-11T00:44:49.257Z",
+            "url": "https://cdn1.epicgames.com/item/fn/EN-FNECO_40-20_Save-The-World_KeyArt_EGS_Launcher_Blade_2560x1440_2560x1440-35262a7ee2624f1693cfba2586fd0a4f",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2026-03-17T20:54:06.904Z",
+        "mainGameItem": {
+          "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+          "namespace": "fn",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+            "namespace": "fn",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "fn",
+        "releaseInfo": [
+          {
+            "appId": "f60bd71e806747fbb9c3fbae735dc879",
+            "compatibleApps": [],
+            "id": "15eedc62c1c545e3bd4321fcb7238610",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Fortnite Save the World",
+        "unsearchable": true
       }
     ],
     "endOfSupport": false,
@@ -1490,42 +1566,42 @@
     "keyImages": [
       {
         "height": 512,
-        "md5": "e21b1225ea1f508edaa8ac86e33eef44",
-        "size": 442590,
+        "md5": "881fae571211c06df5a2480a1148bbab",
+        "size": 288729,
         "type": "AndroidIcon",
-        "uploadedDate": "2026-02-04T17:04:33.327Z",
-        "url": "https://cdn1.epicgames.com/item/fn/ForestJean_AppIcon_1024x1024_512x512-8df526fa1ac54d82b35334d99ecaf80f",
+        "uploadedDate": "2026-03-19T06:30:20.631Z",
+        "url": "https://cdn1.epicgames.com/item/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2_512x512-3576ad07125b48f1a32d6ca6ccbad834",
         "width": 512
       },
       {
         "height": 1440,
-        "md5": "f240b7a1027b6897a9b505afdd35c122",
-        "size": 951147,
+        "md5": "acad86aa0dace927bf7d4e1afd31d24f",
+        "size": 1154357,
         "type": "DieselGameBox",
-        "uploadedDate": "2026-02-19T22:44:10.899Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Blade_2560x1440_2560x1440-49a5d545bb8c410c96e758884ab2ca56",
+        "uploadedDate": "2026-03-19T06:26:06.372Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_2560x1440_2560x1440-af88fb0a31934f658b0a89fe36ac261b",
         "width": 2560
       },
       {
         "height": 1600,
-        "md5": "127107447c05fa1fae4e2e8ba30fa258",
-        "size": 585545,
+        "md5": "8dc28e8c1765f4d41c1f001b01366ec9",
+        "size": 559627,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2026-02-19T22:44:16.588Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Blade_1200x1600_1200x1600-5f2dbebb69aa47a498890e6ef8869bd7",
+        "uploadedDate": "2026-03-19T06:25:55.197Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_40-00_C7S2_EGS_Launcher_FN_Blade_1200x1600_1200x1600-b8f60980f7f242a880447bc353b834d4",
         "width": 1200
       },
       {
         "height": 800,
-        "md5": "7bda7f14d422c526ac7232a046c391de",
-        "size": 173918,
+        "md5": "be39801f95903c254d8a24afb48997c4",
+        "size": 250291,
         "type": "Featured",
-        "uploadedDate": "2026-02-19T22:44:05.096Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_39-00_C7S1_EGS_Launcher_DarkVoyager_FN_Mobile_FeaturedArt_800x800_800x800-1a163281e52b41a0be0a5c64de0031fe",
+        "uploadedDate": "2026-03-19T06:25:49.118Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_40-00_C7S2_EGS_FN_Mobile_FeatArt_800x800_800x800-681f0054f9904518be7a5ee2b58a309f",
         "width": 800
       }
     ],
-    "lastModifiedDate": "2026-03-05T09:07:01.691Z",
+    "lastModifiedDate": "2026-03-19T06:31:46.427Z",
     "legalFooterText": "\u00a92026 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League \u00a92026 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a92026 The LEGO Group. All other trademarks are the property of their respective owners.",
     "longDescription": "Fortnite on mobile brings everything you love about the game onto your favorite on-the-go device. Join and chat with your friends -- regardless of what platform they\u2019re on -- and make progress on your Battle Pass the same way you would on a PC or console!\n\nRequires an internet connection.\n\nPowered by Unreal Engine.",
     "mainGameItemList": [],
