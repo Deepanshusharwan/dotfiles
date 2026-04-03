@@ -515,15 +515,25 @@
 		{
 			"version": "GE-Proton-latest",
 			"type": "GE-Proton",
-			"date": "2026-03-18",
-			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-33/GE-Proton10-33.tar.gz",
-			"downsize": 516090373,
+			"date": "2026-03-23",
+			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-34/GE-Proton10-34.tar.gz",
+			"downsize": 516611656,
 			"disksize": 1459017472,
-			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-33/GE-Proton10-33.sha512sum",
-			"release_notes_link": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton10-33",
+			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-34/GE-Proton10-34.sha512sum",
+			"release_notes_link": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton10-34",
 			"installDir": "/home/deepanshu/.config/heroic/tools/proton/GE-Proton-latest",
 			"isInstalled": true,
 			"hasUpdate": true
+		},
+		{
+			"version": "GE-Proton10-34",
+			"type": "GE-Proton",
+			"date": "2026-03-23",
+			"disksize": 0,
+			"release_notes_link": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton10-34",
+			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-34/GE-Proton10-34.sha512sum",
+			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-34/GE-Proton10-34.tar.gz",
+			"downsize": 516611656
 		},
 		{
 			"version": "GE-Proton10-33",
@@ -1016,16 +1026,6 @@
 			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-11/GE-Proton9-11.sha512sum",
 			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-11/GE-Proton9-11.tar.gz",
 			"downsize": 433150823
-		},
-		{
-			"version": "GE-Proton9-10",
-			"type": "GE-Proton",
-			"date": "2024-07-07",
-			"disksize": 0,
-			"release_notes_link": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton9-10",
-			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-10/GE-Proton9-10.sha512sum",
-			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-10/GE-Proton9-10.tar.gz",
-			"downsize": 433334753
 		}
 	]
 }

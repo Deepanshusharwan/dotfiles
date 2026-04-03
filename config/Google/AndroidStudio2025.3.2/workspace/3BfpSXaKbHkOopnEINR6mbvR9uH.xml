@@ -1,0 +1,112 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Jetcastersample" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2ceyxhj01jxar">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md" file-id="43316" managing-fs="1774889714224">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/core/data/src/main/AndroidManifest.xml" file-id="43496" managing-fs="1774889714224">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AndroidManifest.xml","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,83,10,45,115,116,117,100,105,111,47,105,99,111,110,115,47,115,104,101,108,108,47,102,105,108,101,116,114,101,101,47,109,97,110,105,102,101,115,116,45,102,105,108,101,46,115,118,103,26,21,111,114,103,46,106,101,116,98,114,97,105,110,115,46,97,110,100,114,111,105,100,40,-20,-95,-101,-73,-2,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1774890017515
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1774889979535
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1774889979535" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1774890017515" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16425215" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info active="true" anchor="bottom" id="Build" order="6" visible="true" weight="0.3301282" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3298747" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.3298747" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.3298747" />
+      <window_info active="true" anchor="right" id="Running Devices" order="4" visible="true" weight="0.3298747" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.3298747" />
+      <unified_weights bottom="0.3301282" left="0.16425215" right="0.3298747" />
+    </layoutV2>
+    <recentWindows>
+      <value>Running Devices</value>
+      <value>Project</value>
+      <value>Device Manager 2</value>
+      <value>StudioBot</value>
+      <value>Notifications</value>
+      <value>Gradle</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3824" y="346" width="672" height="712" key="run.anything.popup" timestamp="1774890136764">
+      <screen x="2880" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3824" y="346" width="672" height="712" key="run.anything.popup/0.0.1728.972/2880.0.2560.1440@2880.0.2560.1440" timestamp="1774890136764" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/core/data/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo frameTitle="My Application – MainActivity.kt" projectWorkspaceId="3BfpFvO1iQjEgwKctd8nrCcrL5g">
+              <option name="activationTimestamp" value="1774889983109" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="2883" y="33" width="2554" height="1404" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1774889880542" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Jetcastersample">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Jetcaster" opened="true" projectWorkspaceId="3BfpSXaKbHkOopnEINR6mbvR9uH">
+              <option name="activationTimestamp" value="1774890715728" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="2883" y="33" width="2554" height="1404" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1774889978765" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/Jetcastersample" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

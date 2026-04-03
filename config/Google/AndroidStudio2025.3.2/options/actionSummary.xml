@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ExternalSystem.ShowSettingsGroup">
+      <i c="1" l="1774890141872" />
+    </e>
+    <e n="GoogleCloudTools.SampleImport">
+      <i c="1" l="1774889907392" />
+    </e>
+    <e n="Gradle.ExecuteTask">
+      <i c="1" l="1774890132316" />
+    </e>
+    <e n="TextEditorWithPreview.Layout.EditorAndPreview">
+      <i c="1" l="1774890004368" />
+    </e>
+    <e n="TextEditorWithPreview.Layout.PreviewOnly">
+      <i c="1" l="1774890035409" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1774889840595" />
+    </e>
+    <e n="com.android.tools.adtui.actions.DropDownAction">
+      <i c="1" l="1774890170118" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeviceManagerPanel$toAnAction$2">
+      <i c="1" l="1774890171469" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1774889982991" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="12" l="1774890652788" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1774889901737" />
+    </e>
+  </component>
+</application>

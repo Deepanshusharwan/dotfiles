@@ -4,7 +4,7 @@ x-scheme-handler/http=chromium.desktop
 x-scheme-handler/https=chromium.desktop
 x-scheme-handler/about=chromium.desktop
 x-scheme-handler/unknown=chromium.desktop
-x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/jetbrains=jetbrainsd.desktop
 x-scheme-handler/chrome=zen.desktop
 application/x-extension-htm=zen.desktop
 application/x-extension-html=zen.desktop
@@ -17,6 +17,7 @@ application/x-pka=CiscoPacketTracer-9.0.0.desktop
 application/x-pkt=CiscoPacketTracer-9.0.0.desktop
 application/x-pkz=CiscoPacketTracer-9.0.0.desktop
 application/x-pksz=CiscoPacketTracer-9.0.0.desktop
+x-scheme-handler/claude-cli=claude-code-url-handler.desktop
 
 [Added Associations]
 x-scheme-handler/http=zen.desktop;

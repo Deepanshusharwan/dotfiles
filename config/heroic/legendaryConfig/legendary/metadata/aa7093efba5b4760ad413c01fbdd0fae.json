@@ -5,11 +5,12 @@
     "Windows": {
       "app_name": "aa7093efba5b4760ad413c01fbdd0fae",
       "asset_id": "aa7093efba5b4760ad413c01fbdd0fae",
-      "build_version": "49.1.2a",
+      "build_version": "50.0.6a",
       "catalog_item_id": "0073e920c0ca49bc8da9cde44836ebe1",
       "label_name": "Live-Windows",
       "metadata": {
-        "installationPoolId": "5bbf1cb7779c45fea08ef51a46ad2226"
+        "installationPoolId": "5bbf1cb7779c45fea08ef51a46ad2226",
+        "update_type": "MAJOR"
       },
       "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
       "sidecar_rev": 0
@@ -3783,25 +3784,25 @@
       {
         "alt": "Asphalt Legends Offer",
         "height": 1440,
-        "md5": "7e5a3ab7659856a8c47ce98372e8b698",
-        "size": 3584548,
+        "md5": "5ce5b8016c235ca9e5bc8069f5b88a09",
+        "size": 2364495,
         "type": "DieselGameBox",
-        "uploadedDate": "2025-10-09T12:34:23.346Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-11odw.jpg",
+        "uploadedDate": "2026-03-30T17:13:27.950Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-6toc9.jpg",
         "width": 2560
       },
       {
         "alt": "Download Asphalt Legends Offer",
         "height": 1600,
-        "md5": "3d3b864534cb339d1aa95bf914d750ae",
-        "size": 580298,
+        "md5": "7cc7db3d47c04d4a21021e658fa38122",
+        "size": 1186001,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2025-10-09T12:34:47.165Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-za11d.jpg",
+        "uploadedDate": "2026-03-30T17:13:53.275Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-1o1jl.JPG",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-11-20T15:14:55.556Z",
+    "lastModifiedDate": "2026-03-31T07:21:42.323Z",
     "mainGameItemList": [],
     "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
     "releaseInfo": [

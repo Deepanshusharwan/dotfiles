@@ -1,0 +1,11 @@
+{
+  "sort": {
+    "created_at": -1
+  },
+  "_ns": "tumban_db.profiles",
+  "_host": "localhost:27017",
+  "_id": "bc764358-8cdd-4a68-9222-2c14c91781e4",
+  "_lastExecuted": {
+    "$date": "2026-03-30T18:08:22.304Z"
+  }
+}

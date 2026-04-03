@@ -300,7 +300,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-11-29T21:36:07.449Z",
+					"lastModifiedDate": "2026-03-31T07:35:53.027Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -531,7 +531,7 @@
 							"width": 2560
 						}
 					],
-					"lastModifiedDate": "2026-02-05T09:13:31.200Z",
+					"lastModifiedDate": "2026-03-31T07:35:53.112Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -735,7 +735,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-11-29T21:35:24.684Z",
+					"lastModifiedDate": "2026-03-31T07:35:53.213Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -991,24 +991,24 @@
 					"keyImages": [
 						{
 							"height": 1600,
-							"md5": "7912e5a8c6f42a34247704ddb5809809",
-							"size": 1946695,
+							"md5": "3b112a272791fbd5eb314516a0f9f233",
+							"size": 799776,
 							"type": "DieselGameBoxTall",
-							"uploadedDate": "2025-12-04T21:06:26.949Z",
-							"url": "https://cdn1.epicgames.com/item/fn/EN_FN_OG_C1S7_39-00_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-7912e5a8c6f42a34247704ddb5809809",
+							"uploadedDate": "2026-03-26T20:07:17.373Z",
+							"url": "https://cdn1.epicgames.com/item/fn/EN_FN_OG_C1S8_40-10_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-3cb7aeae556f4688881b73d308300932",
 							"width": 1200
 						},
 						{
 							"height": 1440,
-							"md5": "4102c66afd1a4044a8bd9563116f506c",
-							"size": 3118736,
+							"md5": "93f9c2f701cd466cc02e49b30bd61014",
+							"size": 1432343,
 							"type": "DieselGameBox",
-							"uploadedDate": "2025-12-04T21:06:54.919Z",
-							"url": "https://cdn1.epicgames.com/item/fn/EN_FN_OG_C1S7_39-00_EGS_Launcher_KeyArt_Carousel_PDP_2560x1440_logo_2560x1440-4102c66afd1a4044a8bd9563116f506c",
+							"uploadedDate": "2026-03-26T20:07:22.483Z",
+							"url": "https://cdn1.epicgames.com/item/fn/EN_FN_OG_C1S8_40-10_EGS_Launcher_KeyArt_Carousel_PDP_2560x1440_logo_2560x1440-100bbe8c82374dc6824dcd6cf9f4cfd4",
 							"width": 2560
 						}
 					],
-					"lastModifiedDate": "2026-02-05T09:19:36.039Z",
+					"lastModifiedDate": "2026-04-01T08:09:19.095Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -1286,7 +1286,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-11-29T21:35:33.940Z",
+					"lastModifiedDate": "2026-03-31T07:35:53.380Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -10722,8 +10722,8 @@
 		},
 		{
 			"app_name": "aa7093efba5b4760ad413c01fbdd0fae",
-			"art_cover": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-11odw.jpg",
-			"art_square": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-za11d.jpg",
+			"art_cover": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-6toc9.jpg",
+			"art_square": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-1o1jl.JPG",
 			"cloud_save_enabled": false,
 			"developer": "Gameloft SE",
 			"extra": {
@@ -25400,6 +25400,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Fri Mar 20 2026 21:30:14 GMT+0530 (India Standard Time)"
+		"library": "Wed Apr 01 2026 21:39:49 GMT+0530 (India Standard Time)"
 	}
 }
