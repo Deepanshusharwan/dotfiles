@@ -35,6 +35,24 @@
 			"browserUrl": "",
 			"customUserAgent": "",
 			"launchFullScreen": false
+		},
+		{
+			"runner": "sideload",
+			"app_name": "2ku1S1aDfG9g8W2Jnornb9",
+			"title": "need for speed most wanted",
+			"install": {
+				"executable": "/home/deepanshu/Downloads/Need For Speed Most Wanted [1.3]/Need For Speed Most Wanted/speed.exe",
+				"platform": "Windows",
+				"is_dlc": false
+			},
+			"folder_name": "/home/deepanshu/Downloads/Need For Speed Most Wanted [1.3]/Need For Speed Most Wanted",
+			"art_cover": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/a86cc0b404ab003e0badb9ed96b55ace.png",
+			"is_installed": true,
+			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/a86cc0b404ab003e0badb9ed96b55ace.png",
+			"canRunOffline": true,
+			"browserUrl": "",
+			"customUserAgent": "",
+			"launchFullScreen": false
 		}
 	]
 }

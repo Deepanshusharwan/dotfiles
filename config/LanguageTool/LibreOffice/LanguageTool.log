@@ -1,7 +1,353 @@
-LT office integration log from Tue Mar 31 23:00:08 IST 2026
+LT office integration log from Mon Apr 27 13:58:19 IST 2026
 
 LanguageTool 6.4 (2024-03-28 14:05:28 +0100, 0e9362b)
-OS: Linux 6.18.19-1-lts on amd64
-LibreOffice 26.2.1.2 (Arch Linux), en-US
+OS: Linux 6.18.21-1-lts on amd64
+LibreOffice 26.2.2.2 (Arch Linux), en-US
 Java-Version: 26.0.2, max. Heap-Space: 3906 MB, LT Heap Space Limit: 3515 MB
+
+java.lang.RuntimeException: Could not activate rules
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:319)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:278)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:338)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:244)
+	at org.languagetool.openoffice.LtSpellChecker.initSpellChecker(LtSpellChecker.java:271)
+	at org.languagetool.openoffice.LtSpellChecker.isValid(LtSpellChecker.java:221)
+Caused by: java.io.IOException: Cannot load or parse input stream of '/org/languagetool/rules/en/grammar.xml'
+	at org.languagetool.rules.patterns.PatternRuleLoader.getRules(PatternRuleLoader.java:79)
+	at org.languagetool.Language.getPatternRules(Language.java:705)
+	at org.languagetool.JLanguageTool.activateDefaultPatternRules(JLanguageTool.java:624)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:312)
+	... 5 more
+Caused by: org.xml.sax.SAXParseException; lineNumber: 66; columnNumber: 21; JAXP00010004: The accumulated size of entities is "100,006" that exceeded the "100,000" limit set by "jdk.xml.totalEntitySizeLimit".
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.checkLimit(XMLEntityScanner.java:1009)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.checkEntityLimit(XMLEntityScanner.java:968)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.scanName(XMLEntityScanner.java:753)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1335)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2736)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:635)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:551)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:890)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:826)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:137)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1225)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:629)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:328)
+	at java.xml/javax.xml.parsers.SAXParser.parse(SAXParser.java:197)
+	at org.languagetool.rules.patterns.PatternRuleLoader.getRules(PatternRuleLoader.java:76)
+	... 8 more
+
+LtSpellChecker: isValid: Problem with spelling rule: word: services
+LtSpellChecker: isValid: Problem with spelling rule: word: node-exporter
+LtSpellChecker: isValid: Problem with spelling rule: word: node
+LtSpellChecker: isValid: Problem with spelling rule: word: node
+LtSpellChecker: isValid: Problem with spelling rule: word: image
+LtSpellChecker: isValid: Problem with spelling rule: word: node
+LtSpellChecker: isValid: Problem with spelling rule: word: prom
+LtSpellChecker: isValid: Problem with spelling rule: word: node-exporter
+LtSpellChecker: isValid: Problem with spelling rule: word: node
+LtSpellChecker: isValid: Problem with spelling rule: word: node
+LtSpellChecker: isValid: Problem with spelling rule: word: latest
+LtSpellChecker: isValid: Problem with spelling rule: word: node
+LtSpellChecker: isValid: Problem with spelling rule: word: volumes
+LtSpellChecker: isValid: Problem with spelling rule: word: proc
+LtSpellChecker: isValid: Problem with spelling rule: word: host
+LtSpellChecker: isValid: Problem with spelling rule: word: proc
+LtSpellChecker: isValid: Problem with spelling rule: word: ro
+LtSpellChecker: isValid: Problem with spelling rule: word: sys
+LtSpellChecker: isValid: Problem with spelling rule: word: host
+LtSpellChecker: isValid: Problem with spelling rule: word: sys
+LtSpellChecker: isValid: Problem with spelling rule: word: ro
+LtSpellChecker: isValid: Problem with spelling rule: word: rootfs
+LtSpellChecker: isValid: Problem with spelling rule: word: ro
+LtSpellChecker: isValid: Problem with spelling rule: word: command
+LtSpellChecker: isValid: Problem with spelling rule: word: path.procfs
+LtSpellChecker: isValid: Problem with spelling rule: word: host
+LtSpellChecker: isValid: Problem with spelling rule: word: proc
+LtSpellChecker: isValid: Problem with spelling rule: word: path.sysfs
+LtSpellChecker: isValid: Problem with spelling rule: word: host
+LtSpellChecker: isValid: Problem with spelling rule: word: sys
+LtSpellChecker: isValid: Problem with spelling rule: word: collector.filesystem.mount-points-exclude
+LtSpellChecker: isValid: Problem with spelling rule: word: collector.filesystem.mount
+LtSpellChecker: isValid: Problem with spelling rule: word: collector.filesystem.mount
+LtSpellChecker: isValid: Problem with spelling rule: word: sys
+LtSpellChecker: isValid: Problem with spelling rule: word: collector.filesystem.mount
+LtSpellChecker: isValid: Problem with spelling rule: word: proc
+LtSpellChecker: isValid: Problem with spelling rule: word: dev
+LtSpellChecker: isValid: Problem with spelling rule: word: host
+LtSpellChecker: isValid: Problem with spelling rule: word: etc
+LtSpellChecker: isValid: Problem with spelling rule: word: ports
+LtSpellChecker: isValid: Problem with spelling rule: word: 9100
+LtSpellChecker: isValid: Problem with spelling rule: word: 9100
+LtSpellChecker: isValid: Problem with spelling rule: word: restart
+LtSpellChecker: isValid: Problem with spelling rule: word: unless-stopped
+LtSpellChecker: isValid: Problem with spelling rule: word: unless
+LtSpellChecker: isValid: Problem with spelling rule: word: unless-stopped
+LtSpellChecker: isValid: Problem with spelling rule: word: unless
+LtSpellChecker: isValid: Problem with spelling rule: word: cadvisor
+LtSpellChecker: isValid: Problem with spelling rule: word: image
+LtSpellChecker: isValid: Problem with spelling rule: word: gcr.io
+LtSpellChecker: isValid: Problem with spelling rule: word: cadvisor
+LtSpellChecker: isValid: Problem with spelling rule: word: cadvisor
+LtSpellChecker: isValid: Problem with spelling rule: word: latest
+LtSpellChecker: isValid: Problem with spelling rule: word: volumes
+LtSpellChecker: isValid: Problem with spelling rule: word: rootfs
+LtSpellChecker: isValid: Problem with spelling rule: word: ro
+LtSpellChecker: isValid: Problem with spelling rule: word: var
+LtSpellChecker: isValid: Problem with spelling rule: word: run
+LtSpellChecker: isValid: Problem with spelling rule: word: var
+LtSpellChecker: isValid: Problem with spelling rule: word: run
+LtSpellChecker: isValid: Problem with spelling rule: word: ro
+LtSpellChecker: isValid: Problem with spelling rule: word: sys
+LtSpellChecker: isValid: Problem with spelling rule: word: sys
+LtSpellChecker: isValid: Problem with spelling rule: word: ro
+LtSpellChecker: isValid: Problem with spelling rule: word: var
+LtSpellChecker: isValid: Problem with spelling rule: word: lib
+LtSpellChecker: isValid: Problem with spelling rule: word: docker
+LtSpellChecker: isValid: Problem with spelling rule: word: var
+LtSpellChecker: isValid: Problem with spelling rule: word: lib
+LtSpellChecker: isValid: Problem with spelling rule: word: docker
+LtSpellChecker: isValid: Problem with spelling rule: word: ro
+LtSpellChecker: isValid: Problem with spelling rule: word: ports
+LtSpellChecker: isValid: Problem with spelling rule: word: 8080
+LtSpellChecker: isValid: Problem with spelling rule: word: 8080
+LtSpellChecker: isValid: Problem with spelling rule: word: restart
+LtSpellChecker: isValid: Problem with spelling rule: word: unless-stopped
+LtSpellChecker: isValid: Problem with spelling rule: word: unless
+LtSpellChecker: isValid: Problem with spelling rule: word: unless-stopped
+LtSpellChecker: isValid: Problem with spelling rule: word: unless
+LtSpellChecker: isValid: Problem with spelling rule: word: promtail
+LtSpellChecker: isValid: Problem with spelling rule: word: image
+LtSpellChecker: isValid: Problem with spelling rule: word: grafana
+LtSpellChecker: isValid: Problem with spelling rule: word: promtail
+LtSpellChecker: isValid: Problem with spelling rule: word: 3.4.2
+LtSpellChecker: isValid: Problem with spelling rule: word: command
+LtSpellChecker: isValid: Problem with spelling rule: word: config.file
+LtSpellChecker: isValid: Problem with spelling rule: word: etc
+LtSpellChecker: isValid: Problem with spelling rule: word: promtail
+LtSpellChecker: isValid: Problem with spelling rule: word: promtail.yml
+LtSpellChecker: isValid: Problem with spelling rule: word: volumes
+LtSpellChecker: isValid: Problem with spelling rule: word: promtail.yml
+LtSpellChecker: isValid: Problem with spelling rule: word: etc
+LtSpellChecker: isValid: Problem with spelling rule: word: promtail
+LtSpellChecker: isValid: Problem with spelling rule: word: promtail.yml
+LtSpellChecker: isValid: Problem with spelling rule: word: ro
+LtSpellChecker: isValid: Problem with spelling rule: word: var
+LtSpellChecker: isValid: Problem with spelling rule: word: run
+LtSpellChecker: isValid: Problem with spelling rule: word: docker.sock
+LtSpellChecker: isValid: Problem with spelling rule: word: var
+LtSpellChecker: isValid: Problem with spelling rule: word: run
+LtSpellChecker: isValid: Problem with spelling rule: word: docker.sock
+LtSpellChecker: isValid: Problem with spelling rule: word: ro
+LtSpellChecker: isValid: Problem with spelling rule: word: var
+LtSpellChecker: isValid: Problem with spelling rule: word: lib
+LtSpellChecker: isValid: Problem with spelling rule: word: docker
+LtSpellChecker: isValid: Problem with spelling rule: word: containers
+LtSpellChecker: isValid: Problem with spelling rule: word: var
+LtSpellChecker: isValid: Problem with spelling rule: word: lib
+LtSpellChecker: isValid: Problem with spelling rule: word: docker
+LtSpellChecker: isValid: Problem with spelling rule: word: containers
+LtSpellChecker: isValid: Problem with spelling rule: word: ro
+LtSpellChecker: isValid: Problem with spelling rule: word: environment
+LtSpellChecker: isValid: Problem with spelling rule: word: LOKI_URL
+LtSpellChecker: isValid: Problem with spelling rule: word: LOKI_URL
+LtSpellChecker: isValid: Problem with spelling rule: word: restart
+LtSpellChecker: isValid: Problem with spelling rule: word: unless-stopped
+LtSpellChecker: isValid: Problem with spelling rule: word: unless
+LtSpellChecker: isValid: Problem with spelling rule: word: unless-stopped
+LtSpellChecker: isValid: Problem with spelling rule: word: unless
+LtSpellChecker: isValid: Problem with spelling rule: word: unless-stopped
+LtSpellChecker: isValid: Problem with spelling rule: word: unless
+LtSpellChecker: isValid: Problem with spelling rule: word: unless-stopped
+LtSpellChecker: isValid: Problem with spelling rule: word: unless
+LtSpellChecker: isValid: Problem with spelling rule: word: unless-stopped
+LtSpellChecker: isValid: Problem with spelling rule: word: unless
+MultiDocumentsHandler: getLinguisticServices: linguServices set: is NOT null
+java.lang.RuntimeException: Could not activate rules
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:319)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:278)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:338)
+	at org.languagetool.openoffice.SwJLanguageTool$JLanguageToolLo.<init>(SwJLanguageTool.java:394)
+	at org.languagetool.openoffice.SwJLanguageTool.<init>(SwJLanguageTool.java:90)
+	at org.languagetool.openoffice.MultiDocumentsHandler.initLanguageTool(MultiDocumentsHandler.java:1026)
+	at org.languagetool.openoffice.MultiDocumentsHandler.initLanguageTool(MultiDocumentsHandler.java:991)
+	at org.languagetool.openoffice.MultiDocumentsHandler.getCheckResults(MultiDocumentsHandler.java:255)
+	at org.languagetool.openoffice.MultiDocumentsHandler.doProofreading(MultiDocumentsHandler.java:212)
+	at org.languagetool.openoffice.Main.doProofreading(Main.java:80)
+Caused by: java.io.IOException: Cannot load or parse input stream of '/org/languagetool/rules/en/grammar.xml'
+	at org.languagetool.rules.patterns.PatternRuleLoader.getRules(PatternRuleLoader.java:79)
+	at org.languagetool.Language.getPatternRules(Language.java:705)
+	at org.languagetool.JLanguageTool.activateDefaultPatternRules(JLanguageTool.java:624)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:312)
+	... 9 more
+Caused by: org.xml.sax.SAXParseException; lineNumber: 66; columnNumber: 21; JAXP00010004: The accumulated size of entities is "100,006" that exceeded the "100,000" limit set by "jdk.xml.totalEntitySizeLimit".
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.checkLimit(XMLEntityScanner.java:1009)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.checkEntityLimit(XMLEntityScanner.java:968)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.scanName(XMLEntityScanner.java:753)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1335)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2736)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:635)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:551)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:890)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:826)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:137)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1225)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:629)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:328)
+	at java.xml/javax.xml.parsers.SAXParser.parse(SAXParser.java:197)
+	at org.languagetool.rules.patterns.PatternRuleLoader.getRules(PatternRuleLoader.java:76)
+	... 12 more
+
+java.lang.NullPointerException: Cannot invoke "org.languagetool.openoffice.SwJLanguageTool.getLanguage()" because "lt" is null
+	at org.languagetool.openoffice.MultiDocumentsHandler.initCheck(MultiDocumentsHandler.java:1111)
+	at org.languagetool.openoffice.MultiDocumentsHandler.getCheckResults(MultiDocumentsHandler.java:256)
+	at org.languagetool.openoffice.MultiDocumentsHandler.doProofreading(MultiDocumentsHandler.java:212)
+	at org.languagetool.openoffice.Main.doProofreading(Main.java:80)
+
+java.lang.RuntimeException: Could not activate rules
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:319)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:278)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:338)
+	at org.languagetool.openoffice.SwJLanguageTool$JLanguageToolLo.<init>(SwJLanguageTool.java:394)
+	at org.languagetool.openoffice.SwJLanguageTool.<init>(SwJLanguageTool.java:90)
+	at org.languagetool.openoffice.MultiDocumentsHandler.initLanguageTool(MultiDocumentsHandler.java:1026)
+	at org.languagetool.openoffice.MultiDocumentsHandler.initLanguageTool(MultiDocumentsHandler.java:991)
+	at org.languagetool.openoffice.MultiDocumentsHandler.getCheckResults(MultiDocumentsHandler.java:255)
+	at org.languagetool.openoffice.MultiDocumentsHandler.doProofreading(MultiDocumentsHandler.java:212)
+	at org.languagetool.openoffice.Main.doProofreading(Main.java:80)
+Caused by: java.io.IOException: Cannot load or parse input stream of '/org/languagetool/rules/en/grammar.xml'
+	at org.languagetool.rules.patterns.PatternRuleLoader.getRules(PatternRuleLoader.java:79)
+	at org.languagetool.Language.getPatternRules(Language.java:705)
+	at org.languagetool.JLanguageTool.activateDefaultPatternRules(JLanguageTool.java:624)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:312)
+	... 9 more
+Caused by: org.xml.sax.SAXParseException; lineNumber: 66; columnNumber: 21; JAXP00010004: The accumulated size of entities is "100,006" that exceeded the "100,000" limit set by "jdk.xml.totalEntitySizeLimit".
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.checkLimit(XMLEntityScanner.java:1009)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.checkEntityLimit(XMLEntityScanner.java:968)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.scanName(XMLEntityScanner.java:753)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1335)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2736)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:635)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:551)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:890)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:826)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:137)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1225)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:629)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:328)
+	at java.xml/javax.xml.parsers.SAXParser.parse(SAXParser.java:197)
+	at org.languagetool.rules.patterns.PatternRuleLoader.getRules(PatternRuleLoader.java:76)
+	... 12 more
+
+java.lang.NullPointerException: Cannot invoke "org.languagetool.openoffice.SwJLanguageTool.getLanguage()" because "lt" is null
+	at org.languagetool.openoffice.MultiDocumentsHandler.initCheck(MultiDocumentsHandler.java:1111)
+	at org.languagetool.openoffice.MultiDocumentsHandler.getCheckResults(MultiDocumentsHandler.java:256)
+	at org.languagetool.openoffice.MultiDocumentsHandler.doProofreading(MultiDocumentsHandler.java:212)
+	at org.languagetool.openoffice.Main.doProofreading(Main.java:80)
+
+java.lang.RuntimeException: Could not activate rules
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:319)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:278)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:338)
+	at org.languagetool.openoffice.SwJLanguageTool$JLanguageToolLo.<init>(SwJLanguageTool.java:394)
+	at org.languagetool.openoffice.SwJLanguageTool.<init>(SwJLanguageTool.java:90)
+	at org.languagetool.openoffice.MultiDocumentsHandler.initLanguageTool(MultiDocumentsHandler.java:1026)
+	at org.languagetool.openoffice.MultiDocumentsHandler.initLanguageTool(MultiDocumentsHandler.java:991)
+	at org.languagetool.openoffice.MultiDocumentsHandler.getCheckResults(MultiDocumentsHandler.java:255)
+	at org.languagetool.openoffice.MultiDocumentsHandler.doProofreading(MultiDocumentsHandler.java:212)
+	at org.languagetool.openoffice.Main.doProofreading(Main.java:80)
+Caused by: java.io.IOException: Cannot load or parse input stream of '/org/languagetool/rules/en/grammar.xml'
+	at org.languagetool.rules.patterns.PatternRuleLoader.getRules(PatternRuleLoader.java:79)
+	at org.languagetool.Language.getPatternRules(Language.java:705)
+	at org.languagetool.JLanguageTool.activateDefaultPatternRules(JLanguageTool.java:624)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:312)
+	... 9 more
+Caused by: org.xml.sax.SAXParseException; lineNumber: 66; columnNumber: 21; JAXP00010004: The accumulated size of entities is "100,006" that exceeded the "100,000" limit set by "jdk.xml.totalEntitySizeLimit".
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.checkLimit(XMLEntityScanner.java:1009)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.checkEntityLimit(XMLEntityScanner.java:968)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.scanName(XMLEntityScanner.java:753)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1335)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2736)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:635)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:551)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:890)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:826)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:137)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1225)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:629)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:328)
+	at java.xml/javax.xml.parsers.SAXParser.parse(SAXParser.java:197)
+	at org.languagetool.rules.patterns.PatternRuleLoader.getRules(PatternRuleLoader.java:76)
+	... 12 more
+
+java.lang.NullPointerException: Cannot invoke "org.languagetool.openoffice.SwJLanguageTool.getLanguage()" because "lt" is null
+	at org.languagetool.openoffice.MultiDocumentsHandler.initCheck(MultiDocumentsHandler.java:1111)
+	at org.languagetool.openoffice.MultiDocumentsHandler.getCheckResults(MultiDocumentsHandler.java:256)
+	at org.languagetool.openoffice.MultiDocumentsHandler.doProofreading(MultiDocumentsHandler.java:212)
+	at org.languagetool.openoffice.Main.doProofreading(Main.java:80)
+
+java.lang.RuntimeException: Could not activate rules
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:319)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:278)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:338)
+	at org.languagetool.openoffice.SwJLanguageTool$JLanguageToolLo.<init>(SwJLanguageTool.java:394)
+	at org.languagetool.openoffice.SwJLanguageTool.<init>(SwJLanguageTool.java:90)
+	at org.languagetool.openoffice.MultiDocumentsHandler.initLanguageTool(MultiDocumentsHandler.java:1026)
+	at org.languagetool.openoffice.MultiDocumentsHandler.initLanguageTool(MultiDocumentsHandler.java:991)
+	at org.languagetool.openoffice.MultiDocumentsHandler.getCheckResults(MultiDocumentsHandler.java:255)
+	at org.languagetool.openoffice.MultiDocumentsHandler.doProofreading(MultiDocumentsHandler.java:212)
+	at org.languagetool.openoffice.Main.doProofreading(Main.java:80)
+Caused by: java.io.IOException: Cannot load or parse input stream of '/org/languagetool/rules/en/grammar.xml'
+	at org.languagetool.rules.patterns.PatternRuleLoader.getRules(PatternRuleLoader.java:79)
+	at org.languagetool.Language.getPatternRules(Language.java:705)
+	at org.languagetool.JLanguageTool.activateDefaultPatternRules(JLanguageTool.java:624)
+	at org.languagetool.JLanguageTool.<init>(JLanguageTool.java:312)
+	... 9 more
+Caused by: org.xml.sax.SAXParseException; lineNumber: 66; columnNumber: 21; JAXP00010004: The accumulated size of entities is "100,006" that exceeded the "100,000" limit set by "jdk.xml.totalEntitySizeLimit".
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.checkLimit(XMLEntityScanner.java:1009)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.checkEntityLimit(XMLEntityScanner.java:968)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.scanName(XMLEntityScanner.java:753)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1335)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2736)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:635)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:551)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:890)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:826)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:137)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1225)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:629)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:328)
+	at java.xml/javax.xml.parsers.SAXParser.parse(SAXParser.java:197)
+	at org.languagetool.rules.patterns.PatternRuleLoader.getRules(PatternRuleLoader.java:76)
+	... 12 more
+
+java.lang.NullPointerException: Cannot invoke "org.languagetool.openoffice.SwJLanguageTool.getLanguage()" because "lt" is null
+	at org.languagetool.openoffice.MultiDocumentsHandler.initCheck(MultiDocumentsHandler.java:1111)
+	at org.languagetool.openoffice.MultiDocumentsHandler.getCheckResults(MultiDocumentsHandler.java:256)
+	at org.languagetool.openoffice.MultiDocumentsHandler.doProofreading(MultiDocumentsHandler.java:212)
+	at org.languagetool.openoffice.Main.doProofreading(Main.java:80)
 

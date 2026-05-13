@@ -1,1 +1,811 @@
-{}
+{
+	"__timestamp": {
+		"Fortnite": "Sat Apr 25 2026 01:44:03 GMT+0530 (India Standard Time)",
+		"602eb4abc8764c87b7f2607a1ef8c18e": "Sun May 03 2026 23:35:58 GMT+0530 (India Standard Time)",
+		"Sugar": "Mon May 04 2026 01:03:15 GMT+0530 (India Standard Time)"
+	},
+	"Fortnite": {
+		"game": {
+			"app_name": "Fortnite",
+			"title": "Fortnite",
+			"version": "++Fortnite+Release-40.20-CL-52900211-Windows",
+			"platform_versions": {
+				"Windows": "++Fortnite+Release-40.20-CL-52900211-Windows"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 10704939,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "FortniteReleaseBuilds",
+			"launch_exe": "FortniteGame/Binaries/Win64/FortniteLauncher.exe",
+			"launch_command": " -obfuscationid=p0CC_XCfLoXtsKNetUahWd_lOAp6Vg",
+			"build_version": "++Fortnite+Release-40.20-CL-52900211-Windows",
+			"build_id": "rcKM07ukkkWbWt79PwNb5Q",
+			"prerequisites": null,
+			"uninstaller": {
+				"path": "Engine/Binaries/Win64/UninstallHelper-Win64-Shipping.exe",
+				"args": "-GameName=FortniteGame -InstallDir=../../../ -InstallDirRelativeToExecutableDir=1 -UninstallActionsManifest=UninstallActionsManifest-Win64.txt"
+			},
+			"install_tags": [
+				"",
+				"CosmeticPreInstall",
+				"CosmeticPreInstallOptional",
+				"DefaultGameplayChunk",
+				"DefaultGameplayChunkOptional",
+				"Encrypted",
+				"EncryptedOptional",
+				"FNOne",
+				"FNOneOptional",
+				"FortniteBR",
+				"FortniteBROnDemand",
+				"FortniteBROnDemandOptional",
+				"FortniteBROptional",
+				"FortniteCatchAll",
+				"FortniteCatchAllOptional",
+				"FrontEnd",
+				"FrontEndOptional",
+				"GFP_BRCosmetics",
+				"GFP_BRCosmeticsInstallOnDemand",
+				"GFP_BRCosmeticsInstallOnDemandFat",
+				"GFP_BRCosmeticsOptional",
+				"GFP_BRRoot",
+				"GFP_BRRootOptional",
+				"GFP_BaseInstallRoot",
+				"GFP_BaseInstallRootOptional",
+				"GFP_BlitzRoot",
+				"GFP_BlitzRootOptional",
+				"GFP_CreativeRoot",
+				"GFP_CreativeRootOptional",
+				"GFP_DelMarRoot",
+				"GFP_DelMarRootOptional",
+				"GFP_JunoRoot",
+				"GFP_JunoRootOptional",
+				"GFP_SaveTheWorldRoot",
+				"GFP_SaveTheWorldRootOptional",
+				"GFP_Sparks",
+				"GFP_SparksOptional",
+				"GFP_StrideMiceRoot",
+				"GFP_StrideMiceRootOptional",
+				"Globals",
+				"Langde",
+				"LangdeOptional",
+				"Langes419",
+				"Langes419Optional",
+				"LangesES",
+				"LangesESOptional",
+				"Langfr",
+				"LangfrOptional",
+				"Langit",
+				"LangitOptional",
+				"Langpl",
+				"LangplOptional",
+				"Langru",
+				"LangruOptional",
+				"LangzhCN",
+				"LangzhCNOptional",
+				"Startup",
+				"StartupOptional",
+				"UnusedOldEarlyStartupPatcherChunk"
+			],
+			"num_files": 739,
+			"num_chunks": 154085,
+			"disk_size": 162641914878,
+			"download_size": 150752300011,
+			"tag_disk_size": [
+				{
+					"tag": "",
+					"size": 5857718904,
+					"count": 6
+				},
+				{
+					"tag": "CosmeticPreInstall",
+					"size": 3787940286,
+					"count": 5
+				},
+				{
+					"tag": "CosmeticPreInstallOptional",
+					"size": 3618104173,
+					"count": 5
+				},
+				{
+					"tag": "DefaultGameplayChunk",
+					"size": 489525662,
+					"count": 5
+				},
+				{
+					"tag": "DefaultGameplayChunkOptional",
+					"size": 362823893,
+					"count": 5
+				},
+				{
+					"tag": "Encrypted",
+					"size": 134602033,
+					"count": 61
+				},
+				{
+					"tag": "EncryptedOptional",
+					"size": 114174068,
+					"count": 41
+				},
+				{
+					"tag": "FNOne",
+					"size": 919270003,
+					"count": 5
+				},
+				{
+					"tag": "FNOneOptional",
+					"size": 421740180,
+					"count": 5
+				},
+				{
+					"tag": "FortniteBR",
+					"size": 4837778336,
+					"count": 6
+				},
+				{
+					"tag": "FortniteBROnDemand",
+					"size": 19235836227,
+					"count": 21
+				},
+				{
+					"tag": "FortniteBROnDemandOptional",
+					"size": 37189053036,
+					"count": 21
+				},
+				{
+					"tag": "FortniteBROptional",
+					"size": 3370400237,
+					"count": 5
+				},
+				{
+					"tag": "FortniteCatchAll",
+					"size": 1348005467,
+					"count": 266
+				},
+				{
+					"tag": "FortniteCatchAllOptional",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "FrontEnd",
+					"size": 402216325,
+					"count": 5
+				},
+				{
+					"tag": "FrontEndOptional",
+					"size": 263100636,
+					"count": 5
+				},
+				{
+					"tag": "GFP_BRCosmetics",
+					"size": 9176571599,
+					"count": 7
+				},
+				{
+					"tag": "GFP_BRCosmeticsInstallOnDemand",
+					"size": 3676948,
+					"count": 4
+				},
+				{
+					"tag": "GFP_BRCosmeticsInstallOnDemandFat",
+					"size": 5857718954,
+					"count": 7
+				},
+				{
+					"tag": "GFP_BRCosmeticsOptional",
+					"size": 4772440451,
+					"count": 6
+				},
+				{
+					"tag": "GFP_BRRoot",
+					"size": 955407893,
+					"count": 5
+				},
+				{
+					"tag": "GFP_BRRootOptional",
+					"size": 593591988,
+					"count": 5
+				},
+				{
+					"tag": "GFP_BaseInstallRoot",
+					"size": 7069526480,
+					"count": 6
+				},
+				{
+					"tag": "GFP_BaseInstallRootOptional",
+					"size": 529871216,
+					"count": 5
+				},
+				{
+					"tag": "GFP_BlitzRoot",
+					"size": 12380936848,
+					"count": 7
+				},
+				{
+					"tag": "GFP_BlitzRootOptional",
+					"size": 15094832402,
+					"count": 8
+				},
+				{
+					"tag": "GFP_CreativeRoot",
+					"size": 5162533998,
+					"count": 6
+				},
+				{
+					"tag": "GFP_CreativeRootOptional",
+					"size": 2138789232,
+					"count": 5
+				},
+				{
+					"tag": "GFP_DelMarRoot",
+					"size": 895635,
+					"count": 5
+				},
+				{
+					"tag": "GFP_DelMarRootOptional",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "GFP_JunoRoot",
+					"size": 10558547591,
+					"count": 7
+				},
+				{
+					"tag": "GFP_JunoRootOptional",
+					"size": 932314298,
+					"count": 5
+				},
+				{
+					"tag": "GFP_SaveTheWorldRoot",
+					"size": 4829286873,
+					"count": 101
+				},
+				{
+					"tag": "GFP_SaveTheWorldRootOptional",
+					"size": 1940688666,
+					"count": 5
+				},
+				{
+					"tag": "GFP_Sparks",
+					"size": 391219845,
+					"count": 5
+				},
+				{
+					"tag": "GFP_SparksOptional",
+					"size": 287090745,
+					"count": 5
+				},
+				{
+					"tag": "GFP_StrideMiceRoot",
+					"size": 3432,
+					"count": 5
+				},
+				{
+					"tag": "GFP_StrideMiceRootOptional",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "Globals",
+					"size": 50853261,
+					"count": 3
+				},
+				{
+					"tag": "Langde",
+					"size": 4014738,
+					"count": 5
+				},
+				{
+					"tag": "LangdeOptional",
+					"size": 3485150,
+					"count": 5
+				},
+				{
+					"tag": "Langes419",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "Langes419Optional",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "LangesES",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "LangesESOptional",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "Langfr",
+					"size": 3607853,
+					"count": 5
+				},
+				{
+					"tag": "LangfrOptional",
+					"size": 789382,
+					"count": 5
+				},
+				{
+					"tag": "Langit",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "LangitOptional",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "Langpl",
+					"size": 3802379,
+					"count": 5
+				},
+				{
+					"tag": "LangplOptional",
+					"size": 675770,
+					"count": 5
+				},
+				{
+					"tag": "Langru",
+					"size": 3392559,
+					"count": 5
+				},
+				{
+					"tag": "LangruOptional",
+					"size": 828666,
+					"count": 5
+				},
+				{
+					"tag": "LangzhCN",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "LangzhCNOptional",
+					"size": 50,
+					"count": 1
+				},
+				{
+					"tag": "Startup",
+					"size": 2541732169,
+					"count": 5
+				},
+				{
+					"tag": "StartupOptional",
+					"size": 533584121,
+					"count": 5
+				},
+				{
+					"tag": "UnusedOldEarlyStartupPatcherChunk",
+					"size": 324632624,
+					"count": 5
+				}
+			],
+			"tag_download_size": [
+				{
+					"tag": "",
+					"size": 5271801519,
+					"count": 5583
+				},
+				{
+					"tag": "CosmeticPreInstall",
+					"size": 3355970968,
+					"count": 3615
+				},
+				{
+					"tag": "CosmeticPreInstallOptional",
+					"size": 3426400382,
+					"count": 3452
+				},
+				{
+					"tag": "DefaultGameplayChunk",
+					"size": 452226602,
+					"count": 470
+				},
+				{
+					"tag": "DefaultGameplayChunkOptional",
+					"size": 349578614,
+					"count": 347
+				},
+				{
+					"tag": "Encrypted",
+					"size": 135353628,
+					"count": 132
+				},
+				{
+					"tag": "EncryptedOptional",
+					"size": 115544171,
+					"count": 111
+				},
+				{
+					"tag": "FNOne",
+					"size": 860953811,
+					"count": 878
+				},
+				{
+					"tag": "FNOneOptional",
+					"size": 404244096,
+					"count": 405
+				},
+				{
+					"tag": "FortniteBR",
+					"size": 4451988992,
+					"count": 4616
+				},
+				{
+					"tag": "FortniteBROnDemand",
+					"size": 18518042192,
+					"count": 18349
+				},
+				{
+					"tag": "FortniteBROnDemandOptional",
+					"size": 35442864725,
+					"count": 35332
+				},
+				{
+					"tag": "FortniteBROptional",
+					"size": 3202738406,
+					"count": 3213
+				},
+				{
+					"tag": "FortniteCatchAll",
+					"size": 886936813,
+					"count": 1280
+				},
+				{
+					"tag": "FortniteCatchAllOptional",
+					"size": 968329,
+					"count": 1
+				},
+				{
+					"tag": "FrontEnd",
+					"size": 365330218,
+					"count": 390
+				},
+				{
+					"tag": "FrontEndOptional",
+					"size": 256357172,
+					"count": 255
+				},
+				{
+					"tag": "GFP_BRCosmetics",
+					"size": 8372848614,
+					"count": 8755
+				},
+				{
+					"tag": "GFP_BRCosmeticsInstallOnDemand",
+					"size": 2754707,
+					"count": 4
+				},
+				{
+					"tag": "GFP_BRCosmeticsInstallOnDemandFat",
+					"size": 5272471603,
+					"count": 5584
+				},
+				{
+					"tag": "GFP_BRCosmeticsOptional",
+					"size": 4422500313,
+					"count": 4533
+				},
+				{
+					"tag": "GFP_BRRoot",
+					"size": 889933506,
+					"count": 913
+				},
+				{
+					"tag": "GFP_BRRootOptional",
+					"size": 540617568,
+					"count": 537
+				},
+				{
+					"tag": "GFP_BaseInstallRoot",
+					"size": 6254667988,
+					"count": 6745
+				},
+				{
+					"tag": "GFP_BaseInstallRootOptional",
+					"size": 506386588,
+					"count": 508
+				},
+				{
+					"tag": "GFP_BlitzRoot",
+					"size": 11520430793,
+					"count": 11750
+				},
+				{
+					"tag": "GFP_BlitzRootOptional",
+					"size": 14519810077,
+					"count": 14369
+				},
+				{
+					"tag": "GFP_CreativeRoot",
+					"size": 4420716621,
+					"count": 4928
+				},
+				{
+					"tag": "GFP_CreativeRootOptional",
+					"size": 2048870282,
+					"count": 2041
+				},
+				{
+					"tag": "GFP_DelMarRoot",
+					"size": 1252652,
+					"count": 2
+				},
+				{
+					"tag": "GFP_DelMarRootOptional",
+					"size": 517395,
+					"count": 1
+				},
+				{
+					"tag": "GFP_JunoRoot",
+					"size": 9701282843,
+					"count": 10064
+				},
+				{
+					"tag": "GFP_JunoRootOptional",
+					"size": 884958152,
+					"count": 879
+				},
+				{
+					"tag": "GFP_SaveTheWorldRoot",
+					"size": 4257947980,
+					"count": 4598
+				},
+				{
+					"tag": "GFP_SaveTheWorldRootOptional",
+					"size": 1860194847,
+					"count": 1853
+				},
+				{
+					"tag": "GFP_Sparks",
+					"size": 361084411,
+					"count": 375
+				},
+				{
+					"tag": "GFP_SparksOptional",
+					"size": 277817376,
+					"count": 278
+				},
+				{
+					"tag": "GFP_StrideMiceRoot",
+					"size": 893565,
+					"count": 1
+				},
+				{
+					"tag": "GFP_StrideMiceRootOptional",
+					"size": 893565,
+					"count": 1
+				},
+				{
+					"tag": "Globals",
+					"size": 36670256,
+					"count": 50
+				},
+				{
+					"tag": "Langde",
+					"size": 4982824,
+					"count": 5
+				},
+				{
+					"tag": "LangdeOptional",
+					"size": 5887442,
+					"count": 6
+				},
+				{
+					"tag": "Langes419",
+					"size": 938510,
+					"count": 1
+				},
+				{
+					"tag": "Langes419Optional",
+					"size": 938510,
+					"count": 1
+				},
+				{
+					"tag": "LangesES",
+					"size": 938510,
+					"count": 1
+				},
+				{
+					"tag": "LangesESOptional",
+					"size": 938510,
+					"count": 1
+				},
+				{
+					"tag": "Langfr",
+					"size": 5017600,
+					"count": 5
+				},
+				{
+					"tag": "LangfrOptional",
+					"size": 1944669,
+					"count": 2
+				},
+				{
+					"tag": "Langit",
+					"size": 938271,
+					"count": 1
+				},
+				{
+					"tag": "LangitOptional",
+					"size": 938271,
+					"count": 1
+				},
+				{
+					"tag": "Langpl",
+					"size": 4949009,
+					"count": 5
+				},
+				{
+					"tag": "LangplOptional",
+					"size": 986251,
+					"count": 1
+				},
+				{
+					"tag": "Langru",
+					"size": 6044116,
+					"count": 6
+				},
+				{
+					"tag": "LangruOptional",
+					"size": 1004465,
+					"count": 1
+				},
+				{
+					"tag": "LangzhCN",
+					"size": 1004465,
+					"count": 1
+				},
+				{
+					"tag": "LangzhCNOptional",
+					"size": 1004465,
+					"count": 1
+				},
+				{
+					"tag": "Startup",
+					"size": 2278282917,
+					"count": 2349
+				},
+				{
+					"tag": "StartupOptional",
+					"size": 511193863,
+					"count": 508
+				},
+				{
+					"tag": "UnusedOldEarlyStartupPatcherChunk",
+					"size": 270397250,
+					"count": 314
+				}
+			],
+			"use_signed_urls": false
+		}
+	},
+	"602eb4abc8764c87b7f2607a1ef8c18e": {
+		"game": {
+			"app_name": "602eb4abc8764c87b7f2607a1ef8c18e",
+			"title": "VALORANT",
+			"version": "2609-591",
+			"platform_versions": {
+				"Windows": "2609-591"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 4171,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "0578b99425c844c1874a2b99bfadd74e",
+			"launch_exe": "Live.exe",
+			"launch_command": "--launch-product=valorant --launch-patchline=live --thirdparty",
+			"build_version": "2609-591",
+			"build_id": "UcMIaU9NR9SxqgkJvbl12g",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 1,
+			"num_chunks": 71,
+			"disk_size": 73632944,
+			"download_size": 67286120,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"use_signed_urls": false
+		}
+	},
+	"Sugar": {
+		"game": {
+			"app_name": "Sugar",
+			"title": "Rocket League®",
+			"version": "++Prime+Update58.1-CL-515605",
+			"platform_versions": {
+				"Windows": "++Prime+Update58.1-CL-515605"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [
+				{
+					"name": "Launch without Anti-Cheat",
+					"parameters": "-noeac"
+				}
+			],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "BC2_Update57+504897",
+			"disk_size": 40035838803,
+			"install_path": "/home/deepanshu/Games/Heroic/rocketleague",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 4187331,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "SugarStaging",
+			"launch_exe": "Binaries/Win64/Launcher.exe",
+			"launch_command": "",
+			"build_version": "++Prime+Update58.1-CL-515605",
+			"build_id": "4XSeKIn4Qk6Ky2ugbTAWIw",
+			"prerequisites": {
+				"ids": [
+					"EAC_Service"
+				],
+				"name": "",
+				"path": "Binaries/Win64/EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe",
+				"args": "install e6bcca5b37d0457ca881aec508205542"
+			},
+			"uninstaller": {
+				"path": "Binaries/Win64/EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe",
+				"args": "uninstall e6bcca5b37d0457ca881aec508205542"
+			},
+			"install_tags": [
+				""
+			],
+			"num_files": 19909,
+			"num_chunks": 36983,
+			"disk_size": 41227791062,
+			"download_size": 38049337461,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"use_signed_urls": false
+		}
+	}
+}

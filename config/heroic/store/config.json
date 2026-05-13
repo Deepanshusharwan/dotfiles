@@ -62,19 +62,27 @@
 	"window-props": {
 		"x": 0,
 		"y": 0,
-		"width": 1722,
-		"height": 936,
+		"width": 854,
+		"height": 966,
 		"maximized": true
 	},
 	"games": {
 		"recent": [
 			{
-				"appName": "raDncBWBneWm7EH8bfAS9W",
-				"title": "Hollow knight"
+				"appName": "Sugar",
+				"title": "Rocket League®"
+			},
+			{
+				"appName": "2ku1S1aDfG9g8W2Jnornb9",
+				"title": "need for speed most wanted"
 			},
 			{
 				"appName": "iF34kg1P1ePHfAEE5weSmp",
 				"title": "silksong"
+			},
+			{
+				"appName": "raDncBWBneWm7EH8bfAS9W",
+				"title": "Hollow knight"
 			},
 			{
 				"appName": "Fortnite",

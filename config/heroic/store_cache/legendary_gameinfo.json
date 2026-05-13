@@ -1,1 +1,179 @@
-{}
+{
+	"__timestamp": {
+		"fn": "Sat Apr 25 2026 01:43:50 GMT+0530 (India Standard Time)",
+		"carnation": "Thu Apr 30 2026 23:17:13 GMT+0530 (India Standard Time)",
+		"9773aa1aa54f4f7b80e44bef04986cea": "Mon May 04 2026 01:02:18 GMT+0530 (India Standard Time)"
+	},
+	"fn": {
+		"about": {
+			"image": {
+				"altText": "Fortnite",
+				"src": "https://cdn2.unrealengine.com/fnbr-40-00-c7s2-egs-launcher-fn-blade-1200x1600-1200x1600-789efa81878c.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Epic Games",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Epic Games",
+			"description": "![Mobile](https://cdn2.unrealengine.com/en-pdp-banner-fortnite-3840x632-3840x632-6547300bc5de.png)\n\n\nEverything you love, all in Fortnite. \n\nDrop into the action you love or discover something new with your squad. Be the last player standing in Battle Royale. Get nostalgic in Fortnite OG. Go tactical in Reload. Headline Fortnite Festival. Explore the worlds of LEGO Fortnite. There is always something new for you and your friends.\n\nPlay thousands of games made by developers like deathruns, tycoons, racing, zombie survival and more! Or, build your own games with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools for everyone to play.  Each game has an individual age rating so you can find what’s right for you.\n\n# Fortnite: Showdown\n\n![KeyArt Image](https://cdn2.unrealengine.com/fnbr-40-00-c7s2--egs-launcher-fn-quicklaunch-2560x1440-2560x1440-9f096d3458d6.jpg)\n\nThis Battle Royale Season, choose your side, take down your Rivals, and settle the score in Fortnite: Showdown.\n\nThe first time you log in, you'll be presented with a choice. Your decision to stand with Team Foundation or Team Ice King determines gameplay throughout the season including how the Island evolves, what new weapons you unlock, and more. At the end of the Season, the winning team unlocks either the Frost-Ready Foundation or the Exalted Frost Ice King Outfit Style for all Battle Pass owners. Choose your team wisely as you won't be able to swap sides after you choose.\n\n# Everything you love, all in Fortnite!\n\nSprint, climb, and smash your way to a Victory Royale whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.\n\n![FNBR keyart with logo](https://cdn2.unrealengine.com/fnbr-40-00-c7s2--egs-launcher-br-quicklaunch-2560x1440-2560x1440-56c9d7301fb2.jpg)\n\n# Take the offensive in Fortnite Zero Build No Build Battle Royale\n\nIntroducing a new, tactical take on Fortnite Battle Royale with the launch of Fortnite Zero Build. Show off your sharp shooting, sharp thinking, and sharp sense of space as you take on the Battle full-tilt in Fortnite Zero Build. \n\nWithout building, all players have the recharging Overshield as their first line of defense in Zero Build. Slide downhill to avoid enemy fire or use mantling to get the high ground on opponents. Don’t forget to sprint between cover on your way to a Victory Royale!\n\n![FNBR screenshot](https://cdn2.unrealengine.com/1-3840x2160-21bc21952354.jpg)\n\n# Zero Build is a pure test of weapon, item, and traversal skill - no building required.\n\nZero Build is a pure test of weapon, item, and traversal ability. Zero Build can be found in the Discover page as Solo, Duos, Trios, and Squads playlists. (Access the Discover page by clicking on the “CHANGE” button above “PLAY!” in the Lobby.)\n\nFortnite Zero Build shares XP progression and Quests with Fortnite Battle Royale, meaning you can earn XP towards your Battle Pass in either Fortnite Zero Build or Fortnite Battle Royale. Take on a new challenge and level up along the way!\n\n\n![FNCrew Image](https://cdn2.unrealengine.com/en-fneco-crewupdate-egs-pdp-carousel-2560x1440-2560x1440-221e010a39ef.jpg)\n\n# Fortnite Crew\n\nThe Ultimate Fortnite Offer\n\nThe best way to maximize your Fortnite experience. Joining Fortnite Crew gets members everything below for only $11.99 each month.\n\n• Any Pass, Any Time! Subscribe to Fortnite Crew to claim premium rewards from each Pass (Battle Pass, Music Pass, LEGO® Pass, and the Fortnite OG Pass on Dec 6)\n\n• 1,000 V-Bucks Each Month - Fortnite Crew members will receive 1,000 V-Bucks every month. Spend it on your favorite Item Shop content!\n\n• Get A Monthly Crew Pack! - Get an exclusive Fortnite Crew Pack, an always-new Outfit Bundle that only Fortnite Crew members can get.\n\nRecurring fee charged monthly until cancelled. Cancel anytime.\n\nIf you’d like to learn more about Fortnite Crew, you can find all details and FAQs at <https://www.epicgames.com/fortnite/fortnite-crew-subscription>",
+			"shortDescription": "Drop into the action you love or discover something new with your squad. Be the last player standing in Battle Royale. Get nostalgic in Fortnite OG. Go tactical in Reload. Headline Fortnite Festival. Explore the worlds of LEGO Fortnite. There is always something new for you and your friends.",
+			"title": "",
+			"developerLogo": {
+				"src": "https://cdn2.unrealengine.com/Diesel%2Flogo%2FLogo_EpicGames_Black-1360x1360-f15ee5845c95eacd424199bdf326047631b4bc69.png",
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10 64-bit version 1703",
+				"recommended": "Windows 10/11 64-bit"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "CPU",
+				"minimum": "Core i3-3225 3.3 GHz",
+				"recommended": "Core i5-7300U 3.5 GHz, AMD Ryzen 3 3300U, or equivalent"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "8 GB RAM",
+				"recommended": "16 GB RAM or higher"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "GPU",
+				"minimum": "Intel HD 4000 on PC; AMD Radeon Vega 8",
+				"recommended": "Nvidia GTX 960, AMD R9 280, or equivalent DX11 GPU"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "VRAM ",
+				"minimum": "",
+				"recommended": "8 GB VRAM or higher"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Additional",
+				"recommended": "NVMe Solid State Drive"
+			}
+		],
+		"releaseDate": "2017-07-25T04:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/fortnite"
+	},
+	"carnation": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egst-storeportrait-1200x1600-1200x1600-8c968dc8ce1c.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Ubisoft",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Ubisoft",
+			"description": "Tom Clancy's Rainbow Six Siege is the undisputed reference in tactical team shooters, where elite strategy and execution triumph.\n\nEnjoy free access to Quick Match, Unranked, and Dual Front game modes with a selection of operators.\nCertain features like Ranked playlists, Siege Cup, additional operators, and cosmetics require payment to unlock.\n\n# HIGH STAKES 5v5 ATTACK VS. DEFENSE\n\nAlternate between attack and defense, adapting your approach to each operator and map. Feel the thrill and intensity of the action as you leverage next-level destruction and gadgetry to outsmart and outplay your opponents in every round.\n\nOn defense, transform your surroundings into fortified strongholds. Reinforce walls, set up barricades, and deploy traps to control enemy movement. Use surveillance tools to gather intel and anticipate their approach. Hold your ground, adapt to their tactics, and outplay the attackers at every turn.\n\nOn attack, gather intel on enemy positions and the bomb site using your observation drones. Coordinate with your team to breach reinforced defenses, bypass traps, and create unexpected openings. Take your enemies by surprise with vertical plays – striking from above, below, or making a daring entry through windows by rappel. Plan your assault, execute, and defuse every situation.\n\n# TOOLS OF DESTRUCTION\n\nDestruction is more than chaos: it is a key tool for your success. Use the environment to your advantage –  turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage.\n\n# DUAL FRONT: DYNAMIC TACTICAL 6v6 WARFARE\n\nEngage in intense 6v6 battles on the largest map in Siege, where teams push to capture enemy sectors while defending their own. Fight your way to the enemy base and claim victory.\n\nSelect an operator among a curated list of attackers and defenders, fighting side by side and unlocking new tactical possibilities. When respawning, adapt your operator selection and strategy to shift the momentum of battle, or venture into the Neutral Sector to take on high-risk, high-reward assignments and earn bonuses that can turn the tide in an instant.\n\nDual Front delivers a bold new way to experience the tactical depth and intensity of Rainbow Six Siege.\n\n# FROM RECRUIT TO ELITE\n\nA solid onboarding journey for new players including a new clearance level path, helping you learn the basics progressively and build the skills and confidence you need before jumping into tactical action.\n\n# CONSTANTLY EVOLVING\n\nEvery season brings major updates, with new content and features for renewed tactics and gameplay.\n\n# HIGHLY COMPETITIVE\n\nJoin a massive online community of over 80 million players. Watch top-tier pro teams battle for supremacy in the prestigious Rainbow Six Siege Esport Competition.\n\nAccess to the game is free; certain features, including competitive game modes, operators, and cosmetics require payment to unlock.",
+			"shortDescription": "Rainbow Six® Siege is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked, and Dual Front game modes with a selection of operators.",
+			"title": "Tom Clancy's Rainbow Six® Siege - Free Access",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10",
+				"recommended": "Windows 11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "AMD Ryzen3 3100 | Intel i3-8100",
+				"recommended": "AMD Ryzen5 3600 | Intel i5-10400"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "8 GB RAM",
+				"recommended": "16 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA GTX 1650 4GB | AMD RX 5500XT 4GB | INTEL ARC A380 6GB ",
+				"recommended": "NVIDIA RTX 2060 6GB | AMD RX 6600 8GB | INTEL ARC A750 8GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "65 GB SSD",
+				"recommended": "65 GB SSD"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "DirectX",
+				"minimum": "DirectX 12",
+				"recommended": "DirectX 12"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/rainbow-six-siege-x"
+	},
+	"9773aa1aa54f4f7b80e44bef04986cea": {
+		"about": {
+			"image": {
+				"altText": "Rocket League | Download & Play Rocket League for Free on PC – Epic Games Store",
+				"src": "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-s2-1200x1600-a0806520e0e0.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Psyonix LLC",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Psyonix LLC",
+			"description": "PLAY ROCKET LEAGUE FOR FREE!\n\nDownload and compete in the high-octane hybrid of arcade-style soccer and vehicular mayhem! customize your car, hit the field, and compete in one of the most critically acclaimed sports games of all time! Download and take your shot!\n\nHit the field by yourself or with friends in 1v1, 2v2, and 3v3 Online Modes, or enjoy Extra Modes like Rumble, Snow Day, or Hoops. Unlock items in Rocket Pass, climb the Competitive Ranks, compete in Competitive Tournaments, complete Challenges, enjoy cross-platform progression and more! The field is waiting. Take your shot! \n\n# New Challenges\nComplete Weekly and season-long Challenges to unlock customization items for free!\n\n![rl_s1_section_challenges.jpg](https://cdn2.unrealengine.com/rl-s1-section-challenges-3840x2160-073994219.jpg)\n\n# Tournaments\nFeel the competitive energy! Join free Tournaments and compete all season against teams at your Rank! Win and earn new rewards! \n\n![rl_s22 tournament 1](https://cdn2.unrealengine.com/en-rl-s22-tournament-award-assets-dominus-1920x1080-1920x1080-51858f155161.jpg)\n![rl_s22 tournament 2](https://cdn2.unrealengine.com/en-rl-s22-tournament-award-assets-gizmo-1920x1080-1920x1080-8c1c662a5061.jpg)\n\n# In-Game Events and Limited Time Modes\nFrom Haunted Hallows to Frosty Fest, enjoy limited time events that feature festive in-game items that can be unlocked by playing online! Keep on the lookout for Limited Time Modes and arenas.\n\n![rl_home_f2p-launch_event.jpg](https://cdn2.unrealengine.com/rl-home-f2p-launch-event-3840x2160-073793665.jpg)\n\n# Cross-Platform Progression\nShare your Rocket League Inventory, Competitive Rank, and Rocket Pass Tier on any connected platform!\n\n![rl_home_f2p-launch_cross.jpg](https://cdn2.unrealengine.com/rl-home-f2p-launch-cross-3840x2160-073994250.jpg)\n\n# Item Shop & Blueprints\nMake your car your own with nearly endless customization possibilities! Get in-game items for completing challenges, browse the Item Shop, or build Blueprints for premium content for your car. \n\n![rl_s6_section_keyart](https://cdn2.unrealengine.com/rl-playerschoice-bundle-3840x2160-723248b32611.jpg)",
+			"shortDescription": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+			"title": "Rocket League®",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 7 (64 bit) or Newer (64 bit) Windows OS",
+				"recommended": "Windows 7 (64 bit) or Newer (64 bit) Windows OS"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "2.5 GHz Dual core",
+				"recommended": "3.0+ GHz Quad core"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4GB",
+				"recommended": "8GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "20GB",
+				"recommended": "20GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "DirectX 11",
+				"recommended": "DirectX 11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA GeForce 760, AMD Radeon R7 270X, or better",
+				"recommended": "NVIDIA GeForce GTX 1060, AMD Radeon RX 470, or better"
+			}
+		],
+		"releaseDate": "2020-09-23T22:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/rocket-league"
+	}
+}

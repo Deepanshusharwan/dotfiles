@@ -1,1 +1,105 @@
-{}
+{
+	"Fortnite": {
+		"pcgamingwiki": {
+			"steamID": "",
+			"howLongToBeatID": "3657",
+			"metacritic": {
+				"score": "81",
+				"urlid": "fortnite"
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "83",
+				"urlid": "fortnite"
+			},
+			"direct3DVersions": [
+				"11",
+				"12"
+			],
+			"genres": [
+				"Battleroyale",
+				"TPS",
+				"FPS"
+			],
+			"releaseDate": [
+				"Windows: June 30, 2020|ref=<ref name=\"ea-over\">{{Refurl|url=https://www.epicgames.com/fortnite/en-US/news/fortnite-save-the-world-update-state-of-development|title=Epic Games - Fortnite Save the World Update - State of Development|date=2020-06-30",
+				"OS X: June 30, 2020|ref=<ref name=\"ea-over\"/>"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": null
+	},
+	"__timestamp": {
+		"Fortnite": "Fri Apr 17 2026 08:46:09 GMT+0530 (India Standard Time)",
+		"need for speed most wanted": "Fri Apr 17 2026 08:48:59 GMT+0530 (India Standard Time)",
+		"Tom Clancy’s Rainbow Six Siege": "Thu Apr 30 2026 23:17:13 GMT+0530 (India Standard Time)",
+		"Rocket League": "Mon May 04 2026 01:02:09 GMT+0530 (India Standard Time)"
+	},
+	"need for speed most wanted": {
+		"pcgamingwiki": {
+			"steamID": "",
+			"howLongToBeatID": "6477",
+			"metacritic": {
+				"score": "82",
+				"urlid": "need-for-speed-most-wanted"
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "85",
+				"urlid": "need-for-speed-most-wanted"
+			},
+			"direct3DVersions": [
+				"9.0c"
+			],
+			"genres": [
+				"Racing"
+			],
+			"releaseDate": [
+				"Windows: November 15, 2005"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": null
+	},
+	"Tom Clancy’s Rainbow Six Siege": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "359550"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "borked",
+			"steamDeckCatagory": 1
+		},
+		"umuId": null
+	},
+	"Rocket League": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "252950"
+		},
+		"steamInfo": {
+			"steamDeckCatagory": 3
+		},
+		"umuId": "umu-252950"
+	}
+}

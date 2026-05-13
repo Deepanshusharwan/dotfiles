@@ -3882,16 +3882,11 @@
 		{
 			"params": {
 				"appName": "Sugar",
-				"path": "/home/deepanshu/Games/Heroic",
-				"installDlcs": [],
-				"sdlList": [],
-				"installLanguage": "",
 				"runner": "legendary",
-				"platformToInstall": "Windows",
 				"gameInfo": {
 					"app_name": "Sugar",
-					"art_cover": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S1_2560x1440-4351e798e5eba2fb0423b9afc45bbeb4",
-					"art_square": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-a43171770ec373f811254cd7543064a2",
+					"art_cover": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S1_2560x1440-5d984686cb0d43d3b56b31ccb512c6d4",
+					"art_square": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-d8ae0eb88ba843ee9a7e17257aa3c6ba",
 					"cloud_save_enabled": false,
 					"developer": "Psyonix LLC",
 					"extra": {
@@ -12695,17 +12690,374 @@
 							"status": "ACTIVE",
 							"title": "Rocket League® - TriTrim Crimson & Forest Green Wheels",
 							"unsearchable": true
+						},
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "addons"
+								}
+							],
+							"creationDate": "2026-02-05T17:57:06.580Z",
+							"customAttributes": {
+								"CanRunOffline": {
+									"type": "STRING",
+									"value": "true"
+								}
+							},
+							"description": "Rocket League® - Season 22 Rookie Pack",
+							"developer": "Psyonix LLC",
+							"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+							"endOfSupport": false,
+							"entitlementName": "a965f89e116745d19cfc8e7c97f6bfde",
+							"entitlementType": "EXECUTABLE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "a965f89e116745d19cfc8e7c97f6bfde",
+							"itemType": "DURABLE",
+							"keyImages": [
+								{
+									"height": 1440,
+									"md5": "7161800ff06aae53255cfbd410b8ef50",
+									"size": 866542,
+									"type": "DieselGameBox",
+									"uploadedDate": "2026-03-11T14:56:07.444Z",
+									"url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason22RookiePack_PsyonixLLC_DLC_S1_2560x1440-39ce1f4091f1448aab0ff9e18de20e2e",
+									"width": 2560
+								},
+								{
+									"height": 1600,
+									"md5": "355b11d2632c5dd6745b74c13143cc0c",
+									"size": 699124,
+									"type": "DieselGameBoxTall",
+									"uploadedDate": "2026-03-11T14:56:12.715Z",
+									"url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason22RookiePack_PsyonixLLC_DLC_S2_1200x1600-ba473c9a0cbf4660969507375d43f1ed",
+									"width": 1200
+								}
+							],
+							"lastModifiedDate": "2026-03-11T14:56:16.360Z",
+							"mainGameItem": {
+								"id": "530145df28a24424923f5828cc9031a1",
+								"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "530145df28a24424923f5828cc9031a1",
+									"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+									"unsearchable": false
+								}
+							],
+							"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Rocket League® - Season 22 Rookie Pack",
+							"unsearchable": true
+						},
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "addons"
+								}
+							],
+							"creationDate": "2026-02-05T17:58:04.490Z",
+							"customAttributes": {
+								"CanRunOffline": {
+									"type": "STRING",
+									"value": "true"
+								}
+							},
+							"description": "Rocket League® - Season 22 Elite Pack",
+							"developer": "Psyonix LLC",
+							"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+							"endOfSupport": false,
+							"entitlementName": "f2dcc7f632a248b59938d737a1c0ae74",
+							"entitlementType": "EXECUTABLE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "f2dcc7f632a248b59938d737a1c0ae74",
+							"itemType": "DURABLE",
+							"keyImages": [
+								{
+									"height": 1440,
+									"md5": "ec2a578a70c7ec6e93f09eb77ac5c74c",
+									"size": 1018873,
+									"type": "DieselGameBox",
+									"uploadedDate": "2026-03-11T14:57:12.696Z",
+									"url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason22ElitePack_PsyonixLLC_DLC_S1_2560x1440-70bd48c2f1d447d9a49bbb2e883de124",
+									"width": 2560
+								},
+								{
+									"height": 1600,
+									"md5": "e6ed9c9a58c1311d9e95a1f5a07558b8",
+									"size": 721784,
+									"type": "DieselGameBoxTall",
+									"uploadedDate": "2026-03-11T14:57:18.216Z",
+									"url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason22ElitePack_PsyonixLLC_DLC_S2_1200x1600-5c705f2d88ad4a14a6600be5ec6482b4",
+									"width": 1200
+								}
+							],
+							"lastModifiedDate": "2026-03-11T14:57:20.987Z",
+							"mainGameItem": {
+								"id": "530145df28a24424923f5828cc9031a1",
+								"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "530145df28a24424923f5828cc9031a1",
+									"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+									"unsearchable": false
+								}
+							],
+							"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Rocket League® - Season 22 Elite Pack",
+							"unsearchable": true
+						},
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "addons"
+								}
+							],
+							"creationDate": "2026-02-07T00:09:07.788Z",
+							"customAttributes": {
+								"CanRunOffline": {
+									"type": "STRING",
+									"value": "true"
+								}
+							},
+							"description": "Rocket League® - Season 22 Veteran Pack",
+							"developer": "Psyonix LLC",
+							"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+							"endOfSupport": false,
+							"entitlementName": "717c8e9c5c5f46cd9a58781b8873835d",
+							"entitlementType": "EXECUTABLE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "717c8e9c5c5f46cd9a58781b8873835d",
+							"itemType": "DURABLE",
+							"keyImages": [
+								{
+									"height": 1080,
+									"md5": "1dd2df1add5545e0c91e6aded7dba172",
+									"size": 680287,
+									"type": "DieselGameBox",
+									"uploadedDate": "2026-04-09T21:06:50.237Z",
+									"url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason22VeteranPack_PsyonixLLC_DLC_G1A_00_1920x1080-54da69dcddd84e259912713f56b99540",
+									"width": 1920
+								},
+								{
+									"height": 1600,
+									"md5": "3023cdac7b27e0a6806d8f88cf8c67ca",
+									"size": 564691,
+									"type": "DieselGameBoxTall",
+									"uploadedDate": "2026-04-09T21:06:52.893Z",
+									"url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason22VeteranPack_PsyonixLLC_DLC_S2_1200x1600-ddc60deeff1c400a9f8c455b351f04b6",
+									"width": 1200
+								}
+							],
+							"lastModifiedDate": "2026-04-29T15:43:33.048Z",
+							"mainGameItem": {
+								"id": "530145df28a24424923f5828cc9031a1",
+								"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "530145df28a24424923f5828cc9031a1",
+									"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+									"unsearchable": false
+								}
+							],
+							"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Rocket League® - Season 22 Veteran Pack",
+							"unsearchable": true
+						},
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "addons"
+								}
+							],
+							"creationDate": "2026-02-07T00:10:01.653Z",
+							"customAttributes": {
+								"CanRunOffline": {
+									"type": "STRING",
+									"value": "true"
+								}
+							},
+							"description": "Rocket League® - Season 22 Rocketeer Pack",
+							"developer": "Psyonix LLC",
+							"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+							"endOfSupport": false,
+							"entitlementName": "78d9dd8a5db0419494ebca3602111650",
+							"entitlementType": "EXECUTABLE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "78d9dd8a5db0419494ebca3602111650",
+							"itemType": "DURABLE",
+							"keyImages": [
+								{
+									"height": 1440,
+									"md5": "0720e6c082b4f30f789467cf0e3a822c",
+									"size": 1011399,
+									"type": "DieselGameBox",
+									"uploadedDate": "2026-04-09T21:16:45.949Z",
+									"url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason22RocketeerPack_PsyonixLLC_DLC_S1_2560x1440-b4b1b1058fa44a4cb1649996390f35a0",
+									"width": 2560
+								},
+								{
+									"height": 1600,
+									"md5": "657870c021a18aaa80c9c57ee172b25e",
+									"size": 1005586,
+									"type": "DieselGameBoxTall",
+									"uploadedDate": "2026-04-09T21:16:48.781Z",
+									"url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason22RocketeerPack_PsyonixLLC_DLC_S2_1200x1600-91a67a1b156e4dbd8ae1ccadfbcc8bac",
+									"width": 1200
+								}
+							],
+							"lastModifiedDate": "2026-04-29T15:43:33.048Z",
+							"mainGameItem": {
+								"id": "530145df28a24424923f5828cc9031a1",
+								"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "530145df28a24424923f5828cc9031a1",
+									"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+									"unsearchable": false
+								}
+							],
+							"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Rocket League® - Season 22 Rocketeer Pack",
+							"unsearchable": true
+						},
+						{
+							"categories": [
+								{
+									"path": "addons"
+								}
+							],
+							"creationDate": "2026-03-04T18:16:40.866Z",
+							"customAttributes": {
+								"CanRunOffline": {
+									"type": "STRING",
+									"value": "true"
+								}
+							},
+							"description": "Rocket League® 007 Wheels",
+							"developer": "Psyonix LLC",
+							"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+							"endOfSupport": false,
+							"entitlementName": "2f3198f362b9482b99d0f3a66855f7eb",
+							"entitlementType": "EXECUTABLE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "2f3198f362b9482b99d0f3a66855f7eb",
+							"itemType": "DURABLE",
+							"lastModifiedDate": "2026-03-04T18:16:40.866Z",
+							"mainGameItem": {
+								"id": "530145df28a24424923f5828cc9031a1",
+								"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "530145df28a24424923f5828cc9031a1",
+									"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+									"unsearchable": false
+								}
+							],
+							"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Rocket League® 007 Wheels",
+							"unsearchable": true
+						},
+						{
+							"categories": [
+								{
+									"path": "addons"
+								}
+							],
+							"creationDate": "2026-04-15T23:48:33.390Z",
+							"customAttributes": {
+								"CanRunOffline": {
+									"type": "STRING",
+									"value": "true"
+								}
+							},
+							"description": "Warpriest",
+							"developer": "Psyonix LLC",
+							"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+							"endOfSupport": false,
+							"entitlementName": "60715bc34a1a4bf08bf49046b4f0a0ea",
+							"entitlementType": "EXECUTABLE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "60715bc34a1a4bf08bf49046b4f0a0ea",
+							"itemType": "DURABLE",
+							"lastModifiedDate": "2026-04-15T23:48:33.390Z",
+							"mainGameItem": {
+								"id": "530145df28a24424923f5828cc9031a1",
+								"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "530145df28a24424923f5828cc9031a1",
+									"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+									"unsearchable": false
+								}
+							],
+							"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Warpriest",
+							"unsearchable": true
 						}
 					],
 					"folder_name": "rocketleague",
 					"install": {
-						"install_size": "0",
-						"is_dlc": false
+						"executable": "Binaries/Win64/RocketLeague.exe",
+						"install_path": "/home/deepanshu/Games/Heroic/rocketleague",
+						"install_size": "37.29 GiB",
+						"is_dlc": false,
+						"version": "BC2_Update57+504897",
+						"platform": "Windows"
 					},
-					"is_installed": false,
+					"is_installed": true,
 					"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
 					"is_mac_native": false,
 					"save_folder": "",
+					"save_path": null,
 					"title": "Rocket League®",
 					"canRunOffline": true,
 					"isEAManaged": false,
@@ -12713,12 +13065,14 @@
 					"runner": "legendary",
 					"store_url": "https://www.epicgames.com/store/product/rocket-league"
 				},
-				"size": "34.41 GiB"
+				"path": "/home/deepanshu/Games/Heroic/rocketleague",
+				"platformToInstall": "Windows",
+				"size": "35.44 GiB"
 			},
-			"type": "install",
-			"addToQueueTime": 1766339037615,
-			"endTime": 1766380143507,
-			"startTime": 1766378398228,
+			"type": "update",
+			"addToQueueTime": 1777836731647,
+			"endTime": 1777837605772,
+			"startTime": 1777836795659,
 			"status": "done"
 		},
 		{

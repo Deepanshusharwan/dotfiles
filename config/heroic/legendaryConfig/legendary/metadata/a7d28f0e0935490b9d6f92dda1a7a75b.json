@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
       "asset_id": "a7d28f0e0935490b9d6f92dda1a7a75b",
-      "build_version": "55283_2026-03-25-00-28-06",
+      "build_version": "56489_2026-04-29-04-45-26",
       "catalog_item_id": "d53f8dc5825748849ca0890279c3dad7",
       "label_name": "Live-Windows",
       "metadata": {
@@ -42,6 +42,502 @@
     "description": "An epic open-world action-adventure RPG rooted in the rich legacy of Wuxia. Set during the turbulent era of tenth-century China, you take on the role of a young sword master, uncovering forgotten truths and the mysteries of your own identity.",
     "developer": "Netease Interactive Entertainment Pte.Ltd",
     "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:25.787Z",
+        "description": "180 Echo Beads_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "84ae1a6624f8431fbd95f2fc7624df23",
+        "entitlementType": "AUDIENCE",
+        "id": "84ae1a6624f8431fbd95f2fc7624df23",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:25.787Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "180 Echo Beads_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:25.792Z",
+        "description": "1800 Echo Beads_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "8855d100b15b4514b9df5e8d68c8641f",
+        "entitlementType": "AUDIENCE",
+        "id": "8855d100b15b4514b9df5e8d68c8641f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:25.792Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1800 Echo Beads_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:25.789Z",
+        "description": "Battle Pass Upgrade_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "854866ec92c94c3b91b6af28f46e2101",
+        "entitlementType": "AUDIENCE",
+        "id": "854866ec92c94c3b91b6af28f46e2101",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:25.789Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Battle Pass Upgrade_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:25.784Z",
+        "description": "900 Echo Beads_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "81d69fa73e2d4a6794e3f77bab194b7b",
+        "entitlementType": "AUDIENCE",
+        "id": "81d69fa73e2d4a6794e3f77bab194b7b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:25.784Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "900 Echo Beads_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:25.781Z",
+        "description": "3000 Echo Beads_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "57046c56d8ff47d980d3ee83f7974153",
+        "entitlementType": "AUDIENCE",
+        "id": "57046c56d8ff47d980d3ee83f7974153",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:25.781Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "3000 Echo Beads_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:25.776Z",
+        "description": "6000 Echo Beads_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "371acda2895647aab8ecea874e7e59e0",
+        "entitlementType": "AUDIENCE",
+        "id": "371acda2895647aab8ecea874e7e59e0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:25.776Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "6000 Echo Beads_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:25.779Z",
+        "description": "12000 Echo Beads_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "392bdf9ec64f4184aaae82ac835772cf",
+        "entitlementType": "AUDIENCE",
+        "id": "392bdf9ec64f4184aaae82ac835772cf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:25.779Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "12000 Echo Beads_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:25.774Z",
+        "description": "Monthly Fund_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "2c220dfa241e433ea467eb2d8e7631b7",
+        "entitlementType": "AUDIENCE",
+        "id": "2c220dfa241e433ea467eb2d8e7631b7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:25.774Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Monthly Fund_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:25.794Z",
+        "description": "Premium Battle Pass_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "8c8746fe5e85450ca7b986b49060bdab",
+        "entitlementType": "AUDIENCE",
+        "id": "8c8746fe5e85450ca7b986b49060bdab",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:25.794Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Premium Battle Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:25.795Z",
+        "description": "Elite Battle Pass_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "de7e8d341b554dafba3ae82f890f97fa",
+        "entitlementType": "AUDIENCE",
+        "id": "de7e8d341b554dafba3ae82f890f97fa",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:25.795Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Elite Battle Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:26.954Z",
+        "description": "60 Echo Beads_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "bf2b002f70504cff9c18e0b8756c9584",
+        "entitlementType": "AUDIENCE",
+        "id": "bf2b002f70504cff9c18e0b8756c9584",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:26.954Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "60 Echo Beads_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:26.951Z",
+        "description": "300 Echo Beads_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "9ccd2681d4524204a640e792c8940f89",
+        "entitlementType": "AUDIENCE",
+        "id": "9ccd2681d4524204a640e792c8940f89",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:26.951Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "300 Echo Beads_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-24T02:50:26.948Z",
+        "description": "600 Echo Beads_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "9918a384aefc40548a8c3f90c6a7ff33",
+        "entitlementType": "AUDIENCE",
+        "id": "9918a384aefc40548a8c3f90c6a7ff33",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-24T02:50:26.948Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "600 Echo Beads_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
     "endOfSupport": false,
     "entitlementName": "d53f8dc5825748849ca0890279c3dad7",
     "entitlementType": "EXECUTABLE",
@@ -70,7 +566,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-11-17T15:42:30.016Z",
+    "lastModifiedDate": "2026-04-24T02:50:27.239Z",
     "mainGameItemList": [],
     "namespace": "4806012311744989a5f96d97a42f7829",
     "releaseInfo": [

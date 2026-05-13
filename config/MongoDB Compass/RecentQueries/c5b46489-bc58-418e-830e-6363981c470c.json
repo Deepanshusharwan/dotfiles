@@ -1,0 +1,16 @@
+{
+  "filter": {
+    "org_id": {
+      "$exists": false
+    }
+  },
+  "sort": {
+    "created_at": -1
+  },
+  "_id": "c5b46489-bc58-418e-830e-6363981c470c",
+  "_lastExecuted": {
+    "$date": "2026-04-14T17:54:01.575Z"
+  },
+  "_ns": "sherlock_db.profiles",
+  "_host": "localhost:27017"
+}

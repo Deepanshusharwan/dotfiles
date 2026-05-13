@@ -1,0 +1,7 @@
+2026/05/04-01:39:45.477 1290d6 Reusing MANIFEST /home/deepanshu/.config/heroic/Partitions/epic/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/04-01:39:45.477 1290d6 Recovering log #3
+2026/05/04-01:39:45.478 1290d6 Reusing old log /home/deepanshu/.config/heroic/Partitions/epic/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 
+2026/05/04-01:40:32.220 1290f3 Level-0 table #5: started
+2026/05/04-01:40:32.222 1290f3 Level-0 table #5: 24419 bytes OK
+2026/05/04-01:40:32.225 1290f3 Delete type=0 #3
+2026/05/04-01:40:32.226 1290f3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

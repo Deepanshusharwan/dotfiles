@@ -5,12 +5,11 @@
     "Windows": {
       "app_name": "aa7093efba5b4760ad413c01fbdd0fae",
       "asset_id": "aa7093efba5b4760ad413c01fbdd0fae",
-      "build_version": "50.0.6a",
+      "build_version": "50.1.1a",
       "catalog_item_id": "0073e920c0ca49bc8da9cde44836ebe1",
       "label_name": "Live-Windows",
       "metadata": {
-        "installationPoolId": "5bbf1cb7779c45fea08ef51a46ad2226",
-        "update_type": "MAJOR"
+        "installationPoolId": "5bbf1cb7779c45fea08ef51a46ad2226"
       },
       "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
       "sidecar_rev": 0
@@ -3773,6 +3772,424 @@
         "status": "ACTIVE",
         "title": "Asphalt Legends -- Decal Pack",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:42.006Z",
+        "description": "Asphalt Legends -- hololive Decal: Himemori Luna x Sakura Miko_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "eeb28e2d0cba494e936543a8d630d01c",
+        "entitlementType": "AUDIENCE",
+        "id": "eeb28e2d0cba494e936543a8d630d01c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:42.006Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Decal: Himemori Luna x Sakura Miko_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:42.004Z",
+        "description": "Asphalt Legends -- hololive Porsche 911 GTS Coup\u00e9 Unlock 2_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "d947c939d57d4d4bbe08cbca989544a9",
+        "entitlementType": "AUDIENCE",
+        "id": "d947c939d57d4d4bbe08cbca989544a9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:42.004Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Porsche 911 GTS Coup\u00e9 Unlock 2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:41.987Z",
+        "description": "Asphalt Legends -- hololive Decal: Sakura Miko 2_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "20ceb15870f342c2a7729237e732468d",
+        "entitlementType": "AUDIENCE",
+        "id": "20ceb15870f342c2a7729237e732468d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:41.987Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Decal: Sakura Miko 2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:42.002Z",
+        "description": "Asphalt Legends -- hololive Aspark Owl Unlock_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "c59a7c1b7f2f477b9019146c38d97dae",
+        "entitlementType": "AUDIENCE",
+        "id": "c59a7c1b7f2f477b9019146c38d97dae",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:42.002Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Aspark Owl Unlock_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:41.984Z",
+        "description": "Asphalt Legends -- hololive Porsche 911 GTS Coup\u00e9 Unlock 1_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "1f230291d247455fa4977783f95703a5",
+        "entitlementType": "AUDIENCE",
+        "id": "1f230291d247455fa4977783f95703a5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:41.984Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Porsche 911 GTS Coup\u00e9 Unlock 1_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:41.989Z",
+        "description": "Asphalt Legends -- hololive Porsche 918 Spyder Unlock 1_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2c12d894628f4cae9cdace278eb6675f",
+        "entitlementType": "AUDIENCE",
+        "id": "2c12d894628f4cae9cdace278eb6675f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:41.989Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Porsche 918 Spyder Unlock 1_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:41.992Z",
+        "description": "Asphalt Legends -- hololive Decal: Himemori Luna 1_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "608b138e3a89402e906b1a2286030cbc",
+        "entitlementType": "AUDIENCE",
+        "id": "608b138e3a89402e906b1a2286030cbc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:41.992Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Decal: Himemori Luna 1_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:41.994Z",
+        "description": "Asphalt Legends -- hololive Decal: Sakura Miko 1_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "8a64b26319c84961a283709febb820c4",
+        "entitlementType": "AUDIENCE",
+        "id": "8a64b26319c84961a283709febb820c4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:41.994Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Decal: Sakura Miko 1_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:41.997Z",
+        "description": "Asphalt Legends -- hololive Porsche 918 Spyder Unlock 2_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "99f5a70d1e914a03b6807097ed7e5859",
+        "entitlementType": "AUDIENCE",
+        "id": "99f5a70d1e914a03b6807097ed7e5859",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:41.997Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Porsche 918 Spyder Unlock 2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:41.999Z",
+        "description": "Asphalt Legends -- hololive Decal Himemori Luna 2_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "b8ef44f10c33433d9aaf10813a10b1bb",
+        "entitlementType": "AUDIENCE",
+        "id": "b8ef44f10c33433d9aaf10813a10b1bb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:41.999Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Decal Himemori Luna 2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-23T14:19:43.100Z",
+        "description": "Asphalt Legends -- hololive Decals: Discounted Offer 2_ConsumableAudience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "39e7f46e574c47e297f08caed8fcfba5",
+        "entitlementType": "AUDIENCE",
+        "id": "39e7f46e574c47e297f08caed8fcfba5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-23T14:19:43.100Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- hololive Decals: Discounted Offer 2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
       }
     ],
     "endOfSupport": false,
@@ -3802,7 +4219,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-03-31T07:21:42.323Z",
+    "lastModifiedDate": "2026-04-23T14:19:43.202Z",
     "mainGameItemList": [],
     "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
     "releaseInfo": [

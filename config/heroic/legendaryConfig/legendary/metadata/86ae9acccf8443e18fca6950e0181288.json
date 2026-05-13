@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "86ae9acccf8443e18fca6950e0181288",
       "asset_id": "86ae9acccf8443e18fca6950e0181288",
-      "build_version": "1.14.2",
+      "build_version": "4.2.0",
       "catalog_item_id": "101391ece6024e069a7cb8cf22104399",
       "label_name": "Live-Windows",
       "metadata": {
@@ -18,7 +18,7 @@
   "base_urls": [],
   "metadata": {
     "ageGatings": {},
-    "applicationId": "Honkai: Star Rail (fghi4567LtKxgSPxsV3jJoX8A4QNO30H)",
+    "applicationId": "fghi4567LtKxgSPxsV3jJoX8A4QNO30H",
     "categories": [
       {
         "path": "games"
@@ -1578,6 +1578,82 @@
         "title": "Special Pass Exclusive Giftbox_ConsumableAudience",
         "unsearchable": false,
         "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-09T08:53:54.898Z",
+        "description": "rpgglbreturn1tierusd599_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "15afd695de9b45da99d54c6037ec8741",
+        "entitlementType": "AUDIENCE",
+        "id": "15afd695de9b45da99d54c6037ec8741",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-09T08:53:54.898Z",
+        "mainGameItem": {
+          "id": "101391ece6024e069a7cb8cf22104399",
+          "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "101391ece6024e069a7cb8cf22104399",
+            "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "rpgglbreturn1tierusd599_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-04-09T08:53:54.901Z",
+        "description": "rpgglbyear4tierusd029_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "3533048b2c10422cafbd2e1d45771646",
+        "entitlementType": "AUDIENCE",
+        "id": "3533048b2c10422cafbd2e1d45771646",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-04-09T08:53:54.901Z",
+        "mainGameItem": {
+          "id": "101391ece6024e069a7cb8cf22104399",
+          "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "101391ece6024e069a7cb8cf22104399",
+            "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "rpgglbyear4tierusd029_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
       }
     ],
     "endOfSupport": false,
@@ -1592,25 +1668,25 @@
       {
         "alt": "Honkai Star Rail Offer",
         "height": 1440,
-        "md5": "51fd3b0510aade3b6c229024a1c8f689",
-        "size": 1307504,
+        "md5": "86874e0610d10cb19dc6de1d23d8b32f",
+        "size": 1996123,
         "type": "DieselGameBox",
-        "uploadedDate": "2026-02-07T03:01:57.510Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-i7gne.jpg",
+        "uploadedDate": "2026-04-16T09:46:25.703Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-15xyb.jpg",
         "width": 2560
       },
       {
         "alt": "Download Honkai Star Rail Offer",
         "height": 1600,
-        "md5": "72b75232206fcd434b2ff9e06040a226",
-        "size": 389553,
+        "md5": "6a4bba293c90d1bb750734871463bc08",
+        "size": 1039672,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2026-02-07T03:02:09.841Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-1ilk3.jpg",
+        "uploadedDate": "2026-04-16T09:46:41.070Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-1xsd8.jpg",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-02-27T00:00:24.896Z",
+    "lastModifiedDate": "2026-04-21T22:00:21.298Z",
     "mainGameItemList": [],
     "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
     "releaseInfo": [
@@ -1627,10 +1703,5 @@
     "title": "Honkai: Star Rail",
     "unsearchable": true
   },
-  "sidecar": {
-    "config": {
-      "deploymentId": "972749e4c951406aaf5fd8552910b8af"
-    },
-    "rev": 1
-  }
+  "sidecar": null
 }

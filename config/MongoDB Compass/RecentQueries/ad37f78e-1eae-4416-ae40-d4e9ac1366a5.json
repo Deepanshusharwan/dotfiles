@@ -1,0 +1,11 @@
+{
+  "filter": {
+    "org_id": "org_3CLWNfsYgfLLQM2vAYNAYPXwDNq"
+  },
+  "_ns": "tumban_db.profiles",
+  "_host": "localhost:27017",
+  "_id": "ad37f78e-1eae-4416-ae40-d4e9ac1366a5",
+  "_lastExecuted": {
+    "$date": "2026-04-14T16:34:43.576Z"
+  }
+}

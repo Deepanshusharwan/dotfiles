@@ -22,13 +22,19 @@
     "afterLaunchScriptPath": "",
     "verboseLogs": true,
     "advertiseAvxForRosetta": false,
+    "enableQuickSavesMenu": false,
     "wineVersion": {
       "bin": "/home/deepanshu/.config/heroic/tools/proton/GE-Proton-latest/proton",
       "name": "Proton - GE-Proton-latest",
       "type": "proton"
     },
     "winePrefix": "/home/deepanshu/Games/Heroic/Prefixes/default/Rocket League",
-    "wineCrossoverBottle": ""
+    "wineCrossoverBottle": "",
+    "lastUsedLaunchOption": {
+      "name": "Default",
+      "parameters": "",
+      "type": "basic"
+    }
   },
   "version": "v0",
   "explicit": true

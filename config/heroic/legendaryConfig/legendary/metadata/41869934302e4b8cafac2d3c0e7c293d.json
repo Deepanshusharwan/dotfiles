@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "41869934302e4b8cafac2d3c0e7c293d",
       "asset_id": "41869934302e4b8cafac2d3c0e7c293d",
-      "build_version": "117",
+      "build_version": "119",
       "catalog_item_id": "7d690c122fde4c60bed85405f343ad10",
       "label_name": "Live-Windows",
       "metadata": {
@@ -887,7 +887,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-03-18T02:57:04.644Z",
+    "lastModifiedDate": "2026-05-06T02:57:45.765Z",
     "mainGameItemList": [],
     "namespace": "879b0d8776ab46a59a129983ba78f0ce",
     "releaseInfo": [
@@ -906,10 +906,5 @@
     "title": "Genshin Impact",
     "unsearchable": true
   },
-  "sidecar": {
-    "config": {
-      "deploymentId": "cb76fef83fc042e4b3cad67e84219d9f"
-    },
-    "rev": 1
-  }
+  "sidecar": null
 }

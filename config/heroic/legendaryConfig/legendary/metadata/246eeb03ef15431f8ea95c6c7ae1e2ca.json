@@ -1,0 +1,354 @@
+{
+  "app_name": "246eeb03ef15431f8ea95c6c7ae1e2ca",
+  "app_title": "Poppy Playtime",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "246eeb03ef15431f8ea95c6c7ae1e2ca",
+      "asset_id": "246eeb03ef15431f8ea95c6c7ae1e2ca",
+      "build_version": "2.1",
+      "catalog_item_id": "47a08b0b1ff64c57be4833fe76dd9468",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "98b74100db2c476082ee1340d9f6d974"
+      },
+      "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-07-05T14:45:00.665Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "PoppyPlaytimeChapterOne"
+      }
+    },
+    "description": "Poppy Playtime",
+    "developer": "Mob Entertainment",
+    "developerId": "o-yh7uc5sj8zhx8xcezu48l32b4dj7n4",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-26T17:59:22.998Z",
+        "customAttributes": {},
+        "description": "Your one-way ticket out of the factory awaits\u2026",
+        "developer": "Mob Entertainment",
+        "developerId": "o-yh7uc5sj8zhx8xcezu48l32b4dj7n4",
+        "endOfSupport": false,
+        "entitlementName": "851af2da86b548a793ba7d4b6d958160",
+        "entitlementType": "EXECUTABLE",
+        "id": "851af2da86b548a793ba7d4b6d958160",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Poppy Playtime Poppy Playtime: Chapter 2 Offer",
+            "height": 1440,
+            "md5": "388a3493872f09ac551a2644f4ee0b48",
+            "size": 3066304,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-07-29T17:05:53.405Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-1dttk.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Poppy Playtime Poppy Playtime: Chapter 2 Offer",
+            "height": 1600,
+            "md5": "d49345920cc3c6487f30eb35e9dd5fdf",
+            "size": 2447891,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-07-29T17:03:51.126Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-1ljem.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-02-11T18:13:19.768Z",
+        "mainGameItem": {
+          "id": "47a08b0b1ff64c57be4833fe76dd9468",
+          "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "47a08b0b1ff64c57be4833fe76dd9468",
+            "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+        "releaseInfo": [
+          {
+            "appId": "5fc7f8ece8ad43cc91b1b9dc0aa4fe50",
+            "id": "dfd62b41f63247d391850678258cec5f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Poppy Playtime: Chapter 2",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-26T18:01:11.781Z",
+        "customAttributes": {},
+        "description": "Welcome to Playcare, where dreams come true\u2026",
+        "developer": "Mob Entertainment",
+        "developerId": "o-yh7uc5sj8zhx8xcezu48l32b4dj7n4",
+        "endOfSupport": false,
+        "entitlementName": "87a72c86564f4a1383da5930bb69fdac",
+        "entitlementType": "EXECUTABLE",
+        "id": "87a72c86564f4a1383da5930bb69fdac",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Poppy Playtime Poppy Playtime: Chapter 3 Offer",
+            "height": 1440,
+            "md5": "11c3ca08109a7448832765e90550028d",
+            "size": 3824410,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-10-10T20:37:06.016Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-77la9.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Poppy Playtime Poppy Playtime: Chapter 3 Offer",
+            "height": 1600,
+            "md5": "8050d8c427e0c716cc417649ee23a179",
+            "size": 2304988,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-10-10T20:37:05.523Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-1tqpu.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-02-11T18:13:19.768Z",
+        "mainGameItem": {
+          "id": "47a08b0b1ff64c57be4833fe76dd9468",
+          "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "47a08b0b1ff64c57be4833fe76dd9468",
+            "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+        "releaseInfo": [
+          {
+            "appId": "6f02bb70aaac4d2ab7e18cfc4aa546b8",
+            "id": "66321f9fbb8e4781adcbd20a07dd6533",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Poppy Playtime: Chapter 3",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-11T20:39:36.496Z",
+        "customAttributes": {},
+        "description": "Survival isn\u2019t guaranteed. Fear is.",
+        "developer": "Mob Entertainment",
+        "developerId": "o-yh7uc5sj8zhx8xcezu48l32b4dj7n4",
+        "endOfSupport": false,
+        "entitlementName": "2feaccef6e6c4766bc86e44e9e70f302",
+        "entitlementType": "EXECUTABLE",
+        "id": "2feaccef6e6c4766bc86e44e9e70f302",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Poppy Playtime Poppy Playtime: Chapter 4 Offer",
+            "height": 1440,
+            "md5": "5152466684102db6a340a15cc8ad6682",
+            "size": 236606,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-01-23T15:26:16.672Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-prjc9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Poppy Playtime Poppy Playtime: Chapter 4 Offer",
+            "height": 1600,
+            "md5": "eb11862e5289e65975d63389110aaccb",
+            "size": 179365,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-01-23T15:26:16.632Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-zxf3j.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-02-11T18:13:19.768Z",
+        "mainGameItem": {
+          "id": "47a08b0b1ff64c57be4833fe76dd9468",
+          "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "47a08b0b1ff64c57be4833fe76dd9468",
+            "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+        "releaseInfo": [
+          {
+            "appId": "8f5ca543007c482dbfe9976876c35c3a",
+            "id": "cc1ea3156d4f4ccabb15c5292856660c",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Poppy Playtime: Chapter 4",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-10-09T17:09:10.103Z",
+        "customAttributes": {},
+        "description": "Poppy Playtime: Chapter 5",
+        "developer": "Mob Entertainment",
+        "developerId": "o-yh7uc5sj8zhx8xcezu48l32b4dj7n4",
+        "endOfSupport": false,
+        "entitlementName": "dbfc6991175d483dae546a7e92387502",
+        "entitlementType": "EXECUTABLE",
+        "id": "dbfc6991175d483dae546a7e92387502",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Poppy Playtime Poppy Playtime: Chapter 5 Offer",
+            "height": 1440,
+            "md5": "686343d60599fb499c884cf831acab74",
+            "size": 3177448,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-10-15T16:52:47.724Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-ma7ow.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Poppy Playtime Poppy Playtime: Chapter 5 Offer",
+            "height": 1600,
+            "md5": "40b3505c0ca12f760035e5e915b49e6d",
+            "size": 1723588,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-10-15T16:52:46.689Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-1sabv.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-02-11T18:13:19.768Z",
+        "mainGameItem": {
+          "id": "47a08b0b1ff64c57be4833fe76dd9468",
+          "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "47a08b0b1ff64c57be4833fe76dd9468",
+            "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+        "releaseInfo": [
+          {
+            "appId": "0014a97b9ca6457191a9f7cbd31e6d6d",
+            "id": "7ff988e70df14463bbd177af043c401f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Poppy Playtime: Chapter 5",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "47a08b0b1ff64c57be4833fe76dd9468",
+    "entitlementType": "EXECUTABLE",
+    "id": "47a08b0b1ff64c57be4833fe76dd9468",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Poppy Playtime Offer",
+        "height": 1440,
+        "md5": "2d9b77551baf749a575a3cb3f735c150",
+        "size": 582147,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-03-25T19:27:07.573Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-19yci.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Poppy Playtime Offer",
+        "height": 1600,
+        "md5": "21a62afff28c4908b6db308def3fd289",
+        "size": 425959,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-03-25T17:32:40.843Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-1uhg0.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-02-11T18:13:19.768Z",
+    "mainGameItemList": [],
+    "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+    "releaseInfo": [
+      {
+        "appId": "246eeb03ef15431f8ea95c6c7ae1e2ca",
+        "id": "438af676cd4040debd3d37a7e368a72e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Poppy Playtime",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

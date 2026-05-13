@@ -1,0 +1,13 @@
+{
+  "filter": {
+    "canonical_url": {
+      "$exists": false
+    }
+  },
+  "_id": "cf34b602-8561-4017-8507-8092fc455d5b",
+  "_lastExecuted": {
+    "$date": "2026-04-14T17:37:14.138Z"
+  },
+  "_ns": "sherlock_db.profiles",
+  "_host": "localhost:27017"
+}

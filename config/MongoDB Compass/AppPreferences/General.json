@@ -1,7 +1,7 @@
 {
   "id": "General",
-  "lastKnownVersion": "1.49.1",
-  "highestInstalledVersion": "1.49.1",
+  "lastKnownVersion": "1.49.4",
+  "highestInstalledVersion": "1.49.4",
   "showedNetworkOptIn": true,
   "theme": "OS_THEME",
   "telemetryAnonymousId": "24323800-90a7-4a05-99a9-e76ad3d559c1",
@@ -9,9 +9,9 @@
   "enableConnectInNewWindow": true,
   "showEndOfLifeConnectionModal": true,
   "windowBounds": {
-    "x": 3,
+    "x": 871,
     "y": 33,
-    "width": 1722,
+    "width": 854,
     "height": 936,
     "isMaximized": false,
     "isFullScreen": false

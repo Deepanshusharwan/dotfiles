@@ -33,84 +33,42 @@
     "uninstaller": null,
     "version": "EGS_11163"
   },
-  "Fortnite": {
-    "app_name": "Fortnite",
-    "base_urls": [
-      "https://fastly-download.epicgames.com/Builds/Fortnite/CloudDir",
-      "https://download.epicgames.com/Builds/Fortnite/CloudDir",
-      "https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir",
-      "https://cloudflare.epicgamescdn.com/Builds/Fortnite/CloudDir"
-    ],
-    "can_run_offline": true,
-    "egl_guid": "",
-    "executable": "FortniteGame/Binaries/Win64/FortniteLauncher.exe",
-    "install_path": "/home/deepanshu/Games/Heroic/Fortnite",
-    "install_size": 80432513954,
-    "install_tags": [
-      "",
-      "Startup",
-      "FrontEnd",
-      "Encrypted",
-      "Globals",
-      "DefaultGameplayChunk",
-      "UnusedOldEarlyStartupPatcherChunk",
-      "CosmeticPreInstall",
-      "GFP_BaseInstallRoot",
-      "GFP_BRCosmetics",
-      "GFP_BRCosmeticsInstallOnDemand",
-      "GFP_BRCosmeticsInstallOnDemandFat",
-      "GFP_CreativeRoot",
-      "GFP_BRRoot",
-      "GFP_JunoRoot",
-      "GFP_DelMarRoot",
-      "GFP_Sparks",
-      "GFP_BlitzRoot",
-      "GFP_StrideMiceRoot",
-      "FortniteBR",
-      "FNOne",
-      "GFP_SaveTheWorldRoot"
-    ],
-    "is_dlc": false,
-    "launch_parameters": " -obfuscationid=UwRPTxU8N2MNdGPGmU6mHEHRDaIbBg",
-    "manifest_path": null,
-    "needs_verification": false,
-    "platform": "Windows",
-    "prereq_info": null,
-    "requires_ot": false,
-    "save_path": null,
-    "save_timestamp": null,
-    "title": "Fortnite",
-    "uninstaller": {
-      "args": "-GameName=FortniteGame -InstallDir=../../../ -InstallDirRelativeToExecutableDir=1 -UninstallActionsManifest=UninstallActionsManifest-Win64.txt",
-      "path": "Engine/Binaries/Win64/UninstallHelper-Win64-Shipping.exe"
-    },
-    "version": "++Fortnite+Release-39.11-CL-49242330-Windows"
-  },
   "Sugar": {
     "app_name": "Sugar",
     "base_urls": [
-      "https://fastly-download.epicgames.com/Builds/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/e6bcca5b37d0457ca881aec508205542/default",
-      "https://download.epicgames.com/Builds/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/e6bcca5b37d0457ca881aec508205542/default",
+      "https://egdownload.fastly-edge.com/Builds/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/e6bcca5b37d0457ca881aec508205542/default",
       "https://epicgames-download1.akamaized.net/Builds/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/e6bcca5b37d0457ca881aec508205542/default",
+      "https://download.epicgames.com/Builds/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/e6bcca5b37d0457ca881aec508205542/default",
       "https://cloudflare.epicgamescdn.com/Builds/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/e6bcca5b37d0457ca881aec508205542/default"
     ],
     "can_run_offline": true,
     "egl_guid": "",
-    "executable": "Binaries/Win64/RocketLeague.exe",
+    "executable": "Binaries/Win64/Launcher.exe",
     "install_path": "/home/deepanshu/Games/Heroic/rocketleague",
-    "install_size": 40035838803,
+    "install_size": 41227791062,
     "install_tags": [],
     "is_dlc": false,
     "launch_parameters": "",
     "manifest_path": null,
     "needs_verification": false,
     "platform": "Windows",
-    "prereq_info": null,
+    "prereq_info": {
+      "args": "install e6bcca5b37d0457ca881aec508205542",
+      "ids": [
+        "EAC_Service"
+      ],
+      "name": "",
+      "path": "Binaries/Win64/EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe"
+    },
     "requires_ot": false,
     "save_path": null,
     "save_timestamp": null,
     "title": "Rocket League\u00ae",
-    "uninstaller": null,
-    "version": "BC2_Update57+504897"
+    "uninstaller": {
+      "args": "uninstall e6bcca5b37d0457ca881aec508205542",
+      "path": "Binaries/Win64/EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe"
+    },
+    "use_signed_url": false,
+    "version": "++Prime+Update58.1-CL-515605"
   }
 }
