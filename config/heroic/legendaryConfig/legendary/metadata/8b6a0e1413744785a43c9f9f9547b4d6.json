@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
       "asset_id": "8b6a0e1413744785a43c9f9f9547b4d6",
-      "build_version": "aircombat_store_windows_b9768661_2026-05-06_10-50",
+      "build_version": "aircombat_store_windows_e1deafcc_2026-06-08_02-05",
       "catalog_item_id": "37bdf2283730476b89fa027acfab7491",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -967,6 +967,44 @@
         "title": "Metalstorm - Special Offer_ConsumableAudience",
         "unsearchable": false,
         "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-06-05T15:23:27.199Z",
+        "description": "Metalstorm - Daily Offer_ConsumableAudience",
+        "developer": "Starform Inc.",
+        "developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+        "endOfSupport": false,
+        "entitlementName": "64135b349c4b41d2a6a3b8da5e7c002d",
+        "entitlementType": "AUDIENCE",
+        "id": "64135b349c4b41d2a6a3b8da5e7c002d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-06-05T15:23:27.199Z",
+        "mainGameItem": {
+          "id": "37bdf2283730476b89fa027acfab7491",
+          "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37bdf2283730476b89fa027acfab7491",
+            "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Metalstorm - Daily Offer_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
       }
     ],
     "endOfSupport": false,
@@ -997,7 +1035,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-05-07T16:57:07.832Z",
+    "lastModifiedDate": "2026-06-05T15:23:27.329Z",
     "mainGameItemList": [],
     "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
     "releaseInfo": [

@@ -18,6 +18,7 @@ application/x-pkt=CiscoPacketTracer-9.0.0.desktop
 application/x-pkz=CiscoPacketTracer-9.0.0.desktop
 application/x-pksz=CiscoPacketTracer-9.0.0.desktop
 x-scheme-handler/claude-cli=claude-code-url-handler.desktop
+text/markdown=obsidian.desktop
 
 [Added Associations]
 x-scheme-handler/http=zen.desktop;
@@ -31,3 +32,4 @@ application/xhtml+xml=zen.desktop;
 application/x-extension-xhtml=zen.desktop;
 application/x-extension-xht=zen.desktop;
 application/x-msdownload=steam.desktop;
+text/markdown=obsidian.desktop;

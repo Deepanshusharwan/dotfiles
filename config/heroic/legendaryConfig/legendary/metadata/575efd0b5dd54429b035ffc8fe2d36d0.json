@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
       "asset_id": "575efd0b5dd54429b035ffc8fe2d36d0",
-      "build_version": "1.1.3505424",
+      "build_version": "1.1.3620243",
       "catalog_item_id": "27556e7cd968479daee8cc7bd77aebdd",
       "label_name": "Live-Windows",
       "metadata": {
@@ -13,7 +13,7 @@
         "update_type": "PATCH"
       },
       "namespace": "38e211ced4e448a5a653a8d1e13fef18",
-      "sidecar_rev": 0
+      "sidecar_rev": 1
     }
   },
   "base_urls": [],
@@ -63,7 +63,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-04-20T07:34:37.457Z",
+    "lastModifiedDate": "2026-06-15T06:49:15.362Z",
     "mainGameItemList": [],
     "namespace": "38e211ced4e448a5a653a8d1e13fef18",
     "releaseInfo": [
@@ -80,5 +80,10 @@
     "title": "Marvel Rivals",
     "unsearchable": false
   },
-  "sidecar": null
+  "sidecar": {
+    "config": {
+      "deploymentId": "1a99ba198af649faade54b472cd10f24"
+    },
+    "rev": 1
+  }
 }

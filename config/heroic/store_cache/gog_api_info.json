@@ -796,7 +796,9 @@
 	"__timestamp": {
 		"epic_Fortnite": "Fri Apr 17 2026 08:46:06 GMT+0530 (India Standard Time)",
 		"epic_Carnation": "Thu Apr 30 2026 23:17:12 GMT+0530 (India Standard Time)",
-		"epic_Sugar": "Mon May 04 2026 01:02:08 GMT+0530 (India Standard Time)"
+		"epic_Sugar": "Mon May 04 2026 01:02:08 GMT+0530 (India Standard Time)",
+		"epic_0a2d9f6403244d12969e11da6713137b": "Wed May 13 2026 23:12:13 GMT+0530 (India Standard Time)",
+		"epic_87be9bd6707748888bce1f79b025c5dd": "Sun May 17 2026 17:19:01 GMT+0530 (India Standard Time)"
 	},
 	"epic_Carnation": {
 		"id": "52565676397442327",
@@ -2319,5 +2321,934 @@
 			"slug": "supersonic-acrobatic-rocket-powered-battle-cars"
 		},
 		"etag": "W/\"003b9bde55bca845df71f7caf00bf305\""
+	},
+	"epic_0a2d9f6403244d12969e11da6713137b": {
+		"id": "55559377005440060",
+		"game_id": "52349418883060962",
+		"platform_id": "epic",
+		"external_id": "0a2d9f6403244d12969e11da6713137b",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "52349418883060962",
+			"parent_id": null,
+			"dlcs_ids": [
+				"53710058460860512",
+				"53710058602419115",
+				"53790838555280612",
+				"54828757893130733"
+			],
+			"mods_ids": [],
+			"first_release_date": "2020-08-04T00:00:00+0000",
+			"releases": [
+				{
+					"id": "52378171615892471",
+					"platform_id": "steam",
+					"external_id": "1097150",
+					"release_per_platform_id": "steam_1097150",
+					"availability": 0
+				},
+				{
+					"id": "53573755400017458",
+					"platform_id": "psn",
+					"external_id": "CUSA17711_00",
+					"release_per_platform_id": "psn_CUSA17711_00",
+					"availability": 0
+				},
+				{
+					"id": "53573756389897124",
+					"platform_id": "psn",
+					"external_id": "CUSA17714_00",
+					"release_per_platform_id": "psn_CUSA17714_00",
+					"availability": 0
+				},
+				{
+					"id": "53573759256795946",
+					"platform_id": "humble",
+					"external_id": "fallguys_ultimateknockout_storefront_steam_nIarM",
+					"release_per_platform_id": "humble_fallguys_ultimateknockout_storefront_steam_nIarM",
+					"availability": 0
+				},
+				{
+					"id": "53699783891095422",
+					"platform_id": "test",
+					"external_id": "CUSA17714_00",
+					"release_per_platform_id": "test_CUSA17714_00",
+					"availability": 0
+				},
+				{
+					"id": "54670877652292623",
+					"platform_id": "psn",
+					"external_id": "CUSA23221_00",
+					"release_per_platform_id": "psn_CUSA23221_00",
+					"availability": 0
+				},
+				{
+					"id": "54680320548808415",
+					"platform_id": "psn",
+					"external_id": "CUSA23220_00",
+					"release_per_platform_id": "psn_CUSA23220_00",
+					"availability": 0
+				},
+				{
+					"id": "54707394755845651",
+					"platform_id": "psn",
+					"external_id": "CUSA27361_00",
+					"release_per_platform_id": "psn_CUSA27361_00",
+					"availability": 0
+				},
+				{
+					"id": "54798431001779252",
+					"platform_id": "psn",
+					"external_id": "CUSA27360_00",
+					"release_per_platform_id": "psn_CUSA27360_00",
+					"availability": 0
+				},
+				{
+					"id": "55295364026620315",
+					"platform_id": "psn",
+					"external_id": "CUSA29236_00",
+					"release_per_platform_id": "psn_CUSA29236_00",
+					"availability": 0
+				},
+				{
+					"id": "55315013096852005",
+					"platform_id": "psn",
+					"external_id": "CUSA29237_00",
+					"release_per_platform_id": "psn_CUSA29237_00",
+					"availability": 0
+				},
+				{
+					"id": "55559377005440060",
+					"platform_id": "epic",
+					"external_id": "0a2d9f6403244d12969e11da6713137b",
+					"release_per_platform_id": "epic_0a2d9f6403244d12969e11da6713137b",
+					"availability": 0
+				},
+				{
+					"id": "55559380001430793",
+					"platform_id": "xboxone",
+					"external_id": "2013614379",
+					"release_per_platform_id": "xboxone_2013614379",
+					"availability": 0
+				},
+				{
+					"id": "55567874062668208",
+					"platform_id": "psn",
+					"external_id": "PPSA04476_00",
+					"release_per_platform_id": "psn_PPSA04476_00",
+					"availability": 0
+				},
+				{
+					"id": "55568651489147430",
+					"platform_id": "psn",
+					"external_id": "PPSA04478_00",
+					"release_per_platform_id": "psn_PPSA04478_00",
+					"availability": 0
+				},
+				{
+					"id": "55754237673195134",
+					"platform_id": "test",
+					"external_id": "PPSA04478_00",
+					"release_per_platform_id": "test_PPSA04478_00",
+					"availability": 0
+				},
+				{
+					"id": "55861215568929785",
+					"platform_id": "xboxone",
+					"external_id": "1827682648",
+					"release_per_platform_id": "xboxone_1827682648",
+					"availability": 0
+				},
+				{
+					"id": "57691609574428909",
+					"platform_id": "epic",
+					"external_id": "FallGuys",
+					"release_per_platform_id": "epic_FallGuys",
+					"availability": 0
+				},
+				{
+					"id": "58165560216348006",
+					"platform_id": "epic",
+					"external_id": "4c1e51b2a65b409198e8203171aa98fd",
+					"release_per_platform_id": "epic_4c1e51b2a65b409198e8203171aa98fd",
+					"availability": 0
+				},
+				{
+					"id": "52349418883060962",
+					"platform_id": "generic",
+					"external_id": "52349418883060962",
+					"release_per_platform_id": "generic_52349418883060962",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "Fall Guys",
+				"en-US": "Fall Guys"
+			},
+			"sorting_title": {
+				"*": "Fall Guys",
+				"en-US": "Fall Guys"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51141226898760433"
+			],
+			"developers": [
+				{
+					"id": "51141226898760433",
+					"name": "Mediatonic",
+					"slug": "mediatonic"
+				}
+			],
+			"publishers_ids": [
+				"51141379795580920",
+				"52372461744305993"
+			],
+			"publishers": [
+				{
+					"id": "51141379795580920",
+					"name": "Devolver Digital",
+					"slug": "devolver-digital"
+				},
+				{
+					"id": "52372461744305993",
+					"name": "Epic Games",
+					"slug": "epic-games"
+				}
+			],
+			"genres_ids": [
+				"51121492616405278",
+				"51141224662579279",
+				"51141224875811235"
+			],
+			"genres": [
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224662579279",
+					"name": {
+						"*": "Platform",
+						"en-US": "Platform"
+					},
+					"slug": "platform"
+				},
+				{
+					"id": "51141224875811235",
+					"name": {
+						"*": "Racing",
+						"en-US": "Racing"
+					},
+					"slug": "racing"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51141224799400616",
+				"51141226196252910"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141224799400616",
+					"name": {
+						"*": "Comedy",
+						"en-US": "Comedy"
+					},
+					"slug": "comedy"
+				},
+				{
+					"id": "51141226196252910",
+					"name": {
+						"*": "Party",
+						"en-US": "Party"
+					},
+					"slug": "party"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/d4fa3be3bba68951472b13df17d30a125180018a5bf8cb48efe0af9af5e45584{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/07b5a245c40311f1c4d2c5b3febca8d019eb11cfc01d70f7bf1e8d78681a5449{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b00aa4a01a29c3cf34c7a73a1fddb6bea99479f94f0a0867b075f085b1c6e3f9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a91a03fdc539db56fbe79af09668f1d6475c07fe860eca00f9d5d0a0a4ae2646{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d90ab5a542bcb6e8a0c9bb9a2f5d1532fdde0af1b7ce13c8f0af85bd957c0658{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/081fa1bb1db7d6a7f2f31be94755b01ffcc8b0c2222de4539b0186eebb3da870{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/bdd8e009d5026b1073f513ffe49ec6d90ceaebfc7729fb9bccb3e34c0b7e6169{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c18e1add0e2dc67fc7457919b5fd7a95dd0e8492cbf2907e56140b5e9f192b3f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e9dc8ef63c05251366db3306a912ef8300f85c6ef62c0793431c7e1b143709be{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d7e5fea3eefd9a544ae9f532be87e74e9fd1d06c9fdb1646fd1ae115629c7946{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/71929215928a2b461255df00a65018bdb13f47fa15e3d0cf8d4ed8dffd4f05a5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ff1374024897e8e19b3f49f5e32b768b16ae2037bb63d6bcef9533ceb4e12df4{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5669d73c71cbb249b1bfbb385f73d752fe0d5e8ecbc63a26bc49b6c6ce49fb0c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/bba61bd2d0fe89eedaeedc81a1cf8c2cdde75af88a1b4646950760f27e224b62{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "G3uUX86GIn4",
+					"thumbnail_id": "G3uUX86GIn4",
+					"name": "Dev Diary"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "AhotrtSZ18M",
+					"thumbnail_id": "AhotrtSZ18M",
+					"name": "Gameplay Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "nYgeQGQsA9Y",
+					"thumbnail_id": "nYgeQGQsA9Y",
+					"name": "Release Date Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "2CT7eZ1ydPs",
+					"thumbnail_id": "2CT7eZ1ydPs",
+					"name": "Switch Announcement Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "lFQLOwUNR8g",
+					"thumbnail_id": "lFQLOwUNR8g",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "bH3jJWLGOBo",
+					"thumbnail_id": "bH3jJWLGOBo",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "gID34BkfeR0",
+					"thumbnail_id": "gID34BkfeR0",
+					"name": "Dev Diary"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "Y0lK6Zh7ecA",
+					"thumbnail_id": "Y0lK6Zh7ecA",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "cgnygwCJtYU",
+					"thumbnail_id": "cgnygwCJtYU",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "NbHXx5wDv7s",
+					"thumbnail_id": "NbHXx5wDv7s",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "PDmgvRqyhbY",
+					"thumbnail_id": "PDmgvRqyhbY",
+					"name": "Dev Diary"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "Jy5X7DPoUiE",
+					"thumbnail_id": "Jy5X7DPoUiE",
+					"name": "TGA 2021 Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "s1ppcbbGNeE",
+					"thumbnail_id": "s1ppcbbGNeE",
+					"name": "Dev Diary"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "Wj3dUvGLjNQ",
+					"thumbnail_id": "Wj3dUvGLjNQ",
+					"name": "Cinematic Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "GAiaXIxS_4c",
+					"thumbnail_id": "GAiaXIxS_4c",
+					"name": "Announcement Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/9adb1117a597b6c62eb271a055f7f6e98a50ec465a7bf891b768aac464cd9160{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/cfb6cebdc7d940f02b14fcce50ad76cc6d9804746f5c64cab556d10e3fd0a88a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e89c8e339c4c1e203ccadb19a8f3cb893faa5399cbca77971fa372fc2d2560a0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7c1c04b3b858e4a905aa28e479f657ca658e6519905a970bd6b534c18415db84{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Fall Guys flings hordes of contestants together online in a mad dash through round after round of escalating chaos until one victor remains! Battle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics to avoid both humiliation and elimination. Leave your dignity at the door and prepare for hilarious failure in your quest for the crown.",
+				"en-US": "Fall Guys flings hordes of contestants together online in a mad dash through round after round of escalating chaos until one victor remains! Battle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics to avoid both humiliation and elimination. Leave your dignity at the door and prepare for hilarious failure in your quest for the crown."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 76.6,
+			"game_modes": [
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				},
+				{
+					"id": "53316265339172328",
+					"name": "Battle Royale",
+					"slug": "battle-royale"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/c6dfb6084837d5aa8b3a9b66848d47b6db5ca0fd77718b8e233582cac47f2582{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/c6dfb6084837d5aa8b3a9b66848d47b6db5ca0fd77718b8e233582cac47f2582{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/4d04594da58efa29f1ec1fcaba1f26a5646fe9cd71280539ac83192ed5224822{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/4d04594da58efa29f1ec1fcaba1f26a5646fe9cd71280539ac83192ed5224822{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/4d04594da58efa29f1ec1fcaba1f26a5646fe9cd71280539ac83192ed5224822{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/4d04594da58efa29f1ec1fcaba1f26a5646fe9cd71280539ac83192ed5224822{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/7c1c04b3b858e4a905aa28e479f657ca658e6519905a970bd6b534c18415db84{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "fall-guys-2020"
+		},
+		"title": {
+			"*": "Fall Guys",
+			"en-US": "Fall Guys"
+		},
+		"sorting_title": {
+			"*": "Fall Guys",
+			"en-US": "Fall Guys"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Fall Guys flings hordes of contestants together online in a mad dash through round after round of escalating chaos until one victor remains! Battle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics to avoid both humiliation and elimination. Leave your dignity at the door and prepare for hilarious failure in your quest for the crown.",
+			"en-US": "Fall Guys flings hordes of contestants together online in a mad dash through round after round of escalating chaos until one victor remains! Battle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics to avoid both humiliation and elimination. Leave your dignity at the door and prepare for hilarious failure in your quest for the crown."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			},
+			{
+				"id": "53316265339172328",
+				"name": "Battle Royale",
+				"slug": "battle-royale"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/4d04594da58efa29f1ec1fcaba1f26a5646fe9cd71280539ac83192ed5224822{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/4d04594da58efa29f1ec1fcaba1f26a5646fe9cd71280539ac83192ed5224822{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"1348bbc8e8820cdcd262335d1d65c8d4\""
+	},
+	"epic_87be9bd6707748888bce1f79b025c5dd": {
+		"id": "53855992193872075",
+		"game_id": "51153339588335948",
+		"platform_id": "epic",
+		"external_id": "87be9bd6707748888bce1f79b025c5dd",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51153339588335948",
+			"parent_id": null,
+			"dlcs_ids": [
+				"51153339785866947",
+				"51153339801642671",
+				"52038379125610752",
+				"52661083375703501",
+				"52898809363499787",
+				"52982242828781596",
+				"52982323953534501",
+				"52982328944531114",
+				"52982391150813557",
+				"53715464525817646",
+				"53715464713518199",
+				"55949370361232288",
+				"55951678300477093",
+				"55958680580539422",
+				"55958681058226720",
+				"55959834293469350",
+				"55959836347638863",
+				"55959836570952810",
+				"55959836820938605",
+				"55959837011049992",
+				"55959837253048171"
+			],
+			"mods_ids": [],
+			"first_release_date": "2013-06-20T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51153339581090147",
+					"platform_id": "steam",
+					"external_id": "109600",
+					"release_per_platform_id": "steam_109600",
+					"availability": 0
+				},
+				{
+					"id": "51559222744970632",
+					"platform_id": "xboxone",
+					"external_id": "407534069",
+					"release_per_platform_id": "xboxone_407534069",
+					"availability": 0
+				},
+				{
+					"id": "51701635818940590",
+					"platform_id": "xboxone",
+					"external_id": "516538331",
+					"release_per_platform_id": "xboxone_516538331",
+					"availability": 0
+				},
+				{
+					"id": "51753402376214169",
+					"platform_id": "xboxone",
+					"external_id": "443588275",
+					"release_per_platform_id": "xboxone_443588275",
+					"availability": 0
+				},
+				{
+					"id": "52089468173540428",
+					"platform_id": "psn",
+					"external_id": "CUSA05528_00",
+					"release_per_platform_id": "psn_CUSA05528_00",
+					"availability": 0
+				},
+				{
+					"id": "52374289666769568",
+					"platform_id": "psn",
+					"external_id": "CUSA04314_00",
+					"release_per_platform_id": "psn_CUSA04314_00",
+					"availability": 0
+				},
+				{
+					"id": "52383057657179272",
+					"platform_id": "psn",
+					"external_id": "CUSA05681_00",
+					"release_per_platform_id": "psn_CUSA05681_00",
+					"availability": 0
+				},
+				{
+					"id": "52476826312060424",
+					"platform_id": "xboxone",
+					"external_id": "42235288",
+					"release_per_platform_id": "xboxone_42235288",
+					"availability": 0
+				},
+				{
+					"id": "52833862556267927",
+					"platform_id": "psvita",
+					"external_id": "CUSA04314_00",
+					"release_per_platform_id": "psvita_CUSA04314_00",
+					"availability": 0
+				},
+				{
+					"id": "52961398398662329",
+					"platform_id": "test",
+					"external_id": "CUSA04314_00",
+					"release_per_platform_id": "test_CUSA04314_00",
+					"availability": 0
+				},
+				{
+					"id": "53182816740078773",
+					"platform_id": "steam",
+					"external_id": "apps",
+					"release_per_platform_id": "steam_apps",
+					"availability": 0
+				},
+				{
+					"id": "53776177353897658",
+					"platform_id": "test",
+					"external_id": "109600",
+					"release_per_platform_id": "test_109600",
+					"availability": 0
+				},
+				{
+					"id": "53855992193872075",
+					"platform_id": "epic",
+					"external_id": "87be9bd6707748888bce1f79b025c5dd",
+					"release_per_platform_id": "epic_87be9bd6707748888bce1f79b025c5dd",
+					"availability": 0
+				},
+				{
+					"id": "54249975307329464",
+					"platform_id": "test",
+					"external_id": "2434d303bb65410604c6fdf02338bbcef40c9def",
+					"release_per_platform_id": "test_2434d303bb65410604c6fdf02338bbcef40c9def",
+					"availability": 0
+				},
+				{
+					"id": "54249995262636246",
+					"platform_id": "test",
+					"external_id": "e957f80d4e48dca7478abca9210bcf6016892ebe",
+					"release_per_platform_id": "test_e957f80d4e48dca7478abca9210bcf6016892ebe",
+					"availability": 0
+				},
+				{
+					"id": "54250034090324292",
+					"platform_id": "test",
+					"external_id": "87d39947986e1d4ccda77abf257d428bead7a3ba",
+					"release_per_platform_id": "test_87d39947986e1d4ccda77abf257d428bead7a3ba",
+					"availability": 0
+				},
+				{
+					"id": "54908478841216272",
+					"platform_id": "test",
+					"external_id": "gfn_109600",
+					"release_per_platform_id": "test_gfn_109600",
+					"availability": 0
+				},
+				{
+					"id": "55403729299365400",
+					"platform_id": "beamdog",
+					"external_id": "00000000-0000-0000-0000-000000005676",
+					"release_per_platform_id": "beamdog_00000000-0000-0000-0000-000000005676",
+					"availability": 0
+				},
+				{
+					"id": "55406709878237179",
+					"platform_id": "beamdog",
+					"external_id": "87be9bd6707748888bce1f79b025c5dd",
+					"release_per_platform_id": "beamdog_87be9bd6707748888bce1f79b025c5dd",
+					"availability": 0
+				},
+				{
+					"id": "55406917139244338",
+					"platform_id": "test",
+					"external_id": "87be9bd6707748888bce1f79b025c5dd",
+					"release_per_platform_id": "test_87be9bd6707748888bce1f79b025c5dd",
+					"availability": 0
+				},
+				{
+					"id": "55407077066426457",
+					"platform_id": "humble",
+					"external_id": "87be9bd6707748888bce1f79b025c5dd",
+					"release_per_platform_id": "humble_87be9bd6707748888bce1f79b025c5dd",
+					"availability": 0
+				},
+				{
+					"id": "55420956014221933",
+					"platform_id": "egg",
+					"external_id": "87be9bd6707748888bce1f79b025c5dd",
+					"release_per_platform_id": "egg_87be9bd6707748888bce1f79b025c5dd",
+					"availability": 0
+				},
+				{
+					"id": "56142421330572352",
+					"platform_id": "test",
+					"external_id": "gfn_17938411",
+					"release_per_platform_id": "test_gfn_17938411",
+					"availability": 0
+				},
+				{
+					"id": "56163502311378318",
+					"platform_id": "test",
+					"external_id": "steam_109600",
+					"release_per_platform_id": "test_steam_109600",
+					"availability": 0
+				},
+				{
+					"id": "56163630572715347",
+					"platform_id": "test",
+					"external_id": "17938411",
+					"release_per_platform_id": "test_17938411",
+					"availability": 0
+				},
+				{
+					"id": "51153339588335948",
+					"platform_id": "generic",
+					"external_id": "51153339588335948",
+					"release_per_platform_id": "generic_51153339588335948",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "Neverwinter",
+				"en-US": "Neverwinter"
+			},
+			"sorting_title": {
+				"*": "Neverwinter",
+				"en-US": "Neverwinter"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51142027335733958"
+			],
+			"developers": [
+				{
+					"id": "51142027335733958",
+					"name": "Cryptic Studios",
+					"slug": "cryptic-studios"
+				}
+			],
+			"publishers_ids": [
+				"51141820572396819"
+			],
+			"publishers": [
+				{
+					"id": "51141820572396819",
+					"name": "Perfect World Entertainment",
+					"slug": "perfect-world-entertainment"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51071842251704278"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51071842246739768"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51071842246739768",
+					"name": {
+						"*": "Fantasy",
+						"en-US": "Fantasy"
+					},
+					"slug": "fantasy"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/d3540ada80a2cb8d6179ab375cfd49b49edaa76e1e6355bcf0e5d5f62d14bc66{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5ea8f8e5b15b0ab22b4431c59cdd793b7f816b5b669966c0d2c235cb8ddce8be{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7f8b474179aa8cd0ddbe8fd6fb0da0faa460bada068b89f632bbeb525771b300{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1a1a15d3731003519fb106834279ca4765e3378c865d2a3abe5d4d059cb6ae9d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a1e76243919b6b66bb951ac13ce73861afd832aa61ee3f90f6c7b0f3e01024be{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "C7xKyK53cIA",
+					"thumbnail_id": "C7xKyK53cIA",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [],
+			"summary": {
+				"*": "Neverwinter is a free-to-play, action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. Epic stories, action combat and classic roleplaying await those heroes courageous enough to enter the fantastic world of Neverwinter! \r\n \r\nExplore and defend one of the most beloved cities from the Dungeons & Dragons Forgotten Realms Campaign Setting as it rises from the ashes of destruction. This immersive MMORPG will take you from the besieged walls of the city to subterranean passageways in search of forgotten secrets and lost treasure.",
+				"en-US": "Neverwinter is a free-to-play, action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. Epic stories, action combat and classic roleplaying await those heroes courageous enough to enter the fantastic world of Neverwinter!\n\nExplore and defend one of the most beloved cities from the Dungeons & Dragons Forgotten Realms Campaign Setting as it rises from the ashes of destruction. This immersive MMORPG will take you from the besieged walls of the city to subterranean passageways in search of forgotten secrets and lost treasure."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 73.1818,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				},
+				{
+					"id": "53051958246697755",
+					"name": "Massively Multiplayer Online (MMO)",
+					"slug": "massively-multiplayer-online-mmo"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/6fc019fffc429193cbb4ed759bf3cbc5b34b6ab800c32cc33a40410dd4f94a3e{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/6fc019fffc429193cbb4ed759bf3cbc5b34b6ab800c32cc33a40410dd4f94a3e{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/a2f24b16727bcf95d8b6f260c02977178cf9de5cfff21cc887db0d7f0a569852{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/a2f24b16727bcf95d8b6f260c02977178cf9de5cfff21cc887db0d7f0a569852{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/a2f24b16727bcf95d8b6f260c02977178cf9de5cfff21cc887db0d7f0a569852{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/778225ffdd935f2a87ba06219b4f754648979cb1dc628c86662d4c5ce857e2c5{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "neverwinter-2013"
+		},
+		"title": {
+			"*": "Neverwinter",
+			"en-US": "Neverwinter"
+		},
+		"sorting_title": {
+			"*": "Neverwinter",
+			"en-US": "Neverwinter"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Neverwinter is a free-to-play, action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. Epic stories, action combat and classic roleplaying await those heroes courageous enough to enter the fantastic world of Neverwinter! \r\n \r\nExplore and defend one of the most beloved cities from the Dungeons & Dragons Forgotten Realms Campaign Setting as it rises from the ashes of destruction. This immersive MMORPG will take you from the besieged walls of the city to subterranean passageways in search of forgotten secrets and lost treasure.",
+			"en-US": "Neverwinter is a free-to-play, action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. Epic stories, action combat and classic roleplaying await those heroes courageous enough to enter the fantastic world of Neverwinter!\n\nExplore and defend one of the most beloved cities from the Dungeons & Dragons Forgotten Realms Campaign Setting as it rises from the ashes of destruction. This immersive MMORPG will take you from the besieged walls of the city to subterranean passageways in search of forgotten secrets and lost treasure."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			},
+			{
+				"id": "53051958246697755",
+				"name": "Massively Multiplayer Online (MMO)",
+				"slug": "massively-multiplayer-online-mmo"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/a2f24b16727bcf95d8b6f260c02977178cf9de5cfff21cc887db0d7f0a569852{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"4b64bb796be185454a597e0621da1714\""
 	}
 }

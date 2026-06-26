@@ -5,10 +5,11 @@
     "Windows": {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-40.30-CL-53093531-Windows",
+      "build_version": "++Fortnite+Release-41.00-CL-55159917-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
+        "hasDependencyConfig": true,
         "installationPoolId": "FortniteInstallationPool"
       },
       "namespace": "fn",
@@ -151,7 +152,7 @@
       },
       "AllowUriCmdArgsSanitized": {
         "type": "STRING",
-        "value": "^-IslandOverride=(\\d{4}-\\d{4}-\\d{4}|\\w{1,50})$|^-src=[A-Za-z0-9]{1,10}$|^-pl=[A-Za-z0-9]{1,10}$|^-v=[A-Za-z0-9]{1,10}$|^-uilink.*$"
+        "value": "^-IslandOverride=(\\d{4}-\\d{4}-\\d{4}|\\w{1,50})$|^-src=\\d{1,4}$|^-pl=[A-Za-z0-9]{1,10}$|^-v=[A-Za-z0-9]{1,10}$"
       },
       "AppAccessType": {
         "type": "STRING",
@@ -366,6 +367,7 @@
           },
           "OFLC": {
             "ageControl": 0,
+            "descriptorIds": [],
             "elementIds": [],
             "gameRating": "G",
             "isIARC": false,
@@ -415,6 +417,12 @@
             "path": "addons"
           },
           {
+            "path": "games"
+          },
+          {
+            "path": "games/experience"
+          },
+          {
             "path": "applications"
           }
         ],
@@ -460,7 +468,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2026-03-31T07:35:53.027Z",
+        "lastModifiedDate": "2026-06-18T15:44:33.849Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -646,6 +654,12 @@
             "path": "addons"
           },
           {
+            "path": "games"
+          },
+          {
+            "path": "games/experience"
+          },
+          {
             "path": "applications"
           }
         ],
@@ -691,7 +705,7 @@
             "width": 2560
           }
         ],
-        "lastModifiedDate": "2026-04-16T08:50:59.455Z",
+        "lastModifiedDate": "2026-06-18T15:43:56.099Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -808,6 +822,7 @@
           },
           "OFLC": {
             "ageControl": 8,
+            "descriptorIds": [],
             "elementIds": [],
             "gameRating": "PG",
             "isIARC": false,
@@ -854,6 +869,12 @@
             "path": "addons"
           },
           {
+            "path": "games"
+          },
+          {
+            "path": "games/experience"
+          },
+          {
             "path": "applications"
           }
         ],
@@ -895,7 +916,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2026-03-31T07:35:53.213Z",
+        "lastModifiedDate": "2026-06-18T15:45:24.561Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1039,6 +1060,12 @@
             "path": "addons"
           },
           {
+            "path": "games"
+          },
+          {
+            "path": "games/experience"
+          },
+          {
             "path": "applications"
           }
         ],
@@ -1084,7 +1111,7 @@
             "width": 2560
           }
         ],
-        "lastModifiedDate": "2026-04-20T11:00:33.828Z",
+        "lastModifiedDate": "2026-06-18T15:28:07.363Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1125,6 +1152,12 @@
           },
           {
             "path": "addons"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "games/experience"
           },
           {
             "path": "applications"
@@ -1168,7 +1201,7 @@
             "width": 2560
           }
         ],
-        "lastModifiedDate": "2026-04-01T08:09:19.095Z",
+        "lastModifiedDate": "2026-06-18T15:27:38.410Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1355,6 +1388,7 @@
           },
           "OFLC": {
             "ageControl": 8,
+            "descriptorIds": [],
             "element": "",
             "elementIds": [],
             "gameRating": "PG",
@@ -1405,6 +1439,12 @@
             "path": "addons"
           },
           {
+            "path": "games"
+          },
+          {
+            "path": "games/experience"
+          },
+          {
             "path": "applications"
           }
         ],
@@ -1446,7 +1486,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2026-03-31T07:35:53.380Z",
+        "lastModifiedDate": "2026-06-18T15:27:20.586Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1489,11 +1529,22 @@
             "path": "addons"
           },
           {
+            "path": "games"
+          },
+          {
+            "path": "games/experience"
+          },
+          {
             "path": "applications"
           }
         ],
         "creationDate": "2026-03-04T02:47:45.738Z",
-        "customAttributes": {},
+        "customAttributes": {
+          "AdditionalCommandLine": {
+            "type": "STRING",
+            "value": "-epicapp=Fortnite -IslandOverride=campaign"
+          }
+        },
         "description": "Fortnite Save the World",
         "developer": "Epic Games",
         "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
@@ -1525,7 +1576,7 @@
             "width": 2560
           }
         ],
-        "lastModifiedDate": "2026-04-16T11:36:55.303Z",
+        "lastModifiedDate": "2026-06-18T15:26:49.122Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1553,6 +1604,63 @@
         "status": "ACTIVE",
         "title": "Fortnite Save the World",
         "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2026-06-05T09:15:49.978Z",
+        "customAttributes": {
+          "AdditionalCommandLine": {
+            "type": "STRING",
+            "value": "-epicapp=Fortnite -IslandOverride=campaign"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Fortnite PC Modular Save the World Content",
+        "developer": "Epic Games",
+        "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+        "endOfSupport": false,
+        "entitlementName": "0b41f0192f7f4f2691684581aedc0778",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "0b41f0192f7f4f2691684581aedc0778",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2026-06-05T23:45:06.752Z",
+        "mainGameItem": {
+          "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+          "namespace": "fn",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+            "namespace": "fn",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "fn",
+        "releaseInfo": [
+          {
+            "appId": "aa31f9e94e844b299ca757d1d0b97a09",
+            "id": "f9463f3bd55e4a9ab92864e56d80d586",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Fortnite_StWContent",
+        "unsearchable": true
       }
     ],
     "endOfSupport": false,
@@ -1566,42 +1674,42 @@
     "keyImages": [
       {
         "height": 512,
-        "md5": "881fae571211c06df5a2480a1148bbab",
-        "size": 288729,
+        "md5": "7c5ea4497947ffb35f931d066565f0fb",
+        "size": 475504,
         "type": "AndroidIcon",
-        "uploadedDate": "2026-03-19T06:30:20.631Z",
-        "url": "https://cdn1.epicgames.com/item/fn/PurpleJonesy_AppIcon_512x512_512x512-f74e82f0e1e64142ac86379e457458a2_512x512-3576ad07125b48f1a32d6ca6ccbad834",
+        "uploadedDate": "2026-06-06T01:01:53.283Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FN_S41_Dylan_AppIcon_512x512_512x512-501acdf5f2ae4b73bc05a654235c5ef4",
         "width": 512
       },
       {
-        "height": 1440,
-        "md5": "ef4640eebdf722f6ba6f79126c27c0db",
-        "size": 489722,
-        "type": "DieselGameBox",
-        "uploadedDate": "2026-04-16T08:37:11.392Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_40-00_C7S2_Jules_EGS_Launcher_Blade_2560x1440_2560x1440-dfe51d4f80f14d829fe41b2f77ca3932",
-        "width": 2560
+        "height": 800,
+        "md5": "ad47af673262e69fbf690c3cca7aefef",
+        "size": 138663,
+        "type": "Featured",
+        "uploadedDate": "2026-06-06T01:02:08.918Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Mobile_FeatArt_800x800_800x800-ef137aa08d3b4d8aa106bfbb2792734d",
+        "width": 800
       },
       {
         "height": 1600,
-        "md5": "b3d8a4d04a0994185ad39738642dd593",
-        "size": 291471,
+        "md5": "033c046f2c948a16f8067c2eec976f25",
+        "size": 293822,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2026-04-16T08:37:07.282Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_40-00_C7S2_Jules_EGS_Launcher_Blade_1200x1600_1200x1600-5a08eddea94647f0815d69c510c5f562",
+        "uploadedDate": "2026-06-06T01:02:25.828Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_1200x1600_1200x1600-1cd8e8a10f834e4a98bf3237c32761b5",
         "width": 1200
       },
       {
-        "height": 800,
-        "md5": "be39801f95903c254d8a24afb48997c4",
-        "size": 250291,
-        "type": "Featured",
-        "uploadedDate": "2026-03-19T06:25:49.118Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_40-00_C7S2_EGS_FN_Mobile_FeatArt_800x800_800x800-681f0054f9904518be7a5ee2b58a309f",
-        "width": 800
+        "height": 1440,
+        "md5": "fa1086800c52e6e46120610d08974569",
+        "size": 908015,
+        "type": "DieselGameBox",
+        "uploadedDate": "2026-06-06T01:02:30.576Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_2560x1440_2560x1440-acfc25f112da402382b5d7616be40710",
+        "width": 2560
       }
     ],
-    "lastModifiedDate": "2026-04-29T17:00:22.720Z",
+    "lastModifiedDate": "2026-06-06T01:04:17.752Z",
     "legalFooterText": "\u00a92026 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League \u00a92026 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a92026 The LEGO Group. All other trademarks are the property of their respective owners.",
     "longDescription": "Fortnite on mobile brings everything you love about the game onto your favorite on-the-go device. Join and chat with your friends -- regardless of what platform they\u2019re on -- and make progress on your Battle Pass the same way you would on a PC or console!\n\nRequires an internet connection.\n\nPowered by Unreal Engine.",
     "mainGameItemList": [],

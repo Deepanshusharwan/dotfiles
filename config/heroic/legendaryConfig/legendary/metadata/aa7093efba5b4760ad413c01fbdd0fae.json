@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "aa7093efba5b4760ad413c01fbdd0fae",
       "asset_id": "aa7093efba5b4760ad413c01fbdd0fae",
-      "build_version": "50.1.1a",
+      "build_version": "51.0.7a_v2",
       "catalog_item_id": "0073e920c0ca49bc8da9cde44836ebe1",
       "label_name": "Live-Windows",
       "metadata": {
@@ -2466,7 +2466,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-09-24T07:48:15.454Z",
+        "lastModifiedDate": "2026-05-26T10:55:34.622Z",
         "mainGameItem": {
           "id": "0073e920c0ca49bc8da9cde44836ebe1",
           "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
@@ -4190,6 +4190,62 @@
         "title": "Asphalt Legends -- hololive Decals: Discounted Offer 2_ConsumableAudience",
         "unsearchable": false,
         "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-05-14T15:00:11.416Z",
+        "description": "Get three exclusive decals for the Mercedes-Benz SLR McLaren, Kepler Motion and Bentley Mulliner Bacalar!",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "537370030bcc457ca2d391ee3a60846e",
+        "entitlementType": "EXECUTABLE",
+        "id": "537370030bcc457ca2d391ee3a60846e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Asphalt Legends Asphalt Legends -- Decal Pack Offer",
+            "height": 1440,
+            "md5": "574ac2805b8e78ec3c3755dfaaf2f8bc",
+            "size": 2779687,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-05-06T08:05:17.185Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-2fn53.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Asphalt Legends Asphalt Legends -- Decal Pack Offer",
+            "height": 1600,
+            "md5": "736465ac77507a894205796cd10976ce",
+            "size": 196273,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-05-06T08:05:15.863Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-ojip7.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-05-14T15:00:11.416Z",
+        "mainGameItem": {
+          "id": "0073e920c0ca49bc8da9cde44836ebe1",
+          "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0073e920c0ca49bc8da9cde44836ebe1",
+            "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Asphalt Legends -- Decal Pack",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -4219,7 +4275,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-04-23T14:19:43.202Z",
+    "lastModifiedDate": "2026-05-14T15:00:11.581Z",
     "mainGameItemList": [],
     "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
     "releaseInfo": [

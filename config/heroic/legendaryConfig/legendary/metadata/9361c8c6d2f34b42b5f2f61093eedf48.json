@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "2605.1.1.85",
+      "build_version": "2606.1.1.101",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -13,7 +13,7 @@
         "update_type": "PATCH"
       },
       "namespace": "eb99ee4694474e8da0b05a8ab391825c",
-      "sidecar_rev": 0
+      "sidecar_rev": 1
     }
   },
   "base_urls": [],
@@ -57,7 +57,7 @@
         "entitlementType": "AUDIENCE",
         "id": "59e7e1adf9774598a96da5f20ff31e93",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-05-13T00:00:26.514Z",
+        "lastModifiedDate": "2026-06-17T00:00:28.949Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -95,7 +95,7 @@
         "entitlementType": "AUDIENCE",
         "id": "cf32093d3f444167966b7d08a82062cc",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-05-13T00:00:26.514Z",
+        "lastModifiedDate": "2026-06-17T00:00:28.949Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -133,7 +133,7 @@
         "entitlementType": "AUDIENCE",
         "id": "5fe30d97bcac4130abbed745cb9e48c0",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-05-13T00:00:26.514Z",
+        "lastModifiedDate": "2026-06-17T00:00:28.949Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -171,7 +171,7 @@
         "entitlementType": "AUDIENCE",
         "id": "7df47cc650744d12829ed9995f8a167a",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-05-13T00:00:27.742Z",
+        "lastModifiedDate": "2026-06-17T00:00:27.714Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -209,7 +209,7 @@
         "entitlementType": "AUDIENCE",
         "id": "18f04d12c558442f87193545610b9ab8",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-05-13T00:00:26.514Z",
+        "lastModifiedDate": "2026-06-17T00:00:27.714Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -247,7 +247,7 @@
         "entitlementType": "AUDIENCE",
         "id": "15c6cc9b41e242859e028b1850a649fd",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-05-13T00:00:26.514Z",
+        "lastModifiedDate": "2026-06-17T00:00:27.714Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -285,7 +285,7 @@
         "entitlementType": "AUDIENCE",
         "id": "2173e8136e374afb833169723bf7325c",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-05-13T00:00:26.514Z",
+        "lastModifiedDate": "2026-06-17T00:00:27.714Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -323,7 +323,7 @@
         "entitlementType": "AUDIENCE",
         "id": "211f08a072c749d88813e2759872dc88",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-05-13T00:00:26.514Z",
+        "lastModifiedDate": "2026-06-17T00:00:27.714Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -2958,6 +2958,248 @@
         "status": "ACTIVE",
         "title": "v2605 Event Pass: Payday_SeasonPassAudience",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-06-17T00:00:27.790Z",
+        "description": "v2606 Crafter Pass: Black Market 2026_SeasonPassAudience",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "f3684279aa514cd69c10b56281b25586",
+        "entitlementType": "AUDIENCE",
+        "id": "f3684279aa514cd69c10b56281b25586",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-06-17T00:00:27.790Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "v2606 Crafter Pass: Black Market 2026_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-06-17T00:00:27.783Z",
+        "description": "(EVENT) 500 + 500 BONUS\n\nThis event product will be closed on Jun 24th at 00:00 (UTC).You can only purchase once per account.",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "7e8b58294bd7442fa5af1c07e1149446",
+        "entitlementType": "EXECUTABLE",
+        "id": "7e8b58294bd7442fa5af1c07e1149446",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "PUBG BATTLEGROUNDS 2026 Double G-Coin I Offer",
+            "height": 1440,
+            "md5": "a2625dbb4764e022b3cca38eec2e60fa",
+            "size": 231940,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-05-14T04:32:16.363Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-tsom7.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download PUBG BATTLEGROUNDS 2026 Double G-Coin I Offer",
+            "height": 1600,
+            "md5": "0a02a867bd228176ae764bdb0d35b9ad",
+            "size": 1760830,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-05-14T04:32:11.917Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-1j4ba.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-06-17T00:00:27.783Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2026 Double G-Coin I",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-06-17T00:00:27.774Z",
+        "description": "(EVENT) 2,500 + 2,500 Bonus\n\nThis event product will be closed on Jun 24th at 00:00 (UTC).\nYou can only purchase once per account.",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "5410950eefbe46979e8700f85bb61784",
+        "entitlementType": "EXECUTABLE",
+        "id": "5410950eefbe46979e8700f85bb61784",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "PUBG BATTLEGROUNDS 2026 Double G-Coin II Offer",
+            "height": 1440,
+            "md5": "6501071b3ae25086082a85fc9bb9fbe0",
+            "size": 236676,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-05-14T04:43:35.826Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-4wuyt.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download PUBG BATTLEGROUNDS 2026 Double G-Coin II Offer",
+            "height": 1600,
+            "md5": "a2c6b3e552401f7764f63f6f1cd85716",
+            "size": 1877744,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-05-14T04:43:35.226Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-1ynbj.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-06-17T00:00:27.774Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2026 Double G-Coin II",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-06-17T00:00:27.778Z",
+        "description": "v2606 Event Pass: PNC 2026_SeasonPassAudience",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "7a8f9c3c7ff742bea82cb30404ab9fcb",
+        "entitlementType": "AUDIENCE",
+        "id": "7a8f9c3c7ff742bea82cb30404ab9fcb",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-06-17T00:00:27.778Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "v2606 Event Pass: PNC 2026_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-06-17T00:00:27.786Z",
+        "description": "(EVENT) 5,000 + 5,000 Bonus\n\nThis event product will be closed on Jun 24th at 00:00 (UTC).\nYou can only purchase once per account.",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "c3ae34ff0751447bba8c59e54e7bc2ec",
+        "entitlementType": "EXECUTABLE",
+        "id": "c3ae34ff0751447bba8c59e54e7bc2ec",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "PUBG BATTLEGROUNDS 2026 Double G-Coin III Offer",
+            "height": 1440,
+            "md5": "3b4c7a954d3451a6244d7994c02687c1",
+            "size": 224914,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-05-14T04:48:04.711Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-zpdgy.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download PUBG BATTLEGROUNDS 2026 Double G-Coin III Offer",
+            "height": 1600,
+            "md5": "2de45ef85eb1205406d24374ac96e62f",
+            "size": 1780108,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-05-14T04:48:08.666Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-s7jjq.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-06-17T00:00:27.786Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2026 Double G-Coin III",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -2988,7 +3230,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-05-13T00:00:27.567Z",
+    "lastModifiedDate": "2026-06-17T00:00:28.752Z",
     "mainGameItemList": [],
     "namespace": "eb99ee4694474e8da0b05a8ab391825c",
     "releaseInfo": [
@@ -3006,5 +3248,10 @@
     "title": "PUBG: BATTLEGROUNDS",
     "unsearchable": false
   },
-  "sidecar": null
+  "sidecar": {
+    "config": {
+      "deploymentId": "0766d60b6de74c5aa0d190c2608cd2c6"
+    },
+    "rev": 1
+  }
 }

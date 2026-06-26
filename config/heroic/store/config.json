@@ -62,16 +62,12 @@
 	"window-props": {
 		"x": 0,
 		"y": 0,
-		"width": 854,
-		"height": 966,
+		"width": 1722,
+		"height": 936,
 		"maximized": true
 	},
 	"games": {
 		"recent": [
-			{
-				"appName": "Sugar",
-				"title": "Rocket League®"
-			},
 			{
 				"appName": "2ku1S1aDfG9g8W2Jnornb9",
 				"title": "need for speed most wanted"
@@ -79,6 +75,14 @@
 			{
 				"appName": "iF34kg1P1ePHfAEE5weSmp",
 				"title": "silksong"
+			},
+			{
+				"appName": "0a2d9f6403244d12969e11da6713137b",
+				"title": "Fall Guys"
+			},
+			{
+				"appName": "Sugar",
+				"title": "Rocket League®"
 			},
 			{
 				"appName": "raDncBWBneWm7EH8bfAS9W",
@@ -91,10 +95,6 @@
 			{
 				"appName": "aa7093efba5b4760ad413c01fbdd0fae",
 				"title": "Asphalt Legends"
-			},
-			{
-				"appName": "0a2d9f6403244d12969e11da6713137b",
-				"title": "Fall Guys"
 			},
 			{
 				"appName": "575efd0b5dd54429b035ffc8fe2d36d0",

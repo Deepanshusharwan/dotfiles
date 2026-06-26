@@ -2,16 +2,16 @@
   "0a2d9f6403244d12969e11da6713137b": {
     "app_name": "0a2d9f6403244d12969e11da6713137b",
     "base_urls": [
-      "https://fastly-download.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
-      "https://download.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
+      "https://egdownload.fastly-edge.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
       "https://epicgames-download1.akamaized.net/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
-      "https://cloudflare.epicgamescdn.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default"
+      "https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
+      "https://download.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default"
     ],
     "can_run_offline": true,
     "egl_guid": "",
     "executable": "RunFallGuys.exe",
     "install_path": "/home/deepanshu/Games/Heroic/FallGuys",
-    "install_size": 8069426875,
+    "install_size": 8072096171,
     "install_tags": [],
     "is_dlc": false,
     "launch_parameters": "",
@@ -31,7 +31,8 @@
     "save_timestamp": null,
     "title": "Fall Guys",
     "uninstaller": null,
-    "version": "EGS_11163"
+    "use_signed_url": false,
+    "version": "EGS_11323"
   },
   "Sugar": {
     "app_name": "Sugar",

@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "86ae9acccf8443e18fca6950e0181288",
       "asset_id": "86ae9acccf8443e18fca6950e0181288",
-      "build_version": "4.2.0",
+      "build_version": "4.3.0",
       "catalog_item_id": "101391ece6024e069a7cb8cf22104399",
       "label_name": "Live-Windows",
       "metadata": {
@@ -1668,25 +1668,25 @@
       {
         "alt": "Honkai Star Rail Offer",
         "height": 1440,
-        "md5": "86874e0610d10cb19dc6de1d23d8b32f",
-        "size": 1996123,
+        "md5": "841f475fb90e4e9e91b62056a018cc8b",
+        "size": 1524811,
         "type": "DieselGameBox",
-        "uploadedDate": "2026-04-16T09:46:25.703Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-15xyb.jpg",
+        "uploadedDate": "2026-05-25T08:25:18.316Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-h3rwc.jpg",
         "width": 2560
       },
       {
         "alt": "Download Honkai Star Rail Offer",
         "height": 1600,
-        "md5": "6a4bba293c90d1bb750734871463bc08",
-        "size": 1039672,
+        "md5": "85f2181938d95760388dae0646abaf57",
+        "size": 422871,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2026-04-16T09:46:41.070Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-1xsd8.jpg",
+        "uploadedDate": "2026-05-25T08:25:28.557Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-to9r4.jpg",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-04-21T22:00:21.298Z",
+    "lastModifiedDate": "2026-05-31T22:00:21.545Z",
     "mainGameItemList": [],
     "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
     "releaseInfo": [
@@ -1703,5 +1703,10 @@
     "title": "Honkai: Star Rail",
     "unsearchable": true
   },
-  "sidecar": null
+  "sidecar": {
+    "config": {
+      "deploymentId": "972749e4c951406aaf5fd8552910b8af"
+    },
+    "rev": 1
+  }
 }

@@ -1,3 +1,3 @@
-2026/05/13-19:15:05.816 c4d Reusing MANIFEST /home/deepanshu/.config/heroic/Local Storage/leveldb/MANIFEST-000001
-2026/05/13-19:15:05.821 c4d Recovering log #3
-2026/05/13-19:15:05.825 c4d Reusing old log /home/deepanshu/.config/heroic/Local Storage/leveldb/000003.log 
+2026/06/21-09:54:00.826 1d4511 Reusing MANIFEST /home/deepanshu/.config/heroic/Local Storage/leveldb/MANIFEST-000001
+2026/06/21-09:54:00.852 1d4511 Recovering log #4
+2026/06/21-09:54:00.853 1d4511 Reusing old log /home/deepanshu/.config/heroic/Local Storage/leveldb/000004.log 

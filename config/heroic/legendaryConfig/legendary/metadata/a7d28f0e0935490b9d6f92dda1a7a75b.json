@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
       "asset_id": "a7d28f0e0935490b9d6f92dda1a7a75b",
-      "build_version": "56489_2026-04-29-04-45-26",
+      "build_version": "58152_2026-05-27-10-28-02",
       "catalog_item_id": "d53f8dc5825748849ca0890279c3dad7",
       "label_name": "Live-Windows",
       "metadata": {
@@ -128,7 +128,7 @@
             "path": "public"
           }
         ],
-        "creationDate": "2026-04-24T02:50:25.789Z",
+        "creationDate": "2026-04-15T06:53:48.107Z",
         "description": "Battle Pass Upgrade_ConsumableAudience",
         "developer": "Netease Interactive Entertainment Pte.Ltd",
         "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
@@ -137,7 +137,7 @@
         "entitlementType": "AUDIENCE",
         "id": "854866ec92c94c3b91b6af28f46e2101",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-04-24T02:50:25.789Z",
+        "lastModifiedDate": "2026-05-14T12:00:16.493Z",
         "mainGameItem": {
           "id": "d53f8dc5825748849ca0890279c3dad7",
           "namespace": "4806012311744989a5f96d97a42f7829",
@@ -318,7 +318,7 @@
             "path": "public"
           }
         ],
-        "creationDate": "2026-04-24T02:50:25.774Z",
+        "creationDate": "2026-04-15T06:51:04.400Z",
         "description": "Monthly Fund_ConsumableAudience",
         "developer": "Netease Interactive Entertainment Pte.Ltd",
         "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
@@ -327,7 +327,7 @@
         "entitlementType": "AUDIENCE",
         "id": "2c220dfa241e433ea467eb2d8e7631b7",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-04-24T02:50:25.774Z",
+        "lastModifiedDate": "2026-05-14T12:00:16.493Z",
         "mainGameItem": {
           "id": "d53f8dc5825748849ca0890279c3dad7",
           "namespace": "4806012311744989a5f96d97a42f7829",
@@ -394,7 +394,7 @@
             "path": "public"
           }
         ],
-        "creationDate": "2026-04-24T02:50:25.795Z",
+        "creationDate": "2026-04-15T06:51:36.560Z",
         "description": "Elite Battle Pass_ConsumableAudience",
         "developer": "Netease Interactive Entertainment Pte.Ltd",
         "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
@@ -403,7 +403,7 @@
         "entitlementType": "AUDIENCE",
         "id": "de7e8d341b554dafba3ae82f890f97fa",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-04-24T02:50:25.795Z",
+        "lastModifiedDate": "2026-05-14T12:00:16.493Z",
         "mainGameItem": {
           "id": "d53f8dc5825748849ca0890279c3dad7",
           "namespace": "4806012311744989a5f96d97a42f7829",
@@ -536,6 +536,138 @@
         "title": "600 Echo Beads_ConsumableAudience",
         "unsearchable": false,
         "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-04-24T02:38:25.620Z",
+        "description": "Epic Bonus Packs offer significant upgrades and in-game currency.\nThe following consumables can help players progress through the game faster:\nCoin*100000\nInner Way Note: Random*2\nMessage Horn: Far*1\nPillow Pill*1\nSoftweave Dye Powder*5",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "8b8638373e7047c7bf9c6a7134937c77",
+        "entitlementType": "EXECUTABLE",
+        "id": "8b8638373e7047c7bf9c6a7134937c77",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Where Winds Meet Epic Launch Gift Pack Offer",
+            "height": 1440,
+            "md5": "a69b9bbf53498b3dfbdc789f13158bec",
+            "size": 3442413,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-05-06T03:10:09.921Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a55e4c8b015d445195aab2f028deace6/where-winds-meet-dubf4.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Where Winds Meet Epic Launch Gift Pack Offer",
+            "height": 1600,
+            "md5": "e3352041a7d22f09791d4e3f9f95d3d6",
+            "size": 1389536,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-05-06T06:14:59.004Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a55e4c8b015d445195aab2f028deace6/where-winds-meet-dcvzp.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-05-15T02:13:01.487Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Epic Launch Gift Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-05-20T02:40:33.731Z",
+        "description": "0.99 Dollar Gift_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "3e6b2edbe70f41ef895c2482c122efb6",
+        "entitlementType": "AUDIENCE",
+        "id": "3e6b2edbe70f41ef895c2482c122efb6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-05-20T02:40:33.731Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "0.99 Dollar Gift_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-05-20T02:40:33.734Z",
+        "description": "Event Pass_ConsumableAudience",
+        "developer": "Netease Interactive Entertainment Pte.Ltd",
+        "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+        "endOfSupport": false,
+        "entitlementName": "ff3ea0c87111485f83acf4d07aded354",
+        "entitlementType": "AUDIENCE",
+        "id": "ff3ea0c87111485f83acf4d07aded354",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-05-20T02:40:33.734Z",
+        "mainGameItem": {
+          "id": "d53f8dc5825748849ca0890279c3dad7",
+          "namespace": "4806012311744989a5f96d97a42f7829",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d53f8dc5825748849ca0890279c3dad7",
+            "namespace": "4806012311744989a5f96d97a42f7829",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4806012311744989a5f96d97a42f7829",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
       }
     ],
     "endOfSupport": false,
@@ -566,7 +698,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-04-24T02:50:27.239Z",
+    "lastModifiedDate": "2026-05-20T02:40:33.942Z",
     "mainGameItemList": [],
     "namespace": "4806012311744989a5f96d97a42f7829",
     "releaseInfo": [

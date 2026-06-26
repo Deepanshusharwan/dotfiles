@@ -2,7 +2,10 @@
 	"__timestamp": {
 		"Fortnite": "Sat Apr 25 2026 01:44:03 GMT+0530 (India Standard Time)",
 		"602eb4abc8764c87b7f2607a1ef8c18e": "Sun May 03 2026 23:35:58 GMT+0530 (India Standard Time)",
-		"Sugar": "Mon May 04 2026 01:03:15 GMT+0530 (India Standard Time)"
+		"Sugar": "Mon May 04 2026 01:03:15 GMT+0530 (India Standard Time)",
+		"0a2d9f6403244d12969e11da6713137b": "Wed May 13 2026 23:12:19 GMT+0530 (India Standard Time)",
+		"87be9bd6707748888bce1f79b025c5dd": "Sun May 17 2026 17:19:06 GMT+0530 (India Standard Time)",
+		"504bf18950934ee197b398f97f2b95f5": "Sun May 17 2026 17:54:03 GMT+0530 (India Standard Time)"
 	},
 	"Fortnite": {
 		"game": {
@@ -803,6 +806,159 @@
 			"num_chunks": 36983,
 			"disk_size": 41227791062,
 			"download_size": 38049337461,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"use_signed_urls": false
+		}
+	},
+	"0a2d9f6403244d12969e11da6713137b": {
+		"game": {
+			"app_name": "0a2d9f6403244d12969e11da6713137b",
+			"title": "Fall Guys",
+			"version": "EGS_11323",
+			"platform_versions": {
+				"Windows": "EGS_11323"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "EGS_11163",
+			"disk_size": 8069426875,
+			"install_path": "/home/deepanshu/Games/Heroic/FallGuys",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 554914,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "6639ac64bde54f4b8e6dabbedba80edd",
+			"launch_exe": "RunFallGuys.exe",
+			"launch_command": "",
+			"build_version": "EGS_11323",
+			"build_id": "H_F1KOx2dkHzgHO_03KXHfDvgLs",
+			"prerequisites": {
+				"ids": [
+					"EOSAntiCheatFallGuys"
+				],
+				"name": "",
+				"path": "EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe",
+				"args": "install d42d7101bb7a41c09a810ee418b7d3d0"
+			},
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 760,
+			"num_chunks": 7702,
+			"disk_size": 8072096171,
+			"download_size": 7133271245,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"use_signed_urls": false
+		}
+	},
+	"87be9bd6707748888bce1f79b025c5dd": {
+		"game": {
+			"app_name": "87be9bd6707748888bce1f79b025c5dd",
+			"title": "Neverwinter",
+			"version": "CL_2023_07_14_17_29",
+			"platform_versions": {
+				"Windows": "CL_2023_07_14_17_29"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 23654,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "87be9bd6707748888bce1f79b025c5dd",
+			"launch_exe": "Neverwinter.exe",
+			"launch_command": "-launchedfrom Epic",
+			"build_version": "CL_2023_07_14_17_29",
+			"build_id": "9D8kcU0_8viuBoRR9ElQCTvaFfA",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 21,
+			"num_chunks": 424,
+			"disk_size": 443182085,
+			"download_size": 216170769,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"use_signed_urls": false
+		}
+	},
+	"504bf18950934ee197b398f97f2b95f5": {
+		"game": {
+			"app_name": "504bf18950934ee197b398f97f2b95f5",
+			"title": "Hone",
+			"version": "1.3.1",
+			"platform_versions": {
+				"Windows": "1.3.1"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 26250,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "504bf18950934ee197b398f97f2b95f5",
+			"launch_exe": "Hone.exe",
+			"launch_command": "",
+			"build_version": "1.3.1",
+			"build_id": "M6YdhI8FHECZ8oqYocT0_g",
+			"prerequisites": {
+				"ids": [
+					"5351375F18BBCB0CCBF4CA301ED315A624208C33"
+				],
+				"name": "",
+				"path": "EpicGamesHoneSetup.exe",
+				"args": "-install"
+			},
+			"uninstaller": {
+				"path": "EpicGamesHoneSetup.exe",
+				"args": "-uninstall"
+			},
+			"install_tags": [
+				""
+			],
+			"num_files": 74,
+			"num_chunks": 342,
+			"disk_size": 354871786,
+			"download_size": 155222807,
 			"tag_disk_size": [],
 			"tag_download_size": [],
 			"use_signed_urls": false

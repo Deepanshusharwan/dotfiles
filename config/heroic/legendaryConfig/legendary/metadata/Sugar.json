@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "++Prime+Update58.1-CL-517210",
+      "build_version": "++Prime+Update59-CL-519749",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -9181,6 +9181,8 @@
         "unsearchable": true
       },
       {
+        "ageGatings": {},
+        "applicationId": "",
         "categories": [
           {
             "path": "addons"
@@ -9193,7 +9195,7 @@
             "value": "true"
           }
         },
-        "description": "Warpriest",
+        "description": "Triplex Wheels",
         "developer": "Psyonix LLC",
         "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
         "endOfSupport": false,
@@ -9204,7 +9206,8 @@
         ],
         "id": "60715bc34a1a4bf08bf49046b4f0a0ea",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2026-04-15T23:48:33.390Z",
+        "keyImages": [],
+        "lastModifiedDate": "2026-05-14T14:44:44.817Z",
         "mainGameItem": {
           "id": "530145df28a24424923f5828cc9031a1",
           "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
@@ -9221,7 +9224,183 @@
         "releaseInfo": [],
         "requiresSecureAccount": false,
         "status": "ACTIVE",
-        "title": "Warpriest",
+        "title": "Triplex Wheels",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-05-20T22:15:37.304Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season 23 Rookie Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "53ba0315ea3045bb96ee3c203c1f33b8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "53ba0315ea3045bb96ee3c203c1f33b8",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-05-20T22:15:37.304Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season 23 Rookie Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-05-20T22:16:15.862Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season  23 Veteran Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "ae5a737a80fb4eefaa656df47e553ddf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ae5a737a80fb4eefaa656df47e553ddf",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-05-20T22:16:15.862Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season  23 Veteran Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-05-20T22:16:45.299Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season  23 Elite Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "2abe4441df7144638fba7a8d360e5acb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2abe4441df7144638fba7a8d360e5acb",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-05-20T22:16:45.299Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season  23 Elite Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-05-20T22:17:27.719Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season 23 Rocketeer Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "206efc78eacd4198b3033db5ccd3db96",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "206efc78eacd4198b3033db5ccd3db96",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-05-20T22:17:27.719Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season 23 Rocketeer Pack",
         "unsearchable": true
       }
     ],
@@ -9253,7 +9432,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-04-29T22:24:01.091Z",
+    "lastModifiedDate": "2026-05-20T22:17:27.731Z",
     "mainGameItemList": [],
     "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
     "releaseInfo": [
