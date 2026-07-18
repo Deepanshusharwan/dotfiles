@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
       "asset_id": "a7d28f0e0935490b9d6f92dda1a7a75b",
-      "build_version": "58152_2026-05-27-10-28-02",
+      "build_version": "59428_2026-06-27-06-17-26",
       "catalog_item_id": "d53f8dc5825748849ca0890279c3dad7",
       "label_name": "Live-Windows",
       "metadata": {
@@ -13,7 +13,7 @@
         "update_type": "PATCH"
       },
       "namespace": "4806012311744989a5f96d97a42f7829",
-      "sidecar_rev": 0
+      "sidecar_rev": 1
     }
   },
   "base_urls": [],
@@ -698,7 +698,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-05-20T02:40:33.942Z",
+    "lastModifiedDate": "2026-06-30T02:19:54.439Z",
     "mainGameItemList": [],
     "namespace": "4806012311744989a5f96d97a42f7829",
     "releaseInfo": [
@@ -715,5 +715,10 @@
     "title": "Where Winds Meet",
     "unsearchable": false
   },
-  "sidecar": null
+  "sidecar": {
+    "config": {
+      "deploymentId": "993c236d056541fd84a0ac41f616662a"
+    },
+    "rev": 1
+  }
 }

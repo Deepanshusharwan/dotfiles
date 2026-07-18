@@ -5,12 +5,12 @@
     "Windows": {
       "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
       "asset_id": "8b6a0e1413744785a43c9f9f9547b4d6",
-      "build_version": "aircombat_store_windows_e1deafcc_2026-06-08_02-05",
+      "build_version": "aircombat_store_windows_3834cb17_2026-06-27_12-51",
       "catalog_item_id": "37bdf2283730476b89fa027acfab7491",
       "label_name": "Live-Windows",
       "metadata": {},
       "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
-      "sidecar_rev": 0
+      "sidecar_rev": 1
     }
   },
   "base_urls": [],
@@ -74,7 +74,7 @@
         "entitlementType": "AUDIENCE",
         "id": "a6650d61f8984c169e6b7a6ce99ea52f",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:21.487Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.073Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -112,7 +112,7 @@
         "entitlementType": "AUDIENCE",
         "id": "f98ad104b6874ca48e987308eabdc5f5",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:21.487Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.073Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -150,7 +150,7 @@
         "entitlementType": "AUDIENCE",
         "id": "f38a8a61aca74205af343e2e756e3210",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:21.487Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.073Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -188,7 +188,7 @@
         "entitlementType": "AUDIENCE",
         "id": "e49fb228821a450bb69eada045fc334b",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:22.317Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.988Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -226,7 +226,7 @@
         "entitlementType": "AUDIENCE",
         "id": "332d3fdb7e5644c396b41060ddf41fa8",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:21.487Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.073Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -264,7 +264,7 @@
         "entitlementType": "AUDIENCE",
         "id": "71aa014120fd4c89a4b5a8d6957a9c32",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:22.317Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.988Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -302,7 +302,7 @@
         "entitlementType": "AUDIENCE",
         "id": "30ce417410834bdc82223a2146949349",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:22.317Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.988Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -340,7 +340,7 @@
         "entitlementType": "AUDIENCE",
         "id": "c201272747e94a2abd9a94eb4359c9e6",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:21.487Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.073Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -378,7 +378,7 @@
         "entitlementType": "AUDIENCE",
         "id": "c4870915f15f48aca85b2ab303e4b767",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:21.487Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.073Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -416,7 +416,7 @@
         "entitlementType": "AUDIENCE",
         "id": "f05e6c5a0ae3443e8f2c3d7024bee1eb",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:22.317Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.988Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -492,7 +492,7 @@
         "entitlementType": "AUDIENCE",
         "id": "d7b30aea5df5467487627c7479b9e98b",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:22.317Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.988Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -530,7 +530,7 @@
         "entitlementType": "AUDIENCE",
         "id": "0e5771805e1d494fa598edb6e1d58161",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:22.317Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.988Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -568,7 +568,7 @@
         "entitlementType": "AUDIENCE",
         "id": "072f2a0650a44ccdb25e28fcdbabd34d",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:21.487Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.073Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -606,7 +606,7 @@
         "entitlementType": "AUDIENCE",
         "id": "ce38f73bff5445939f917484b60b0ea0",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:22.317Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.988Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -644,7 +644,7 @@
         "entitlementType": "AUDIENCE",
         "id": "276a4d5c27584c8c87574707d552d54b",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:22.317Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.988Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -682,7 +682,7 @@
         "entitlementType": "AUDIENCE",
         "id": "8b18469f70d440c9b0db8cca9c8fa0f8",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:22.317Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.988Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -720,7 +720,7 @@
         "entitlementType": "AUDIENCE",
         "id": "5539c588528b4f87b2936a06a42255dc",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:21.487Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.073Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -749,7 +749,7 @@
             "path": "public"
           }
         ],
-        "creationDate": "2025-03-10T17:17:21.501Z",
+        "creationDate": "2025-03-06T23:55:08.506Z",
         "description": "Starter bundle_ConsumableAudience",
         "developer": "Starform Inc.",
         "developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
@@ -758,7 +758,7 @@
         "entitlementType": "AUDIENCE",
         "id": "c40ce74a71aa45dea53458d932d794f8",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-03-10T17:17:21.501Z",
+        "lastModifiedDate": "2026-06-18T16:36:16.073Z",
         "mainGameItem": {
           "id": "37bdf2283730476b89fa027acfab7491",
           "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
@@ -1005,6 +1005,82 @@
         "title": "Metalstorm - Daily Offer_ConsumableAudience",
         "unsearchable": false,
         "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-06-18T16:36:16.108Z",
+        "description": "Metalstorm - Special Offer_ConsumableAudience",
+        "developer": "Starform Inc.",
+        "developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+        "endOfSupport": false,
+        "entitlementName": "6865a7e5cbd54832a059f2ddcc85c687",
+        "entitlementType": "AUDIENCE",
+        "id": "6865a7e5cbd54832a059f2ddcc85c687",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-06-18T16:36:16.108Z",
+        "mainGameItem": {
+          "id": "37bdf2283730476b89fa027acfab7491",
+          "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37bdf2283730476b89fa027acfab7491",
+            "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Metalstorm - Special Offer_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-06-24T23:20:52.688Z",
+        "description": "Metalstorm - Special Offer_ConsumableAudience",
+        "developer": "Starform Inc.",
+        "developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+        "endOfSupport": false,
+        "entitlementName": "02e09848752d4300950a162eae094530",
+        "entitlementType": "AUDIENCE",
+        "id": "02e09848752d4300950a162eae094530",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-06-24T23:20:52.688Z",
+        "mainGameItem": {
+          "id": "37bdf2283730476b89fa027acfab7491",
+          "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37bdf2283730476b89fa027acfab7491",
+            "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Metalstorm - Special Offer_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
       }
     ],
     "endOfSupport": false,
@@ -1035,7 +1111,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-06-05T15:23:27.329Z",
+    "lastModifiedDate": "2026-06-24T23:20:52.843Z",
     "mainGameItemList": [],
     "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
     "releaseInfo": [
@@ -1052,5 +1128,10 @@
     "title": "Metalstorm",
     "unsearchable": true
   },
-  "sidecar": null
+  "sidecar": {
+    "config": {
+      "deploymentId": "a9426d68fcea410d98d420fe6e1e3ef1"
+    },
+    "rev": 1
+  }
 }

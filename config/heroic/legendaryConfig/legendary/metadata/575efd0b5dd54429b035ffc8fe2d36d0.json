@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
       "asset_id": "575efd0b5dd54429b035ffc8fe2d36d0",
-      "build_version": "1.1.3620243",
+      "build_version": "1.1.3684529",
       "catalog_item_id": "27556e7cd968479daee8cc7bd77aebdd",
       "label_name": "Live-Windows",
       "metadata": {
@@ -63,7 +63,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-06-15T06:49:15.362Z",
+    "lastModifiedDate": "2026-07-13T02:32:41.135Z",
     "mainGameItemList": [],
     "namespace": "38e211ced4e448a5a653a8d1e13fef18",
     "releaseInfo": [

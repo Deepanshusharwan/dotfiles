@@ -62,12 +62,16 @@
 	"window-props": {
 		"x": 0,
 		"y": 0,
-		"width": 1722,
-		"height": 936,
+		"width": 2554,
+		"height": 1404,
 		"maximized": true
 	},
 	"games": {
 		"recent": [
+			{
+				"appName": "6uWL7EY41gKM4Gzv4WMPLH",
+				"title": "Lethal Company"
+			},
 			{
 				"appName": "2ku1S1aDfG9g8W2Jnornb9",
 				"title": "need for speed most wanted"

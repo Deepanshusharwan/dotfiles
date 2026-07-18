@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-41.00-CL-55159917-Windows",
+      "build_version": "++Fortnite+Release-41.10-CL-55227503-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
@@ -885,7 +885,7 @@
             "value": "-epicapp=Fortnite -IslandOverride=playlist_juno"
           }
         },
-        "description": "LEGO\u00ae Fortnite\u00ae",
+        "description": "LEGO\u00ae Fortnite: Odyssey",
         "developer": "Epic Games",
         "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
         "endOfSupport": false,
@@ -899,24 +899,24 @@
         "keyImages": [
           {
             "height": 1440,
-            "md5": "7fe29ccae709fe851821433f56f3ef70",
-            "size": 976142,
+            "md5": "5765937c30aebb962ae81a6431f819f5",
+            "size": 896414,
             "type": "DieselGameBox",
-            "uploadedDate": "2024-09-11T22:06:05.868Z",
-            "url": "https://cdn1.epicgames.com/item/fn/FNJN_31-20_Lost-Isles_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-7fe29ccae709fe851821433f56f3ef70",
+            "uploadedDate": "2026-06-19T15:47:26.915Z",
+            "url": "https://cdn1.epicgames.com/item/fn/FNJN_33-10_StormKing_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-2032d630894747068dec414b1538205c",
             "width": 2560
           },
           {
             "height": 1600,
-            "md5": "d6a9ec2c3bd47521206d7b1708c6824d",
-            "size": 377030,
+            "md5": "30454be6898cbfab719b0e7485edaec7",
+            "size": 476293,
             "type": "DieselGameBoxTall",
-            "uploadedDate": "2024-09-11T22:06:12.573Z",
-            "url": "https://cdn1.epicgames.com/item/fn/FNJN_31-20_Lost-Isles_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-d6a9ec2c3bd47521206d7b1708c6824d",
+            "uploadedDate": "2026-06-19T15:47:31.227Z",
+            "url": "https://cdn1.epicgames.com/item/fn/FNJN_33-10_StormKing_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-4db39754934b480eac2b102176566808",
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2026-06-18T15:45:24.561Z",
+        "lastModifiedDate": "2026-06-19T15:47:46.836Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -945,7 +945,7 @@
         ],
         "requiresSecureAccount": false,
         "status": "ACTIVE",
-        "title": "LEGO\u00ae Fortnite\u00ae",
+        "title": "LEGO\u00ae Fortnite: Odyssey",
         "unsearchable": true
       },
       {
@@ -1184,24 +1184,24 @@
         "keyImages": [
           {
             "height": 1600,
-            "md5": "3b112a272791fbd5eb314516a0f9f233",
-            "size": 799776,
+            "md5": "50719a980a319ab6231aac44b3b507a3",
+            "size": 341703,
             "type": "DieselGameBoxTall",
-            "uploadedDate": "2026-03-26T20:07:17.373Z",
-            "url": "https://cdn1.epicgames.com/item/fn/EN_FN_OG_C1S8_40-10_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-3cb7aeae556f4688881b73d308300932",
+            "uploadedDate": "2026-06-24T17:03:07.315Z",
+            "url": "https://cdn1.epicgames.com/item/fn/EN_FN_OG_41-10_C1S9_EGS_Launcher_Blade_1200x1600_1200x1600-5984bbfc3082441faf23fa4fc0fecdc9",
             "width": 1200
           },
           {
             "height": 1440,
-            "md5": "93f9c2f701cd466cc02e49b30bd61014",
-            "size": 1432343,
+            "md5": "3e99fef4af1ff787c9696b49e6fd699b",
+            "size": 371137,
             "type": "DieselGameBox",
-            "uploadedDate": "2026-03-26T20:07:22.483Z",
-            "url": "https://cdn1.epicgames.com/item/fn/EN_FN_OG_C1S8_40-10_EGS_Launcher_KeyArt_Carousel_PDP_2560x1440_logo_2560x1440-100bbe8c82374dc6824dcd6cf9f4cfd4",
+            "uploadedDate": "2026-06-24T17:03:11.485Z",
+            "url": "https://cdn1.epicgames.com/item/fn/EN_FN_OG_41-10_C1S9_EGS_Launcher_Blade_2560x1440_2560x1440-33e491b4866846e4abda59ff1f36c58a",
             "width": 2560
           }
         ],
-        "lastModifiedDate": "2026-06-18T15:27:38.410Z",
+        "lastModifiedDate": "2026-06-25T08:00:31.955Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1661,6 +1661,67 @@
         "status": "ACTIVE",
         "title": "Fortnite_StWContent",
         "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2026-06-25T16:00:14.556Z",
+        "customAttributes": {
+          "AdditionalCommandLine": {
+            "type": "STRING",
+            "value": "-epicapp=Fortnite -IslandOverride=playlist_juno"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "remove_for_account_deprovision": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Fortnite_JunoContent",
+        "developer": "Epic Games",
+        "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+        "endOfSupport": false,
+        "entitlementName": "b619cf61a4144d67bd753dc990637e7c",
+        "entitlementType": "EXECUTABLE",
+        "id": "b619cf61a4144d67bd753dc990637e7c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-06-25T18:46:29.244Z",
+        "mainGameItem": {
+          "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+          "namespace": "fn",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4fe75bbc5a674f4f9b356b5c90567da5",
+            "namespace": "fn",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "fn",
+        "releaseInfo": [
+          {
+            "appId": "94bc5ec13f8f438c97fdbef3e9019e27",
+            "id": "4012922aa23c4026a3a6ac0c5bce4ccd",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Fortnite_JunoContent",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -1709,7 +1770,7 @@
         "width": 2560
       }
     ],
-    "lastModifiedDate": "2026-06-06T01:04:17.752Z",
+    "lastModifiedDate": "2026-06-25T18:46:29.283Z",
     "legalFooterText": "\u00a92026 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League \u00a92026 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a92026 The LEGO Group. All other trademarks are the property of their respective owners.",
     "longDescription": "Fortnite on mobile brings everything you love about the game onto your favorite on-the-go device. Join and chat with your friends -- regardless of what platform they\u2019re on -- and make progress on your Battle Pass the same way you would on a PC or console!\n\nRequires an internet connection.\n\nPowered by Unreal Engine.",
     "mainGameItemList": [],

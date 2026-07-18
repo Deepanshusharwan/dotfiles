@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "2606.1.1.101",
+      "build_version": "2607.1.1.91",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -57,7 +57,7 @@
         "entitlementType": "AUDIENCE",
         "id": "59e7e1adf9774598a96da5f20ff31e93",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-06-17T00:00:28.949Z",
+        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -95,7 +95,7 @@
         "entitlementType": "AUDIENCE",
         "id": "cf32093d3f444167966b7d08a82062cc",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-06-17T00:00:28.949Z",
+        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -133,7 +133,7 @@
         "entitlementType": "AUDIENCE",
         "id": "5fe30d97bcac4130abbed745cb9e48c0",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-06-17T00:00:28.949Z",
+        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -171,7 +171,7 @@
         "entitlementType": "AUDIENCE",
         "id": "7df47cc650744d12829ed9995f8a167a",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-06-17T00:00:27.714Z",
+        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -209,7 +209,7 @@
         "entitlementType": "AUDIENCE",
         "id": "18f04d12c558442f87193545610b9ab8",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-06-17T00:00:27.714Z",
+        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -247,7 +247,7 @@
         "entitlementType": "AUDIENCE",
         "id": "15c6cc9b41e242859e028b1850a649fd",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-06-17T00:00:27.714Z",
+        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -285,7 +285,7 @@
         "entitlementType": "AUDIENCE",
         "id": "2173e8136e374afb833169723bf7325c",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-06-17T00:00:27.714Z",
+        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -323,7 +323,7 @@
         "entitlementType": "AUDIENCE",
         "id": "211f08a072c749d88813e2759872dc88",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-06-17T00:00:27.714Z",
+        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -3200,6 +3200,43 @@
         "status": "ACTIVE",
         "title": "2026 Double G-Coin III",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-07-15T00:00:29.404Z",
+        "description": "v2607 SURVIVOR PASS: TBD_SeasonPassAudience",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "58d489953545431cbce2c1daa963ffa6",
+        "entitlementType": "AUDIENCE",
+        "id": "58d489953545431cbce2c1daa963ffa6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-07-15T00:00:29.404Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "v2607 SURVIVOR PASS: TBD_SeasonPassAudience",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -3230,7 +3267,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-06-17T00:00:28.752Z",
+    "lastModifiedDate": "2026-07-15T00:00:30.236Z",
     "mainGameItemList": [],
     "namespace": "eb99ee4694474e8da0b05a8ab391825c",
     "releaseInfo": [

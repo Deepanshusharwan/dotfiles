@@ -1,49 +1,42 @@
 {
-  "app_name": "aa31f9e94e844b299ca757d1d0b97a09",
-  "app_title": "Fortnite_StWContent",
-  "asset_infos": {
-    "Windows": {
-      "app_name": "aa31f9e94e844b299ca757d1d0b97a09",
-      "asset_id": "aa31f9e94e844b299ca757d1d0b97a09",
-      "build_version": "++Fortnite+Release-41.10-CL-55227503-Windows",
-      "catalog_item_id": "0b41f0192f7f4f2691684581aedc0778",
-      "label_name": "Live-Windows",
-      "metadata": {},
-      "namespace": "fn",
-      "sidecar_rev": 0
-    }
-  },
+  "app_name": "94bc5ec13f8f438c97fdbef3e9019e27",
+  "app_title": "Fortnite_JunoContent",
+  "asset_infos": {},
   "base_urls": [],
   "metadata": {
-    "ageGatings": {},
-    "applicationId": "",
     "categories": [
       {
         "path": "applications"
       }
     ],
-    "creationDate": "2026-06-05T09:15:49.978Z",
+    "creationDate": "2026-06-25T16:00:14.556Z",
     "customAttributes": {
       "AdditionalCommandLine": {
         "type": "STRING",
-        "value": "-epicapp=Fortnite -IslandOverride=campaign"
+        "value": "-epicapp=Fortnite -IslandOverride=playlist_juno"
       },
       "CanSkipKoreanIdVerification": {
         "type": "STRING",
         "value": "true"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "remove_for_account_deprovision": {
+        "type": "STRING",
+        "value": "true"
       }
     },
-    "description": "Fortnite PC Modular Save the World Content",
+    "description": "Fortnite_JunoContent",
     "developer": "Epic Games",
     "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "endOfSupport": false,
-    "entitlementName": "0b41f0192f7f4f2691684581aedc0778",
+    "entitlementName": "b619cf61a4144d67bd753dc990637e7c",
     "entitlementType": "EXECUTABLE",
-    "eulaIds": [],
-    "id": "0b41f0192f7f4f2691684581aedc0778",
+    "id": "b619cf61a4144d67bd753dc990637e7c",
     "itemType": "DURABLE",
-    "keyImages": [],
-    "lastModifiedDate": "2026-06-05T23:45:06.752Z",
+    "lastModifiedDate": "2026-06-25T18:46:29.244Z",
     "mainGameItem": {
       "ageGatings": {
         "ACB": {
@@ -573,8 +566,8 @@
     "namespace": "fn",
     "releaseInfo": [
       {
-        "appId": "aa31f9e94e844b299ca757d1d0b97a09",
-        "id": "f9463f3bd55e4a9ab92864e56d80d586",
+        "appId": "94bc5ec13f8f438c97fdbef3e9019e27",
+        "id": "4012922aa23c4026a3a6ac0c5bce4ccd",
         "platform": [
           "Windows"
         ]
@@ -582,8 +575,8 @@
     ],
     "requiresSecureAccount": false,
     "status": "ACTIVE",
-    "title": "Fortnite_StWContent",
-    "unsearchable": true
+    "title": "Fortnite_JunoContent",
+    "unsearchable": false
   },
   "sidecar": null
 }

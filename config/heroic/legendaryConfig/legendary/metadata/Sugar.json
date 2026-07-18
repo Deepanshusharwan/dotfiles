@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "++Prime+Update59-CL-519749",
+      "build_version": "++Prime+Update59-CL-520762",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -9207,7 +9207,7 @@
         "id": "60715bc34a1a4bf08bf49046b4f0a0ea",
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2026-05-14T14:44:44.817Z",
+        "lastModifiedDate": "2026-06-10T15:50:27.298Z",
         "mainGameItem": {
           "id": "530145df28a24424923f5828cc9031a1",
           "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
@@ -9251,7 +9251,7 @@
         ],
         "id": "53ba0315ea3045bb96ee3c203c1f33b8",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2026-05-20T22:15:37.304Z",
+        "lastModifiedDate": "2026-06-10T15:50:27.298Z",
         "mainGameItem": {
           "id": "530145df28a24424923f5828cc9031a1",
           "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
@@ -9339,7 +9339,7 @@
         ],
         "id": "2abe4441df7144638fba7a8d360e5acb",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2026-05-20T22:16:45.299Z",
+        "lastModifiedDate": "2026-06-10T15:50:27.288Z",
         "mainGameItem": {
           "id": "530145df28a24424923f5828cc9031a1",
           "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
@@ -9402,6 +9402,50 @@
         "status": "ACTIVE",
         "title": "Rocket League\u00ae - Season 23 Rocketeer Pack",
         "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-06-22T22:01:50.743Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Colts",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "2cc28dcaa89a4ec09ca3800b50f0673e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2cc28dcaa89a4ec09ca3800b50f0673e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-06-22T22:01:50.743Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Colts",
+        "unsearchable": true
       }
     ],
     "endOfSupport": false,
@@ -9415,24 +9459,24 @@
     "keyImages": [
       {
         "height": 1440,
-        "md5": "ecb93ff19188de9b13b3420f0b228393",
-        "size": 715527,
+        "md5": "6258c9be86bb1c34c5899bdb6114ab8a",
+        "size": 594798,
         "type": "DieselGameBox",
-        "uploadedDate": "2026-03-11T15:01:48.413Z",
-        "url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S1_2560x1440-5d984686cb0d43d3b56b31ccb512c6d4",
+        "uploadedDate": "2026-06-10T17:35:45.584Z",
+        "url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S1_2560x1440-210388d6fcf24369aa34461f9544c0b1",
         "width": 2560
       },
       {
         "height": 1600,
-        "md5": "ae43912a6ad979e1e9825a65e96e4cc1",
-        "size": 606381,
+        "md5": "7ae2a59b98715cd7868f21bcdaa77578",
+        "size": 318652,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2026-03-11T15:01:53.604Z",
-        "url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-d8ae0eb88ba843ee9a7e17257aa3c6ba",
+        "uploadedDate": "2026-06-10T17:35:49.975Z",
+        "url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-f91b1d8f2edb4a2c8ab77e538397cd0c",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-05-20T22:17:27.731Z",
+    "lastModifiedDate": "2026-06-22T22:01:50.761Z",
     "mainGameItemList": [],
     "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
     "releaseInfo": [
