@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "6f73f8ed06a74026a84af9c66c4f345f",
       "asset_id": "6f73f8ed06a74026a84af9c66c4f345f",
-      "build_version": "1.18.0.953.28",
+      "build_version": "1.19.0.963.29",
       "catalog_item_id": "56db75beddbf4000bcb6f65693ea4cef",
       "label_name": "Live-Windows",
       "metadata": {
@@ -13,12 +13,12 @@
         "update_type": "PATCH"
       },
       "namespace": "3e2c28241611405aa231308a39bee638",
-      "sidecar_rev": 0
+      "sidecar_rev": 1
     }
   },
   "base_urls": [],
   "metadata": {
-    "applicationId": "",
+    "applicationId": "fghi4567KgwUHsdcGNY393Jz1CZm3IzE",
     "categories": [
       {
         "path": "games"
@@ -64,7 +64,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-04-22T02:35:45.796Z",
+    "lastModifiedDate": "2026-07-13T09:12:22.401Z",
     "mainGameItemList": [],
     "namespace": "3e2c28241611405aa231308a39bee638",
     "releaseInfo": [
@@ -81,5 +81,10 @@
     "title": "Delta Force",
     "unsearchable": false
   },
-  "sidecar": null
+  "sidecar": {
+    "config": {
+      "deploymentId": "de275a3de3a0467ba2bfc5d92b759b73"
+    },
+    "rev": 1
+  }
 }

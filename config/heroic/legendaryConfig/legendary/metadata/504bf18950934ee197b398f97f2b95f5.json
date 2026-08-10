@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "504bf18950934ee197b398f97f2b95f5",
       "asset_id": "504bf18950934ee197b398f97f2b95f5",
-      "build_version": "1.5.2",
+      "build_version": "1.5.6",
       "catalog_item_id": "cb7ad2e2438c42bb965b950d67237090",
       "label_name": "Live-Windows",
       "metadata": {
@@ -112,10 +112,5 @@
     "title": "Hone",
     "unsearchable": false
   },
-  "sidecar": {
-    "config": {
-      "deploymentId": "55804d6709ef44468f48e0adc80b1b8e"
-    },
-    "rev": 1
-  }
+  "sidecar": null
 }

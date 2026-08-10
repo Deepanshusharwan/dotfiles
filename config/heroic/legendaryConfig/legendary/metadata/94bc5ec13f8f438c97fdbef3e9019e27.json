@@ -1,7 +1,18 @@
 {
   "app_name": "94bc5ec13f8f438c97fdbef3e9019e27",
   "app_title": "Fortnite_JunoContent",
-  "asset_infos": {},
+  "asset_infos": {
+    "Windows": {
+      "app_name": "94bc5ec13f8f438c97fdbef3e9019e27",
+      "asset_id": "94bc5ec13f8f438c97fdbef3e9019e27",
+      "build_version": "++Fortnite+Release-41.30-CL-55979764-Windows",
+      "catalog_item_id": "b619cf61a4144d67bd753dc990637e7c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fn",
+      "sidecar_rev": 0
+    }
+  },
   "base_urls": [],
   "metadata": {
     "categories": [
@@ -244,39 +255,39 @@
           "md5": "7c5ea4497947ffb35f931d066565f0fb",
           "size": 475504,
           "type": "AndroidIcon",
-          "uploadedDate": "2026-06-06T01:01:53.283Z",
-          "url": "https://cdn1.epicgames.com/item/fn/FN_S41_Dylan_AppIcon_512x512_512x512-501acdf5f2ae4b73bc05a654235c5ef4",
+          "uploadedDate": "2026-07-27T20:38:31.572Z",
+          "url": "https://cdn1.epicgames.com/item/fn/FN_S41_Dylan_AppIcon_512x512_512x512-3c418608c1464b5c8fb684f55ae4bd26",
           "width": 512
-        },
-        {
-          "height": 800,
-          "md5": "ad47af673262e69fbf690c3cca7aefef",
-          "size": 138663,
-          "type": "Featured",
-          "uploadedDate": "2026-06-06T01:02:08.918Z",
-          "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Mobile_FeatArt_800x800_800x800-ef137aa08d3b4d8aa106bfbb2792734d",
-          "width": 800
-        },
-        {
-          "height": 1600,
-          "md5": "033c046f2c948a16f8067c2eec976f25",
-          "size": 293822,
-          "type": "DieselGameBoxTall",
-          "uploadedDate": "2026-06-06T01:02:25.828Z",
-          "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_1200x1600_1200x1600-1cd8e8a10f834e4a98bf3237c32761b5",
-          "width": 1200
         },
         {
           "height": 1440,
           "md5": "fa1086800c52e6e46120610d08974569",
           "size": 908015,
           "type": "DieselGameBox",
-          "uploadedDate": "2026-06-06T01:02:30.576Z",
-          "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_2560x1440_2560x1440-acfc25f112da402382b5d7616be40710",
+          "uploadedDate": "2026-07-27T20:38:37.852Z",
+          "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_2560x1440_2560x1440-0caffb454a994c8687b95b0c52a5238c",
           "width": 2560
+        },
+        {
+          "height": 1600,
+          "md5": "033c046f2c948a16f8067c2eec976f25",
+          "size": 293822,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2026-07-27T20:38:44.215Z",
+          "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_1200x1600_1200x1600-bb85122f4d784ace973ba1f147d76711",
+          "width": 1200
+        },
+        {
+          "height": 800,
+          "md5": "ad47af673262e69fbf690c3cca7aefef",
+          "size": 138663,
+          "type": "Featured",
+          "uploadedDate": "2026-07-27T20:38:48.443Z",
+          "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Mobile_FeatArt_800x800_800x800-63f92115c7b94fe3b122b03132fbf332",
+          "width": 800
         }
       ],
-      "lastModifiedDate": "2026-06-25T18:46:29.283Z",
+      "lastModifiedDate": "2026-07-30T08:01:01.342Z",
       "legalFooterText": "\u00a92026 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League \u00a92026 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a92026 The LEGO Group. All other trademarks are the property of their respective owners.",
       "longDescription": "Fortnite on mobile brings everything you love about the game onto your favorite on-the-go device. Join and chat with your friends -- regardless of what platform they\u2019re on -- and make progress on your Battle Pass the same way you would on a PC or console!\n\nRequires an internet connection.\n\nPowered by Unreal Engine.",
       "mainGameItemList": [],
@@ -507,39 +518,39 @@
             "md5": "7c5ea4497947ffb35f931d066565f0fb",
             "size": 475504,
             "type": "AndroidIcon",
-            "uploadedDate": "2026-06-06T01:01:53.283Z",
-            "url": "https://cdn1.epicgames.com/item/fn/FN_S41_Dylan_AppIcon_512x512_512x512-501acdf5f2ae4b73bc05a654235c5ef4",
+            "uploadedDate": "2026-07-27T20:38:31.572Z",
+            "url": "https://cdn1.epicgames.com/item/fn/FN_S41_Dylan_AppIcon_512x512_512x512-3c418608c1464b5c8fb684f55ae4bd26",
             "width": 512
-          },
-          {
-            "height": 800,
-            "md5": "ad47af673262e69fbf690c3cca7aefef",
-            "size": 138663,
-            "type": "Featured",
-            "uploadedDate": "2026-06-06T01:02:08.918Z",
-            "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Mobile_FeatArt_800x800_800x800-ef137aa08d3b4d8aa106bfbb2792734d",
-            "width": 800
-          },
-          {
-            "height": 1600,
-            "md5": "033c046f2c948a16f8067c2eec976f25",
-            "size": 293822,
-            "type": "DieselGameBoxTall",
-            "uploadedDate": "2026-06-06T01:02:25.828Z",
-            "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_1200x1600_1200x1600-1cd8e8a10f834e4a98bf3237c32761b5",
-            "width": 1200
           },
           {
             "height": 1440,
             "md5": "fa1086800c52e6e46120610d08974569",
             "size": 908015,
             "type": "DieselGameBox",
-            "uploadedDate": "2026-06-06T01:02:30.576Z",
-            "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_2560x1440_2560x1440-acfc25f112da402382b5d7616be40710",
+            "uploadedDate": "2026-07-27T20:38:37.852Z",
+            "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_2560x1440_2560x1440-0caffb454a994c8687b95b0c52a5238c",
             "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "033c046f2c948a16f8067c2eec976f25",
+            "size": 293822,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-07-27T20:38:44.215Z",
+            "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Launcher_Blade_1200x1600_1200x1600-bb85122f4d784ace973ba1f147d76711",
+            "width": 1200
+          },
+          {
+            "height": 800,
+            "md5": "ad47af673262e69fbf690c3cca7aefef",
+            "size": 138663,
+            "type": "Featured",
+            "uploadedDate": "2026-07-27T20:38:48.443Z",
+            "url": "https://cdn1.epicgames.com/item/fn/FNBR_41-00_C7S3_EGS_Mobile_FeatArt_800x800_800x800-63f92115c7b94fe3b122b03132fbf332",
+            "width": 800
           }
         ],
-        "lastModifiedDate": "2026-06-25T18:46:29.283Z",
+        "lastModifiedDate": "2026-07-30T08:01:01.342Z",
         "legalFooterText": "\u00a92026 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League \u00a92026 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a92026 The LEGO Group. All other trademarks are the property of their respective owners.",
         "longDescription": "Fortnite on mobile brings everything you love about the game onto your favorite on-the-go device. Join and chat with your friends -- regardless of what platform they\u2019re on -- and make progress on your Battle Pass the same way you would on a PC or console!\n\nRequires an internet connection.\n\nPowered by Unreal Engine.",
         "mainGameItemList": [],

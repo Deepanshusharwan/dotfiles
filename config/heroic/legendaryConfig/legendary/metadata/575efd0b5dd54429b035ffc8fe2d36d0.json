@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
       "asset_id": "575efd0b5dd54429b035ffc8fe2d36d0",
-      "build_version": "1.1.3684529",
+      "build_version": "1.1.3748117",
       "catalog_item_id": "27556e7cd968479daee8cc7bd77aebdd",
       "label_name": "Live-Windows",
       "metadata": {
@@ -80,10 +80,5 @@
     "title": "Marvel Rivals",
     "unsearchable": false
   },
-  "sidecar": {
-    "config": {
-      "deploymentId": "1a99ba198af649faade54b472cd10f24"
-    },
-    "rev": 1
-  }
+  "sidecar": null
 }

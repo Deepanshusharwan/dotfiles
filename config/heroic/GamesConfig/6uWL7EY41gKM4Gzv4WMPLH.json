@@ -25,7 +25,7 @@
     "enableQuickSavesMenu": false,
     "wineVersion": {
       "bin": "/home/deepanshu/.config/heroic/tools/proton/GE-Proton-latest/proton",
-      "name": "Proton - GE-Proton-latest",
+      "name": "GE-Proton-latest",
       "type": "proton"
     },
     "winePrefix": "/home/deepanshu/Games/Heroic/Prefixes/default/Lethal Company",

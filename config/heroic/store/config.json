@@ -62,8 +62,8 @@
 	"window-props": {
 		"x": 0,
 		"y": 0,
-		"width": 2554,
-		"height": 1404,
+		"width": 1722,
+		"height": 936,
 		"maximized": true
 	},
 	"games": {
@@ -73,12 +73,12 @@
 				"title": "Lethal Company"
 			},
 			{
-				"appName": "2ku1S1aDfG9g8W2Jnornb9",
-				"title": "need for speed most wanted"
-			},
-			{
 				"appName": "iF34kg1P1ePHfAEE5weSmp",
 				"title": "silksong"
+			},
+			{
+				"appName": "2ku1S1aDfG9g8W2Jnornb9",
+				"title": "need for speed most wanted"
 			},
 			{
 				"appName": "0a2d9f6403244d12969e11da6713137b",

@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "2607.1.1.91",
+      "build_version": "2607.1.2.3",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -3285,10 +3285,5 @@
     "title": "PUBG: BATTLEGROUNDS",
     "unsearchable": false
   },
-  "sidecar": {
-    "config": {
-      "deploymentId": "0766d60b6de74c5aa0d190c2608cd2c6"
-    },
-    "rev": 1
-  }
+  "sidecar": null
 }

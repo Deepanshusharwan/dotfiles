@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+ <trackList>
+  <track>
+   <location>file:///home/deepanshu/Videos/2026-08-03%2012-13-05.mkv</location>
+   <title>simple_aac_recording0</title>
+   <extension application="http://www.gnome.org">
+     <starttime>30</starttime>
+     <playing>true</playing>
+   </extension>
+  </track>
+ </trackList>
+</playlist>

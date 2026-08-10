@@ -1,3 +1,9 @@
-2026/05/13-19:34:23.930 f06 Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
-2026/05/13-19:34:23.932 f06 Recovering log #824
-2026/05/13-19:34:23.932 f06 Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000824.log 
+2026/08/06-16:55:18.742 1fb90c Reusing MANIFEST /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
+2026/08/06-16:55:18.743 1fb90c Recovering log #824
+2026/08/06-16:55:18.743 1fb90c Reusing old log /home/deepanshu/.config/MongoDB Compass/Local Storage/leveldb/000824.log 
+2026/08/06-17:22:19.187 1fb90c Level-0 table #829: started
+2026/08/06-17:22:19.190 1fb90c Level-0 table #829: 16875 bytes OK
+2026/08/06-17:22:19.193 1fb90c Delete type=0 #824
+2026/08/06-17:55:19.188 1fb90c Level-0 table #831: started
+2026/08/06-17:55:19.193 1fb90c Level-0 table #831: 16811 bytes OK
+2026/08/06-17:55:19.196 1fb90c Delete type=0 #828

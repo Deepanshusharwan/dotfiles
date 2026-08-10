@@ -3,7 +3,7 @@
     {
       "app_name": "575efd0b5dd54429b035ffc8fe2d36d0",
       "asset_id": "575efd0b5dd54429b035ffc8fe2d36d0",
-      "build_version": "1.1.3684529",
+      "build_version": "1.1.3748117",
       "catalog_item_id": "27556e7cd968479daee8cc7bd77aebdd",
       "label_name": "Live-Windows",
       "metadata": {
@@ -16,7 +16,7 @@
     {
       "app_name": "6f73f8ed06a74026a84af9c66c4f345f",
       "asset_id": "6f73f8ed06a74026a84af9c66c4f345f",
-      "build_version": "1.18.0.953.28",
+      "build_version": "1.19.0.963.29",
       "catalog_item_id": "56db75beddbf4000bcb6f65693ea4cef",
       "label_name": "Live-Windows",
       "metadata": {
@@ -24,12 +24,12 @@
         "update_type": "PATCH"
       },
       "namespace": "3e2c28241611405aa231308a39bee638",
-      "sidecar_rev": 0
+      "sidecar_rev": 1
     },
     {
       "app_name": "a7d28f0e0935490b9d6f92dda1a7a75b",
       "asset_id": "a7d28f0e0935490b9d6f92dda1a7a75b",
-      "build_version": "59428_2026-06-27-06-17-26",
+      "build_version": "60425_2026-07-22-17-44-46",
       "catalog_item_id": "d53f8dc5825748849ca0890279c3dad7",
       "label_name": "Live-Windows",
       "metadata": {
@@ -52,7 +52,7 @@
     {
       "app_name": "504bf18950934ee197b398f97f2b95f5",
       "asset_id": "504bf18950934ee197b398f97f2b95f5",
-      "build_version": "1.5.2",
+      "build_version": "1.5.6",
       "catalog_item_id": "cb7ad2e2438c42bb965b950d67237090",
       "label_name": "Live-Windows",
       "metadata": {
@@ -65,7 +65,7 @@
     {
       "app_name": "41869934302e4b8cafac2d3c0e7c293d",
       "asset_id": "41869934302e4b8cafac2d3c0e7c293d",
-      "build_version": "121",
+      "build_version": "123",
       "catalog_item_id": "7d690c122fde4c60bed85405f343ad10",
       "label_name": "Live-Windows",
       "metadata": {
@@ -77,14 +77,14 @@
     {
       "app_name": "aa7093efba5b4760ad413c01fbdd0fae",
       "asset_id": "aa7093efba5b4760ad413c01fbdd0fae",
-      "build_version": "51.0.7a_v2",
+      "build_version": "52.1.2a",
       "catalog_item_id": "0073e920c0ca49bc8da9cde44836ebe1",
       "label_name": "Live-Windows",
       "metadata": {
         "installationPoolId": "5bbf1cb7779c45fea08ef51a46ad2226"
       },
       "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
-      "sidecar_rev": 0
+      "sidecar_rev": 1
     },
     {
       "app_name": "Sugar",
@@ -173,7 +173,7 @@
     {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "2607.1.1.91",
+      "build_version": "2607.1.2.3",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -196,7 +196,7 @@
     {
       "app_name": "aa31f9e94e844b299ca757d1d0b97a09",
       "asset_id": "aa31f9e94e844b299ca757d1d0b97a09",
-      "build_version": "++Fortnite+Release-41.10-CL-55227503-Windows",
+      "build_version": "++Fortnite+Release-41.30-CL-55979764-Windows",
       "catalog_item_id": "0b41f0192f7f4f2691684581aedc0778",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -206,13 +206,23 @@
     {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-41.10-CL-55227503-Windows",
+      "build_version": "++Fortnite+Release-41.30-CL-55979764-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
         "hasDependencyConfig": true,
         "installationPoolId": "FortniteInstallationPool"
       },
+      "namespace": "fn",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "94bc5ec13f8f438c97fdbef3e9019e27",
+      "asset_id": "94bc5ec13f8f438c97fdbef3e9019e27",
+      "build_version": "++Fortnite+Release-41.30-CL-55979764-Windows",
+      "catalog_item_id": "b619cf61a4144d67bd753dc990637e7c",
+      "label_name": "Live-Windows",
+      "metadata": {},
       "namespace": "fn",
       "sidecar_rev": 0
     }

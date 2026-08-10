@@ -5,14 +5,14 @@
     "Windows": {
       "app_name": "aa7093efba5b4760ad413c01fbdd0fae",
       "asset_id": "aa7093efba5b4760ad413c01fbdd0fae",
-      "build_version": "51.0.7a_v2",
+      "build_version": "52.1.2a",
       "catalog_item_id": "0073e920c0ca49bc8da9cde44836ebe1",
       "label_name": "Live-Windows",
       "metadata": {
         "installationPoolId": "5bbf1cb7779c45fea08ef51a46ad2226"
       },
       "namespace": "9159cceaae3e48bc9a5ec237d7a4f388",
-      "sidecar_rev": 0
+      "sidecar_rev": 1
     }
   },
   "base_urls": [],

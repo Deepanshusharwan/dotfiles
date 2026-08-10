@@ -24,6 +24,8 @@ export PATH="$PATH:/home/deepanshu/.local/bin"
 export PATH="$PATH:/home/deepanshu/scripts"
 export PATH="$PATH:/home/deepanshu/scripts/jetbrains"
 
+export KUBECONFIG=$HOME/.kube/k3s-config
+
 
 
 
