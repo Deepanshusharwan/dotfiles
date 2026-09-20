@@ -46,7 +46,9 @@
 		"need for speed most wanted": "Sun May 17 2026 17:19:55 GMT+0530 (India Standard Time)",
 		"Hone": "Sun May 17 2026 17:53:53 GMT+0530 (India Standard Time)",
 		"silksong": "Wed Jun 10 2026 20:23:53 GMT+0530 (India Standard Time)",
-		"Lethal Company": "Wed Aug 05 2026 11:16:24 GMT+0530 (India Standard Time)"
+		"Lethal Company": "Wed Aug 05 2026 11:16:24 GMT+0530 (India Standard Time)",
+		"Targeted - 10 Days": "Fri Aug 28 2026 21:36:43 GMT+0530 (India Standard Time)",
+		"Breathedge": "Fri Aug 28 2026 22:39:44 GMT+0530 (India Standard Time)"
 	},
 	"Tom Clancy’s Rainbow Six Siege": {
 		"pcgamingwiki": null,
@@ -138,5 +140,31 @@
 		},
 		"steamInfo": null,
 		"umuId": null
+	},
+	"Targeted - 10 Days": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "3075050"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "pending",
+			"steamDeckCatagory": 0
+		},
+		"umuId": null
+	},
+	"Breathedge": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "738520"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 1
+		},
+		"umuId": "umu-738520"
 	}
 }

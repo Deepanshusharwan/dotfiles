@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "fa4240e57a3c46b39f169041b7811293",
       "asset_id": "fa4240e57a3c46b39f169041b7811293",
-      "build_version": "1613387",
+      "build_version": "2013408",
       "catalog_item_id": "864c7bc2c2394f7dbd1b534aa068ff56",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -262,6 +262,50 @@
         "status": "ACTIVE",
         "title": "Phoenix preorder DLC 1 - Hippogriff Audience",
         "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-08-06T18:17:49.144Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "phoenix ah",
+        "developer": "Warner Bros.",
+        "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+        "endOfSupport": false,
+        "entitlementName": "9315c4a990854e6da47fee859a7722de",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9315c4a990854e6da47fee859a7722de",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-08-06T18:17:49.144Z",
+        "mainGameItem": {
+          "id": "864c7bc2c2394f7dbd1b534aa068ff56",
+          "namespace": "e97659b501af4e3981d5430dad170911",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "864c7bc2c2394f7dbd1b534aa068ff56",
+            "namespace": "e97659b501af4e3981d5430dad170911",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e97659b501af4e3981d5430dad170911",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "phoenix ah",
+        "unsearchable": true
       }
     ],
     "endOfSupport": false,
@@ -292,7 +336,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-04-02T15:56:42.396Z",
+    "lastModifiedDate": "2026-08-06T18:17:49.156Z",
     "mainGameItemList": [],
     "namespace": "e97659b501af4e3981d5430dad170911",
     "releaseInfo": [

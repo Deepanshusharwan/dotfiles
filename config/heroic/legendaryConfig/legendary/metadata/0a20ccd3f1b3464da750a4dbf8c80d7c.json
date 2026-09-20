@@ -1,0 +1,123 @@
+{
+  "app_name": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+  "app_title": "Breathedge",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+      "asset_id": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+      "build_version": "1.1.0.3",
+      "catalog_item_id": "1addbe9a36af44b2868133287a3673c0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "08ae29e4f70a4b62aa055e383381aa82",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-31T16:33:33.801Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/Breathedge/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Breathedge"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "200"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "08ae29e4f70a4b62aa055e383381aa82"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Breathedge",
+    "developer": "Hypetrain Digital",
+    "developerId": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+    "endOfSupport": false,
+    "entitlementName": "1addbe9a36af44b2868133287a3673c0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "1addbe9a36af44b2868133287a3673c0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "783424f6d4a7f32a0e75fc074f2f928e",
+        "size": 350654,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-02-08T16:34:31.166Z",
+        "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/item/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "c0559585221ea11c9d48273c3a79b1ba",
+        "size": 653165,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-25T18:02:24.890Z",
+        "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/item/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-09-02T09:38:33.544Z",
+    "mainGameItemList": [],
+    "namespace": "08ae29e4f70a4b62aa055e383381aa82",
+    "releaseInfo": [
+      {
+        "appId": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+        "id": "8ca214b6ed8c4907a96b558cccff515d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Breathedge",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "595d5218b3a0469cb9ecef0e45d7f89a"
+    },
+    "rev": 1
+  }
+}

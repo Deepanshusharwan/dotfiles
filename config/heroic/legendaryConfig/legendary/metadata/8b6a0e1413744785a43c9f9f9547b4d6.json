@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
       "asset_id": "8b6a0e1413744785a43c9f9f9547b4d6",
-      "build_version": "aircombat_store_windows_3834cb17_2026-06-27_12-51",
+      "build_version": "aircombat_store_windows_007746f7_2026-09-07_12-30",
       "catalog_item_id": "37bdf2283730476b89fa027acfab7491",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -1081,6 +1081,44 @@
         "title": "Metalstorm - Special Offer_ConsumableAudience",
         "unsearchable": false,
         "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-08-25T20:11:16.789Z",
+        "description": "Metalstorm - Special Offer_ConsumableAudience",
+        "developer": "Starform Inc.",
+        "developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+        "endOfSupport": false,
+        "entitlementName": "d45480ffa3cf48f4aacff6eb1d587319",
+        "entitlementType": "AUDIENCE",
+        "id": "d45480ffa3cf48f4aacff6eb1d587319",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-08-25T20:11:16.789Z",
+        "mainGameItem": {
+          "id": "37bdf2283730476b89fa027acfab7491",
+          "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37bdf2283730476b89fa027acfab7491",
+            "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Metalstorm - Special Offer_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
       }
     ],
     "endOfSupport": false,
@@ -1111,7 +1149,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-06-24T23:20:52.843Z",
+    "lastModifiedDate": "2026-08-25T20:11:16.925Z",
     "mainGameItemList": [],
     "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
     "releaseInfo": [
@@ -1128,10 +1166,5 @@
     "title": "Metalstorm",
     "unsearchable": true
   },
-  "sidecar": {
-    "config": {
-      "deploymentId": "a9426d68fcea410d98d420fe6e1e3ef1"
-    },
-    "rev": 1
-  }
+  "sidecar": null
 }

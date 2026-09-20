@@ -798,7 +798,9 @@
 		"epic_Carnation": "Thu Apr 30 2026 23:17:12 GMT+0530 (India Standard Time)",
 		"epic_Sugar": "Mon May 04 2026 01:02:08 GMT+0530 (India Standard Time)",
 		"epic_0a2d9f6403244d12969e11da6713137b": "Wed May 13 2026 23:12:13 GMT+0530 (India Standard Time)",
-		"epic_87be9bd6707748888bce1f79b025c5dd": "Sun May 17 2026 17:19:01 GMT+0530 (India Standard Time)"
+		"epic_87be9bd6707748888bce1f79b025c5dd": "Sun May 17 2026 17:19:01 GMT+0530 (India Standard Time)",
+		"epic_a3f73f8dcd81421eb2eacce130aa0ca7": "Fri Aug 28 2026 21:36:42 GMT+0530 (India Standard Time)",
+		"epic_0a20ccd3f1b3464da750a4dbf8c80d7c": "Fri Aug 28 2026 22:39:43 GMT+0530 (India Standard Time)"
 	},
 	"epic_Carnation": {
 		"id": "52565676397442327",
@@ -3250,5 +3252,709 @@
 			"url_format": "https://images.gog.com/a2f24b16727bcf95d8b6f260c02977178cf9de5cfff21cc887db0d7f0a569852{formatter}.{ext}?namespace=gamesdb"
 		},
 		"etag": "W/\"4b64bb796be185454a597e0621da1714\""
+	},
+	"epic_a3f73f8dcd81421eb2eacce130aa0ca7": {
+		"id": "59647707330009712",
+		"game_id": "57770835564759396",
+		"platform_id": "epic",
+		"external_id": "a3f73f8dcd81421eb2eacce130aa0ca7",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "linux",
+				"name": "Linux"
+			},
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "57770835564759396",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"mods_ids": [],
+			"first_release_date": "2024-08-14T00:00:00+0000",
+			"releases": [
+				{
+					"id": "57770835591450046",
+					"platform_id": "steam",
+					"external_id": "3075050",
+					"release_per_platform_id": "steam_3075050",
+					"availability": 0
+				},
+				{
+					"id": "59647707330009712",
+					"platform_id": "epic",
+					"external_id": "a3f73f8dcd81421eb2eacce130aa0ca7",
+					"release_per_platform_id": "epic_a3f73f8dcd81421eb2eacce130aa0ca7",
+					"availability": 0
+				},
+				{
+					"id": "57770835564759396",
+					"platform_id": "generic",
+					"external_id": "57770835564759396",
+					"release_per_platform_id": "generic_57770835564759396",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "Targeted: -10 Days",
+				"en-US": "Targeted: -10 Days"
+			},
+			"sorting_title": {
+				"*": "Targeted 10 Days",
+				"en-US": "Targeted 10 Days"
+			},
+			"type": "game",
+			"developers_ids": [
+				"57781594127217363"
+			],
+			"developers": [
+				{
+					"id": "57781594127217363",
+					"name": "Glitchy Frame Studio",
+					"slug": "glitchy-frame-studio"
+				}
+			],
+			"publishers_ids": [
+				"57781594127217363"
+			],
+			"publishers": [
+				{
+					"id": "57781594127217363",
+					"name": "Glitchy Frame Studio",
+					"slug": "glitchy-frame-studio"
+				}
+			],
+			"genres_ids": [
+				"51121492616405278",
+				"51141224846123521"
+			],
+			"genres": [
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224846123521",
+					"name": {
+						"*": "Simulator",
+						"en-US": "Simulator"
+					},
+					"slug": "simulator"
+				}
+			],
+			"themes_ids": [],
+			"themes": [],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/ebcc3861df2f03db6f3045cd5cb3e33df473c03906b6a8121933045ed70279f2{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/dd6dae23697ecad5d667eb11b911a226b02fa0148ac9b7e6462f14f7364857da{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0e5f9513ecad0d8c9648b7ceef7a59def99e48f0219d099e4a153e8eea12126f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2b1667eee81bee83ba58f5afa7409ec0d461252b3c844c8f2f259bb0ab84aff2{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/656b76ec70c3fc7a3c7a7041a3ff3a1784248d4c985e7e226f3f980d8d7ce817{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "b46hth3a2TY",
+					"thumbnail_id": "b46hth3a2TY",
+					"name": "Announcement Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "SiLthmkf9-M",
+					"thumbnail_id": "SiLthmkf9-M",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/6d5277f97de1231cdca03fb5c6c3f3e0a961c429c6bc4dc1d6ca666403f79edc{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Can you survive 10 days in this anomaly-finding game? Stay vigilant, because YOU ARE THE TARGET!",
+				"en-US": "Can you survive 10 days in this anomaly-finding game? Stay vigilant, because YOU ARE THE TARGET!"
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/1133c95f8e643010ea497ba70c37e3a76e7746723345618d1beed55a3604f704{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/1133c95f8e643010ea497ba70c37e3a76e7746723345618d1beed55a3604f704{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/dc0cff5b0cc689e6286922885ee82f558d9235c26564d7750804761f31d27a66{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/dc0cff5b0cc689e6286922885ee82f558d9235c26564d7750804761f31d27a66{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/dc0cff5b0cc689e6286922885ee82f558d9235c26564d7750804761f31d27a66{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/dc0cff5b0cc689e6286922885ee82f558d9235c26564d7750804761f31d27a66{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/6d5277f97de1231cdca03fb5c6c3f3e0a961c429c6bc4dc1d6ca666403f79edc{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "targeted-10-days-2024"
+		},
+		"title": {
+			"*": "Targeted - 10 Days",
+			"en-US": "Targeted: -10 Days"
+		},
+		"sorting_title": {
+			"*": "Targeted 10 Days",
+			"en-US": "Targeted 10 Days"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Can you survive 10 days in this anomaly-finding game? Stay vigilant, because YOU ARE THE TARGET!",
+			"en-US": "Can you survive 10 days in this anomaly-finding game? Stay vigilant, because YOU ARE THE TARGET!"
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/dc0cff5b0cc689e6286922885ee82f558d9235c26564d7750804761f31d27a66{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/dc0cff5b0cc689e6286922885ee82f558d9235c26564d7750804761f31d27a66{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"24a4d0f8991c89e9313e138806f3433d\""
+	},
+	"epic_0a20ccd3f1b3464da750a4dbf8c80d7c": {
+		"id": "54166986397058852",
+		"game_id": "51141992382475105",
+		"platform_id": "epic",
+		"external_id": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51141992382475105",
+			"parent_id": null,
+			"dlcs_ids": [
+				"52051845925065498"
+			],
+			"mods_ids": [],
+			"first_release_date": "2018-09-18T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51141992381598452",
+					"platform_id": "steam",
+					"external_id": "738520",
+					"release_per_platform_id": "steam_738520",
+					"availability": 0
+				},
+				{
+					"id": "51625489857163674",
+					"platform_id": "gog",
+					"external_id": "2104548474",
+					"release_per_platform_id": "gog_2104548474",
+					"availability": 1
+				},
+				{
+					"id": "52182176367854381",
+					"platform_id": "origin",
+					"external_id": "Origin.OFR.50.0003482",
+					"release_per_platform_id": "origin_Origin.OFR.50.0003482",
+					"availability": 0
+				},
+				{
+					"id": "52978622286268286",
+					"platform_id": "humble",
+					"external_id": "breathedge_steam",
+					"release_per_platform_id": "humble_breathedge_steam",
+					"availability": 0
+				},
+				{
+					"id": "53316652613012616",
+					"platform_id": "discord",
+					"external_id": "2735a912-78af-4eb5-9eee-5ff15de623b6",
+					"release_per_platform_id": "discord_2735a912-78af-4eb5-9eee-5ff15de623b6",
+					"availability": 0
+				},
+				{
+					"id": "53984168331555159",
+					"platform_id": "humble",
+					"external_id": "breathedge_bundle_steam",
+					"release_per_platform_id": "humble_breathedge_bundle_steam",
+					"availability": 0
+				},
+				{
+					"id": "53992077970944419",
+					"platform_id": "test",
+					"external_id": "/breathedge-free-download/",
+					"release_per_platform_id": "test_/breathedge-free-download/",
+					"availability": 0
+				},
+				{
+					"id": "54166986397058852",
+					"platform_id": "epic",
+					"external_id": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+					"release_per_platform_id": "epic_0a20ccd3f1b3464da750a4dbf8c80d7c",
+					"availability": 0
+				},
+				{
+					"id": "54240849276435238",
+					"platform_id": "origin",
+					"external_id": "Origin.OFR.50.0003482@subscription",
+					"release_per_platform_id": "origin_Origin.OFR.50.0003482@subscription",
+					"availability": 0
+				},
+				{
+					"id": "54280561396557877",
+					"platform_id": "xboxone",
+					"external_id": "1879813340",
+					"release_per_platform_id": "xboxone_1879813340",
+					"availability": 0
+				},
+				{
+					"id": "54285382613551706",
+					"platform_id": "psn",
+					"external_id": "CUSA26769_00",
+					"release_per_platform_id": "psn_CUSA26769_00",
+					"availability": 0
+				},
+				{
+					"id": "54355205384279285",
+					"platform_id": "psn",
+					"external_id": "CUSA26770_00",
+					"release_per_platform_id": "psn_CUSA26770_00",
+					"availability": 0
+				},
+				{
+					"id": "54732221764562018",
+					"platform_id": "xboxone",
+					"external_id": "1946144195",
+					"release_per_platform_id": "xboxone_1946144195",
+					"availability": 0
+				},
+				{
+					"id": "54908479069935527",
+					"platform_id": "test",
+					"external_id": "gfn_738520",
+					"release_per_platform_id": "test_gfn_738520",
+					"availability": 0
+				},
+				{
+					"id": "55327845870796102",
+					"platform_id": "psn",
+					"external_id": "PPSA04243_00",
+					"release_per_platform_id": "psn_PPSA04243_00",
+					"availability": 0
+				},
+				{
+					"id": "55447502240422835",
+					"platform_id": "psn",
+					"external_id": "PPSA04242_00",
+					"release_per_platform_id": "psn_PPSA04242_00",
+					"availability": 0
+				},
+				{
+					"id": "56128698350942277",
+					"platform_id": "amazon",
+					"external_id": "amzn1.adg.product.eb9378f0-b38b-44d3-bbc4-f35b96059c1a",
+					"release_per_platform_id": "amazon_amzn1.adg.product.eb9378f0-b38b-44d3-bbc4-f35b96059c1a",
+					"availability": 0
+				},
+				{
+					"id": "56379988327526769",
+					"platform_id": "fanatical",
+					"external_id": "breathedge",
+					"release_per_platform_id": "fanatical_breathedge",
+					"availability": 0
+				},
+				{
+					"id": "56419297309010692",
+					"platform_id": "test",
+					"external_id": "501beb801fd19ab831de8c79e0a9fcadcb6db3ab",
+					"release_per_platform_id": "test_501beb801fd19ab831de8c79e0a9fcadcb6db3ab",
+					"availability": 0
+				},
+				{
+					"id": "56419297434208042",
+					"platform_id": "test",
+					"external_id": "e14d3227c929250c2073397d98f204a3434bc6b3",
+					"release_per_platform_id": "test_e14d3227c929250c2073397d98f204a3434bc6b3",
+					"availability": 0
+				},
+				{
+					"id": "57045344132998594",
+					"platform_id": "twitch",
+					"external_id": "amzn1.adg.product.eb9378f0-b38b-44d3-bbc4-f35b96059c1a",
+					"release_per_platform_id": "twitch_amzn1.adg.product.eb9378f0-b38b-44d3-bbc4-f35b96059c1a",
+					"availability": 0
+				},
+				{
+					"id": "58577840691311628",
+					"platform_id": "test",
+					"external_id": "ce0717-breathedge-fr",
+					"release_per_platform_id": "test_ce0717-breathedge-fr",
+					"availability": 0
+				},
+				{
+					"id": "59747007742657185",
+					"platform_id": "test",
+					"external_id": "mc_breathedge",
+					"release_per_platform_id": "test_mc_breathedge",
+					"availability": 0
+				},
+				{
+					"id": "59854010072217726",
+					"platform_id": "amazon",
+					"external_id": "amzn1.pg.game.4166ff61-c53e-4124-9aff-42cfeb140e70",
+					"release_per_platform_id": "amazon_amzn1.pg.game.4166ff61-c53e-4124-9aff-42cfeb140e70",
+					"availability": 0
+				},
+				{
+					"id": "51141992382475105",
+					"platform_id": "generic",
+					"external_id": "51141992382475105",
+					"release_per_platform_id": "generic_51141992382475105",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "Breathedge",
+				"en-US": "Breathedge"
+			},
+			"sorting_title": {
+				"*": "Breathedge",
+				"en-US": "Breathedge"
+			},
+			"type": "game",
+			"developers_ids": [
+				"54304193442677765"
+			],
+			"developers": [
+				{
+					"id": "54304193442677765",
+					"name": "RedRuins Softworks",
+					"slug": "redruins-softworks"
+				}
+			],
+			"publishers_ids": [
+				"51141458512395815"
+			],
+			"publishers": [
+				{
+					"id": "51141458512395815",
+					"name": "HypeTrain Digital",
+					"slug": "hypetrain-digital"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51071842251704278",
+				"51121492616405278",
+				"51141224846123521"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224846123521",
+					"name": {
+						"*": "Simulator",
+						"en-US": "Simulator"
+					},
+					"slug": "simulator"
+				}
+			],
+			"themes_ids": [
+				"51071842227872529",
+				"51071842231533391",
+				"51141225463821636",
+				"51141226418224461"
+			],
+			"themes": [
+				{
+					"id": "51071842227872529",
+					"name": {
+						"*": "Open world",
+						"en-US": "Open world"
+					},
+					"slug": "open-world"
+				},
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141225463821636",
+					"name": {
+						"*": "Science fiction",
+						"en-US": "Science fiction"
+					},
+					"slug": "science-fiction"
+				},
+				{
+					"id": "51141226418224461",
+					"name": {
+						"*": "Survival",
+						"en-US": "Survival"
+					},
+					"slug": "survival"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/0fbe273c174504eaedcb26dfc6e6e2edb752704fb3ac9c9b3bcd2ca635ba4b39{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9cc9cb10833d6fca57904fe5d96a8a3d04a6f9b3e2617bc339a4821d498ae5ce{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/271824d30aec711e56a2c53796e6f3b9383b768251c287d8097eeba92b8759d2{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/088ede37c02534c15077e9ca6f72902dbf203cfc214f18ecf83a23a7df67476d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/bcf3cb6d126b5643759f8108cba677a4e239fd8ad0a75a8b70cde4e614118d51{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/66f5a469ee542f0df4b494abaa4d15771eeb90903af7839dba881264a0890d8a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b3afa6bcb3eb75c7ea59d181154bc3e6b5ca5d825c596b1b7ee1f0418a41b653{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1b6cbd9e0994bbf3d52b264950248de4e060cd83cc720c5b9ed0ebcf3697c1ad{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ca6dc3c9d490642d285549c6da51485993d39806e62ecebfbbe89c8e91ce7af6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4fd635535a37a8467e42d7b816209fbee6fa217c0132f9062f688b35b10561bd{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0f9b97fdbbf3580dc84d5522e0d81cad93fdc52821b5944559a4544db3355313{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/64a416da4c08ef944335664399ab3d68d9c4ae9074ec1476f597d3b1ac9618df{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/dde850d87cca5d9e51296a588696e2fdc0f3bd3416029e8607d3a3296e8152ee{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/dd717aa9783d1bf36824f833bfd85b1f0345728a6346ff835f2032d0781258c3{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7c6f3e90eef73079b40aede6342738a075a9fa5d4abe4e83d34538271022434d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/da3bcda586f92dfa24a6e9a84d062aa7a5c0c56b92cc4ab9522e95f384375378{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a7439a7b9f0a74772791a6820dd04f653e9eb7b919b28137f908910071ab1d40{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4a92febd04f3bf337910214c68e348fc4c595eb0c8596b99d6d62dd6e0034e5d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8c1082a57aa58ef00168fb20825363a3c3442a14e541ac6d260335eb4b0b1d43{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0b8f7c313f8117e54ca779a903cd987ec01a8a9a8ca893688684548609571db5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6c588c30e4f570e4b1825a7fc1a80623f1514403f4259a7684d9bbfea3a12c07{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/78f438774585b6942c19c6aed084a0a874f7c245487cf2792dcd2f7e652990ba{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0a98710c0a1d606978472d3952190ff6e59b49ce74a39d2e3053fcd2d70d104c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2e78e1763f80859b5b0991cbf2399c1947ea8a917026412f61930ec11b55511f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2d3860b72c5ad7c1b610ff45d92502ded08dbb406045924f5356d1bb53c362c4{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a0292f6d6471747a11b1153e1da3ee773218a652ff2ab7755837129ab0b4c825{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/16b81afcba70d87a72767954bdb268eae4692208c446086e70026dad85e67cad{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8c085e7658877f48527d367b0318cbf615bb7971904ddb1a368320850f3f6de6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/62efb986e69da80d1c1084104ec3fb43c3742c7aa9f970236efe161f3f19cdce{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/98950e2d13a31e272eece91c8c3fc0bfa0f5559659b133b5b7cb27dad403713f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/516b44539dcd64bb5437f977e2216b8e0fb9111eb328b7d3edab6e4c66d25ec7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ab07355ad08867461dedaef4049b13ea21e8f5621b4ae7de47eb0deb7e7e03a2{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5462b0f80ec89a896937aba5105ba0519828c9cb82b89fe1657455f4612342e9{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "2SAI_qmUhmA",
+					"thumbnail_id": "2SAI_qmUhmA",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "58XGHeVuT7k",
+					"thumbnail_id": "58XGHeVuT7k",
+					"name": "Launch Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/06eb8db1e7c7e9c01e989775c5bc4ea038bfdffd1d8a8f0f48df3c8276796af6{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.",
+				"en-US": "Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 82,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/789fc18ef66dd688dbf62317714b046175963e3ecc64eef7dfefd903207c83db{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/789fc18ef66dd688dbf62317714b046175963e3ecc64eef7dfefd903207c83db{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/f927e40bb2977a2461d2675306cdcb71fa96ec7c65cea5785c1a2996b201be02{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/f927e40bb2977a2461d2675306cdcb71fa96ec7c65cea5785c1a2996b201be02{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/c60e63dfbbde60ce6222b6822e6c8605354adeeed8f8dd6fc1ada9f29c07b2ed{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/267992ec9bfbae142508d66ddd8fe41730af1573377242e83080f9bdc082ef48{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "breathedge-2018"
+		},
+		"title": {
+			"*": "Breathedge",
+			"en-US": "Breathedge"
+		},
+		"sorting_title": {
+			"*": "Breathedge",
+			"en-US": "Breathedge"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.",
+			"en-US": "Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/c60e63dfbbde60ce6222b6822e6c8605354adeeed8f8dd6fc1ada9f29c07b2ed{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"79dbfefb7ab6eeb68b62a0473fc9657b\""
 	}
 }

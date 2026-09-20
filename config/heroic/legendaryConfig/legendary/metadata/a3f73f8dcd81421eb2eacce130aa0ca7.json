@@ -1,0 +1,89 @@
+{
+  "app_name": "a3f73f8dcd81421eb2eacce130aa0ca7",
+  "app_title": "Targeted - 10 Days",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a3f73f8dcd81421eb2eacce130aa0ca7",
+      "asset_id": "a3f73f8dcd81421eb2eacce130aa0ca7",
+      "build_version": "0.13",
+      "catalog_item_id": "ccae0c8bcb0a4b88818def73282186c0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "8aab427fd5824667a88934f0b9b0fae2"
+      },
+      "namespace": "e02939ef2acc407bb4713ee52e63ea35",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [
+    "https://egdownload.fastly-edge.com/Builds/Org/o-crrner9vqxt9btls6gjcpdndygts8r/ad46171b003a4965b1eb3ef8b57dc688/default",
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-crrner9vqxt9btls6gjcpdndygts8r/ad46171b003a4965b1eb3ef8b57dc688/default",
+    "https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Org/o-crrner9vqxt9btls6gjcpdndygts8r/ad46171b003a4965b1eb3ef8b57dc688/default"
+  ],
+  "metadata": {
+    "applicationId": "fghi45673MV8ABFkaO9wNXOJJ8IprdxY",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-10-20T10:31:16.229Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Targeted10days"
+      }
+    },
+    "description": "Targeted - 10 Days",
+    "developer": "Glitchy Frame Studio",
+    "developerId": "o-crrner9vqxt9btls6gjcpdndygts8r",
+    "endOfSupport": false,
+    "entitlementName": "ccae0c8bcb0a4b88818def73282186c0",
+    "entitlementType": "EXECUTABLE",
+    "id": "ccae0c8bcb0a4b88818def73282186c0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Targeted Offer",
+        "height": 1440,
+        "md5": "c5455b8421ec5736c30b6c3616d1e108",
+        "size": 3434741,
+        "type": "DieselGameBox",
+        "uploadedDate": "2026-02-06T16:31:44.090Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ad46171b003a4965b1eb3ef8b57dc688/targeted-1frnn.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Targeted Offer",
+        "height": 1600,
+        "md5": "b883b417a106d2ee19dd1005aab794c3",
+        "size": 1897579,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2026-02-06T16:31:46.528Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ad46171b003a4965b1eb3ef8b57dc688/targeted-14oi9.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-08-18T19:17:09.878Z",
+    "mainGameItemList": [],
+    "namespace": "e02939ef2acc407bb4713ee52e63ea35",
+    "releaseInfo": [
+      {
+        "appId": "a3f73f8dcd81421eb2eacce130aa0ca7",
+        "id": "e9baa03106a049a992ecd055a178202c",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Targeted - 10 Days",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

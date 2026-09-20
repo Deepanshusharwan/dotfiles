@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "2607.1.2.3",
+      "build_version": "2609.1.1.93_1",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -57,7 +57,7 @@
         "entitlementType": "AUDIENCE",
         "id": "59e7e1adf9774598a96da5f20ff31e93",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
+        "lastModifiedDate": "2026-09-10T00:00:18.462Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -95,7 +95,7 @@
         "entitlementType": "AUDIENCE",
         "id": "cf32093d3f444167966b7d08a82062cc",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
+        "lastModifiedDate": "2026-09-10T00:00:18.462Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -133,7 +133,7 @@
         "entitlementType": "AUDIENCE",
         "id": "5fe30d97bcac4130abbed745cb9e48c0",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
+        "lastModifiedDate": "2026-09-10T00:00:18.462Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -171,7 +171,7 @@
         "entitlementType": "AUDIENCE",
         "id": "7df47cc650744d12829ed9995f8a167a",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
+        "lastModifiedDate": "2026-09-10T00:00:18.462Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -209,7 +209,7 @@
         "entitlementType": "AUDIENCE",
         "id": "18f04d12c558442f87193545610b9ab8",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
+        "lastModifiedDate": "2026-09-10T00:00:18.462Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -247,7 +247,7 @@
         "entitlementType": "AUDIENCE",
         "id": "15c6cc9b41e242859e028b1850a649fd",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
+        "lastModifiedDate": "2026-09-10T00:00:18.462Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -285,7 +285,7 @@
         "entitlementType": "AUDIENCE",
         "id": "2173e8136e374afb833169723bf7325c",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2026-07-15T00:00:29.356Z",
+        "lastModifiedDate": "2026-09-10T00:00:18.462Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -3237,6 +3237,80 @@
         "status": "ACTIVE",
         "title": "v2607 SURVIVOR PASS: TBD_SeasonPassAudience",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-08-12T00:00:26.986Z",
+        "description": "Survivor Pass: Summer Getaway_SeasonPassAudience",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "8bb33f74d2db4860812541a11bd948b5",
+        "entitlementType": "AUDIENCE",
+        "id": "8bb33f74d2db4860812541a11bd948b5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-08-12T00:00:26.986Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Survivor Pass: Summer Getaway_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-09-10T00:00:18.495Z",
+        "description": "V2609 Crafter Pass: Jujutsu Kaisen_SeasonPassAudience",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "0182eae01dc6477b8d7436f91ec9f05c",
+        "entitlementType": "AUDIENCE",
+        "id": "0182eae01dc6477b8d7436f91ec9f05c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-09-10T00:00:18.495Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "V2609 Crafter Pass: Jujutsu Kaisen_SeasonPassAudience",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -3267,7 +3341,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-07-15T00:00:30.236Z",
+    "lastModifiedDate": "2026-09-10T00:00:19.291Z",
     "mainGameItemList": [],
     "namespace": "eb99ee4694474e8da0b05a8ab391825c",
     "releaseInfo": [

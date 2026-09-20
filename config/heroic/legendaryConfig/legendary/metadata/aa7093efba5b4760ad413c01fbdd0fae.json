@@ -4292,5 +4292,10 @@
     "title": "Asphalt Legends",
     "unsearchable": false
   },
-  "sidecar": null
+  "sidecar": {
+    "config": {
+      "deploymentId": "59380ed0dd9549dea805b17847726153"
+    },
+    "rev": 1
+  }
 }

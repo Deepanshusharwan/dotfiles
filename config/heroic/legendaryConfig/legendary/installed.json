@@ -1,4 +1,31 @@
 {
+  "0a20ccd3f1b3464da750a4dbf8c80d7c": {
+    "app_name": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+    "base_urls": [
+      "https://egdownload.fastly-edge.com/Builds/Org/o-p9883lvrpllhyd7sad6tgxv53mdyh5/f4845cccefe54b3c865c68596053a5c0/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-p9883lvrpllhyd7sad6tgxv53mdyh5/f4845cccefe54b3c865c68596053a5c0/default",
+      "https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Org/o-p9883lvrpllhyd7sad6tgxv53mdyh5/f4845cccefe54b3c865c68596053a5c0/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "Breathedge/Binaries/Win64/Breathedge-Win64-Shipping.exe",
+    "install_path": "/home/deepanshu/Games/Heroic/Breathedge",
+    "install_size": 11963473485,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": "/home/deepanshu/Games/Heroic/Breathedge/Breathedge/Saved/SaveGames",
+    "save_timestamp": null,
+    "title": "Breathedge",
+    "uninstaller": null,
+    "use_signed_url": false,
+    "version": "1.0.1.1"
+  },
   "0a2d9f6403244d12969e11da6713137b": {
     "app_name": "0a2d9f6403244d12969e11da6713137b",
     "base_urls": [
@@ -71,5 +98,32 @@
     },
     "use_signed_url": false,
     "version": "++Prime+Update58.1-CL-515605"
+  },
+  "a3f73f8dcd81421eb2eacce130aa0ca7": {
+    "app_name": "a3f73f8dcd81421eb2eacce130aa0ca7",
+    "base_urls": [
+      "https://egdownload.fastly-edge.com/Builds/Org/o-crrner9vqxt9btls6gjcpdndygts8r/ad46171b003a4965b1eb3ef8b57dc688/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-crrner9vqxt9btls6gjcpdndygts8r/ad46171b003a4965b1eb3ef8b57dc688/default",
+      "https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Org/o-crrner9vqxt9btls6gjcpdndygts8r/ad46171b003a4965b1eb3ef8b57dc688/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "Targeted.exe",
+    "install_path": "/home/deepanshu/Games/Heroic/Targeted10days",
+    "install_size": 434517870,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "save_timestamp": null,
+    "title": "Targeted - 10 Days",
+    "uninstaller": null,
+    "use_signed_url": false,
+    "version": "0.13"
   }
 }

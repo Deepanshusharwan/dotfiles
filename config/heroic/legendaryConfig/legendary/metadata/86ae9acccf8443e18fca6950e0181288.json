@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "86ae9acccf8443e18fca6950e0181288",
       "asset_id": "86ae9acccf8443e18fca6950e0181288",
-      "build_version": "4.3.0",
+      "build_version": "4.5.0",
       "catalog_item_id": "101391ece6024e069a7cb8cf22104399",
       "label_name": "Live-Windows",
       "metadata": {
@@ -1654,6 +1654,82 @@
         "title": "rpgglbyear4tierusd029_ConsumableAudience",
         "unsearchable": false,
         "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-09-14T07:28:52.788Z",
+        "description": "rpgglbcattickettier3_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "55030764db924b6aaf2b1925bc9069d2",
+        "entitlementType": "AUDIENCE",
+        "id": "55030764db924b6aaf2b1925bc9069d2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-09-14T07:28:52.788Z",
+        "mainGameItem": {
+          "id": "101391ece6024e069a7cb8cf22104399",
+          "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "101391ece6024e069a7cb8cf22104399",
+            "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "rpgglbcattickettier3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2026-09-14T07:28:52.786Z",
+        "description": "rpgglbcattickettier15_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "1785333048704b6abca04351b49d8235",
+        "entitlementType": "AUDIENCE",
+        "id": "1785333048704b6abca04351b49d8235",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2026-09-14T07:28:52.786Z",
+        "mainGameItem": {
+          "id": "101391ece6024e069a7cb8cf22104399",
+          "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "101391ece6024e069a7cb8cf22104399",
+            "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "rpgglbcattickettier15_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
       }
     ],
     "endOfSupport": false,
@@ -1668,25 +1744,25 @@
       {
         "alt": "Honkai Star Rail Offer",
         "height": 1440,
-        "md5": "841f475fb90e4e9e91b62056a018cc8b",
-        "size": 1524811,
+        "md5": "160a84d28e8e87cff7841b563dcc6b62",
+        "size": 1480529,
         "type": "DieselGameBox",
-        "uploadedDate": "2026-05-25T08:25:18.316Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-h3rwc.jpg",
+        "uploadedDate": "2026-08-17T07:36:37.621Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-wa2qa.jpg",
         "width": 2560
       },
       {
         "alt": "Download Honkai Star Rail Offer",
         "height": 1600,
-        "md5": "85f2181938d95760388dae0646abaf57",
-        "size": 422871,
+        "md5": "37c4472bd9c822c8274e6eed54adadf5",
+        "size": 431891,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2026-05-25T08:25:28.557Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-to9r4.jpg",
+        "uploadedDate": "2026-08-17T07:36:48.812Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6f3979ff608f42e286c83507a69b27f5/honkai-star-rail-149qk.jpg",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2026-05-31T22:00:21.545Z",
+    "lastModifiedDate": "2026-09-14T07:28:52.998Z",
     "mainGameItemList": [],
     "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
     "releaseInfo": [
@@ -1703,10 +1779,5 @@
     "title": "Honkai: Star Rail",
     "unsearchable": true
   },
-  "sidecar": {
-    "config": {
-      "deploymentId": "972749e4c951406aaf5fd8552910b8af"
-    },
-    "rev": 1
-  }
+  "sidecar": null
 }

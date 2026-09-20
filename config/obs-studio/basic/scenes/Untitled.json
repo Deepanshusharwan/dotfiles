@@ -120,12 +120,12 @@
                         "id": 1,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 106.0,
-                            "y": 79.0
+                            "x": 0.0,
+                            "y": 66.0
                         },
                         "pos_rel": {
-                            "x": -1.5814814567565918,
-                            "y": -0.8537037372589111
+                            "x": -1.7777777910232544,
+                            "y": -0.8777777552604675
                         },
                         "scale": {
                             "x": 0.66015625,
@@ -217,7 +217,7 @@
     "saved_projectors": [],
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": -20,
+    "scaling_level": -3,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "modules": {

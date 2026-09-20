@@ -14398,6 +14398,100 @@
 			"endTime": 1766465287000,
 			"startTime": 1766458567608,
 			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "a3f73f8dcd81421eb2eacce130aa0ca7",
+				"path": "/home/deepanshu/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "a3f73f8dcd81421eb2eacce130aa0ca7",
+					"art_cover": "https://cdn1.epicgames.com/spt-assets/ad46171b003a4965b1eb3ef8b57dc688/targeted-1frnn.png",
+					"art_square": "https://cdn1.epicgames.com/spt-assets/ad46171b003a4965b1eb3ef8b57dc688/targeted-14oi9.png",
+					"cloud_save_enabled": false,
+					"developer": "Glitchy Frame Studio",
+					"extra": {
+						"about": {
+							"description": "Targeted - 10 Days",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/targeted--10-days"
+					},
+					"folder_name": "Targeted10days",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "e02939ef2acc407bb4713ee52e63ea35",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "Targeted - 10 Days",
+					"canRunOffline": false,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/targeted--10-days"
+				},
+				"size": "329.14 MiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1787933215444,
+			"endTime": 1787933260385,
+			"startTime": 1787933215503,
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+				"path": "/home/deepanshu/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+					"art_cover": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/item/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
+					"art_square": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/item/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
+					"cloud_save_enabled": true,
+					"developer": "Hypetrain Digital",
+					"extra": {
+						"about": {
+							"description": "Breathedge",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/breathedge"
+					},
+					"folder_name": "Breathedge",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "08ae29e4f70a4b62aa055e383381aa82",
+					"is_mac_native": false,
+					"save_folder": "{InstallDir}/Breathedge/Saved/SaveGames/",
+					"title": "Breathedge",
+					"canRunOffline": true,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/breathedge"
+				},
+				"size": "7.1 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1787933351568,
+			"endTime": 1787934173193,
+			"startTime": 1787933351629,
+			"status": "done"
 		}
 	],
 	"queue": []

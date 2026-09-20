@@ -137,7 +137,7 @@
         "5be88c20a859439baeb1667d06a3aed2": 1,
         "5daeb974a22a435988892319b3a4f476": 1,
         "7dcfb9cd9d134728b2646466c34c7b3b": 1,
-        "Fortnite": 12,
+        "Fortnite": 13,
         "Fortnite_Mac": 1,
         "Ginger": 1,
         "Lavender": 1,
@@ -298,23 +298,23 @@
       "webview_killswitch": false
     },
     "release_info": {
-      "critical": true,
+      "critical": false,
       "download_hashes": {
-        "linux": "3bb00928b0d7e7f9a94ae8fedf272d026d162cea9446738c442012a08695cb31",
-        "macos": "875e5977697d1fe1bc49ae5fe4a38d904bf62b01eead42f21538c68dc5e0409c",
-        "windows": "01ea22ea51749f46a0019657f64fc0d34429fb7cbf9b590c0848c0e0bd9c1f07"
+        "linux": "dbed33bbe96031e65858233e4badf0a1d401bb6cb0cc995d1237cf3a0c826a45",
+        "macos": "1278af67c1458f4cc9e20a463fc9b49f08cdd73d18a87e18826222cb43c13b06",
+        "windows": "6be77857dc0a6dd33ea7442ce8b5291944ec6da53757f81ca95b57ce794baf5b"
       },
       "downloads": {
-        "linux": "https://legendary.gl/release/download/0.20.34/legendary",
-        "macos": "https://legendary.gl/release/download/0.20.34/legendary_macOS.zip",
-        "windows": "https://legendary.gl/release/download/0.20.34/legendary.exe"
+        "linux": "https://legendary.gl/release/download/0.21.1/legendary_linux_x64",
+        "macos": "https://legendary.gl/release/download/0.21.1/legendary_macOS.zip",
+        "windows": "https://legendary.gl/release/download/0.21.1/legendary_windows_x64.exe"
       },
-      "gh_url": "https://legendary.gl/release/0.20.34",
-      "name": "Direct Intervention",
-      "summary": " [!] Fixed webview based login\n [*] Fixed a number of bugs and performance issues\n\nSee full changelog for additional details.",
-      "version": "0.20.34"
+      "gh_url": "https://legendary.gl/release/0.21.1",
+      "name": "Lowlife (hotfix)",
+      "summary": " [*] Wrapper exe support\n [*] Smaller Linux binaries\n [*] Support for launching third-party titles with umu\n [*] Support for symlinks for macOS games",
+      "version": "0.21.1"
     },
     "runtimes": []
   },
-  "last_update": 1785434758.1020613
+  "last_update": 1789882164.8997366
 }

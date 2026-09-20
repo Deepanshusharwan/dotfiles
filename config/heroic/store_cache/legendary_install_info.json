@@ -5,7 +5,9 @@
 		"Sugar": "Mon May 04 2026 01:03:15 GMT+0530 (India Standard Time)",
 		"0a2d9f6403244d12969e11da6713137b": "Wed May 13 2026 23:12:19 GMT+0530 (India Standard Time)",
 		"87be9bd6707748888bce1f79b025c5dd": "Sun May 17 2026 17:19:06 GMT+0530 (India Standard Time)",
-		"504bf18950934ee197b398f97f2b95f5": "Sun May 17 2026 17:54:03 GMT+0530 (India Standard Time)"
+		"504bf18950934ee197b398f97f2b95f5": "Sun May 17 2026 17:54:03 GMT+0530 (India Standard Time)",
+		"a3f73f8dcd81421eb2eacce130aa0ca7": "Fri Aug 28 2026 21:36:47 GMT+0530 (India Standard Time)",
+		"0a20ccd3f1b3464da750a4dbf8c80d7c": "Fri Aug 28 2026 21:38:13 GMT+0530 (India Standard Time)"
 	},
 	"Fortnite": {
 		"game": {
@@ -959,6 +961,90 @@
 			"num_chunks": 342,
 			"disk_size": 354871786,
 			"download_size": 155222807,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"use_signed_urls": false
+		}
+	},
+	"a3f73f8dcd81421eb2eacce130aa0ca7": {
+		"game": {
+			"app_name": "a3f73f8dcd81421eb2eacce130aa0ca7",
+			"title": "Targeted - 10 Days",
+			"version": "0.13",
+			"platform_versions": {
+				"Windows": "0.13"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 30377,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "a3f73f8dcd81421eb2eacce130aa0ca7",
+			"launch_exe": "Targeted.exe",
+			"launch_command": "",
+			"build_version": "0.13",
+			"build_id": "It4dvNI3P0WR8WTZy9hFgg",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 52,
+			"num_chunks": 417,
+			"disk_size": 434517870,
+			"download_size": 345127879,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"use_signed_urls": false
+		}
+	},
+	"0a20ccd3f1b3464da750a4dbf8c80d7c": {
+		"game": {
+			"app_name": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+			"title": "Breathedge",
+			"version": "1.0.1.1",
+			"platform_versions": {
+				"Windows": "1.0.1.1"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{InstallDir}/Breathedge/Saved/SaveGames/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 2138900,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "0a20ccd3f1b3464da750a4dbf8c80d7c",
+			"launch_exe": "Breathedge/Binaries/Win64/Breathedge-Win64-Shipping.exe",
+			"launch_command": "",
+			"build_version": "1.0.1.1",
+			"build_id": "AeQ6MJJI8HxTJZEfRq9eDPgdR_g",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 43621,
+			"num_chunks": 11286,
+			"disk_size": 11963473485,
+			"download_size": 7621051170,
 			"tag_disk_size": [],
 			"tag_download_size": [],
 			"use_signed_urls": false

@@ -5,7 +5,9 @@
 		"9773aa1aa54f4f7b80e44bef04986cea": "Mon May 04 2026 01:02:18 GMT+0530 (India Standard Time)",
 		"50118b7f954e450f8823df1614b24e80": "Wed May 13 2026 23:12:15 GMT+0530 (India Standard Time)",
 		"9a4a6536096c4307bfb235d811f754ce": "Sun May 17 2026 17:19:02 GMT+0530 (India Standard Time)",
-		"6f8addca2fba41539d30094249b6aa91": "Sun May 17 2026 17:53:59 GMT+0530 (India Standard Time)"
+		"6f8addca2fba41539d30094249b6aa91": "Sun May 17 2026 17:53:59 GMT+0530 (India Standard Time)",
+		"e02939ef2acc407bb4713ee52e63ea35": "Fri Aug 28 2026 21:36:43 GMT+0530 (India Standard Time)",
+		"08ae29e4f70a4b62aa055e383381aa82": "Fri Aug 28 2026 22:39:44 GMT+0530 (India Standard Time)"
 	},
 	"fn": {
 		"about": {
@@ -307,5 +309,106 @@
 			}
 		],
 		"storeUrl": "https://www.epicgames.com/store/product/hone-b51a2d"
+	},
+	"e02939ef2acc407bb4713ee52e63ea35": {
+		"about": {
+			"description": "Can you survive 10 Days in this anomaly-finding game? Stay vigilant, because YOU ARE THE TARGET!",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10",
+				"recommended": "Windows 11",
+				"title": "OS version"
+			},
+			{
+				"minimum": "i3-2100",
+				"recommended": "i3-2100",
+				"title": "CPU"
+			},
+			{
+				"minimum": "4GB RAM",
+				"recommended": "4GB RAM",
+				"title": "Memory"
+			},
+			{
+				"minimum": "Integrated VGA",
+				"recommended": "GTX 660",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 9",
+				"recommended": "DirectX 9",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "2 GB",
+				"recommended": "5 GB",
+				"title": "Storage"
+			},
+			{
+				"minimum": "Gamepad",
+				"recommended": null,
+				"title": "Additional input device"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/targeted-10-days-75a48c"
+	},
+	"08ae29e4f70a4b62aa055e383381aa82": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-breathedge-redruinssoftworks-s2-1200x1600-4eaebb08b8d1.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "RedRuins Softworks",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "HypeTrain Digital",
+			"description": "![Image 1](https://cdn2.unrealengine.com/egs-breathedge-redruinssoftworks-g2-00-1280x440-f140ae1dc4ed.jpg)\n\n# Welcome to Space\nA massive space hearse suffers a wreck in the deep space, leaving the area filled with debris, coffins, dead passengers and yourself. Survive in this interstellar dump, uncover a global conspiracy, save the princess and don’t break your fingers while tapping the keyboard as you travel around the world (keeping your display on for full immersion is advised).\n\n![Image 2](https://cdn2.unrealengine.com/egs-breathedge-redruinssoftworks-g2-01-1280x440-a54314f705c4.jpg)\n\n# Try to stay alive\n\nSpace isn’t a joke (despite us trying to prove otherwise) and not dying is a challenge. Lose your progress in spectacular ways, including but not limited to suffocation, freezing, incineration, electrocution, depression, blunt trauma, and more.\n\n![Image 3](https://cdn2.unrealengine.com/egs-breathedge-redruinssoftworks-g2-02-1280x440-a02531e8e157.jpg)\n\n# Litter space with garbage you created\n\nIt took a long time for our ancestors to develop because they had no electrical tape. You have it and you know how to use it. With this magical artifact, you can create a vast variety of useless objects and throw them out of the airlock! There are also many useful items to be created, but be careful as this may result in completing the game.\n\n![Image 4](https://cdn2.unrealengine.com/egs-breathedge-redruinssoftworks-g2-03-1280x440-73b984d50970.jpg)\n\n# Fix and Decorate\n\nWhen all your neighbors just hover around in vacuum doing nothing but playing dead, various tools and gears will help you become the worst noisy neighbor ever. Create a unique space station, provide it with oxygen and electricity, install all kinds of equipment from solar panels to a hamster farm, and turn it into a real bachelor pad by stuffing it with furniture mixed with all kinds of junk.",
+			"shortDescription": "Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.",
+			"title": "",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "7, 8, 10 (x64)",
+				"recommended": "7, 8, 10 (x64)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel core i3 (3rd generation)",
+				"recommended": "Intel core i5 (4th generation)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "8 GB",
+				"recommended": "8 GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "7 GB",
+				"recommended": "7 GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "10",
+				"recommended": "12"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "GeForce GTX 660",
+				"recommended": "GeForce GTX 1060"
+			}
+		],
+		"releaseDate": "2021-02-25T18:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/breathedge"
 	}
 }

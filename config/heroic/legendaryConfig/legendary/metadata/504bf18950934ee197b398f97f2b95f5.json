@@ -112,5 +112,10 @@
     "title": "Hone",
     "unsearchable": false
   },
-  "sidecar": null
+  "sidecar": {
+    "config": {
+      "deploymentId": "55804d6709ef44468f48e0adc80b1b8e"
+    },
+    "rev": 1
+  }
 }

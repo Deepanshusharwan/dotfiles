@@ -1,0 +1,37 @@
+{
+  "0a20ccd3f1b3464da750a4dbf8c80d7c": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFsync": true,
+    "enableWineWayland": false,
+    "enableHDR": false,
+    "enableWoW64": false,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "savesPath": "/home/deepanshu/Games/Heroic/Breathedge/Breathedge/Saved/SaveGames",
+    "showFps": false,
+    "useGameMode": false,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "verboseLogs": true,
+    "advertiseAvxForRosetta": false,
+    "enableQuickSavesMenu": false,
+    "wineVersion": {
+      "bin": "/home/deepanshu/.config/heroic/tools/proton/GE-Proton-latest/proton",
+      "name": "GE-Proton-latest",
+      "type": "proton"
+    },
+    "winePrefix": "/home/deepanshu/Games/Heroic/Prefixes/default/Breathedge",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}
