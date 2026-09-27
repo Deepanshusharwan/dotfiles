@@ -38,8 +38,8 @@
 <item oor:path="/org.openoffice.Office.Common/I18N/CTL"><prop oor:name="PreferCTLFontTab" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/Misc/FilePickerLastDirectory"><node oor:name="WriterSaveAs" oor:op="replace"><prop oor:name="LastPath" oor:op="fuse"><value>file:///home/deepanshu/Documents</value></prop></node></item>
 <item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="FirstRun" oor:op="fuse"><value>false</value></prop></item>
-<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="LastTipOfTheDayID" oor:op="fuse"><value>40</value></prop></item>
-<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="LastTipOfTheDayShown" oor:op="fuse"><value>20706</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="LastTipOfTheDayID" oor:op="fuse"><value>41</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="LastTipOfTheDayShown" oor:op="fuse"><value>20717</value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="ShowTipOfTheDay" oor:op="fuse"><value>true</value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="UseOpenCL" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/PackageKit"><prop oor:name="EnableFontInstallation" oor:op="fuse"><value>false</value></prop></item>
@@ -546,7 +546,6 @@
 <item oor:path="/org.openoffice.Office.Logging/Settings"><node oor:name="unopkg" oor:op="replace"><prop oor:name="LogLevel" oor:op="fuse"><value>2147483647</value></prop><prop oor:name="DefaultHandler" oor:op="fuse"><value>com.sun.star.logging.FileHandler</value></prop><node oor:name="HandlerSettings"><prop oor:name="FileURL" oor:op="fuse"><value>$(userurl)/$(loggername).log</value></prop></node><prop oor:name="DefaultFormatter" oor:op="fuse"><value>com.sun.star.logging.PlainTextFormatter</value></prop><node oor:name="FormatterSettings"></node></node></item>
 <item oor:path="/org.openoffice.Office.Recovery/RecoveryInfo"><prop oor:name="Crashed" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Office.Recovery/RecoveryInfo"><prop oor:name="SessionData" oor:op="fuse"><value>false</value></prop></item>
-<item oor:path="/org.openoffice.Office.Recovery/RecoveryList"><node oor:name="recovery_item_1" oor:op="remove"/></item>
 <item oor:path="/org.openoffice.Office.UI/ColorScheme"><prop oor:name="CurrentColorScheme" oor:op="fuse"><value>COLOR_SCHEME_LIBREOFFICE_DARK</value></prop></item>
 <item oor:path="/org.openoffice.Office.UI.CalcWindowState/UIElements/States/org.openoffice.Office.UI.WindowState:WindowStateType['private:resource/toolbar/addon_org.languagetool.openoffice.Main.toolbar']"><prop oor:name="ContextActive" oor:op="fuse"><value>true</value></prop></item>
 <item oor:path="/org.openoffice.Office.UI.CalcWindowState/UIElements/States/org.openoffice.Office.UI.WindowState:WindowStateType['private:resource/toolbar/addon_org.languagetool.openoffice.Main.toolbar']"><prop oor:name="ContextSensitive" oor:op="fuse"><value>false</value></prop></item>
@@ -766,7 +765,7 @@
 <item oor:path="/org.openoffice.Setup/L10N"><prop oor:name="ooLocale" oor:op="fuse"><value>en-US</value></prop></item>
 <item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.formula.FormulaProperties']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>0,0,1271,1405;5;0,0,1271,1405;</value></prop></item>
 <item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.frame.StartModule']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>0,0,1271,1405;5;0,0,1271,1405;</value></prop></item>
-<item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.sheet.SpreadsheetDocument']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>0,0,855,937;5;0,0,1723,937;</value></prop></item>
+<item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.sheet.SpreadsheetDocument']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>0,0,855,462;1;,,,;</value></prop></item>
 <item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.text.TextDocument']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>0,0,1723,937;5;0,0,855,937;</value></prop></item>
 <item oor:path="/org.openoffice.Setup/Office"><prop oor:name="LastCompatibilityCheckID" oor:op="fuse"><value>620(Build:2)</value></prop></item>
 <item oor:path="/org.openoffice.Setup/Office"><prop oor:name="OfficeRestartInProgress" oor:op="fuse"><value>false</value></prop></item>
